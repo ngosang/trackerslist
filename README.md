@@ -1,12 +1,12 @@
 # trackerslist
 An updated list of public BitTorrent trackers
-##### Updated 2016-04-24 21:25:17
-*These lists are automatically updated each week:*
+##### Updated 2016-04-24 22:08:24
+*These lists are automatically updated each day:*
 
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
 * trackers_all (67 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
 
-Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains.
+Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
 * trackers_all_ip (67 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
 

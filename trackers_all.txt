@@ -1,5 +1,9 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
+http://tracker.opentrackr.org:1337/announce
+
 udp://tracker.piratepublic.com:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -8,21 +12,17 @@ udp://tracker.aletorrenty.pl:2710/announce
 
 http://tracker.aletorrenty.pl:2710/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-udp://tracker.opentrackr.org:1337/announce
-
 udp://9.rarbg.com:2710/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-http://tracker.bittorrent.am/announce
+http://tracker.bittorrent.am:80/announce
 
 udp://tracker.sktorrent.net:6969/announce
 
 udp://zer0day.ch:1337/announce
 
-http://tracker.tfile.me/announce
+http://tracker.tfile.me:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -34,9 +34,9 @@ http://torrent.gresille.org:80/announce
 
 http://tracker.baravik.org:6970/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.mg64.net:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -60,15 +60,17 @@ http://tracker.skyts.net:6969/announce
 
 http://bt.henbt.com:2710/announce
 
-http://tracker.dutchtracking.com:80/announce
-
 udp://tracker.kicks-ass.net:80/announce
 
 http://tracker.kicks-ass.net:80/announce
 
+http://tracker.dutchtracking.com:80/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 http://tracker.tiny-vps.com:6969/announce
+
+udp://berylliumsurfer.tk:6969/announce
 
 http://retracker.krs-ix.ru:80/announce
 
@@ -76,9 +78,7 @@ udp://91.218.230.81:6969/announce
 
 http://91.218.230.81:6969/announce
 
-udp://berylliumsurfer.tk:6969/announce
-
-udp://tracker.bittor.pw:1337
+udp://tracker.bittor.pw:1337/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -86,39 +86,39 @@ udp://bt.xxx-tracker.com:2710/announce
 
 http://bt.pusacg.org:8080/announce
 
-udp://tracker.tricitytorrents.com:2710/announce
-
-http://tracker.tricitytorrents.com:2710/announce
-
 http://tracker2.wasabii.com.tw:6969/announce
-
-http://ulfbrueggemann.no-ip.org:6969/announce
-
-udp://tracker.edoardocolombo.eu:6969/announce
-
-http://tracker.edoardocolombo.eu:6969/announce
 
 udp://tracker.filetracker.pl:8089/announce
 
 http://tracker.filetracker.pl:8089/announce
 
+udp://tracker.edoardocolombo.eu:6969/announce
+
+http://tracker.edoardocolombo.eu:6969/announce
+
+udp://tracker.tricitytorrents.com:2710/announce
+
+http://tracker.tricitytorrents.com:2710/announce
+
+http://ulfbrueggemann.no-ip.org:6969/announce
+
 http://tracker1.itzmx.com:8080/announce
-
-udp://tracker.flashtorrents.org:6969/announce
-
-http://tracker.flashtorrents.org:6969/announce
-
-http://tracker.grepler.com:6969/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.grepler.com:6969/announce
 
+http://tracker.grepler.com:6969/announce
+
 udp://tracker2.indowebster.com:6969/announce
 
-http://torrentsmd.com:8080/announce
+udp://tracker.flashtorrents.org:6969/announce
+
+http://tracker.flashtorrents.org:6969/announce
 
 udp://open.stealth.si:80/announce
+
+http://torrentsmd.com:8080/announce
 
 http://bt2.careland.com.cn:6969/announce
 
@@ -126,9 +126,9 @@ http://tracker.torrenty.org:6969/announce
 
 http://www.mvgroup.org:2710/announce
 
-http://tracker.trackerfix.com/announce
+http://tracker.trackerfix.com:80/announce
 
-http://bt-club.ws/announce.php
+http://bt-club.ws:80/announce.php
 
-http://open.touki.ru/announce.php
+http://open.touki.ru:80/announce.php
 
