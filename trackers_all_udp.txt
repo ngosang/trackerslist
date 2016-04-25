@@ -8,6 +8,8 @@ udp://tracker.leechers-paradise.org:6969/announce
 
 udp://9.rarbg.com:2710/announce
 
+udp://zer0day.ch:1337/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.sktorrent.net:6969/announce
@@ -28,9 +30,9 @@ udp://tracker.ex.ua:80/announce
 
 udp://91.218.230.81:6969/announce
 
-udp://mgtracker.org:2710/announce
-
 udp://tracker.mg64.net:6969/announce
+
+udp://mgtracker.org:2710/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -38,9 +40,9 @@ udp://182.176.139.129:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.flashtorrents.org:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.edoardocolombo.eu:6969/announce
 
@@ -48,9 +50,9 @@ udp://tracker.tricitytorrents.com:2710/announce
 
 udp://tracker.filetracker.pl:8089/announce
 
-udp://tracker.grepler.com:6969/announce
-
 udp://bt.xxx-tracker.com:2710/announce
+
+udp://tracker.grepler.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
