@@ -4,15 +4,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://explodie.org:6969/announce
-
 udp://explodie.org:6969/announce
+
+http://explodie.org:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://9.rarbg.com:2710/announce
-
-udp://zer0day.ch:1337/announce
 
 http://tracker.bittorrent.am:80/announce
 
@@ -22,15 +20,15 @@ http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker.trackerfix.com:80/announce
 
-http://p4p.arenabg.com:1337/announce
-
 udp://p4p.arenabg.com:1337/announce
+
+http://p4p.arenabg.com:1337/announce
 
 udp://tracker.sktorrent.net:6969/announce
 
-udp://tracker.aletorrenty.pl:2710/announce
-
 http://tracker.aletorrenty.pl:2710/announce
+
+udp://tracker.aletorrenty.pl:2710/announce
 
 udp://tracker.piratepublic.com:1337/announce
 
@@ -42,21 +40,17 @@ udp://torrent.gresille.org:80/announce
 
 http://tracker.dutchtracking.nl:80/announce
 
-udp://tracker.skyts.net:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
-http://tracker.kicks-ass.net:80/announce
+udp://tracker.skyts.net:6969/announce
 
 udp://tracker.kicks-ass.net:80/announce
+
+http://tracker.kicks-ass.net:80/announce
 
 udp://tracker.yoshi210.com:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
-
-http://mgtracker.org:6969/announce
-
-udp://mgtracker.org:2710/announce
 
 http://bt.henbt.com:2710/announce
 
@@ -67,6 +61,10 @@ udp://tracker.ex.ua:80/announce
 http://91.218.230.81:6969/announce
 
 udp://91.218.230.81:6969/announce
+
+udp://mgtracker.org:2710/announce
+
+http://mgtracker.org:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -96,27 +94,27 @@ http://tracker.edoardocolombo.eu:6969/announce
 
 udp://tracker.edoardocolombo.eu:6969/announce
 
-udp://tracker.filetracker.pl:8089/announce
-
-http://tracker.filetracker.pl:8089/announce
+http://tracker.calculate.ru:6969/announce
 
 http://tracker.tricitytorrents.com:2710/announce
 
 udp://tracker.tricitytorrents.com:2710/announce
 
-http://tracker.calculate.ru:6969/announce
+udp://tracker.filetracker.pl:8089/announce
+
+http://tracker.filetracker.pl:8089/announce
 
 http://bt.pusacg.org:8080/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
 http://ulfbrueggemann.no-ip.org:6969/announce
 
-udp://tracker.grepler.com:6969/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.grepler.com:6969/announce
+
+udp://tracker.grepler.com:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
@@ -124,9 +122,9 @@ http://open.acgtracker.com:1096/announce
 
 udp://open.stealth.si:80/announce
 
-udp://208.67.16.113:8000/annonuce
-
 http://torrentsmd.com:8080/announce
+
+udp://208.67.16.113:8000/annonuce
 
 udp://tracker2.indowebster.com:6969/announce
 

@@ -26,13 +26,13 @@ http://tracker.kicks-ass.net:80/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://mgtracker.org:6969/announce
-
 http://bt.henbt.com:2710/announce
 
 http://tracker.ex.ua:80/announce
 
 http://91.218.230.81:6969/announce
+
+http://mgtracker.org:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -48,19 +48,19 @@ http://tracker.flashtorrents.org:6969/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
-http://tracker.filetracker.pl:8089/announce
+http://tracker.calculate.ru:6969/announce
 
 http://tracker.tricitytorrents.com:2710/announce
 
-http://tracker.calculate.ru:6969/announce
+http://tracker.filetracker.pl:8089/announce
 
 http://bt.pusacg.org:8080/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
 http://ulfbrueggemann.no-ip.org:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.grepler.com:6969/announce
 
