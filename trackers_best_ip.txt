@@ -1,8 +1,8 @@
 udp://62.138.0.158:6969/announce
 
-udp://213.163.67.56:1337/announce
-
 http://213.163.67.56:1337/announce
+
+udp://213.163.67.56:1337/announce
 
 http://74.82.52.209:6969/announce
 
@@ -12,11 +12,11 @@ udp://94.23.183.33:6969/announce
 
 udp://151.80.120.114:2710/announce
 
-udp://178.162.222.231:1337/announce
-
 http://5.39.105.100:80/announce
 
 http://85.17.19.180:80/announce
+
+udp://178.162.222.231:1337/announce
 
 http://210.244.71.25:6969/announce
 
