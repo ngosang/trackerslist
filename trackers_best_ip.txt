@@ -18,9 +18,9 @@ http://5.39.105.100:80/announce
 
 http://85.17.19.180:80/announce
 
-http://213.159.215.198:6970/announce
-
 http://210.244.71.25:6969/announce
+
+http://213.159.215.198:6970/announce
 
 http://109.121.134.121:1337/announce
 
