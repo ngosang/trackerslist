@@ -1,14 +1,14 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://zer0day.ch:1337/announce
 
-udp://explodie.org:6969/announce
-
 http://explodie.org:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
@@ -34,7 +34,7 @@ udp://tracker.piratepublic.com:1337/announce
 
 http://tracker.tfile.me/announce
 
-udp://torrent.gresille.org:80/announce
-
 http://torrent.gresille.org/announce
+
+udp://torrent.gresille.org:80/announce
 
