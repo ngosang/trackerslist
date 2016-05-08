@@ -34,7 +34,7 @@ http://109.121.134.121:1337/announce
 
 http://178.175.143.27/announce
 
-udp://91.216.110.47:80/announce
+udp://89.234.156.205:80/announce
 
-http://91.216.110.47/announce
+http://89.234.156.205/announce
 
