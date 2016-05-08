@@ -1,15 +1,13 @@
 http://bt-club.ws/announce # error
 http://ulfbrueggemann.no-ip.org:6969/announce # not verified
-http://tracker.torrenty.org:6969/announce # registered torrents
+http://tracker.zaerc.com/announce # not verified
 http://tracker.trackerfix.com/announce # registered torrents
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://tracker.tricitytorrents.com:2710/announce # registered torrents
-http://www.mvgroup.org:2710/announce # registered torrents
-http://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
-udp://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
 http://datascene.net/announce.php # registered torrents
 http://deviloid.net:6969/announce # registered torrents
 http://elitezones.ro/announce.php # registered torrents
+http://www.elitezones.ro/announce.php # registered torrents
 http://funfile.org:2710/announce # registered torrents
 http://potuk.com:2710/announce # registered torrents
 http://tehconnection.eu:2790/announce # registered torrents
@@ -20,7 +18,6 @@ http://tracker.pussytorrents.org:3000/announce # registered torrents
 http://tracker.torrentleech.org:2710/announce # registered torrents
 http://www.bit-hdtv.com:2710/announce # registered torrents
 http://www.blackcats-games.net:2228/announce # registered torrents
-http://www.elitezones.ro/announce.php # registered torrents
 http://bt.hliang.com:2710/announce # registered torrents
 http://bt.zlofenix.org:81/announce # registered torrents
 http://hdreactor.org:2710/announce # registered torrents
@@ -84,7 +81,6 @@ http://tracker.tambovnet.org/announce.php # registered torrents
 http://uatracker.net/announce.php # registered torrents
 http://www.siambt.com/announce.php # registered torrents
 http://www.worldboxingvideoarchive.com/announce.php # registered torrents
-udp://tracker.ilibr.org:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 http://p4p.arenabg.ch:1337/announce # duplicate of http://p4p.arenabg.com:1337/announce
 udp://p4p.arenabg.ch:1337/announce # duplicate of udp://p4p.arenabg.com:1337/announce
 http://open.tracker.skyts.net:6969/announce # duplicate of http://tracker.skyts.net:6969/announce
@@ -125,4 +121,3 @@ http://zaerc.com/announce # duplicate of http://tracker.zaerc.com/announce
 http://henbt.com:2710/announce # duplicate of http://bt.henbt.com:2710/announce
 http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker2.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce # duplicate of http://tracker2.itzmx.com:6961/announce
-http://www.elitezones.ro/announce.php # duplicate of http://elitezones.ro/announce.php
