@@ -3,6 +3,10 @@ http://ulfbrueggemann.no-ip.org:6969/announce # not verified
 http://tracker.zaerc.com/announce # not verified
 http://tracker.files.fm:6969/announce # malfunction
 http://open.touki.ru/announce.php # malfunction
+http://open.touki.ru/announce # malfunction
+http://carbon-bonsai-621.appspot.com/announce # malfunction
+https://carbon-bonsai-621.appspot.com/announce # malfunction
+https://academic-p2p.appspot.com/announce # malfunction
 http://tracker.trackerfix.com/announce # registered torrents
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://tracker.tricitytorrents.com:2710/announce # registered torrents
@@ -123,3 +127,5 @@ http://zaerc.com/announce # duplicate of http://tracker.zaerc.com/announce
 http://henbt.com:2710/announce # duplicate of http://bt.henbt.com:2710/announce
 http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker2.itzmx.com:6961/announce
 http://tracker4.itzmx.com:2710/announce # duplicate of http://tracker2.itzmx.com:6961/announce
+http://tracker.tfile.me/announce.php # duplicate of http://tracker.tfile.me/announce
+http://tracker.kicks-ass.net/announce.php # duplicate of http://tracker.kicks-ass.net/announce
