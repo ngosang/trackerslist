@@ -87,6 +87,13 @@ http://tracker.tambovnet.org/announce.php # registered torrents
 http://uatracker.net/announce.php # registered torrents
 http://www.siambt.com/announce.php # registered torrents
 http://www.worldboxingvideoarchive.com/announce.php # registered torrents
+http://bt.edwardk.info:2710/announce # registered torrents
+http://bt.edwardk.info:4040/announce # registered torrents
+http://bt.edwardk.info:6969/announce # registered torrents
+http://bt2.edwardk.info:2710/announce # registered torrents
+http://bt2.edwardk.info:4040/announce # registered torrents
+http://bt2.edwardk.info:6969/announce # registered torrents
+http://open.nyaatorrents.info:6544/announce # registered torrents
 http://p4p.arenabg.ch:1337/announce # duplicate of http://p4p.arenabg.com:1337/announce
 udp://p4p.arenabg.ch:1337/announce # duplicate of udp://p4p.arenabg.com:1337/announce
 http://open.tracker.skyts.net:6969/announce # duplicate of http://tracker.skyts.net:6969/announce
