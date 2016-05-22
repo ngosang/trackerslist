@@ -20,19 +20,23 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://torrent.gresille.org:80/announce
 
+udp://tracker.kicks-ass.net:80/announce
+
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.mg64.net:6969/announce
 
 udp://91.218.230.81:6969/announce
 
-udp://tracker.kicks-ass.net:80/announce
+udp://tracker.ex.ua:80/announce
 
 udp://mgtracker.org:2710/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.yoshi210.com:6969/announce
 
-udp://tracker.mg64.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.flashtorrents.org:6969/announce
 
@@ -48,13 +52,11 @@ udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.grepler.com:6969/announce
 
-udp://tracker.ex.ua:80/announce
+udp://open.stealth.si:80/announce
+
+udp://208.67.16.113:8000/announce
 
 udp://tracker2.indowebster.com:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://bt.xxx-tracker.com:2710/announce
-
-udp://208.67.16.113:8000/announce
 
