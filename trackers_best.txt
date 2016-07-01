@@ -1,12 +1,10 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
-udp://zer0day.ch:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
-http://explodie.org:6969/announce
+udp://zer0day.ch:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
@@ -14,9 +12,11 @@ udp://explodie.org:6969/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://tracker.sktorrent.net:6969/announce
+http://explodie.org:6969/announce
 
 http://tracker.aletorrenty.pl:2710/announce
+
+udp://tracker.sktorrent.net:6969/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
 
@@ -32,9 +32,9 @@ udp://torrent.gresille.org:80/announce
 
 http://torrent.gresille.org/announce
 
-http://tracker.internetwarriors.net:1337/announce
+udp://tracker.kicks-ass.net:80/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+http://tracker.kicks-ass.net/announce
 
-udp://91.218.230.81:6969/announce
+http://tracker.bittorrent.am/announce
 
