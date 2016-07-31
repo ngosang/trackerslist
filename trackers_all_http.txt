@@ -6,47 +6,49 @@ http://p4p.arenabg.com:1337/announce
 
 http://tracker.aletorrenty.pl:2710/announce
 
-http://tracker.kicks-ass.net/announce
-
 http://tracker.bittorrent.am/announce
 
-http://tracker1.wasabii.com.tw:6969/announce
+http://tracker.kicks-ass.net/announce
 
 http://tracker.baravik.org:6970/announce
+
+http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker.tfile.me/announce
 
 http://torrent.gresille.org/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.dutchtracking.nl/announce
 
-http://www.wareztorrent.com/announce
+http://tracker.internetwarriors.net:1337/announce
 
-http://tracker2.wasabii.com.tw:6969/announce
+http://91.218.230.81:6969/announce
+
+http://mgtracker.org:6969/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.tiny-vps.com:6969/announce
-
-http://tracker.skyts.net:6969/announce
+http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.mg64.net:6881/announce
 
 http://tracker.ex.ua/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://torrentsmd.com:8080/announce
 
 http://retracker.gorcomnet.ru/announce
 
-http://mgtracker.org:6969/announce
-
-http://91.218.230.81:6969/announce
-
 http://87.248.186.252:8080/announce
 
-http://tracker.tvunderground.org.ru:3218/announce
+http://www.wareztorrent.com/announce
+
+http://tracker2.wasabii.com.tw:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.grepler.com:6969/announce
 
@@ -54,21 +56,19 @@ http://tracker.flashtorrents.org:6969/announce
 
 http://tracker.filetracker.pl:8089/announce
 
-http://tracker.bittor.pw:1337/announce
-
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker.dler.org:6969/announce
-
 http://retracker.krs-ix.ru/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://182.176.139.129:6969/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker.dler.org:6969/announce
+
 http://bt2.careland.com.cn:6969/announce
 
 http://bt.pusacg.org:8080/announce
-
-http://182.176.139.129:6969/announce
 
 http://0123456789nonexistent.com/announce
 
