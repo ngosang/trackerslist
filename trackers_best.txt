@@ -8,19 +8,19 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-http://explodie.org:6969/announce
-
 udp://explodie.org:6969/announce
+
+http://explodie.org:6969/announce
 
 udp://9.rarbg.com:2710/announce
 
 http://p4p.arenabg.com:1337/announce
 
-udp://tracker.aletorrenty.pl:2710/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 http://tracker.aletorrenty.pl:2710/announce
+
+udp://tracker.aletorrenty.pl:2710/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
@@ -36,5 +36,5 @@ udp://tracker.internetwarriors.net:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.yoshi210.com:6969/announce
+http://tracker.filetracker.pl:8089/announce
 
