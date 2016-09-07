@@ -18,23 +18,23 @@ http://109.121.134.121:1337/announce
 
 udp://109.121.134.121:1337/announce
 
-http://178.33.73.26:2710/announce
-
 udp://178.33.73.26:2710/announce
 
-http://213.159.215.198:6970/announce
+http://178.33.73.26:2710/announce
 
 http://210.244.71.25:6969/announce
 
-http://178.175.143.27/announce
+http://213.159.215.198:6970/announce
 
-udp://89.234.156.205:80/announce
-
-http://91.216.110.47/announce
+http://178.175.143.30/announce
 
 udp://195.123.209.37:1337/announce
 
 http://195.123.209.37:1337/announce
 
 udp://194.106.216.222:80/announce
+
+http://210.244.71.26:6969/announce
+
+http://5.79.237.251:6969/announce
 
