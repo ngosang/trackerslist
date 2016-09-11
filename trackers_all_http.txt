@@ -14,25 +14,11 @@ http://tracker.tfile.me/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://tracker.dutchtracking.nl/announce
-
-http://www.wareztorrent.com/announce
-
 http://tracker2.wasabii.com.tw:6969/announce
-
-http://tracker.tiny-vps.com:6969/announce
-
-http://tracker.filetracker.pl:8089/announce
 
 http://tracker.ex.ua/announce
 
-http://mgtracker.org:6969/announce
-
-http://182.176.139.129:6969/announce
-
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker.yoshi210.com:6969/announce
+http://tracker.dutchtracking.nl/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -41,6 +27,18 @@ http://tracker.mg64.net:6881/announce
 http://tracker.grepler.com:6969/announce
 
 http://tracker.flashtorrents.org:6969/announce
+
+http://www.wareztorrent.com/announce
+
+http://91.218.230.81:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker.yoshi210.com:6969/announce
+
+http://tracker.tiny-vps.com:6969/announce
+
+http://tracker.filetracker.pl:8089/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
@@ -52,11 +50,13 @@ http://retracker.gorcomnet.ru/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://mgtracker.org:6969/announce
+
 http://ipv4.tracker.harry.lu:80/announce
 
-http://91.218.230.81:6969/announce
-
 http://87.248.186.252:8080/announce
+
+http://182.176.139.129:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
