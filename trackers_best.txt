@@ -1,8 +1,8 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 udp://tracker.opentrackr.org:1337/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
@@ -18,6 +18,8 @@ http://p4p.arenabg.com:1337/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
 
+http://tracker.aletorrenty.pl:2710/announce
+
 http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker.baravik.org:6970/announce
@@ -28,13 +30,11 @@ udp://tracker.internetwarriors.net:1337/announce
 
 http://tracker.dutchtracking.nl/announce
 
-udp://tracker.ex.ua:80/announce
-
-http://tracker.ex.ua/announce
-
 http://tracker.acg.gg:2710/announce
 
-http://91.218.230.81:6969/announce
-
 udp://tracker.zer0day.to:1337/announce
+
+udp://tracker.yoshi210.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
