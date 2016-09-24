@@ -28,13 +28,13 @@ http://tracker.tfile.me/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-http://tracker.dutchtracking.nl/announce
-
-http://tracker.acg.gg:2710/announce
-
-udp://tracker.zer0day.to:1337/announce
-
 udp://tracker.yoshi210.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.ex.ua:80/announce
+
+http://tracker2.wasabii.com.tw:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
+
+udp://tracker.zer0day.to:1337/announce
 
