@@ -1,8 +1,8 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
@@ -12,29 +12,29 @@ udp://explodie.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+http://tracker.aletorrenty.pl:2710/announce
+
 http://p4p.arenabg.com:1337/announce
 
 udp://tracker.aletorrenty.pl:2710/announce
 
-http://tracker.aletorrenty.pl:2710/announce
+http://tracker.baravik.org:6970/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
-http://tracker.baravik.org:6970/announce
-
 http://tracker.tfile.me/announce
+
+udp://tracker.ex.ua:80/announce
+
+http://tracker.ex.ua/announce
 
 udp://tracker.zer0day.to:1337/announce
 
 udp://mgtracker.org:2710/announce
 
-http://tracker.dutchtracking.nl/announce
+https://www.wareztorrent.com/announce
 
-http://mgtracker.org:6969/announce
-
-udp://tracker.ex.ua:80/announce
+http://www.wareztorrent.com/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
-
-http://tracker.grepler.com:6969/announce
 
