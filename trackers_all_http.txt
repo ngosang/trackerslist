@@ -10,11 +10,11 @@ http://tracker.baravik.org:6970/announce
 
 http://tracker.tfile.me/announce
 
-http://mgtracker.org:6969/announce
-
 http://www.wareztorrent.com/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.yoshi210.com:6969/announce
 
@@ -36,6 +36,8 @@ http://tracker.edoardocolombo.eu:6969/announce
 
 http://tracker.dutchtracking.nl/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.bittor.pw:1337/announce
 
 http://retracker.krs-ix.ru/announce
@@ -43,6 +45,8 @@ http://retracker.krs-ix.ru/announce
 http://retracker.gorcomnet.ru/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://mgtracker.org:6969/announce
 
 http://ipv4.tracker.harry.lu:80/announce
 
