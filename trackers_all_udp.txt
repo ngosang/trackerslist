@@ -6,19 +6,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.zer0day.to:1337/announce
 
-udp://explodie.org:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://mgtracker.org:2710/announce
 
-udp://tracker.yoshi210.com:6969/announce
+udp://tracker.mg64.net:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
+udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -28,23 +26,23 @@ udp://tracker.grepler.com:6969/announce
 
 udp://91.218.230.81:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.tordb.ml:6881/announce
-
-udp://tracker.skyts.net:6969/announce
-
 udp://tracker.filetracker.pl:8089/announce
 
 udp://tracker.ex.ua:80/announce
 
-udp://tracker.edoardocolombo.eu:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
+
+udp://zephir.monocul.us:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.tordb.ml:6881/announce
 
 udp://tracker.kuroy.me:5944/announce
 
-udp://tracker.desu.sh:6969/announce
+udp://tracker.edoardocolombo.eu:6969/announce
 
-udp://zephir.monocul.us:6969/announce
+udp://tracker.desu.sh:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
