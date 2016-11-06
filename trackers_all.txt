@@ -8,21 +8,23 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://p4p.arenabg.com:1337/announce
-
-udp://explodie.org:6969/announce
-
 http://p4p.arenabg.com:1337/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 http://explodie.org:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://mgtracker.org:2710/announce
+
+http://mgtracker.org:6969/announce
+
+udp://tracker.mg64.net:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -32,21 +34,21 @@ http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://mgtracker.org:6969/announce
-
 http://87.248.186.252:8080/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
-
-http://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.yoshi210.com:6969/announce
 
+udp://tracker.grepler.com:6969/announce
+
+http://tracker.yoshi210.com:6969/announce
+
+http://tracker.grepler.com:6969/announce
+
+http://tracker.baravik.org:6970/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.piratepublic.com:1337/announce
-
-udp://tracker.grepler.com:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://91.218.230.81:6969/announce
 
@@ -54,27 +56,7 @@ https://www.wareztorrent.com/announce
 
 http://www.wareztorrent.com/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker.tiny-vps.com:6969/announce
-
-http://tracker.grepler.com:6969/announce
-
-http://tracker.baravik.org:6970/announce
-
-http://91.218.230.81:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.tordb.ml:6881/announce
-
-udp://tracker.filetracker.pl:8089/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.tordb.ml:6881/announce
-
-http://tracker.filetracker.pl:8089/announce
 
 http://tracker.dutchtracking.nl/announce
 
@@ -84,29 +66,49 @@ http://retracker.gorcomnet.ru/announce
 
 http://open.acgtracker.com:1096/announce
 
-udp://tracker.kuroy.me:5944/announce
+http://ipv4.tracker.harry.lu:80/announce
+
+http://91.218.230.81:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.tordb.ml:6881/announce
+
+udp://tracker.piratepublic.com:1337/announce
+
+udp://tracker.filetracker.pl:8089/announce
 
 udp://tracker.edoardocolombo.eu:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker.kuroy.me:5944/announce
+http://tracker.vanitycore.co:6969/announce
+
+http://tracker.tordb.ml:6881/announce
+
+http://tracker.filetracker.pl:8089/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
+udp://tracker.kuroy.me:5944/announce
+
 http://0123456789nonexistent.com/announce
 
-udp://tracker.desu.sh:6969/announce
-
 udp://zephir.monocul.us:6969/announce
+
+udp://tracker.desu.sh:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
 udp://208.67.16.113:8000/announce
 
-http://torrentsmd.com:8080/announce
+http://tracker.kuroy.me:5944/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.tfile.me/announce
+
+http://torrentsmd.com:8080/announce
 
 http://open.lolicon.eu:7777/announce
 
