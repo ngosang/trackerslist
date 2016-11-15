@@ -10,13 +10,13 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://explodie.org:6969/announce
-
-http://explodie.org:6969/announce
-
 http://p4p.arenabg.com:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
+
+http://explodie.org:6969/announce
+
+udp://explodie.org:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -24,17 +24,17 @@ udp://tracker.mg64.net:6969/announce
 
 udp://mgtracker.org:2710/announce
 
-http://tracker1.wasabii.com.tw:6969/announce
-
 http://tracker.mg64.net:6881/announce
-
-udp://tracker.skyts.net:6969/announce
-
-http://tracker2.wasabii.com.tw:6969/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://mgtracker.org:6969/announce
 
 udp://tracker.yoshi210.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.tordb.ml:6881/announce
+
+udp://tracker.piratepublic.com:1337/announce
 
