@@ -14,19 +14,19 @@ http://tracker2.wasabii.com.tw:6969/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
-http://tracker.baravik.org:6970/announce
-
-http://torrentsmd.com:8080/announce
-
-http://87.248.186.252:8080/announce
-
-http://www.wareztorrent.com/announce
-
 http://tracker.yoshi210.com:6969/announce
 
 http://tracker.tiny-vps.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
+
+http://tracker.baravik.org:6970/announce
+
+http://87.248.186.252:8080/announce
+
+http://tracker.vanitycore.co:6969/announce
+
+http://tracker.tordb.ml:6881/announce
 
 http://tracker.grepler.com:6969/announce
 
@@ -34,13 +34,9 @@ http://tracker.filetracker.pl:8089/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
-http://retracker.krs-ix.ru/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.tordb.ml:6881/announce
-
 http://tracker.dutchtracking.nl/announce
+
+http://retracker.krs-ix.ru/announce
 
 http://retracker.gorcomnet.ru/announce
 
@@ -50,6 +46,8 @@ http://ipv4.tracker.harry.lu:80/announce
 
 http://91.218.230.81:6969/announce
 
+http://www.wareztorrent.com/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.dler.org:6969/announce
@@ -57,6 +55,8 @@ http://tracker.dler.org:6969/announce
 http://0123456789nonexistent.com/announce
 
 http://tracker.tfile.me/announce
+
+http://torrentsmd.com:8080/announce
 
 http://open.lolicon.eu:7777/announce
 
