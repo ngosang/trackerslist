@@ -20,21 +20,21 @@ http://188.126.79.117:80/announce
 
 udp://185.50.198.188:1337/announce
 
-udp://92.241.171.245:2710/announce
-
-http://37.19.5.155:6881/announce
-
-http://92.241.171.245:6969/announce
-
-udp://163.172.157.130:80/announce
-
-udp://92.241.171.245:6969/announce
-
-http://210.244.71.25:6969/announce
-
-http://210.244.71.26:6969/announce
+http://61.216.166.151:6969/announce
 
 http://163.172.157.130:80/announce
 
-udp://141.101.225.193:6969/announce
+udp://163.172.157.130:80/announce
+
+udp://37.19.5.155:6969/announce
+
+udp://5.79.83.193:2710/announce
+
+http://77.91.229.218:6881/announce
+
+http://37.19.5.139:6969/announce
+
+http://210.244.71.25:6969/announce
+
+http://104.28.1.30:8080/announce
 
