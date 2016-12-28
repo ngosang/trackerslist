@@ -1,96 +1,98 @@
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.zer0day.to:1337/announce
+udp://tracker.coppersurfer.tk:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.zer0day.to:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-http://p4p.arenabg.com:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
+http://p4p.arenabg.com:1337/announce
 
 udp://9.rarbg.com:2710/announce
 
-http://explodie.org:6969/announce
+udp://explodie.org:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.tfile.me:80/announce
+http://explodie.org:6969/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-http://ipv4.tracker.harry.lu:80/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://tracker.mg64.net:6969/announce
-
 udp://mgtracker.org:2710/announce
-
-http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
 http://mgtracker.org:6969/announce
 
-http://torrentsmd.com:8080/announce
+http://ipv4.tracker.harry.lu:80/announce
 
-http://87.248.186.252:8080/announce
+udp://tracker.mg64.net:6969/announce
 
-udp://tracker.grepler.com:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
+
+http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.grepler.com:6969/announce
+http://tracker.tiny-vps.com:6969/announce
 
-udp://bt.xxx-tracker.com:2710/announce
+http://torrentsmd.com:8080/announce
 
-udp://tracker.vanitycore.co:6969/announce
+http://87.248.186.252:8080/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.grepler.com:6969/announce
+
+udp://bt.xxx-tracker.com:2710/announce
+
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.tiny-vps.com:6969/announce
-
-http://retracker.gorcomnet.ru:80/announce
+http://tracker.grepler.com:6969/announce
 
 udp://tracker.tordb.ml:6881/announce
 
-http://tracker.tordb.ml:6881/announce
-
-http://tracker.baravik.org:6970/announce
-
 udp://tracker.filetracker.pl:8089/announce
 
-http://tracker.kuroy.me:5944/announce
-
-http://tracker.edoardocolombo.eu:6969/announce
-
-udp://tracker.kuroy.me:5944/announce
-
-udp://tracker.edoardocolombo.eu:6969/announce
+http://tracker.tordb.ml:6881/announce
 
 http://tracker.filetracker.pl:8089/announce
 
-udp://tracker.desu.sh:6969/announce
+http://retracker.gorcomnet.ru:80/announce
 
-http://open.acgtracker.com:1096/announce
+udp://tracker.kuroy.me:5944/announce
+
+http://tracker.kuroy.me:5944/announce
+
+http://tracker.baravik.org:6970/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.piratepublic.com:1337/announce
 
-udp://91.218.230.81:6969/announce
+udp://tracker.edoardocolombo.eu:6969/announce
 
-http://91.218.230.81:6969/announce
+udp://tracker.desu.sh:6969/announce
+
+udp://open.stealth.si:80/announce
+
+udp://208.67.16.113:8000/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker.edoardocolombo.eu:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://0123456789nonexistent.com:80/announce
 
@@ -98,7 +100,7 @@ udp://zephir.monocul.us:6969/announce
 
 udp://tracker.sith.su:80/announce
 
-udp://open.stealth.si:80/announce
+udp://91.218.230.81:6969/announce
 
-udp://208.67.16.113:8000/announce
+http://tracker.tfile.me:80/announce
 
