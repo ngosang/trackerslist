@@ -18,15 +18,9 @@ udp://explodie.org:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker1.wasabii.com.tw:6969/announce
-
-http://tracker.mg64.net:6881/announce
+http://tracker2.wasabii.com.tw:6969/announce
 
 http://torrentsmd.com:8080/announce
-
-http://87.248.186.252:8080/announce
-
-http://tracker2.wasabii.com.tw:6969/announce
 
 http://mgtracker.org:6969/announce
 
@@ -34,7 +28,13 @@ udp://tracker.mg64.net:6969/announce
 
 udp://mgtracker.org:2710/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker1.wasabii.com.tw:6969/announce
+
+http://tracker.mg64.net:6881/announce
+
+http://87.248.186.252:8080/announce
 
 http://tracker.vanitycore.co:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
