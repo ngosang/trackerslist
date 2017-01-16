@@ -12,11 +12,15 @@ udp://explodie.org:6969/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://mgtracker.org:2710/announce
-
 udp://tracker.mg64.net:6969/announce
 
+udp://mgtracker.org:2710/announce
+
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.grepler.com:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
@@ -24,9 +28,7 @@ udp://tracker.filetracker.pl:8089/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://tracker.grepler.com:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
+udp://tracker.skyts.net:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
