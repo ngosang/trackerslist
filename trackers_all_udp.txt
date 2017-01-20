@@ -8,6 +8,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://9.rarbg.com:2710/announce
+
 udp://explodie.org:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
@@ -28,7 +30,7 @@ udp://tracker.grepler.com:6969/announce
 
 udp://tracker.filetracker.pl:8089/announce
 
-udp://tracker.kuroy.me:5944/announce
+udp://tracker.skyts.net:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -36,13 +38,15 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.sith.su:80/announce
 
-udp://tracker.piratepublic.com:1337/announce
+udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.desu.sh:6969/announce
 
 udp://open.stealth.si:80/announce
 
 udp://91.218.230.81:6969/announce
+
+udp://tracker.piratepublic.com:1337/announce
 
 udp://208.67.16.113:8000/announce
 
