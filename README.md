@@ -9,9 +9,11 @@ An updated list of public BitTorrent trackers
 * trackers_all_http (29 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
 * trackers_all_https (0 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
 
+
 Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
 * trackers_all_ip (68 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
+And also you can check => http://www.ggmyfriend.com/2017-guncel-ve-hizli-torrent-tracker-listesi/
 
 ##### Notes
 * A bot automatically checks the trackers and updates the lists.
