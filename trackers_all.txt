@@ -2,13 +2,11 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 udp://tracker.zer0day.to:1337/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -18,55 +16,51 @@ http://explodie.org:6969/announce
 
 udp://explodie.org:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 udp://tracker.internetwarriors.net:1337/announce
+
+http://tracker1.wasabii.com.tw:6969/announce
+
+http://mgtracker.org:6969/announce
+
+udp://tracker2.wasabii.com.tw:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.mg64.net:6969/announce
 
-udp://mgtracker.org:2710/announce
-
-http://tracker1.wasabii.com.tw:6969/announce
-
-udp://tracker2.wasabii.com.tw:6969/announce
-
 udp://mgtracker.org:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
+udp://mgtracker.org:2710/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
 
-http://tracker.sktorrent.net:6969/announce
-
 http://tracker.mg64.net:6881/announce
-
-http://mgtracker.org:6969/announce
-
-http://ipv4.tracker.harry.lu:80/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.grepler.com:6969/announce
 
-udp://tracker.baravik.org:6970/announce
+udp://ipv4.tracker.harry.lu:80/announce
+
+http://tracker.grepler.com:6969/announce
+
+http://ipv4.tracker.harry.lu:80/announce
+
+http://bt.artvid.ru:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-http://bt.artvid.ru:6969/announce
+http://tracker.sktorrent.net:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+http://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.tiny-vps.com:6969/announce
-
-http://tracker.grepler.com:6969/announce
-
-http://tracker.baravik.org:6970/announce
-
 udp://tracker.filetracker.pl:8089/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.filetracker.pl:8089/announce
 
@@ -78,6 +72,8 @@ udp://zephir.monocul.us:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.piratepublic.com:1337/announce
+
 udp://tracker.kuroy.me:5944/announce
 
 udp://tracker.files.fm:6969/announce
@@ -88,25 +84,29 @@ udp://tracker.cuntflaps.me:6969/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
+udp://retracker.lanta-net.ru:2710/announce
+
 udp://peerfect.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://208.67.16.113:8000/announce
+
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.kuroy.me:5944/announce
 
-http://torrentsmd.com:8080/announce
+http://tracker.dutchtracking.nl:80/announce
 
-http://retracker.mgts.by:80/announce
+http://torrentsmd.com:8080/announce
 
 http://91.218.230.81:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
 udp://tracker2.christianbro.pw:6969/announce
-
-udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.justseed.it:1337/announce
 
@@ -116,9 +116,9 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.skyts.cn:6969/announce
 
-http://tracker.dutchtracking.nl:80/announce
-
 http://share.camoe.cn:8080/announce
 
 http://retracker.omsk.ru:2710/announce
+
+http://retracker.mgts.by:80/announce
 
