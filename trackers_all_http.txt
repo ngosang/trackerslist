@@ -14,11 +14,11 @@ http://mgtracker.org:6969/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://tracker.filetracker.pl:8089/announce
 
 http://tracker.grepler.com:6969/announce
 
-http://tracker.filetracker.pl:8089/announce
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.calculate.ru:6969/announce
 
@@ -34,13 +34,13 @@ http://tracker.kuroy.me:5944/announce
 
 http://retracker.gorcomnet.ru:80/announce
 
-http://tracker.sktorrent.net:6969/announce
-
 http://open.acgtracker.com:1096/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://tracker.sktorrent.net:6969/announce
 
 http://fxtt.ru:80/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://torrentsmd.com:8080/announce
 
