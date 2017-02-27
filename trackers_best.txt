@@ -10,9 +10,9 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 http://ipv4.tracker.harry.lu:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 udp://tracker.opentrackr.org:1337/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -26,7 +26,7 @@ udp://9.rarbg.com:2710/announce
 
 udp://tracker.mg64.net:6969/announce
 
-udp://mgtracker.org:6969/announce
+http://tracker.mg64.net:6881/announce
 
 udp://tracker2.wasabii.com.tw:6969/announce
 
