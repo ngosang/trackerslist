@@ -138,4 +138,4 @@ http://tracker4.itzmx.com:2710/announce # duplicate of http://tracker2.itzmx.com
 http://tracker.tfile.me/announce.php # duplicate of http://tracker.tfile.me/announce
 http://tracker.kicks-ass.net/announce.php # duplicate of http://tracker.kicks-ass.net/announce
 udp://zer0day.ch:1337/announce # duplicate of udp://tracker.zer0day.to:1337/announce
-
+udp://mgtracker.org:2710/announce # duplicate of udp://mgtracker.org:6969/announce
