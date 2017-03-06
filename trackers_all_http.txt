@@ -1,8 +1,8 @@
-http://tracker.dler.org:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://ipv4.tracker.harry.lu:80/announce
+
+http://tracker.dler.org:6969/announce
 
 http://explodie.org:6969/announce
 
@@ -10,29 +10,29 @@ http://mgtracker.org:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
-http://tracker1.wasabii.com.tw:6969/announce
-
 http://tracker2.wasabii.com.tw:6969/announce
+
+http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker.grepler.com:6969/announce
 
-http://91.218.230.81:6969/announce
+http://tracker.calculate.ru:6969/announce
 
-http://tracker.vanitycore.co:6969/announce
+http://91.218.230.81:6969/announce
 
 http://tracker.sktorrent.net:6969/announce
 
-http://tracker.filetracker.pl:8089/announce
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.tiny-vps.com:6969/announce
 
-http://fxtt.ru:80/announce
+http://tracker.filetracker.pl:8089/announce
 
-http://open.acgtracker.com:1096/announce
+http://fxtt.ru:80/announce
 
 http://bt.artvid.ru:6969/announce
 
-http://tracker.skyts.net:6969/announce
+http://open.acgtracker.com:1096/announce
 
 http://torrentsmd.com:8080/announce
 
