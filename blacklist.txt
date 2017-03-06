@@ -2,8 +2,8 @@ http://bt-club.ws/announce # error
 http://ulfbrueggemann.no-ip.org:6969/announce # not verified
 http://tracker.zaerc.com/announce # not verified
 http://tracker.files.fm:6969/announce # malfunction
-http://open.touki.ru/announce.php # malfunction
-http://open.touki.ru/announce # malfunction
+http://open.touki.ru/announce.php # registered torrents
+http://open.touki.ru/announce # registered torrents
 http://carbon-bonsai-621.appspot.com/announce # malfunction
 https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
