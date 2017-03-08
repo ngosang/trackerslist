@@ -1,6 +1,6 @@
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.pirateparty.gr:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
@@ -16,25 +16,25 @@ http://tracker.opentrackr.org:1337/announce
 
 http://ipv4.tracker.harry.lu:80/announce
 
-udp://9.rarbg.com:2710/announce
+http://explodie.org:6969/announce
 
 udp://explodie.org:6969/announce
 
-http://explodie.org:6969/announce
-
 http://mgtracker.org:6969/announce
-
-udp://tracker.mg64.net:6969/announce
-
-udp://mgtracker.org:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
-http://tracker2.wasabii.com.tw:6969/announce
+udp://mgtracker.org:6969/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
-udp://tracker2.wasabii.com.tw:6969/announce
+http://tracker.calculate.ru:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
+
+http://tracker2.wasabii.com.tw:6969/announce
+
+udp://tracker2.wasabii.com.tw:6969/announce
+
+http://tracker.dler.org:6969/announce
 
