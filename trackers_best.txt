@@ -22,19 +22,19 @@ udp://inferno.demonoid.ooo:3389/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 http://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://allesanddro.de:1337/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://tracker.mg64.net:6969/announce
+http://mgtracker.org:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
-http://mgtracker.org:6969/announce
+udp://mgtracker.org:6969/announce
 
-udp://tracker1.wasabii.com.tw:6969/announce
+udp://tracker.mg64.net:6969/announce
 
