@@ -6,15 +6,11 @@ http://explodie.org:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://mgtracker.org:6969/announce
-
 http://tracker.mg64.net:6881/announce
 
+http://mgtracker.org:6969/announce
+
 http://tracker.devil-torrents.pl:80/announce
-
-http://grifon.info:80/announce
-
-http://bt.artvid.ru:6969/announce
 
 http://ipv4.tracker.harry.lu:80/announce
 
@@ -24,29 +20,31 @@ http://tracker.vanitycore.co:6969/announce
 
 http://retracker.telecom.by:80/announce
 
+http://grifon.info:80/announce
+
+http://bt.artvid.ru:6969/announce
+
+http://tracker.grepler.com:6969/announce
+
 http://retracker.mgts.by:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
-http://tracker.grepler.com:6969/announce
-
 http://t.nyaatracker.com:80/announce
-
-http://91.218.230.81:6969/announce
-
-http://tracker1.wasabii.com.tw:6969/announce
 
 http://agusiq-torrents.pl:6969/announce
 
+http://tracker1.wasabii.com.tw:6969/announce
+
 http://tracker2.wasabii.com.tw:6969/announce
+
+http://91.218.230.81:6969/announce
 
 http://tracker.kuroy.me:5944/announce
 
-http://torrentsmd.com:8080/announce
-
 http://tracker.filetracker.pl:8089/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://torrentsmd.com:8080/announce
 
 http://tracker.tlm-project.org:6969/announce
 
