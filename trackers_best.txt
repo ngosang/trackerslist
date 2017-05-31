@@ -1,12 +1,10 @@
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.cuntflaps.me:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -20,11 +18,11 @@ udp://p4p.arenabg.com:1337/announce
 
 http://p4p.arenabg.com:1337/announce
 
-http://explodie.org:6969/announce
-
 udp://inferno.demonoid.ooo:3389/announce
 
 udp://explodie.org:6969/announce
+
+http://explodie.org:6969/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
@@ -37,4 +35,6 @@ udp://allesanddro.de:1337/announce
 udp://9.rarbg.com:2710/announce
 
 http://mgtracker.org:6969/announce
+
+udp://tracker.mg64.net:6969/announce
 
