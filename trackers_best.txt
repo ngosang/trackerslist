@@ -24,8 +24,6 @@ udp://explodie.org:6969/announce
 
 http://explodie.org:6969/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 udp://tracker.internetwarriors.net:1337/announce
 
 udp://bt.xxx-tracker.com:2710/announce
@@ -37,4 +35,6 @@ udp://9.rarbg.com:2710/announce
 http://mgtracker.org:6969/announce
 
 udp://tracker.mg64.net:6969/announce
+
+udp://open.stealth.si:80/announce
 
