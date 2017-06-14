@@ -2,6 +2,8 @@ udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.pirateparty.gr:6969/announce
 
+udp://tracker.cuntflaps.me:6969/announce
+
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -30,37 +32,37 @@ udp://mgtracker.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://tracker.vanitycore.co:6969/announce
+udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.grepler.com:6969/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://public.popcorn-tracker.org:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://zephir.monocul.us:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
 
-udp://tracker.kamigami.org:2710/announce
+udp://tracker.filetracker.pl:8089/announce
 
 udp://86.19.29.160:6969/announce
 
 udp://208.67.16.113:8000/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.filetracker.pl:8089/announce
+udp://tracker.christianbro.pw:6969/announce
 
 udp://peerfect.org:6969/announce
+
+udp://tracker.edoardocolombo.eu:6969/announce
+
+udp://tracker.doko.moe:6969/announce
 
 udp://open.stealth.si:80/announce
 
 udp://open.facedatabg.net:6969/announce
-
-udp://zephir.monocul.us:6969/announce
-
-udp://tracker.halfchub.club:6969/announce
-
-udp://tracker.christianbro.pw:6969/announce
-
-udp://retracker.lanta-net.ru:2710/announce
 
 udp://tracker2.wasabii.com.tw:6969/announce
 
@@ -68,21 +70,29 @@ udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://tracker.files.fm:6969/announce
-
-udp://tracker.edoardocolombo.eu:6969/announce
-
-udp://tracker.doko.moe:6969/announce
-
 udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.baravik.org:6970/announce
 
 udp://tr.cili001.com:6666/announce
 
 udp://thetracker.org:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://z.crazyhd.com:2710/announce
+
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.halfchub.club:6969/announce
+
+udp://tracker.files.fm:6969/announce
+
+udp://tracker.desu.sh:6969/announce
+
+udp://tracker.cypherpunks.ru:6969/announce
+
+udp://oscar.reyesleon.xyz:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -90,11 +100,7 @@ udp://tracker.safe.moe:6969/announce
 
 udp://tracker.piratepublic.com:1337/announce
 
-udp://tracker.cypherpunks.ru:6969/announce
-
 udp://tracker.cyberia.is:6969/announce
-
-udp://oscar.reyesleon.xyz:6969/announce
 
 udp://tracker.justseed.it:1337/announce
 
