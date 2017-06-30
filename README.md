@@ -1,6 +1,6 @@
 # trackerslist
 An updated list of public BitTorrent trackers
-##### Updated 2017-06-30 00:00:02
+##### Updated 2017-07-01 00:00:03
 *These lists are automatically updated every day:*
 
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
