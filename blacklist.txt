@@ -140,3 +140,7 @@ http://tracker.tfile.me/announce.php # duplicate of http://tracker.tfile.me/anno
 http://tracker.kicks-ass.net/announce.php # duplicate of http://tracker.kicks-ass.net/announce
 udp://zer0day.ch:1337/announce # duplicate of udp://tracker.zer0day.to:1337/announce
 udp://mgtracker.org:2710/announce # duplicate of udp://mgtracker.org:6969/announce
+http://torrentsmd.com:8080/announce # duplicate of http://torrentsmd.me:8080/announce
+http://torrentsmd.eu:8080/announce # duplicate of http://torrentsmd.me:8080/announce
+http://tracker.tfile.co:80/announce # duplicate of http://tracker.tfile.me:80/announce
+udp://inferno.demonoid.ooo:3389/announce # duplicate of udp://inferno.demonoid.pw:3418/announce
