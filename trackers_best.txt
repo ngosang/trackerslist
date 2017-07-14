@@ -1,3 +1,9 @@
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.safe.moe:6969/announce
+
+udp://tracker.piratepublic.com:1337/announce
+
 udp://tracker.pirateparty.gr:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
@@ -24,17 +30,11 @@ udp://allesanddro.de:1337/announce
 
 udp://9.rarbg.com:2710/announce
 
-http://tracker.mg64.net:6881/announce
-
-udp://open.stealth.si:80/announce
+udp://tracker.mg64.net:6969/announce
 
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-http://tracker.devil-torrents.pl:80/announce
-
-http://mgtracker.org:6969/announce
-
-udp://tracker.mg64.net:6969/announce
+http://tracker.mg64.net:6881/announce
 
