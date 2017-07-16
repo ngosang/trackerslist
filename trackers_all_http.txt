@@ -4,23 +4,21 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://mgtracker.org:6969/announce
-
 http://tracker.mg64.net:6881/announce
-
-http://tracker.devil-torrents.pl:80/announce
-
-http://ipv4.tracker.harry.lu:80/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://grifon.info:80/announce
+http://tracker.devil-torrents.pl:80/announce
 
-http://tracker.city9x.com:2710/announce
+http://mgtracker.org:6969/announce
+
+http://ipv4.tracker.harry.lu:80/announce
 
 http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
+
+http://grifon.info:80/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -28,31 +26,35 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.grepler.com:6969/announce
 
-http://tracker.filetracker.pl:8089/announce
+http://tracker.city9x.com:2710/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://agusiq-torrents.pl:6969/announce
 
+http://91.218.230.81:6969/announce
+
 http://tracker.tlm-project.org:6969/announce
 
-http://91.218.230.81:6969/announce
+http://tracker.filetracker.pl:8089/announce
 
 http://pt.lax.mx:80/announce
 
+http://tracker1.wasabii.com.tw:6969/announce
+
 http://tracker.kuroy.me:5944/announce
+
+http://fxtt.ru:80/announce
 
 http://tracker2.wasabii.com.tw:6969/announce
 
-http://tracker1.wasabii.com.tw:6969/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.videodrugproject.com:80/announce
 
 http://torrentsmd.me:8080/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://fxtt.ru:80/announce
 
 http://tracker.tfile.me:80/announce
 
