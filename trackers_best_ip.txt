@@ -10,31 +10,31 @@ udp://77.78.130.136:1337/announce
 
 http://95.213.191.124:2710/announce
 
-http://163.172.157.35:1337/announce
-
 udp://163.172.157.35:1337/announce
+
+http://163.172.157.35:1337/announce
 
 udp://191.96.249.23:6969/announce
 
 udp://185.82.217.160:1337/announce
 
-udp://91.218.230.81:6969/announce
+http://185.82.217.160:1337/announce
 
-udp://92.242.134.28:80/announce
+http://91.218.230.81:6969/announce
+
+udp://37.19.5.155:6969/announce
+
+udp://91.218.230.81:6969/announce
 
 udp://62.210.110.127:6969/announce
 
 udp://92.241.171.245:6969/announce
 
-http://91.218.230.81:6969/announce
-
-udp://5.79.83.194:6969/announce
-
-udp://125.227.205.31:6969/announce
-
-udp://92.242.134.28:6969/announce
+http://5.79.83.194:6881/announce
 
 udp://163.172.180.68:80/announce
 
-http://37.19.5.155:6881/announce
+http://213.184.225.53:80/announce
+
+http://77.91.229.218:6969/announce
 
