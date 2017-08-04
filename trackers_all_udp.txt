@@ -8,13 +8,11 @@ udp://9.rarbg.com:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://public.popcorn-tracker.org:6969/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker1.xku.tv:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
 
@@ -31,6 +29,8 @@ udp://mgtracker.org:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -49,8 +49,6 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -111,6 +109,8 @@ udp://86.19.29.160:6969/announce
 udp://208.67.16.113:8000/announce
 
 udp://z.crazyhd.com:2710/announce
+
+udp://tracker1.xku.tv:6969/announce
 
 udp://tracker.justseed.it:1337/announce
 
