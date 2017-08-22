@@ -1,3 +1,5 @@
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.safe.moe:6969/announce
@@ -5,10 +7,6 @@ udp://tracker.safe.moe:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
-
-udp://tracker.leechers-paradise.org:6969/announce
 
 udp://allesanddro.de:1337/announce
 
@@ -26,19 +24,15 @@ udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
 
-udp://peerfect.org:6969/announce
-
 udp://tracker.mg64.net:6969/announce
+
+udp://peerfect.org:6969/announce
 
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
-
-udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -60,9 +54,15 @@ udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
+udp://tracker.tvunderground.org.ru:3218/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
 
@@ -73,8 +73,6 @@ udp://tracker.halfchub.club:6969/announce
 udp://tracker.grepler.com:6969/announce
 
 udp://tracker.filetracker.pl:8089/announce
-
-udp://tracker.files.fm:6969/announce
 
 udp://tracker.edoardocolombo.eu:6969/announce
 
@@ -125,6 +123,8 @@ udp://bt.aoeex.com:8000/announce
 udp://tracker1.xku.tv:6969/announce
 
 udp://tracker.justseed.it:1337/announce
+
+udp://tracker.files.fm:6969/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
 
