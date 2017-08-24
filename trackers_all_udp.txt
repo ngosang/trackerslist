@@ -28,21 +28,25 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://peerfect.org:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker.mg64.net:6969/announce
-
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://explodie.org:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
+
+udp://inferno.demonoid.pw:3418/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -57,8 +61,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.kuroy.me:5944/announce
 
@@ -77,6 +79,8 @@ udp://tracker.edoardocolombo.eu:6969/announce
 udp://tracker.dutchtracking.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.desu.sh:6969/announce
 
@@ -108,8 +112,6 @@ udp://oscar.reyesleon.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://inferno.demonoid.pw:3418/announce
-
 udp://bt.xxx-tracker.com:2710/announce
 
 udp://bt.aoeex.com:8000/announce
@@ -123,8 +125,6 @@ udp://tracker2.christianbro.pw:6969/announce
 udp://tracker1.xku.tv:6969/announce
 
 udp://tracker.justseed.it:1337/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
 
