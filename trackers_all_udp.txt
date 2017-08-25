@@ -8,6 +8,8 @@ udp://tracker.pirateparty.gr:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://allesanddro.de:1337/announce
@@ -28,8 +30,6 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://peerfect.org:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
@@ -42,13 +42,13 @@ udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://inferno.demonoid.pw:3418/announce
-
 udp://zephir.monocul.us:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://inferno.demonoid.pw:3418/announce
 
 udp://wambo.club:1337/announce
 
