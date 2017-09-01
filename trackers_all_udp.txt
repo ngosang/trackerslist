@@ -8,8 +8,6 @@ udp://tracker.pirateparty.gr:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://allesanddro.de:1337/announce
@@ -30,6 +28,8 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://peerfect.org:6969/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
@@ -37,14 +37,6 @@ udp://mgtracker.org:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
-
-udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.acg.gg:2710/announce
-
-udp://tr.cili001.com:6666/announce
-
-udp://thetracker.org:80/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -66,15 +58,9 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.kuroy.me:5944/announce
 
-udp://tracker.kamigami.org:2710/announce
-
 udp://tracker.halfchub.club:6969/announce
 
 udp://tracker.grepler.com:6969/announce
-
-udp://tracker.filetracker.pl:8089/announce
-
-udp://tracker.files.fm:6969/announce
 
 udp://tracker.edoardocolombo.eu:6969/announce
 
@@ -89,6 +75,14 @@ udp://tracker.desu.sh:6969/announce
 udp://tracker.cypherpunks.ru:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.acg.gg:2710/announce
+
+udp://tr.cili001.com:6666/announce
+
+udp://thetracker.org:80/announce
 
 udp://tc.animereactor.ru:8082/announce
 
@@ -120,7 +114,13 @@ udp://tracker1.xku.tv:6969/announce
 
 udp://tracker.xku.tv:6969/announce
 
+udp://tracker.kamigami.org:2710/announce
+
 udp://tracker.justseed.it:1337/announce
+
+udp://tracker.filetracker.pl:8089/announce
+
+udp://tracker.files.fm:6969/announce
 
 udp://tracker.christianbro.pw:6969/announce
 
