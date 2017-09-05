@@ -1,6 +1,6 @@
 https://tracker.bittor.xyz:443/announce
 
-https://tracker.bt-hash.com:443/announce
-
 https://opentracker-milanesi.rhcloud.com:443/announce
+
+https://tracker.bt-hash.com:443/announce
 
