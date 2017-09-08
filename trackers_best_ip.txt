@@ -12,7 +12,7 @@ udp://87.233.192.220:6969/announce
 
 udp://213.153.68.28:1337/announce
 
-udp://151.80.120.114:2710/announce
+udp://151.80.120.112:2710/announce
 
 http://163.172.81.35:1337/announce
 
