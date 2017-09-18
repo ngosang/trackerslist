@@ -18,11 +18,11 @@ http://163.172.81.35:1337/announce
 
 udp://163.172.81.35:1337/announce
 
-udp://51.15.4.13:1337/announce
-
 udp://185.82.217.160:1337/announce
 
 http://51.15.4.13:1337/announce
+
+udp://51.15.4.13:1337/announce
 
 udp://191.96.249.23:6969/announce
 
