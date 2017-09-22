@@ -66,8 +66,6 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.kuroy.me:5944/announce
 
-udp://tracker.kamigami.org:2710/announce
-
 udp://tracker.halfchub.club:6969/announce
 
 udp://tracker.grepler.com:6969/announce
@@ -80,7 +78,7 @@ udp://tracker.edoardocolombo.eu:6969/announce
 
 udp://tracker.dutchtracking.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.doko.moe:6969/announce
 
 udp://tracker.desu.sh:6969/announce
 
@@ -98,8 +96,6 @@ udp://tc.animereactor.ru:8082/announce
 
 udp://santost12.xyz:6969/announce
 
-udp://sandrotracker.biz:1337/announce
-
 udp://retracker.nts.su:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -116,13 +112,17 @@ udp://bt.aoeex.com:8000/announce
 
 udp://tracker.xku.tv:6969/announce
 
+udp://tracker.kamigami.org:2710/announce
+
 udp://tracker.justseed.it:1337/announce
 
-udp://tracker.doko.moe:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.acg.gg:2710/announce
+
+udp://sandrotracker.biz:1337/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
 
