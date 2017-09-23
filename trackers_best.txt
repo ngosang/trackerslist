@@ -1,3 +1,5 @@
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.safe.moe:6969/announce
@@ -5,8 +7,6 @@ udp://tracker.safe.moe:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
@@ -24,7 +24,9 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://public.popcorn-tracker.org:6969/announce
+udp://trackerxyz.tk:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.wasabii.com.tw:6969/announce
 
@@ -35,6 +37,4 @@ udp://tracker1.xku.tv:6969/announce
 udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
-
-udp://peerfect.org:6969/announce
 
