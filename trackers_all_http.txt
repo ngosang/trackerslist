@@ -10,18 +10,6 @@ http://mgtracker.org:6969/announce
 
 http://ipv4.tracker.harry.lu:80/announce
 
-http://t.nyaatracker.com:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker1.wasabii.com.tw:6969/announce
-
-http://tracker.vanitycore.co:6969/announce
-
-http://tracker.torrentyorg.pl:80/announce
-
-http://tracker.kuroy.me:5944/announce
-
 http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.devil-torrents.pl:80/announce
@@ -32,9 +20,17 @@ http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://pt.lax.mx:80/announce
+http://tracker2.itzmx.com:6961/announce
 
-http://open.acgtracker.com:1096/announce
+http://tracker1.wasabii.com.tw:6969/announce
+
+http://tracker.vanitycore.co:6969/announce
+
+http://tracker.torrentyorg.pl:80/announce
+
+http://t.nyaatracker.com:80/announce
+
+http://pt.lax.mx:80/announce
 
 http://fxtt.ru:80/announce
 
