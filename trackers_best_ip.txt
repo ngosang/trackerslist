@@ -8,33 +8,33 @@ udp://62.138.0.158:6969/announce
 
 udp://62.138.0.158:6969/announce
 
-udp://87.233.192.220:6969/announce
-
 http://87.233.192.220:80/announce
+
+udp://87.233.192.220:6969/announce
 
 udp://213.153.68.28:1337/announce
 
 udp://151.80.120.115:2710/announce
 
-http://163.172.81.35:1337/announce
-
 udp://163.172.81.35:1337/announce
 
-http://51.15.4.13:1337/announce
+http://163.172.81.35:1337/announce
 
 udp://51.15.4.13:1337/announce
 
+http://51.15.4.13:1337/announce
+
 udp://191.96.249.23:6969/announce
+
+http://91.218.230.81:6969/announce
 
 udp://91.218.230.81:6969/announce
 
-udp://5.79.83.193:6969/announce
+udp://37.19.5.155:6969/announce
 
 udp://62.210.110.127:6969/announce
 
-udp://5.79.83.194:6969/announce
+udp://92.241.171.245:6969/announce
 
 udp://163.172.180.68:80/announce
-
-udp://74.82.52.209:6969/announce
 
