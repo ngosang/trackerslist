@@ -6,9 +6,9 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
 
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://allesanddro.de:1337/announce
 
@@ -32,29 +32,13 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
-udp://bt.xxx-tracker.com:2710/announce
-
 udp://zephir.monocul.us:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
 udp://wambo.club:1337/announce
 
-udp://trackerxyz.tk:1337/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker2.christianbro.pw:6969/announce
-
-udp://tracker1.xku.tv:6969/announce
-
-udp://tracker1.wasabii.com.tw:6969/announce
-
-udp://tracker.xku.tv:6969/announce
-
-udp://tracker.uw0.xyz:6969/announce
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
@@ -73,8 +57,6 @@ udp://tracker.grepler.com:6969/announce
 udp://tracker.files.fm:6969/announce
 
 udp://tracker.dutchtracking.com:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -108,15 +90,35 @@ udp://open.stealth.si:80/announce
 
 udp://inferno.demonoid.pw:3418/announce
 
+udp://bt.xxx-tracker.com:2710/announce
+
 udp://bt.aoeex.com:8000/announce
+
+udp://86.19.29.160:6969/announce
+
+udp://208.67.16.113:8000/announce
+
+udp://trackerxyz.tk:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker2.christianbro.pw:6969/announce
+
+udp://tracker1.xku.tv:6969/announce
+
+udp://tracker1.wasabii.com.tw:6969/announce
+
+udp://tracker.zer0day.to:1337/announce
+
+udp://tracker.xku.tv:6969/announce
+
+udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.justseed.it:1337/announce
 
+udp://tracker.doko.moe:6969/announce
+
 udp://packages.crunchbangplusplus.org:6969/announce
-
-udp://86.19.29.160:6969/announce
-
-udp://208.67.16.113:8000/announce
 
