@@ -8,9 +8,9 @@ udp://tracker.pirateparty.gr:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.leechers-paradise.org:6969/announce
-
 http://tracker.leechers-paradise.org:80/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://allesanddro.de:1337/announce
 

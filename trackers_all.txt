@@ -8,9 +8,9 @@ udp://tracker.pirateparty.gr:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.leechers-paradise.org:6969/announce
-
 http://tracker.leechers-paradise.org:80/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://allesanddro.de:1337/announce
 
@@ -40,7 +40,7 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://peerfect.org:6969/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://explodie.org:6969/announce
 
 udp://tracker.mg64.net:6969/announce
 
@@ -48,39 +48,21 @@ udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://explodie.org:6969/announce
-
 http://tracker.mg64.net:6881/announce
 
 http://mgtracker.org:6969/announce
 
-udp://sandrotracker.biz:1337/announce
+http://ipv4.tracker.harry.lu:80/announce
 
-udp://retracker.nts.su:2710/announce
-
-udp://bt.xxx-tracker.com:2710/announce
-
-http://tracker.vanitycore.co:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
-http://tracker.devil-torrents.pl:80/announce
-
-http://tracker.city9x.com:2710/announce
-
 http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
-
-http://pt.lax.mx:80/announce
-
-http://ipv4.tracker.harry.lu:80/announce
-
-http://fxtt.ru:80/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -100,7 +82,7 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://tracker.kamigami.org:2710/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.halfchub.club:6969/announce
 
@@ -132,6 +114,10 @@ udp://tc.animereactor.ru:8082/announce
 
 udp://santost12.xyz:6969/announce
 
+udp://sandrotracker.biz:1337/announce
+
+udp://retracker.nts.su:2710/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://oscar.reyesleon.xyz:6969/announce
@@ -139,6 +125,8 @@ udp://oscar.reyesleon.xyz:6969/announce
 udp://open.stealth.si:80/announce
 
 udp://inferno.demonoid.pw:3418/announce
+
+udp://bt.xxx-tracker.com:2710/announce
 
 udp://bt.aoeex.com:8000/announce
 
@@ -148,19 +136,29 @@ udp://208.67.16.113:8000/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
-http://torrentsmd.me:8080/announce
+http://tracker.vanitycore.co:6969/announce
+
+http://tracker.devil-torrents.pl:80/announce
+
+http://tracker.city9x.com:2710/announce
 
 http://torrent.nwps.ws:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://pt.lax.mx:80/announce
+
 http://open.acgtracker.com:1096/announce
 
 http://omg.wtftrackr.pw:1337/announce
 
+http://fxtt.ru:80/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 udp://tracker.xku.tv:6969/announce
+
+udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.justseed.it:1337/announce
 
@@ -169,6 +167,8 @@ udp://packages.crunchbangplusplus.org:6969/announce
 http://tracker.videodrugproject.com:80/announce
 
 http://tracker.tfile.me:80/announce
+
+http://torrentsmd.me:8080/announce
 
 http://share.camoe.cn:8080/announce
 
