@@ -23,7 +23,7 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 * Any of the trackers is not working properly? => [Open a new issue](https://github.com/ngosang/trackerslist/issues/new)
 
 ##### Third-party tools
-* [Bash script](https://github.com/oilervoss/openwrt/tree/master/transmission) for transmission-remote to read ngosang's lists and add them.
+* [Bash script](https://github.com/oilervoss/openwrt/tree/transmission) for transmission-remote to read ngosang's lists and add them.
 
 ##### Contact
 ngosang [@] hotmail [.es]
