@@ -1,3 +1,5 @@
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.safe.moe:6969/announce
@@ -5,8 +7,6 @@ udp://tracker.safe.moe:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.mg64.net:6969/announce
 
