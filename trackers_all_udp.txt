@@ -6,9 +6,9 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
 
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://allesanddro.de:1337/announce
 
@@ -19,8 +19,6 @@ udp://packages.crunchbangplusplus.org:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://public.popcorn-tracker.org:6969/announce
 
 udp://wambo.club:1337/announce
 
@@ -36,9 +34,11 @@ udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
 
-udp://peerfect.org:6969/announce
+udp://public.popcorn-tracker.org:6969/announce
 
 udp://tracker.mg64.net:6969/announce
+
+udp://peerfect.org:6969/announce
 
 udp://open.facedatabg.net:6969/announce
 
@@ -50,11 +50,7 @@ udp://explodie.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
-udp://z.crazyhd.com:2710/announce
-
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
@@ -63,8 +59,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
-
-udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -75,8 +69,6 @@ udp://tracker.grepler.com:6969/announce
 udp://tracker.files.fm:6969/announce
 
 udp://tracker.dutchtracking.com:6969/announce
-
-udp://tracker.doko.moe:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -116,9 +108,17 @@ udp://86.19.29.160:6969/announce
 
 udp://208.67.16.113:8000/announce
 
+udp://z.crazyhd.com:2710/announce
+
 udp://tracker.xku.tv:6969/announce
 
+udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.kamigami.org:2710/announce
+
 udp://tracker.justseed.it:1337/announce
+
+udp://tracker.doko.moe:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
