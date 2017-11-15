@@ -10,6 +10,8 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+http://tracker.leechers-paradise.org:80/announce
+
 udp://allesanddro.de:1337/announce
 
 udp://9.rarbg.com:2710/announce
@@ -18,13 +20,13 @@ http://p4p.arenabg.com:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 http://tracker.internetwarriors.net:1337/announce
 
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+http://tracker.opentrackr.org:1337/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
@@ -35,6 +37,4 @@ udp://trackerxyz.tk:1337/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.christianbro.pw:6969/announce
-
-udp://tracker1.xku.tv:6969/announce
 

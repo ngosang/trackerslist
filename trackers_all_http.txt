@@ -1,8 +1,12 @@
+http://tracker.leechers-paradise.org:80/announce
+
 http://p4p.arenabg.com:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://91.218.230.81:6969/announce
 
 http://tracker.mg64.net:6881/announce
 
@@ -10,19 +14,17 @@ http://mgtracker.org:6969/announce
 
 http://ipv4.tracker.harry.lu:80/announce
 
+http://tracker1.wasabii.com.tw:6969/announce
+
 http://tracker.torrentyorg.pl:80/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker1.wasabii.com.tw:6969/announce
-
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.electro-torrent.pl:80/announce
-
-http://tracker.devil-torrents.pl:80/announce
 
 http://tracker.city9x.com:2710/announce
 
@@ -36,8 +38,6 @@ http://pt.lax.mx:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://agusiq-torrents.pl:6969/announce
-
 http://tracker.videodrugproject.com:80/announce
 
 http://tracker.tfile.me:80/announce
@@ -46,5 +46,9 @@ http://share.camoe.cn:8080/announce
 
 http://retracker.omsk.ru:2710/announce
 
+http://fxtt.ru:80/announce
+
 http://explodie.org:6969/announce
+
+http://agusiq-torrents.pl:6969/announce
 

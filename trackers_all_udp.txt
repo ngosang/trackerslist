@@ -40,8 +40,6 @@ udp://peerfect.org:6969/announce
 
 udp://tracker.mg64.net:6969/announce
 
-udp://open.facedatabg.net:6969/announce
-
 udp://mgtracker.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -61,6 +59,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.halfchub.club:6969/announce
 
@@ -107,8 +107,6 @@ udp://bt.aoeex.com:8000/announce
 udp://86.19.29.160:6969/announce
 
 udp://208.67.16.113:8000/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.kamigami.org:2710/announce
 
