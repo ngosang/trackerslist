@@ -28,8 +28,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.city9x.com:2710/announce
 
-http://torrentsmd.me:8080/announce
-
 http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
@@ -38,9 +36,13 @@ http://pt.lax.mx:80/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://agusiq-torrents.pl:6969/announce
+
 http://tracker.videodrugproject.com:80/announce
 
 http://tracker.tfile.me:80/announce
+
+http://torrentsmd.me:8080/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -49,6 +51,4 @@ http://retracker.omsk.ru:2710/announce
 http://fxtt.ru:80/announce
 
 http://explodie.org:6969/announce
-
-http://agusiq-torrents.pl:6969/announce
 
