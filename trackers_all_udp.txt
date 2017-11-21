@@ -20,6 +20,12 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://wambo.club:1337/announce
+
+udp://trackerxyz.tk:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker1.xku.tv:6969/announce
@@ -35,16 +41,6 @@ udp://peerfect.org:6969/announce
 udp://tracker.mg64.net:6969/announce
 
 udp://mgtracker.org:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://zephir.monocul.us:6969/announce
-
-udp://z.crazyhd.com:2710/announce
-
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -66,8 +62,6 @@ udp://tracker.christianbro.pw:6969/announce
 
 udp://thetracker.org:80/announce
 
-udp://tc.animereactor.ru:8082/announce
-
 udp://santost12.xyz:6969/announce
 
 udp://sandrotracker.biz:1337/announce
@@ -78,27 +72,33 @@ udp://oscar.reyesleon.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://explodie.org:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://wambo.club:1337/announce
+udp://zephir.monocul.us:6969/announce
 
-udp://trackerxyz.tk:1337/announce
-
-udp://tracker4.itzmx.com:2710/announce
+udp://z.crazyhd.com:2710/announce
 
 udp://tracker.xku.tv:6969/announce
+
+udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.doko.moe:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://tc.animereactor.ru:8082/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
