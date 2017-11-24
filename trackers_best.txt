@@ -22,6 +22,10 @@ udp://tracker.internetwarriors.net:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
+http://tracker.opentrackr.org:1337/announce
+
 udp://wambo.club:1337/announce
 
 udp://trackerxyz.tk:1337/announce
@@ -33,8 +37,4 @@ udp://tracker2.christianbro.pw:6969/announce
 udp://tracker1.xku.tv:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
-
-udp://tracker.zer0day.to:1337/announce
-
-udp://tracker.opentrackr.org:1337/announce
 
