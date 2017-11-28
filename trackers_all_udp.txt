@@ -18,10 +18,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
-udp://wambo.club:1337/announce
-
 udp://trackerxyz.tk:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
@@ -32,6 +28,8 @@ udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
 udp://public.popcorn-tracker.org:6969/announce
 
 udp://peerfect.org:6969/announce
@@ -40,7 +38,7 @@ udp://tracker.mg64.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://tracker.vanitycore.co:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -48,9 +46,7 @@ udp://zephir.monocul.us:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
-udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.uw0.xyz:6969/announce
+udp://tracker.xku.tv:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
@@ -76,13 +72,7 @@ udp://tracker.desu.sh:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.christianbro.pw:6969/announce
-
-udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.acg.gg:2710/announce
 
 udp://thetracker.org:80/announce
 
@@ -96,6 +86,8 @@ udp://retracker.nts.su:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+udp://open.stealth.si:80/announce
+
 udp://inferno.demonoid.pw:3418/announce
 
 udp://explodie.org:6969/announce
@@ -104,15 +96,23 @@ udp://bt.xxx-tracker.com:2710/announce
 
 udp://bt.aoeex.com:8000/announce
 
-udp://tracker.xku.tv:6969/announce
+udp://86.19.29.160:6969/announce
+
+udp://208.67.16.113:8000/announce
+
+udp://wambo.club:1337/announce
+
+udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.justseed.it:1337/announce
 
+udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.acg.gg:2710/announce
+
 udp://packages.crunchbangplusplus.org:6969/announce
-
-udp://86.19.29.160:6969/announce
-
-udp://208.67.16.113:8000/announce
 
