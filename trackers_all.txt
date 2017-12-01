@@ -6,17 +6,19 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
 
-udp://tracker.leechers-paradise.org:6969/announce
+udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.coppersurfer.tk:6969/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://allesanddro.de:1337/announce
 
 udp://9.rarbg.com:2710/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 http://p4p.arenabg.com:1337/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -24,7 +26,13 @@ http://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://public.popcorn-tracker.org:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
+
+udp://trackerxyz.tk:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.christianbro.pw:6969/announce
 
@@ -32,13 +40,9 @@ udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
 
-udp://public.popcorn-tracker.org:6969/announce
-
 udp://peerfect.org:6969/announce
 
-http://ipv4.tracker.harry.lu:80/announce
-
-udp://zephir.monocul.us:6969/announce
+http://91.218.230.81:6969/announce
 
 udp://tracker.mg64.net:6969/announce
 
@@ -48,33 +52,21 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 http://tracker.mg64.net:6881/announce
 
-http://tracker.city9x.com:2710/announce
-
-http://retracker.mgts.by:80/announce
-
 http://mgtracker.org:6969/announce
+
+http://ipv4.tracker.harry.lu:80/announce
+
+udp://zephir.monocul.us:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
-udp://wambo.club:1337/announce
-
-udp://trackerxyz.tk:1337/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker.xku.tv:6969/announce
-
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.halfchub.club:6969/announce
 
@@ -84,21 +76,13 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.dutchtracking.com:6969/announce
 
-udp://tracker.doko.moe:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.desu.sh:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.christianbro.pw:6969/announce
-
-udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.acg.gg:2710/announce
 
 udp://thetracker.org:80/announce
 
@@ -122,17 +106,11 @@ udp://bt.xxx-tracker.com:2710/announce
 
 udp://bt.aoeex.com:8000/announce
 
-udp://86.19.29.160:6969/announce
-
-udp://208.67.16.113:8000/announce
-
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
-http://tracker.electro-torrent.pl:80/announce
+http://tracker.city9x.com:2710/announce
 
 http://torrentsmd.me:8080/announce
 
@@ -140,29 +118,47 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.telecom.by:80/announce
 
-http://pt.lax.mx:80/announce
+http://retracker.mgts.by:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://agusiq-torrents.pl:6969/announce
 
-http://omg.wtftrackr.pw:1337/announce
+udp://wambo.club:1337/announce
 
-http://fxtt.ru:80/announce
+udp://tracker.xku.tv:6969/announce
+
+udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.justseed.it:1337/announce
 
+udp://tracker.doko.moe:6969/announce
+
+udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.acg.gg:2710/announce
+
 udp://packages.crunchbangplusplus.org:6969/announce
+
+udp://86.19.29.160:6969/announce
+
+udp://208.67.16.113:8000/announce
 
 http://tracker.videodrugproject.com:80/announce
 
 http://tracker.tfile.me:80/announce
 
+http://tracker.electro-torrent.pl:80/announce
+
 http://share.camoe.cn:8080/announce
 
 http://retracker.omsk.ru:2710/announce
 
-http://explodie.org:6969/announce
+http://pt.lax.mx:80/announce
 
-http://agusiq-torrents.pl:6969/announce
+http://omg.wtftrackr.pw:1337/announce
+
+http://explodie.org:6969/announce
 
