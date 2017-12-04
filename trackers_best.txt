@@ -6,11 +6,9 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
 
-udp://tracker.mg64.net:6969/announce
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.coppersurfer.tk:6969/announce
 
 udp://bt.aoeex.com:8000/announce
 
@@ -26,9 +24,11 @@ http://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
 http://tracker.opentrackr.org:1337/announce
 
-udp://tracker.opentrackr.org:1337/announce
+udp://public.popcorn-tracker.org:6969/announce
 
 udp://trackerxyz.tk:1337/announce
 
