@@ -24,13 +24,9 @@ http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://pt.lax.mx:80/announce
-
 http://open.acgtracker.com:1096/announce
 
 http://omg.wtftrackr.pw:1337/announce
-
-http://fxtt.ru:80/announce
 
 http://agusiq-torrents.pl:6969/announce
 
@@ -43,6 +39,8 @@ http://torrentsmd.me:8080/announce
 http://share.camoe.cn:8080/announce
 
 http://retracker.omsk.ru:2710/announce
+
+http://pt.lax.mx:80/announce
 
 http://explodie.org:6969/announce
 
