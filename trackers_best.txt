@@ -1,5 +1,3 @@
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.safe.moe:6969/announce
@@ -8,25 +6,29 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.pirateparty.gr:6969/announce
 
-udp://tracker.mg64.net:6969/announce
+udp://tracker.cyberia.is:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://bt.aoeex.com:8000/announce
+
 udp://allesanddro.de:1337/announce
+
+udp://9.rarbg.to:2740/announce
+
+udp://9.rarbg.to:2730/announce
+
+udp://9.rarbg.me:2780/announce
+
+udp://9.rarbg.com:2770/announce
 
 udp://9.rarbg.com:2710/announce
 
-http://p4p.arenabg.com:1337/announce
-
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.internetwarriors.net:1337/announce
-
-udp://tracker.opentrackr.org:1337/announce
+http://p4p.arenabg.com:1337/announce
 
 udp://trackerxyz.tk:1337/announce
 
@@ -35,6 +37,4 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
-
-udp://tracker.zer0day.to:1337/announce
 
