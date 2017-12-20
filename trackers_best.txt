@@ -12,9 +12,11 @@ http://p4p.arenabg.com:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.internetwarriors.net:1337/announce
 
-http://tracker.internetwarriors.net:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -23,8 +25,6 @@ udp://tracker.safe.moe:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 udp://wambo.club:1337/announce
 
