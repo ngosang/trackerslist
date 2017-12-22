@@ -4,13 +4,13 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.mg64.net:6881/announce
 
 http://mgtracker.org:6969/announce
 
 http://ipv4.tracker.harry.lu:80/announce
-
-http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -28,13 +28,15 @@ http://retracker.mgts.by:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://fxtt.ru:80/announce
+http://omg.wtftrackr.pw:1337/announce
 
 http://agusiq-torrents.pl:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.tfile.me:80/announce
+
+http://tracker.btsync.cf:2710/announce
 
 http://torrentsmd.me:8080/announce
 
@@ -45,8 +47,6 @@ http://sandrotracker.biz:1337/announce
 http://retracker.omsk.ru:2710/announce
 
 http://pt.lax.mx:80/announce
-
-http://omg.wtftrackr.pw:1337/announce
 
 http://explodie.org:6969/announce
 
