@@ -6,6 +6,8 @@ udp://9.rarbg.to:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.safe.moe:6969/announce
@@ -13,14 +15,6 @@ udp://tracker.safe.moe:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.internetwarriors.net:1337/announce
-
-udp://wambo.club:1337/announce
-
-udp://trackerxyz.tk:1337/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.christianbro.pw:6969/announce
 
@@ -32,31 +26,13 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://peerfect.org:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://mgtracker.org:6969/announce
+
+udp://tracker.mg64.net:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.halfchub.club:6969/announce
-
-udp://tracker.grepler.com:6969/announce
-
-udp://tracker.files.fm:6969/announce
-
-udp://tracker.dutchtracking.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.desu.sh:6969/announce
-
-udp://tracker.cypherpunks.ru:6969/announce
-
-udp://thetracker.org:80/announce
-
-udp://retracker.nts.su:2710/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -74,6 +50,20 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
+udp://tracker.halfchub.club:6969/announce
+
+udp://tracker.grepler.com:6969/announce
+
+udp://tracker.files.fm:6969/announce
+
+udp://tracker.dutchtracking.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.desu.sh:6969/announce
+
+udp://tracker.cypherpunks.ru:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.christianbro.pw:6969/announce
@@ -82,6 +72,8 @@ udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.acg.gg:2710/announce
 
+udp://thetracker.org:80/announce
+
 udp://tc.animereactor.ru:8082/announce
 
 udp://sd-95.allfon.net:2710/announce
@@ -89,6 +81,8 @@ udp://sd-95.allfon.net:2710/announce
 udp://santost12.xyz:6969/announce
 
 udp://sandrotracker.biz:1337/announce
+
+udp://retracker.nts.su:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -107,6 +101,12 @@ udp://bt.xxx-tracker.com:2710/announce
 udp://bt.aoeex.com:8000/announce
 
 udp://allesanddro.de:1337/announce
+
+udp://wambo.club:1337/announce
+
+udp://trackerxyz.tk:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.kamigami.org:2710/announce
 
