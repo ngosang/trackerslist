@@ -1,6 +1,6 @@
-udp://tracker.leechers-paradise.org:6969/announce
-
 udp://tracker.coppersurfer.tk:6969/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -41,8 +41,6 @@ udp://tracker.vanitycore.co:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://zephir.monocul.us:6969/announce
-
-udp://z.crazyhd.com:2710/announce
 
 udp://tracker.xku.tv:6969/announce
 
@@ -107,6 +105,8 @@ udp://bt.xxx-tracker.com:2710/announce
 udp://bt.aoeex.com:8000/announce
 
 udp://allesanddro.de:1337/announce
+
+udp://z.crazyhd.com:2710/announce
 
 udp://tracker.kamigami.org:2710/announce
 
