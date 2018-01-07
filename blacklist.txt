@@ -23,6 +23,8 @@ http://tracker.pussytorrents.org:3000/announce # registered torrents
 http://tracker.torrentleech.org:2710/announce # registered torrents
 http://www.bit-hdtv.com:2710/announce # registered torrents
 http://www.blackcats-games.net:2228/announce # registered torrents
+http://bt.beatrice-raws.org:80/announce # registered torrents
+http://nyaa.tracker.wf:7777/announce # registered torrents
 http://bt.hliang.com:2710/announce # registered torrents
 http://bt.zlofenix.org:81/announce # registered torrents
 http://hdreactor.org:2710/announce # registered torrents
