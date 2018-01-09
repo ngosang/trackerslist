@@ -1,6 +1,6 @@
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -34,13 +34,13 @@ udp://peerfect.org:6969/announce
 
 udp://tracker.mg64.net:6969/announce
 
-udp://retracker.nts.su:2710/announce
-
 udp://mgtracker.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://zephir.monocul.us:6969/announce
+
+udp://z.crazyhd.com:2710/announce
 
 udp://tracker.xku.tv:6969/announce
 
@@ -86,6 +86,8 @@ udp://santost12.xyz:6969/announce
 
 udp://sandrotracker.biz:1337/announce
 
+udp://retracker.nts.su:2710/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://retracker.coltel.ru:2710/announce
@@ -96,9 +98,13 @@ udp://open.stealth.si:80/announce
 
 udp://inferno.demonoid.pw:3418/announce
 
-udp://allesanddro.de:1337/announce
+udp://explodie.org:6969/announce
 
-udp://z.crazyhd.com:2710/announce
+udp://bt.xxx-tracker.com:2710/announce
+
+udp://bt.aoeex.com:8000/announce
+
+udp://allesanddro.de:1337/announce
 
 udp://tracker.kamigami.org:2710/announce
 
@@ -107,12 +113,6 @@ udp://tracker.justseed.it:1337/announce
 udp://tracker.cyberia.is:6969/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
-
-udp://explodie.org:6969/announce
-
-udp://bt.xxx-tracker.com:2710/announce
-
-udp://bt.aoeex.com:8000/announce
 
 udp://104.238.198.186:8000/announce
 
