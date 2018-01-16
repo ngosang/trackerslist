@@ -1,16 +1,18 @@
 http://p4p.arenabg.com:1337/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
 
-http://mgtracker.org:6969/announce
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.mg64.net:6881/announce
+
+http://mgtracker.org:6969/announce
 
 http://tracker.city9x.com:2710/announce
 
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
@@ -24,9 +26,11 @@ http://retracker.mgts.by:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://agusiq-torrents.pl:6969/announce
+http://omg.wtftrackr.pw:1337/announce
 
 http://tracker.tfile.me:80/announce
+
+http://tracker.btsync.gq:2710/announce
 
 http://share.camoe.cn:8080/announce
 
@@ -35,6 +39,8 @@ http://retracker.omsk.ru:2710/announce
 http://open.acgnxtracker.com:80/announce
 
 http://explodie.org:6969/announce
+
+http://agusiq-torrents.pl:6969/announce
 
 http://104.238.198.186:8000/announce
 
