@@ -16,21 +16,19 @@ http://tracker.vanitycore.co:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
-http://torrentsmd.me:8080/announce
-
 http://sandrotracker.biz:1337/announce
 
 http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://omg.wtftrackr.pw:1337/announce
+
+http://fxtt.ru:80/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.btsync.gq:2710/announce
+http://torrentsmd.me:8080/announce
 
 http://share.camoe.cn:8080/announce
 
