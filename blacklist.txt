@@ -1,5 +1,4 @@
 http://bt-club.ws/announce # error
-http://ulfbrueggemann.no-ip.org:6969/announce # not verified
 http://tracker.zaerc.com/announce # not verified
 http://tracker.files.fm:6969/announce # malfunction
 http://open.touki.ru/announce.php # malfunction
@@ -24,6 +23,8 @@ http://tracker.pussytorrents.org:3000/announce # registered torrents
 http://tracker.torrentleech.org:2710/announce # registered torrents
 http://www.bit-hdtv.com:2710/announce # registered torrents
 http://www.blackcats-games.net:2228/announce # registered torrents
+http://bt.beatrice-raws.org:80/announce # registered torrents
+http://nyaa.tracker.wf:7777/announce # registered torrents
 http://bt.hliang.com:2710/announce # registered torrents
 http://bt.zlofenix.org:81/announce # registered torrents
 http://hdreactor.org:2710/announce # registered torrents
@@ -108,16 +109,12 @@ http://t2.pow7.com/announce # duplicate of http://tracker.tfile.me/announce
 http://mgtracker.org:2710/announce # duplicate of http://mgtracker.org:6969/announce
 http://mgtracker.org:6881/announce # duplicate of http://mgtracker.org:6969/announce
 http://thetracker.org/announce # duplicate of http://tracker.bittorrent.am/announce
-udp://berylliumsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://bismuthsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://galliumsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://germaniumsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://ironsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://poloniumsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://rhodiumsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://tinsurfer.tk:6969/announce # duplicate of udp://tracker.yoshi210.com:6969/announce
-udp://9.rarbg.me:2710/announce # duplicate of udp://9.rarbg.com:2710/announce
-udp://9.rarbg.to:2710/announce # duplicate of udp://9.rarbg.com:2710/announce
+udp://9.rarbg.to:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.me:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://tracker.doko.moe:6969/announce # duplicate of udp://tracker.uw0.xyz:6969/announce
 udp://tracker.mg64.net:2710/announce # duplicate of udp://tracker.mg64.net:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.ilibr.org:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -127,9 +124,9 @@ udp://shadowshq.eddie4.nl:6969/announce # duplicate of udp://tracker.leechers-pa
 udp://shadowshq.yi.org:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
 udp://tracker.eddie4.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
 http://tracker.dutchtracking.com/announce # duplicate of http://tracker.dutchtracking.nl/announce
-http://tracker.opentrackr.org/announce # duplicate of http://tracker.opentrackr.org:1337/announce
-http://www.opentrackr.org/announce # duplicate of http://tracker.opentrackr.org:1337/announce
-http://opentrackr.org/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://tracker.opentrackr.org:80/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://www.opentrackr.org:80/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://opentrackr.org:80/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 http://opentrackr.org:1337/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 http://tracker.acg.gg:1578/announce # duplicate of http://tracker.acg.gg:2710/announce
 http://zaerc.com/announce # duplicate of http://tracker.zaerc.com/announce
@@ -144,3 +141,4 @@ http://torrentsmd.com:8080/announce # duplicate of http://torrentsmd.me:8080/ann
 http://torrentsmd.eu:8080/announce # duplicate of http://torrentsmd.me:8080/announce
 http://tracker.tfile.co:80/announce # duplicate of http://tracker.tfile.me:80/announce
 udp://inferno.demonoid.ooo:3389/announce # duplicate of udp://inferno.demonoid.pw:3418/announce
+udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce

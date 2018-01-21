@@ -1,4 +1,2 @@
-https://tracker.bittor.xyz:443/announce
-
-https://opentracker-milanesi.rhcloud.com:443/announce
+https://open.acgnxtracker.com:443/announce
 
