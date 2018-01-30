@@ -119,10 +119,11 @@ udp://tracker.mg64.net:2710/announce # duplicate of udp://tracker.mg64.net:6969/
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.ilibr.org:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.ilibr.org:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
-udp://eddie4.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
-udp://shadowshq.eddie4.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
-udp://shadowshq.yi.org:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
-udp://tracker.eddie4.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
+udp://eddie4.nl:6969/announce # duplicate of udp://tracker.open-internet.nl:6969/announce
+udp://shadowshq.eddie4.nl:6969/announce # duplicate of udp://tracker.open-internet.nl:6969/announce
+udp://shadowshq.yi.org:6969/announce # duplicate of udp://tracker.open-internet.nl:6969/announce
+udp://tracker.eddie4.nl:6969/announce # duplicate of udp://tracker.open-internet.nl:6969/announce
+udp://tracker.leechers-paradise.org:6969/announce # duplicate of udp://tracker.open-internet.nl:6969/announce
 http://tracker.dutchtracking.com/announce # duplicate of http://tracker.dutchtracking.nl/announce
 http://tracker.opentrackr.org:80/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 http://www.opentrackr.org:80/announce # duplicate of http://tracker.opentrackr.org:1337/announce
