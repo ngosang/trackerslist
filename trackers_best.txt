@@ -18,14 +18,6 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://z.crazyhd.com:2710/announce
-
-udp://wambo.club:1337/announce
-
-udp://trackerxyz.tk:1337/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
@@ -37,4 +29,12 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
+
+udp://inferno.demonoid.pw:3418/announce
+
+udp://tracker.mg64.net:6969/announce
+
+udp://open.facedatabg.net:6969/announce
+
+udp://mgtracker.org:6969/announce
 
