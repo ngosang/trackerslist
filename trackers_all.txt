@@ -1,3 +1,5 @@
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
@@ -38,8 +40,6 @@ udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
@@ -54,13 +54,13 @@ udp://thetracker.org:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://oscar.reyesleon.xyz:6969/announce
-
-udp://open.stealth.si:80/announce
+udp://tracker.christianbro.pw:6969/announce
 
 http://tracker.city9x.com:2710/announce
 
-http://retracker.telecom.by:80/announce
+ws://tracker.btsync.cf:2710/announce
+
+udp://zephir.monocul.us:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
 
@@ -76,21 +76,17 @@ udp://tracker.desu.sh:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.christianbro.pw:6969/announce
-
 udp://pubt.in:2710/announce
 
-ws://tracker.btsync.cf:2710/announce
+udp://oscar.reyesleon.xyz:6969/announce
 
-udp://zephir.monocul.us:6969/announce
+udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.uw0.xyz:6969/announce
+http://retracker.telecom.by:80/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
-http://sandrotracker.biz:1337/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tc.animereactor.ru:8082/announce
 
@@ -100,13 +96,17 @@ udp://santost12.xyz:6969/announce
 
 udp://sandrotracker.biz:1337/announce
 
-http://alpha.torrenttracker.nl:443/announce
-
-http://0d.kebhana.mx:443/announce
+udp://tracker.mg64.net:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
 
+http://sandrotracker.biz:1337/announce
+
+http://0d.kebhana.mx:443/announce
+
 udp://peerfect.org:6969/announce
+
+http://alpha.torrenttracker.nl:443/announce
 
 udp://explodie.org:6969/announce
 
@@ -122,8 +122,6 @@ udp://z.crazyhd.com:2710/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://retracker.nts.su:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -136,7 +134,7 @@ udp://104.238.198.186:8000/announce
 
 https://open.acgnxtracker.com:443/announce
 
-https://evening-badlands-6215.herokuapp.com:443/announce
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -154,13 +152,13 @@ http://agusiq-torrents.pl:6969/announce
 
 http://104.238.198.186:8000/announce
 
+udp://tracker.uw0.xyz:6969/announce
+
 udp://tracker.justseed.it:1337/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
 
 https://open.kickasstracker.com:443/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -173,8 +171,6 @@ http://tracker.mg64.net:6881/announce
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.electro-torrent.pl:80/announce
-
-http://tracker.btsync.gq:2710/announce
 
 http://torrentsmd.me:8080/announce
 
