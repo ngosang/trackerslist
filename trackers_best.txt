@@ -1,5 +1,3 @@
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
@@ -20,6 +18,10 @@ udp://allesanddro.de:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
+udp://trackerxyz.tk:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
@@ -35,6 +37,4 @@ udp://tracker.xku.tv:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.mg64.net:6969/announce
-
-udp://open.facedatabg.net:6969/announce
 
