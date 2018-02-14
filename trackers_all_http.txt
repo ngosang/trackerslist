@@ -2,15 +2,13 @@ http://tracker.city9x.com:2710/announce
 
 http://retracker.telecom.by:80/announce
 
+http://alpha.torrenttracker.nl:443/announce
+
 http://sandrotracker.biz:1337/announce
 
 http://0d.kebhana.mx:443/announce
 
 http://retracker.mgts.by:80/announce
-
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -20,9 +18,13 @@ http://open.kickasstracker.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://fxtt.ru:80/announce
+
 http://agusiq-torrents.pl:6969/announce
 
 http://104.238.198.186:8000/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -44,8 +46,6 @@ http://servandroidkino.ru:80/announce
 
 http://retracker.omsk.ru:2710/announce
 
-http://pt.lax.mx:80/announce
-
 http://p4p.arenabg.com:1337/announce
 
 http://open.acgtracker.com:1096/announce
@@ -55,6 +55,4 @@ http://omg.wtftrackr.pw:1337/announce
 http://mgtracker.org:6969/announce
 
 http://bt.dl1234.com:80/announce
-
-http://alpha.torrenttracker.nl:443/announce
 
