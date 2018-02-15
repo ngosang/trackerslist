@@ -1,14 +1,10 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.open-internet.nl:6969/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
-udp://allesanddro.de:1337/announce
-
-udp://9.rarbg.to:2710/announce
+udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -17,6 +13,10 @@ udp://tracker.safe.moe:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://allesanddro.de:1337/announce
+
+udp://9.rarbg.to:2710/announce
 
 udp://trackerxyz.tk:1337/announce
 
@@ -40,8 +40,6 @@ udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.bluefrog.pw:2710/announce
@@ -50,9 +48,9 @@ udp://tracker.acg.gg:2710/announce
 
 udp://thetracker.org:80/announce
 
-udp://zephir.monocul.us:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://zephir.monocul.us:6969/announce
 
 udp://tracker.halfchub.club:6969/announce
 
@@ -74,15 +72,25 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tc.animereactor.ru:8082/announce
+
+udp://sd-95.allfon.net:2710/announce
+
+udp://santost12.xyz:6969/announce
+
+udp://sandrotracker.biz:1337/announce
+
 udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.kamigami.org:2710/announce
+udp://tracker.mg64.net:6969/announce
 
-udp://peerfect.org:6969/announce
+udp://tracker.kamigami.org:2710/announce
 
 udp://explodie.org:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
+
+udp://peerfect.org:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -94,16 +102,6 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://tracker.cyberia.is:6969/announce
-
-udp://tc.animereactor.ru:8082/announce
-
-udp://sd-95.allfon.net:2710/announce
-
-udp://santost12.xyz:6969/announce
-
-udp://sandrotracker.biz:1337/announce
-
 udp://retracker.nts.su:2710/announce
 
 udp://oscar.reyesleon.xyz:6969/announce
@@ -113,6 +111,8 @@ udp://bt.aoeex.com:8000/announce
 udp://104.238.198.186:8000/announce
 
 udp://tracker.justseed.it:1337/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
 
