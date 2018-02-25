@@ -1,8 +1,14 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 udp://p4p.arenabg.com:1337/announce
+
+udp://bt.aoeex.com:8000/announce
+
+udp://allesanddro.de:1337/announce
+
+udp://9.rarbg.to:2710/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -12,9 +18,7 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://allesanddro.de:1337/announce
-
-udp://9.rarbg.to:2710/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.open-internet.nl:6969/announce
 
@@ -30,11 +34,11 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
+udp://inferno.demonoid.pw:3418/announce
+
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
-
-udp://inferno.demonoid.pw:3418/announce
 
 udp://tracker.mg64.net:6969/announce
 
@@ -78,9 +82,13 @@ http://retracker.telecom.by:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tc.animereactor.ru:8082/announce
 
@@ -92,21 +100,17 @@ udp://sandrotracker.biz:1337/announce
 
 http://sandrotracker.biz:1337/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
-http://retracker.mgts.by:80/announce
+http://0d.kebhana.mx:443/announce
 
 udp://retracker.coltel.ru:2710/announce
 
-http://0d.kebhana.mx:443/announce
+http://retracker.mgts.by:80/announce
+
+http://alpha.torrenttracker.nl:443/announce
 
 udp://tracker.kamigami.org:2710/announce
 
 udp://peerfect.org:6969/announce
-
-http://alpha.torrenttracker.nl:443/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
@@ -116,25 +120,21 @@ wss://tracker.btorrent.xyz:443/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://bt.aoeex.com:8000/announce
-
 https://open.kickasstracker.com:443/announce
 
 https://open.acgnxtracker.com:443/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://torrent.nwps.ws:6969/announce
 
 http://retracker.spark-rostov.ru:80/announce
-
-http://retracker.bashtel.ru:80/announce
 
 http://open.kickasstracker.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
 udp://z.crazyhd.com:2710/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.justseed.it:1337/announce
 
@@ -158,11 +158,7 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.mg64.net:6881/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.electro-torrent.pl:80/announce
 
@@ -181,8 +177,6 @@ http://open.acgtracker.com:1096/announce
 http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
-
-http://fxtt.ru:80/announce
 
 http://bt.dl1234.com:80/announce
 
