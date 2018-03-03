@@ -1,10 +1,4 @@
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.coppersurfer.tk:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.safe.moe:6969/announce
 
@@ -37,4 +31,10 @@ udp://tracker.xku.tv:6969/announce
 udp://tracker.vanitycore.co:6969/announce
 
 udp://inferno.demonoid.pw:3418/announce
+
+udp://tracker.mg64.net:6969/announce
+
+udp://open.facedatabg.net:6969/announce
+
+udp://mgtracker.org:6969/announce
 
