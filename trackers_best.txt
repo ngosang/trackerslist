@@ -1,5 +1,7 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.safe.moe:6969/announce
 
 udp://tracker.piratepublic.com:1337/announce
@@ -26,15 +28,13 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
+udp://inferno.demonoid.pw:3418/announce
+
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://inferno.demonoid.pw:3418/announce
-
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
