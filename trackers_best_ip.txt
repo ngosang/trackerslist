@@ -2,6 +2,8 @@ udp://62.138.0.158:6969/announce
 
 udp://87.233.192.220:6969/announce
 
+udp://144.48.4.55:6969/announce
+
 udp://109.236.91.32:6969/announce
 
 udp://90.179.64.91:1337/announce
@@ -30,11 +32,9 @@ udp://78.142.19.42:1337/announce
 
 udp://191.96.249.23:6969/announce
 
-udp://91.212.150.191:3418/announce
-
 udp://173.254.219.72:6969/announce
 
 udp://51.15.76.199:6969/announce
 
-udp://5.79.83.194:6969/announce
+udp://91.212.150.191:3418/announce
 

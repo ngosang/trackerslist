@@ -10,6 +10,10 @@ http://retracker.telecom.by:80/announce
 
 http://sandrotracker.biz:1337/announce
 
+http://tracker.opentrackr.org:1337/announce
+
+http://tracker.mg64.net:6881/announce
+
 http://torrent.nwps.ws:6969/announce
 
 http://retracker.spark-rostov.ru:80/announce
@@ -26,10 +30,6 @@ http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.tfile.me:80/announce
 
-http://tracker.opentrackr.org:1337/announce
-
-http://tracker.mg64.net:6881/announce
-
 http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -45,8 +45,6 @@ http://retracker.omsk.ru:2710/announce
 http://p4p.arenabg.com:1337/announce
 
 http://open.kickasstracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://omg.wtftrackr.pw:1337/announce
 
