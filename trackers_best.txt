@@ -12,6 +12,14 @@ udp://bt.aoeex.com:8000/announce
 
 udp://9.rarbg.to:2710/announce
 
+udp://p4p.arenabg.com:1337/announce
+
+udp://tracker.internetwarriors.net:1337/announce
+
+udp://pubt.in:2710/announce
+
+udp://public.popcorn-tracker.org:6969/announce
+
 udp://trackerxyz.tk:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
@@ -22,19 +30,11 @@ udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
 
-udp://public.popcorn-tracker.org:6969/announce
-
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
 udp://inferno.demonoid.pw:3418/announce
-
-udp://tracker.mg64.net:6969/announce
-
-udp://open.facedatabg.net:6969/announce
-
-udp://mgtracker.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
