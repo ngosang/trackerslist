@@ -8,10 +8,6 @@ udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
-udp://p4p.arenabg.com:1337/announce
-
 udp://bt.aoeex.com:8000/announce
 
 udp://9.rarbg.to:2710/announce
@@ -46,7 +42,11 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://thetracker.org:80/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://open.stealth.si:80/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.halfchub.club:6969/announce
 
