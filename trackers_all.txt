@@ -36,15 +36,15 @@ udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://tracker.mg64.net:6969/announce
 
 udp://thetracker.org:80/announce
 
-http://tracker.city9x.com:2710/announce
-
 udp://open.stealth.si:80/announce
+
+http://tracker.city9x.com:2710/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -64,8 +64,6 @@ udp://explodie.org:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-http://retracker.telecom.by:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 http://retracker.mgts.by:80/announce
@@ -74,15 +72,13 @@ http://0d.kebhana.mx:443/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+http://retracker.telecom.by:80/announce
+
 udp://tracker.christianbro.pw:6969/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.acg.gg:2710/announce
-
-udp://pubt.in:2710/announce
-
-http://alpha.torrenttracker.nl:443/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
@@ -96,6 +92,8 @@ udp://zephir.monocul.us:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
+udp://pubt.in:2710/announce
+
 udp://tracker.kamigami.org:2710/announce
 
 udp://retracker.coltel.ru:2710/announce
@@ -103,6 +101,8 @@ udp://retracker.coltel.ru:2710/announce
 udp://peerfect.org:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
+
+https://open.kickasstracker.com:443/announce
 
 https://open.acgnxtracker.com:443/announce
 
@@ -112,11 +112,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://torrent.nwps.ws:6969/announce
 
-http://servandroidkino.ru:80/announce
-
 http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.bashtel.ru:80/announce
+
+http://open.kickasstracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -140,8 +142,6 @@ udp://packages.crunchbangplusplus.org:6969/announce
 
 udp://104.238.198.186:8000/announce
 
-https://open.kickasstracker.com:443/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -158,11 +158,9 @@ http://torrentsmd.me:8080/announce
 
 http://share.camoe.cn:8080/announce
 
+http://servandroidkino.ru:80/announce
+
 http://p4p.arenabg.com:1337/announce
-
-http://open.kickasstracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://omg.wtftrackr.pw:1337/announce
 
