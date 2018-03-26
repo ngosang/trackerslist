@@ -36,5 +36,5 @@ udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://tracker.mg64.net:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
