@@ -12,7 +12,7 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.bashtel.ru:80/announce
 
-http://open.kickasstracker.com:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -36,13 +36,11 @@ http://servandroidkino.ru:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
-http://open.acgtracker.com:1096/announce
+http://open.kickasstracker.com:80/announce
 
 http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
-
-http://fxtt.ru:80/announce
 
 http://bt.dl1234.com:80/announce
 
