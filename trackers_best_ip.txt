@@ -30,11 +30,11 @@ udp://51.15.76.199:6969/announce
 
 udp://91.212.150.191:3418/announce
 
-udp://103.224.212.222:6969/announce
-
-udp://77.91.229.218:6969/announce
-
 udp://51.15.40.114:80/announce
 
-udp://127.0.0.1:6969/announce
+udp://103.224.212.222:6969/announce
+
+udp://5.79.83.194:6969/announce
+
+udp://92.241.171.245:6969/announce
 
