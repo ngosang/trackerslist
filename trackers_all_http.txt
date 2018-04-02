@@ -14,8 +14,6 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://retracker.bashtel.ru:80/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -39,6 +37,8 @@ http://servandroidkino.ru:80/announce
 http://open.kickasstracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
+
+http://open.acgnxtracker.com:80/announce
 
 http://omg.wtftrackr.pw:1337/announce
 
