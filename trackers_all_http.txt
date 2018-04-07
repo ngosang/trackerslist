@@ -10,10 +10,6 @@ http://tracker.skyts.net:6969/announce
 
 http://torrent.nwps.ws:6969/announce
 
-http://open.acgnxtracker.com:80/announce
-
-http://omg.wtftrackr.pw:1337/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -40,7 +36,11 @@ http://open.kickasstracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://omg.wtftrackr.pw:1337/announce
+
 http://mgtracker.org:6969/announce
+
+http://fxtt.ru:80/announce
 
 http://bt.dl1234.com:80/announce
 
