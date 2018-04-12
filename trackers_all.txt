@@ -14,6 +14,12 @@ udp://9.rarbg.to:2710/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
+udp://wambo.club:1337/announce
+
+udp://trackerxyz.tk:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker2.christianbro.pw:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
@@ -26,13 +32,23 @@ udp://tracker.vanitycore.co:6969/announce
 
 udp://inferno.demonoid.pw:3418/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://tracker.mg64.net:6969/announce
-
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
+
+udp://tracker.christianbro.pw:6969/announce
+
+udp://tracker.bluefrog.pw:2710/announce
+
+udp://tracker.acg.gg:2710/announce
+
+udp://thetracker.org:80/announce
+
+http://tracker.city9x.com:2710/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -48,12 +64,6 @@ udp://tracker.desu.sh:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://thetracker.org:80/announce
-
-http://tracker.city9x.com:2710/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://open.stealth.si:80/announce
@@ -62,9 +72,9 @@ udp://explodie.org:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 http://retracker.mgts.by:80/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -86,6 +96,8 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://tracker.kamigami.org:2710/announce
 
 udp://retracker.coltel.ru:2710/announce
@@ -94,23 +106,11 @@ udp://pubt.in:2710/announce
 
 udp://peerfect.org:6969/announce
 
-udp://wambo.club:1337/announce
-
-udp://trackerxyz.tk:1337/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker.christianbro.pw:6969/announce
-
-udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.acg.gg:2710/announce
-
 https://evening-badlands-6215.herokuapp.com:443/announce
 
-http://torrent.nwps.ws:6969/announce
+http://tracker.skyts.net:6969/announce
 
-http://open.acgtracker.com:1096/announce
+http://torrent.nwps.ws:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
@@ -146,6 +146,8 @@ http://tracker.tfile.me:80/announce
 
 http://tracker.mg64.net:6881/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.electro-torrent.pl:80/announce
 
 http://torrentsmd.me:8080/announce
@@ -159,6 +161,8 @@ http://share.camoe.cn:8080/announce
 http://servandroidkino.ru:80/announce
 
 http://open.kickasstracker.com:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
