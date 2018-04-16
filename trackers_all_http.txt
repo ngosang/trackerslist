@@ -34,10 +34,6 @@ http://share.camoe.cn:8080/announce
 
 http://servandroidkino.ru:80/announce
 
-http://open.kickasstracker.com:80/announce
-
-http://open.acgtracker.com:1096/announce
-
 http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
