@@ -82,19 +82,19 @@ udp://retracker.nts.su:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://zephir.monocul.us:6969/announce
-
-udp://tracker.uw0.xyz:6969/announce
-
 udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.kamigami.org:2710/announce
 
 udp://retracker.coltel.ru:2710/announce
 
 udp://pubt.in:2710/announce
 
+udp://zephir.monocul.us:6969/announce
+
+udp://tracker.kamigami.org:2710/announce
+
 udp://peerfect.org:6969/announce
+
+udp://tracker.uw0.xyz:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
