@@ -143,3 +143,5 @@ http://torrentsmd.eu:8080/announce # duplicate of http://torrentsmd.me:8080/anno
 http://tracker.tfile.co:80/announce # duplicate of http://tracker.tfile.me:80/announce
 udp://inferno.demonoid.ooo:3389/announce # duplicate of udp://inferno.demonoid.pw:3418/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.christianbro.pw:6969/announce # wrong DNS pointing to 127.0.0.1
+udp://tracker2.christianbro.pw:6969/announce # wrong DNS pointing to 127.0.0.1
