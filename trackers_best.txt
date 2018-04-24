@@ -2,8 +2,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.piratepublic.com:1337/announce
@@ -13,6 +11,10 @@ udp://tracker.opentrackr.org:1337/announce
 udp://allesanddro.de:1337/announce
 
 udp://9.rarbg.to:2710/announce
+
+udp://retracker.coltel.ru:2710/announce
+
+udp://pubt.in:2710/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
@@ -28,13 +30,11 @@ udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://inferno.demonoid.pw:3418/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://inferno.demonoid.pw:3418/announce
 
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
