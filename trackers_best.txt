@@ -36,5 +36,5 @@ udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://thetracker.org:80/announce
+http://tracker.city9x.com:2710/announce
 
