@@ -16,6 +16,22 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
 
+http://tracker1.itzmx.com:8080/announce
+
+http://tracker2.itzmx.com:6961/announce
+
+http://tracker3.itzmx.com:6961/announce
+
+http://tracker4.itzmx.com:2710/announce
+
+udp://tracker1.itzmx.com:8080/announce
+
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker.zer0day.to:1337/announce
 
 udp://tracker.xku.tv:6969/announce
@@ -102,8 +118,6 @@ udp://zephir.monocul.us:6969/announce
 
 udp://wambo.club:1337/announce
 
-udp://tracker4.itzmx.com:2710/announce
-
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -135,8 +149,6 @@ udp://packages.crunchbangplusplus.org:6969/announce
 udp://104.238.198.186:8000/announce
 
 https://open.acgnxtracker.com:443/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
 
