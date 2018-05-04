@@ -1,8 +1,8 @@
 http://tracker.city9x.com:2710/announce
 
-http://retracker.mgts.by:80/announce
-
 http://retracker.telecom.by:80/announce
+
+http://retracker.mgts.by:80/announce
 
 http://alpha.torrenttracker.nl:443/announce
 
@@ -11,10 +11,6 @@ http://0d.kebhana.mx:443/announce
 http://tracker.skyts.net:6969/announce
 
 http://torrent.nwps.ws:6969/announce
-
-http://open.acgnxtracker.com:80/announce
-
-http://agusiq-torrents.pl:6969/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -38,9 +34,17 @@ http://open.kickasstracker.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://open.acgnxtracker.com:80/announce
+
+http://omg.wtftrackr.pw:1337/announce
+
 http://mgtracker.org:6969/announce
 
+http://fxtt.ru:80/announce
+
 http://bt.dl1234.com:80/announce
+
+http://agusiq-torrents.pl:6969/announce
 
 http://104.238.198.186:8000/announce
 
