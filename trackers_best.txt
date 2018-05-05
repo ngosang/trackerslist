@@ -32,7 +32,7 @@ udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://tracker.mg64.net:6969/announce
+udp://thetracker.org:80/announce
 
 udp://p4p.arenabg.com:1337/announce
 
