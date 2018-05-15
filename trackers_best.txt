@@ -36,5 +36,5 @@ udp://tracker.mg64.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
+http://tracker.city9x.com:2710/announce
 
