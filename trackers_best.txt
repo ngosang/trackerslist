@@ -24,8 +24,6 @@ udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
@@ -37,4 +35,6 @@ udp://inferno.demonoid.pw:3418/announce
 udp://explodie.org:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
