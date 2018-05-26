@@ -1,7 +1,5 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.open-internet.nl:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.piratepublic.com:1337/announce
@@ -27,6 +25,8 @@ udp://tracker.zer0day.to:1337/announce
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
+
+udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.mg64.net:6969/announce
 
