@@ -1,5 +1,3 @@
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.open-internet.nl:6969/announce
@@ -37,4 +35,6 @@ udp://tracker.mg64.net:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://inferno.demonoid.pw:3418/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
