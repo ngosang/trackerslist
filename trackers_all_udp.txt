@@ -26,6 +26,8 @@ udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
@@ -83,8 +85,6 @@ udp://tracker.acg.gg:2710/announce
 udp://torr.ws:2710/announce
 
 udp://zephir.monocul.us:6969/announce
-
-udp://tracker.mg64.net:6969/announce
 
 udp://tracker.martlet.tk:6969/announce
 

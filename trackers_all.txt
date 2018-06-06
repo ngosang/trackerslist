@@ -26,6 +26,8 @@ udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
@@ -102,8 +104,6 @@ ws://tracker.btsync.cf:2710/announce
 
 udp://zephir.monocul.us:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://tracker.martlet.tk:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -114,7 +114,7 @@ udp://pubt.in:2710/announce
 
 udp://peerfect.org:6969/announce
 
-http://fxtt.ru:80/announce
+https://evening-badlands-6215.herokuapp.com:443/announce
 
 udp://z.crazyhd.com:2710/announce
 
@@ -148,7 +148,7 @@ http://t.nyaatracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://servandroidkino.ru:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
