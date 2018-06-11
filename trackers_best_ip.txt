@@ -26,15 +26,15 @@ udp://173.254.219.72:6969/announce
 
 udp://51.15.76.199:6969/announce
 
+udp://77.91.229.218:6969/announce
+
 udp://103.224.182.250:6969/announce
 
-udp://37.19.5.139:6969/announce
+udp://5.79.83.194:6969/announce
 
 udp://51.15.40.114:80/announce
 
 udp://91.212.150.191:3418/announce
 
 udp://5.79.209.57:6969/announce
-
-udp://82.118.242.198:1337/announce
 
