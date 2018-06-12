@@ -14,6 +14,8 @@ udp://9.rarbg.to:2710/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
+udp://z.crazyhd.com:2710/announce
+
 udp://wambo.club:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
@@ -35,6 +37,4 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://inferno.demonoid.pw:3418/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
