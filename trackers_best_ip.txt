@@ -28,13 +28,13 @@ udp://51.15.76.199:6969/announce
 
 udp://103.224.212.222:6969/announce
 
-udp://37.19.5.155:6969/announce
+udp://5.79.83.193:6969/announce
+
+udp://5.79.83.194:6969/announce
 
 udp://51.15.40.114:80/announce
 
 udp://91.212.150.191:3418/announce
 
 udp://5.79.209.57:6969/announce
-
-udp://69.94.136.151:6969/announce
 
