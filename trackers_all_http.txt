@@ -8,9 +8,7 @@ http://0d.kebhana.mx:443/announce
 
 http://retracker.telecom.by:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://omg.wtftrackr.pw:1337/announce
+http://mgtracker.org:6969/announce
 
 http://fxtt.ru:80/announce
 
@@ -32,7 +30,11 @@ http://t.nyaatracker.com:80/announce
 
 http://share.camoe.cn:8080/announce
 
-http://mgtracker.org:6969/announce
+http://open.acgtracker.com:1096/announce
+
+http://omg.wtftrackr.pw:1337/announce
 
 http://bt.dl1234.com:80/announce
+
+http://agusiq-torrents.pl:6969/announce
 
