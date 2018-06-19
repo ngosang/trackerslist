@@ -10,7 +10,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://explodie.org:6969/announce
+
+udp://bt.xxx-tracker.com:2710/announce
+
 udp://9.rarbg.to:2710/announce
+
+udp://public.popcorn-tracker.org:6969/announce
 
 udp://wambo.club:1337/announce
 
@@ -24,8 +30,6 @@ udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://public.popcorn-tracker.org:6969/announce
-
 udp://open.facedatabg.net:6969/announce
 
 udp://mgtracker.org:6969/announce
@@ -33,8 +37,4 @@ udp://mgtracker.org:6969/announce
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://inferno.demonoid.pw:3418/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://thetracker.org:80/announce
 
