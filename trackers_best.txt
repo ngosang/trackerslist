@@ -1,6 +1,6 @@
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.open-internet.nl:6969/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -36,5 +36,5 @@ udp://inferno.demonoid.pw:3418/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.halfchub.club:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 
