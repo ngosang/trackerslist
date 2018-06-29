@@ -1,6 +1,6 @@
-udp://tracker.open-internet.nl:6969/announce
-
 udp://tracker.coppersurfer.tk:6969/announce
+
+udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -14,6 +14,10 @@ udp://9.rarbg.to:2710/announce
 
 udp://public.popcorn-tracker.org:6969/announce
 
+udp://wambo.club:1337/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker1.wasabii.com.tw:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
@@ -21,8 +25,6 @@ udp://tracker.zer0day.to:1337/announce
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
-
-udp://tracker.mg64.net:6969/announce
 
 udp://open.facedatabg.net:6969/announce
 
@@ -34,7 +36,5 @@ udp://inferno.demonoid.pw:3418/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.torrent.eu.org:451/announce
+udp://thetracker.org:80/announce
 
