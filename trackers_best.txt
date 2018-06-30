@@ -36,5 +36,5 @@ udp://inferno.demonoid.pw:3418/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://thetracker.org:80/announce
+udp://tracker.uw0.xyz:6969/announce
 
