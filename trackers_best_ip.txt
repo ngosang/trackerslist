@@ -34,7 +34,7 @@ udp://51.15.76.199:6969/announce
 
 udp://103.224.212.222:6969/announce
 
-udp://5.79.83.193:6969/announce
+udp://37.19.5.139:6969/announce
 
 udp://51.15.40.114:80/announce
 
