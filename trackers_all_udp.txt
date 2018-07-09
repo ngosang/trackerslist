@@ -14,29 +14,33 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://inferno.demonoid.pw:3418/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://thetracker.org:80/announce
-
 udp://bt.xxx-tracker.com:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://torr.ws:2710/announce
+udp://thetracker.org:80/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+udp://torr.ws:2710/announce
+
 udp://open.stealth.si:80/announce
+
+udp://tracker.uw0.xyz:6969/announce
+
+udp://peerfect.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
 udp://z.crazyhd.com:2710/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
 
@@ -45,8 +49,6 @@ udp://tracker.cyberia.is:6969/announce
 udp://tracker.acg.gg:2710/announce
 
 udp://pubt.in:2710/announce
-
-udp://peerfect.org:6969/announce
 
 udp://104.238.198.186:8000/announce
 
@@ -69,8 +71,6 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.piratepublic.com:1337/announce
-
-udp://tracker.mg64.net:6969/announce
 
 udp://tracker.martlet.tk:6969/announce
 
