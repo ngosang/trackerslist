@@ -14,7 +14,7 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://tracker.mg64.net:6969/announce
+udp://mgtracker.org:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -24,17 +24,17 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://thetracker.org:80/announce
 
-udp://bt.xxx-tracker.com:2710/announce
-
-udp://torr.ws:2710/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
+
+udp://bt.xxx-tracker.com:2710/announce
 
 http://tracker.city9x.com:2710/announce
 
 http://retracker.telecom.by:80/announce
 
-http://retracker.mgts.by:80/announce
+udp://tracker.acg.gg:2710/announce
+
+udp://torr.ws:2710/announce
 
