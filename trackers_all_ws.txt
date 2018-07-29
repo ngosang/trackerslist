@@ -1,5 +1,7 @@
 wss://tracker.openwebtorrent.com:443/announce
 
+wss://tracker.iamhansen.xyz:443/announce
+
 wss://tracker.fastcast.nz:443/announce
 
 wss://tracker.btorrent.xyz:443/announce
