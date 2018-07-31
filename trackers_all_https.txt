@@ -1,4 +1,4 @@
-https://1.track.ga:443/announce
+https://tracker.iamhansen.xyz:443/announce
 
 https://evening-badlands-6215.herokuapp.com:443/announce
 
