@@ -1,7 +1,5 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.open-internet.nl:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -18,9 +16,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://thetracker.org:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://thetracker.org:80/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -30,11 +28,13 @@ udp://bt.xxx-tracker.com:2710/announce
 
 http://retracker.telecom.by:80/announce
 
-http://retracker.mgts.by:80/announce
-
 udp://torr.ws:2710/announce
 
-http://tracker.city9x.com:2710/announce
-
 http://0d.kebhana.mx:443/announce
+
+udp://zephir.monocul.us:6969/announce
+
+udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.kamigami.org:2710/announce
 
