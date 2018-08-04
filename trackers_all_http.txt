@@ -4,9 +4,17 @@ http://tracker.city9x.com:2710/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://retracker.mgts.by:80/announce
 
-http://0d.kebhana.mx:443/announce
+http://open.acgtracker.com:1096/announce
+
+http://open.acgnxtracker.com:80/announce
+
+http://agusiq-torrents.pl:6969/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -21,10 +29,6 @@ http://tracker.internetwarriors.net:1337/announce
 http://tracker.electro-torrent.pl:80/announce
 
 http://share.camoe.cn:8080/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://open.acgnxtracker.com:80/announce
 
 http://mgtracker.org:6969/announce
 
