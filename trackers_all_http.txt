@@ -6,6 +6,10 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.mgts.by:80/announce
 
+http://fxtt.ru:80/announce
+
+http://0d.kebhana.mx:443/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
