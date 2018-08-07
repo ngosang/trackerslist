@@ -14,29 +14,21 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://mgtracker.org:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://thetracker.org:80/announce
-
-udp://open.stealth.si:80/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://torr.ws:2710/announce
+udp://tracker.torrent.eu.org:451/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
-http://t.nyaatracker.com:80/announce
-
-http://retracker.telecom.by:80/announce
-
-http://0d.kebhana.mx:443/announce
+udp://open.stealth.si:80/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -46,7 +38,13 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
 
+udp://tracker.iamhansen.xyz:2000/announce
+
 udp://tracker.cyberia.is:6969/announce
+
+udp://torr.ws:2710/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://pubt.in:2710/announce
 
@@ -59,6 +57,10 @@ https://open.acgnxtracker.com:443/announce
 https://evening-badlands-6215.herokuapp.com:443/announce
 
 http://tracker.city9x.com:2710/announce
+
+http://t.nyaatracker.com:80/announce
+
+http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
 
@@ -92,11 +94,7 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
 udp://tracker.justseed.it:1337/announce
-
-udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.halfchub.club:6969/announce
 
