@@ -1,10 +1,12 @@
+http://tracker.city9x.com:2710/announce
+
 http://retracker.telecom.by:80/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://tracker.city9x.com:2710/announce
-
 http://retracker.mgts.by:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -25,8 +27,6 @@ http://tracker.electro-torrent.pl:80/announce
 http://share.camoe.cn:8080/announce
 
 http://servandroidkino.ru:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://omg.wtftrackr.pw:1337/announce
 
