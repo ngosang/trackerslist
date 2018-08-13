@@ -6,8 +6,6 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -26,9 +24,13 @@ http://share.camoe.cn:8080/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
+
+http://fxtt.ru:80/announce
 
 http://104.238.198.186:8000/announce
 
