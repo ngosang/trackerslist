@@ -24,11 +24,7 @@ udp://tracker.cypherpunks.ru:6969/announce
 
 udp://thetracker.org:80/announce
 
-udp://open.stealth.si:80/announce
-
 udp://bt.xxx-tracker.com:2710/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -36,5 +32,9 @@ udp://torr.ws:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://peerfect.org:6969/announce
+udp://open.stealth.si:80/announce
+
+http://t.nyaatracker.com:80/announce
+
+http://retracker.telecom.by:80/announce
 
