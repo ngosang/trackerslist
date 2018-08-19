@@ -2,15 +2,11 @@ http://retracker.telecom.by:80/announce
 
 http://0d.kebhana.mx:443/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://tracker.city9x.com:2710/announce
 
-http://servandroidkino.ru:80/announce
+http://t.nyaatracker.com:80/announce
 
 http://retracker.mgts.by:80/announce
-
-http://fxtt.ru:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -35,6 +31,8 @@ http://open.acgnxtracker.com:80/announce
 http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
+
+http://fxtt.ru:80/announce
 
 http://agusiq-torrents.pl:6969/announce
 
