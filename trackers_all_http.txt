@@ -1,12 +1,10 @@
-http://t.nyaatracker.com:80/announce
-
 http://retracker.telecom.by:80/announce
 
 http://0d.kebhana.mx:443/announce
 
-http://tracker.electro-torrent.pl:80/announce
-
 http://tracker.city9x.com:2710/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://retracker.mgts.by:80/announce
 
@@ -23,6 +21,8 @@ http://tracker.tfile.me:80/announce
 http://tracker.mg64.net:6881/announce
 
 http://tracker.internetwarriors.net:1337/announce
+
+http://tracker.electro-torrent.pl:80/announce
 
 http://share.camoe.cn:8080/announce
 
