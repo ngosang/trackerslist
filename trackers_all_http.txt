@@ -1,10 +1,12 @@
-http://retracker.telecom.by:80/announce
+http://tracker.city9x.com:2710/announce
 
 http://0d.kebhana.mx:443/announce
 
-http://tracker.city9x.com:2710/announce
+http://tracker.torrentyorg.pl:80/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
 
@@ -13,8 +15,6 @@ http://open.acgnxtracker.com:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.vanitycore.co:6969/announce
-
-http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.tfile.me:80/announce
 
