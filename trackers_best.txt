@@ -32,9 +32,9 @@ udp://bt.xxx-tracker.com:2710/announce
 
 udp://tracker.port443.xyz:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.qt.is:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 

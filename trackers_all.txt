@@ -32,23 +32,15 @@ udp://bt.xxx-tracker.com:2710/announce
 
 udp://tracker.port443.xyz:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.qt.is:6969/announce
 
-udp://tracker.ds.is:6969/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.demonii.si:1337/announce
 
-http://tracker.city9x.com:2710/announce
-
-http://t.nyaatracker.com:80/announce
-
 http://0d.kebhana.mx:443/announce
-
-udp://zephir.monocul.us:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -62,13 +54,17 @@ udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
+udp://tracker.ds.is:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://pubt.in:2710/announce
 
 udp://peerfect.org:6969/announce
 
-https://evening-badlands-6215.herokuapp.com:443/announce
+http://tracker.city9x.com:2710/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://retracker.telecom.by:80/announce
 
@@ -87,6 +83,8 @@ wss://tracker.fastcast.nz:443/announce
 wss://tracker.btorrent.xyz:443/announce
 
 ws://tracker.btsync.cf:2710/announce
+
+udp://zephir.monocul.us:6969/announce
 
 udp://z.crazyhd.com:2710/announce
 
@@ -171,8 +169,6 @@ http://open.acgtracker.com:1096/announce
 http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
-
-http://fxtt.ru:80/announce
 
 http://agusiq-torrents.pl:6969/announce
 
