@@ -14,6 +14,8 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
+udp://tracker.mg64.net:6969/announce
+
 udp://mgtracker.org:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -26,8 +28,6 @@ udp://open.stealth.si:80/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://tracker.qt.is:6969/announce
-
 udp://tracker.port443.xyz:6969/announce
 
 udp://tracker.cypherpunks.ru:6969/announce
@@ -36,5 +36,5 @@ udp://open.demonii.si:1337/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.sandrotracker.biz:6969/announce
+udp://tracker.qt.is:6969/announce
 

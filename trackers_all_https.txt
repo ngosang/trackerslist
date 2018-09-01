@@ -1,4 +1,2 @@
-https://evening-badlands-6215.herokuapp.com:443/announce
-
 https://tracker.torrentsnows.com:443/announce
 
