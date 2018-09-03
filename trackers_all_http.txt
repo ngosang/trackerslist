@@ -1,4 +1,4 @@
-http://0d.kebhana.mx:443/announce
+http://open.acgnxtracker.com:80/announce
 
 http://tracker.city9x.com:2710/announce
 
@@ -8,11 +8,11 @@ http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://open.acgnxtracker.com:80/announce
-
 http://nbz.f3322.net:36006/announce
+
+http://fxtt.ru:80/announce
+
+http://0d.kebhana.mx:443/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -31,6 +31,8 @@ http://tracker.electro-torrent.pl:80/announce
 http://therightsize.net:1337/announce
 
 http://share.camoe.cn:8080/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://omg.wtftrackr.pw:1337/announce
 
