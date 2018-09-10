@@ -14,11 +14,13 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://tracker.vanitycore.co:6969/announce
 
-udp://tracker.mg64.net:6969/announce
-
-udp://mgtracker.org:6969/announce
+udp://explodie.org:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.cypherpunks.ru:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -26,15 +28,9 @@ udp://open.stealth.si:80/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.port443.xyz:6969/announce
-
-udp://tracker.cypherpunks.ru:6969/announce
-
 udp://tracker1.itzmx.com:8080/announce
 
-udp://tracker.qt.is:6969/announce
+udp://tracker.port443.xyz:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -42,17 +38,15 @@ udp://open.demonii.si:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
+udp://tracker.qt.is:6969/announce
+
 udp://tracker.ds.is:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
-
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
-
-udp://pubt.in:2710/announce
 
 udp://z.crazyhd.com:2710/announce
 
@@ -62,17 +56,23 @@ udp://trackerxyz.tk:1337/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
 
+udp://tracker.zer0day.to:1337/announce
+
 udp://tracker.xku.tv:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
+udp://tracker.swateam.org.uk:2710/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.sandrotracker.biz:6969/announce
 
 udp://tracker.piratepublic.com:1337/announce
+
+udp://tracker.mg64.net:6969/announce
 
 udp://tracker.justseed.it:1337/announce
 
@@ -90,8 +90,6 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
-udp://tracker-2.msm8916.com:6969/announce
-
 udp://torr.ws:2710/announce
 
 udp://t.agx.co:61655/announce
@@ -104,6 +102,8 @@ udp://retracker.nts.su:2710/announce
 
 udp://retracker.coltel.ru:2710/announce
 
+udp://pubt.in:2710/announce
+
 udp://peerfect.org:6969/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
@@ -114,9 +114,9 @@ udp://oscar.reyesleon.xyz:6969/announce
 
 udp://open.facedatabg.net:6969/announce
 
+udp://mgtracker.org:6969/announce
+
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://inferno.demonoid.pw:3418/announce
-
-udp://explodie.org:6969/announce
 
