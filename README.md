@@ -31,6 +31,6 @@ ngosang [@] hotmail [.es]
 * [Bash script](https://github.com/oilervoss/transmission) to add these trackers to [transmission-remote](https://github.com/transmission/transmission)
 * [trackereditor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor/releases) to add these trackers to your .torrent file
 
-##### most usable site
+##### most usable sites
 * <code>http://torrenteditor.com/</code>
 * <code>https://hash2magnet.com</code>
