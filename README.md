@@ -33,3 +33,4 @@ ngosang [@] hotmail [.es]
 
 ##### most usable site
 * <code>http://torrenteditor.com/</code>
+* <code>https://hash2magnet.com</code>
