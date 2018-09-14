@@ -24,29 +24,33 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.cypherpunks.ru:6969/announce
 
 udp://thetracker.org:80/announce
 
+udp://open.stealth.si:80/announce
+
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.port443.xyz:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://open.stealth.si:80/announce
-
-udp://tracker4.itzmx.com:2710/announce
+udp://open.demonii.si:1337/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker.ds.is:6969/announce
 
-udp://open.demonii.si:1337/announce
-
 udp://zephir.monocul.us:6969/announce
+
+udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.qt.is:6969/announce
 
@@ -64,11 +68,7 @@ udp://tracker.zer0day.to:1337/announce
 
 udp://tracker.xku.tv:6969/announce
 
-udp://tracker.uw0.xyz:6969/announce
-
 udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skyts.net:6969/announce
 
