@@ -117,6 +117,7 @@ udp://9.rarbg.me:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://tracker.doko.moe:6969/announce # duplicate of udp://tracker.uw0.xyz:6969/announce
 udp://tracker.mg64.net:2710/announce # duplicate of udp://tracker.mg64.net:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
+udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.ilibr.org:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.ilibr.org:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://eddie4.nl:6969/announce # duplicate of udp://tracker.open-internet.nl:6969/announce
