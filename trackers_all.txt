@@ -2,9 +2,9 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -24,17 +24,15 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.cypherpunks.ru:6969/announce
+
 udp://thetracker.org:80/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://tracker4.itzmx.com:2710/announce
-
 udp://tracker1.itzmx.com:8080/announce
 
 udp://tracker.port443.xyz:6969/announce
-
-udp://tracker.cypherpunks.ru:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -44,7 +42,7 @@ http://open.acgnxtracker.com:80/announce
 
 udp://zephir.monocul.us:6969/announce
 
-udp://tracker.kamigami.org:2710/announce
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
@@ -63,6 +61,10 @@ http://t.nyaatracker.com:80/announce
 http://retracker.telecom.by:80/announce
 
 http://retracker.mgts.by:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://fxtt.ru:80/announce
 
 http://explodie.org:6969/announce
 
@@ -101,6 +103,8 @@ udp://tracker.qt.is:6969/announce
 udp://tracker.piratepublic.com:1337/announce
 
 udp://tracker.open-internet.nl:6969/announce
+
+udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.justseed.it:1337/announce
 
@@ -160,11 +164,11 @@ http://therightsize.net:1337/announce
 
 http://share.camoe.cn:8080/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
 
 http://agusiq-torrents.pl:6969/announce
+
+http://0d.kebhana.mx:443/announce
 
