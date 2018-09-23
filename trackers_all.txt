@@ -28,21 +28,21 @@ udp://thetracker.org:80/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-udp://tracker.port443.xyz:6969/announce
-
 udp://tracker.cypherpunks.ru:6969/announce
+
+udp://open.stealth.si:80/announce
 
 udp://open.demonii.si:1337/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker1.itzmx.com:8080/announce
+udp://tracker.port443.xyz:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-http://open.acgnxtracker.com:80/announce
+udp://tracker1.itzmx.com:8080/announce
 
-udp://tracker.ds.is:6969/announce
+http://open.acgnxtracker.com:80/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -53,6 +53,8 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
+
+udp://tracker.ds.is:6969/announce
 
 udp://pubt.in:2710/announce
 
@@ -67,6 +69,8 @@ http://retracker.telecom.by:80/announce
 http://retracker.mgts.by:80/announce
 
 http://explodie.org:6969/announce
+
+http://0d.kebhana.mx:443/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
@@ -134,8 +138,6 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://oscar.reyesleon.xyz:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://open.facedatabg.net:6969/announce
 
 udp://ipv6.open-internet.nl:6969/announce
@@ -164,5 +166,7 @@ http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
 
-http://0d.kebhana.mx:443/announce
+http://fxtt.ru:80/announce
+
+http://agusiq-torrents.pl:6969/announce
 
