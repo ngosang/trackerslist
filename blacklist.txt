@@ -113,3 +113,4 @@ udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersur
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 http://tracker.electro-torrent.pl:80/announce # duplicate of http://tracker.torrentyorg.pl:80/announce
+udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce

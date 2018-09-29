@@ -4,6 +4,8 @@ https://opentracker.xyz:443/announce
 
 https://evening-badlands-6215.herokuapp.com:443/announce
 
+https://cernet-tracker.appspot.com:443/announce
+
 https://2.track.ga:443/announce
 
 https://1337.abcvg.info:443/announce
