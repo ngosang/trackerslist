@@ -10,23 +10,23 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://public.popcorn-tracker.org:6969/announce
-
 udp://tracker.vanitycore.co:6969/announce
+
+udp://public.popcorn-tracker.org:6969/announce
 
 udp://mgtracker.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://tracker1.itzmx.com:8080/announce
+http://tracker1.itzmx.com:8080/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://open.demonii.si:1337/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://thetracker.org:80/announce
+
+udp://open.demonii.si:1337/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
@@ -34,7 +34,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.port443.xyz:6969/announce
 
-udp://thetracker.org:80/announce
+udp://open.stealth.si:80/announce
 
-https://tracker.fastdownload.xyz:443/announce
+http://open.acgnxtracker.com:80/announce
 
