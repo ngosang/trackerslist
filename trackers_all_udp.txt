@@ -16,9 +16,9 @@ udp://public.popcorn-tracker.org:6969/announce
 
 udp://mgtracker.org:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://tracker1.itzmx.com:8080/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -34,25 +34,25 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.port443.xyz:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://tracker.cypherpunks.ru:6969/announce
+udp://open.stealth.si:80/announce
 
 udp://tracker.ds.is:6969/announce
 
+udp://tracker.cypherpunks.ru:6969/announce
+
 udp://zephir.monocul.us:6969/announce
+
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.toss.li:6969/announce
 
-udp://tracker.kamigami.org:2710/announce
-
 udp://tracker.iamhansen.xyz:2000/announce
 
-udp://tracker2.itzmx.com:6961/announce
+udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.justseed.it:1337/announce
 
