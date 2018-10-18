@@ -4,21 +4,19 @@ http://explodie.org:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://mgtracker.org:6969/announce
+http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker3.itzmx.com:6961/announce
+http://mgtracker.org:6969/announce
 
 http://tracker.port443.xyz:6969/announce
 
-http://open.acgnxtracker.com:80/announce
-
 http://torrent.nwps.ws:80/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://retracker.telecom.by:80/announce
+
+http://open.acgnxtracker.com:80/announce
 
 http://0d.kebhana.mx:443/announce
 
@@ -38,13 +36,13 @@ http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://retracker.mgts.by:80/announce
 
 http://open.acgtracker.com:1096/announce
 
 http://node.611.to:9000/announce
-
-http://agusiq-torrents.pl:6969/announce
 
 http://tracker.edoardocolombo.eu:6969/announce
 
@@ -53,4 +51,6 @@ http://share.camoe.cn:8080/announce
 http://omg.wtftrackr.pw:1337/announce
 
 http://fxtt.ru:80/announce
+
+http://agusiq-torrents.pl:6969/announce
 
