@@ -14,19 +14,15 @@ http://tracker4.itzmx.com:2710/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://tracker.cypherpunks.ru:6969/announce
-
 http://torrent.nwps.ws:80/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://retracker.telecom.by:80/announce
 
-http://opentracker.xyz:80/announce
-
-http://open.trackerlist.xyz:80/announce
-
 http://open.acgnxtracker.com:80/announce
+
+http://tracker.cypherpunks.ru:6969/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -38,7 +34,13 @@ http://tracker.city9x.com:2710/announce
 
 http://retracker.mgts.by:80/announce
 
+http://opentracker.xyz:80/announce
+
+http://open.trackerlist.xyz:80/announce
+
 http://open.acgtracker.com:1096/announce
 
 http://share.camoe.cn:8080/announce
+
+http://fxtt.ru:80/announce
 
