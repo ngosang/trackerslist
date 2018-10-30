@@ -1,12 +1,12 @@
 # trackerslist
 An updated list of public BitTorrent trackers
-#### Updated: 2018-10-30
+#### Updated: 2018-10-31
 *These lists are automatically updated every day:*
 
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
 * trackers_all (59 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-* trackers_all_udp (32 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
-* trackers_all_http (21 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
+* trackers_all_udp (31 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
+* trackers_all_http (22 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
 * trackers_all_https (3 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
 * trackers_all_ws (3 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
 
