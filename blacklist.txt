@@ -97,6 +97,7 @@ http://bt2.edwardk.info:4040/announce # registered torrents
 http://bt2.edwardk.info:6969/announce # registered torrents
 http://open.nyaatorrents.info:6544/announce # registered torrents
 http://open.lolicon.eu:7777/announce # registered torrents
+http://torrent.resonatingmedia.com:6969/announce # registered torrents
 udp://9.rarbg.to:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
@@ -114,3 +115,7 @@ udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppers
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 http://tracker.electro-torrent.pl:80/announce # duplicate of http://tracker.torrentyorg.pl:80/announce
 udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
+http://tracker.btsync.gq:2710/announce # duplicate of http://tracker.btsync.gq:233/announce
+http://tracker.btsync.gq:6969/announce # duplicate of http://tracker.btsync.gq:233/announce
+udp://tracker.btsync.gq:2710/announce # duplicate of udp://tracker.btsync.gq:233/announce
+udp://tracker.btsync.gq:6969/announce # duplicate of udp://tracker.btsync.gq:233/announce
