@@ -6,7 +6,7 @@ http://explodie.org:6969/announce
 
 http://tracker.port443.xyz:6969/announce
 
-http://torrent.nwps.ws:80/announce
+http://open.acgnxtracker.com:80/announce
 
 http://retracker.telecom.by:80/announce
 
@@ -14,11 +14,11 @@ http://opentracker.xyz:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://open.acgnxtracker.com:80/announce
+http://tracker.city9x.com:2710/announce
 
 http://tracker3.itzmx.com:6961/announce
 
-http://wegkxfcivgx.chickenkiller.com:80/announce
+http://torrent.nwps.ws:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -27,10 +27,6 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker1.wasabii.com.tw:6969/announce
 
 http://tracker.torrentyorg.pl:80/announce
-
-http://tracker.city9x.com:2710/announce
-
-http://tracker.btsync.gq:233/announce
 
 http://torrentclub.tech:6969/announce
 
@@ -50,7 +46,7 @@ http://bittracker.ru:80/announce
 
 http://amigacity.xyz:6969/announce
 
-http://agusiq-torrents.pl:6969/announce
+http://0d.kebhana.mx:443/announce
 
 http://tracker.tfile.me:80/announce.php
 
