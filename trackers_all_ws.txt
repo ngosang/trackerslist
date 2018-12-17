@@ -4,5 +4,3 @@ wss://tracker.fastcast.nz:443/announce
 
 wss://tracker.btorrent.xyz:443/announce
 
-wss://ltrackr.iamhansen.xyz:443/announce
-
