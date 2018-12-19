@@ -60,3 +60,5 @@ udp://tracker.filepit.to:6969/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
 
+udp://open.saci.ninja/announce
+

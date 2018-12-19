@@ -54,3 +54,5 @@ http://share.camoe.cn:8080/announce
 
 http://peersteers.org:80/announce
 
+http://sacininja.tk/announce
+
