@@ -24,43 +24,43 @@ http://explodie.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://denis.stalker.upeer.me:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.port443.xyz:6969/announce
-
-udp://thetracker.org:80/announce
-
-udp://open.demonii.si:1337/announce
-
-udp://bt.xxx-tracker.com:2710/announce
-
-http://tracker.port443.xyz:6969/announce
+udp://denis.stalker.upeer.me:6969/announce
 
 udp://tracker1.wasabii.com.tw:6969/announce
 
-udp://tracker.iamhansen.xyz:2000/announce
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.port443.xyz:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://thetracker.org:80/announce
+
 udp://retracker.lanta-net.ru:2710/announce
+
+udp://open.demonii.si:1337/announce
+
+udp://bt.xxx-tracker.com:2710/announce
 
 http://tracker1.wasabii.com.tw:6969/announce
 
-http://open.acgnxtracker.com:80/announce
+http://tracker.port443.xyz:6969/announce
 
-udp://tracker.vanitycore.co:6969/announce
+udp://tracker.iamhansen.xyz:2000/announce
 
 http://private.minimafia.nl:443/announce
 
 http://prestige.minimafia.nl:443/announce
 
+udp://tracker.vanitycore.co:6969/announce
+
 udp://open.stealth.si:80/announce
+
+http://open.acgnxtracker.com:80/announce
 
 https://tracker.fastdownload.xyz:443/announce
 
@@ -96,6 +96,8 @@ udp://torrentclub.tech:6969/announce
 
 udp://pubt.in:2710/announce
 
+udp://newtoncity.org:6969/announce
+
 https://tracker.gbitt.info:443/announce
 
 http://tracker.torrentyorg.pl:80/announce
@@ -112,9 +114,7 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://bt.artvid.ru:6969/announce
-
-http://0d.kebhana.mx:443/announce
+http://open.acgtracker.com:1096/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
@@ -124,11 +124,7 @@ wss://tracker.btorrent.xyz:443/announce
 
 udp://tracker.kamigami.org:2710/announce
 
-udp://tracker.justseed.it:1337/announce
-
 udp://packages.crunchbangplusplus.org:6969/announce
-
-udp://newtoncity.org:6969/announce
 
 https://1337.abcvg.info:443/announce
 
@@ -142,11 +138,11 @@ http://share.camoe.cn:8080/announce
 
 http://peersteers.org:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://omg.wtftrackr.pw:1337/announce
 
 http://newtoncity.org:6969/announce
 
-http://agusiq-torrents.pl:6969/announce
+http://fxtt.ru:80/announce
+
+http://bt.artvid.ru:6969/announce
 
