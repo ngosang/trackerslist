@@ -1,8 +1,8 @@
+https://tracker.gbitt.info:443/announce
+
 https://tracker.fastdownload.xyz:443/announce
 
 https://opentracker.xyz:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://1337.abcvg.info:443/announce
 
