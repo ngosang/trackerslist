@@ -114,3 +114,4 @@ http://tracker.btsync.gq:2710/announce # duplicate of http://tracker.btsync.gq:2
 http://tracker.btsync.gq:6969/announce # duplicate of http://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://tracker.btsync.gq:233/announce
+udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
