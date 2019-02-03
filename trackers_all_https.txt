@@ -4,5 +4,7 @@ https://opentracker.xyz:443/announce
 
 https://tracker.gbitt.info:443/announce
 
+https://tracker.vectahosting.eu:2053/announce
+
 https://1337.abcvg.info:443/announce
 

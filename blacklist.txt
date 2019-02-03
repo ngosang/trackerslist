@@ -115,3 +115,7 @@ http://tracker.btsync.gq:6969/announce # duplicate of http://tracker.btsync.gq:2
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://tracker.btsync.gq:233/announce
 udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
+https://tracker.vectahosting.eu:2083/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
+https://tracker.vectahosting.eu:2087/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
+https://tracker.vectahosting.eu:2096/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
+https://tracker.vectahosting.eu:8443/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
