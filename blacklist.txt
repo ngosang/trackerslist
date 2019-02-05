@@ -1,5 +1,4 @@
 http://bt-club.ws/announce # error
-http://tracker.zaerc.com/announce # not verified
 http://tracker.files.fm:6969/announce # malfunction
 http://open.touki.ru/announce.php # malfunction
 http://open.touki.ru/announce # malfunction
@@ -42,10 +41,6 @@ http://all4nothin.net/announce.php # registered torrents
 http://www.all4nothin.net/announce.php # registered torrents
 http://www.xwt-classics.net/announce.php # registered torrents
 http://big-boss-tracker.net/announce.php # registered torrents
-http://inferno.demonoid.ph:3389/announce # registered torrents
-http://inferno.demonoid.ph:3390/announce # registered torrents
-http://inferno.demonoid.ph:3411/announce # registered torrents
-http://inferno.demonoid.ph:3412/announce # registered torrents
 http://www.thevault.bz:2810/announce # registered torrents
 http://www.theplace.bz:2910/announce # registered torrents
 http://www.theoccult.bz:3010/announce # registered torrents
@@ -119,3 +114,8 @@ http://tracker.btsync.gq:2710/announce # duplicate of http://tracker.btsync.gq:2
 http://tracker.btsync.gq:6969/announce # duplicate of http://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://tracker.btsync.gq:233/announce
+udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
+https://tracker.vectahosting.eu:2083/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
+https://tracker.vectahosting.eu:2087/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
+https://tracker.vectahosting.eu:2096/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
+https://tracker.vectahosting.eu:8443/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
