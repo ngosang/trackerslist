@@ -12,11 +12,11 @@ http://explodie.org:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://re-tracker.uz:80/announce
+
 http://open.acgnxtracker.com:80/announce
 
 http://tracker.port443.xyz:6969/announce
-
-http://re-tracker.uz:80/announce
 
 http://opentracker.xyz:80/announce
 
@@ -24,9 +24,9 @@ http://open.trackerlist.xyz:80/announce
 
 http://0d.kebhana.mx:443/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://torrent.nwps.ws:80/announce
 
-http://tracker.tvunderground.org.ru:3218/announce
+http://tracker4.itzmx.com:2710/announce
 
 http://tracker.novg.net:6969/announce
 
@@ -36,15 +36,13 @@ http://tracker.bz:80/announce
 
 http://torrentclub.tech:6969/announce
 
-http://torrent.nwps.ws:80/announce
-
 http://t.nyaatracker.com:80/announce
+
+http://sub4all.org:2710/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://fxtt.ru:80/announce
-
-http://wegkxfcivgx.chickenkiller.com:80/announce
+http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
@@ -56,7 +54,7 @@ http://tracker.open-tracker.org:1337/announce
 
 http://t.acg.rip:6699/announce
 
-http://sub4all.org:2710/announce
+http://share.camoe.cn:8080/announce
 
 http://retracker.mgts.by:80/announce
 
