@@ -96,8 +96,10 @@ http://torrent.resonatingmedia.com:6969/announce # registered torrents
 udp://9.rarbg.to:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2800/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.me:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.me:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
 http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker4.itzmx.com:2710/announce
 http://mgtracker.org:6881/announce # duplicate of http://mgtracker.org:6969/announce
 http://mgtracker.org:2710/announce # duplicate of http://mgtracker.org:6969/announce
@@ -114,8 +116,19 @@ http://tracker.btsync.gq:2710/announce # duplicate of http://tracker.btsync.gq:2
 http://tracker.btsync.gq:6969/announce # duplicate of http://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://tracker.btsync.gq:233/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://tracker.btsync.gq:233/announce
-udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
-https://tracker.vectahosting.eu:2083/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
-https://tracker.vectahosting.eu:2087/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
-https://tracker.vectahosting.eu:2096/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
-https://tracker.vectahosting.eu:8443/announce # duplicate of https://tracker.vectahosting.eu:2053/announce
+https://2.tracker.eu.org:443/announce # duplicate https://1.tracker.eu.org:443/announce
+https://3.tracker.eu.org:443/announce # duplicate https://1.tracker.eu.org:443/announce
+https://tracker.torrentsnows.com:443/announce # registered torrents
+http://torrent.fedoraproject.org:6969/announce # registered torrents
+http://torrent.mp3quran.net:80/announce.php # registered torrents
+http://bt.3dmgame.com:2710/announce # registered torrents
+http://bt.ali213.net:8000/announce # registered torrents
+http://tracker.ali213.net:8000/announce # registered torrents
+http://bt.firebit.org:2710/announce # registered torrents
+http://concen.org:6969/announce # registered torrents
+http://datascene.net:80/announce.php # registered torrents
+http://www.zone-torrent.net:80/announce.php # registered torrents
+http://tracker.kali.org:6969/announce # registered torrents
+http://tracker.etree.org:6969/announce # registered torrents
+udp://www.mvgroup.org:2710/announce # registered torrents
+http://www.megatorrents.kg:80/announce.php # registered torrents
