@@ -20,27 +20,25 @@ http://opentracker.xyz:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://tracker2.itzmx.com:6961/announce
+http://torrent.nwps.ws:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
+http://tracker.openzim.org:80/announce
+
+http://tracker.open-tracker.org:1337/announce
+
 http://tracker.novg.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.bz:80/announce
-
-http://torrent.nwps.ws:80/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
-http://tracker.openzim.org:80/announce
-
-http://tracker.open-tracker.org:1337/announce
+http://tracker.bz:80/announce
 
 http://t.acg.rip:6699/announce
 
