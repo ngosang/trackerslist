@@ -1,2 +1,0 @@
-wss://tracker.fastcast.nz:443/announce
-
