@@ -24,15 +24,15 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://denis.stalker.upeer.me:6969/announce
 
-http://re-tracker.uz:80/announce
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://open.demonii.si:1337/announce
 
 http://vps02.net.orel.ru:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tiny-vps.com:6969/announce
+http://re-tracker.uz:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
