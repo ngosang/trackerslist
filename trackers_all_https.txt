@@ -2,9 +2,9 @@ https://tracker.fastdownload.xyz:443/announce
 
 https://t.quic.ws:443/announce
 
-https://opentracker.xyz:443/announce
-
 https://tracker.vectahosting.eu:2053/announce
+
+https://opentracker.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
 
