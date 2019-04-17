@@ -2,21 +2,19 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://9.rarbg.to:2710/announce
 
 udp://9.rarbg.me:2710/announce
 
 udp://exodus.desync.com:6969/announce
 
-http://tracker3.itzmx.com:6961/announce
+udp://tracker.opentrackr.org:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://open.demonii.si:1337/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -32,9 +30,11 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.port443.xyz:6969/announce
 
-http://open.acgnxtracker.com:80/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
+http://open.acgnxtracker.com:80/announce
+
+udp://retracker.netbynet.ru:2710/announce
 
