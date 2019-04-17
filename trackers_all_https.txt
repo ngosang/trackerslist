@@ -2,13 +2,13 @@ https://tracker.fastdownload.xyz:443/announce
 
 https://t.quic.ws:443/announce
 
-https://opentracker.xyz:443/announce
+https://tracker.gbitt.info:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://cernet-tracker.appspot.com:443/announce
 
 https://1.tracker.eu.org:443/announce
-
-https://tracker.vectahosting.eu:2053/announce
 
 https://1337.abcvg.info:443/announce
 
