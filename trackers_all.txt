@@ -106,7 +106,7 @@ udp://carapax.net:6969/announce
 
 http://carapax.net:6969/announce
 
-http://tracker.vivancos.eu/announce
+http://tracker.vivancos.eu/announce.php
 
 http://torrent.nwps.ws:80/announce
 
