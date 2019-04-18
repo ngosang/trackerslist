@@ -1,5 +1,3 @@
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
@@ -28,33 +26,37 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
+http://re-tracker.uz:80/announce
+
 http://mail2.zelenaya.net:80/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://re-tracker.uz:80/announce
+http://tracker.vivancos.eu/announce
 
 http://carapax.net:6969/announce
 
-http://tracker.vivancos.eu/announce
+http://open.acgtracker.com:1096/announce
 
-http://t.nyaatracker.com:80/announce
+http://torrent.nwps.ws:80/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
-http://torrent.nwps.ws:80/announce
+http://tracker.openzim.org:80/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
 http://retracker.mgts.by:80/announce
+
+http://private.minimafia.nl:443/announce
+
+http://prestige.minimafia.nl:443/announce
 
 http://opentracker.xyz:80/announce
 
 http://t.acg.rip:6699/announce
 
 http://share.camoe.cn:8080/announce
-
-http://private.minimafia.nl:443/announce
-
-http://prestige.minimafia.nl:443/announce
 
