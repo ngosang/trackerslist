@@ -1,5 +1,9 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
+udp://tracker.open-internet.nl:6969/announce
+
+udp://tracker.leechers-paradise.org:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://9.rarbg.to:2710/announce
@@ -8,25 +12,19 @@ udp://9.rarbg.me:2710/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.open-internet.nl:6969/announce
-
-udp://tracker.leechers-paradise.org:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
-
 udp://open.demonii.si:1337/announce
-
-udp://bt.xxx-tracker.com:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://thetracker.org:80/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://denis.stalker.upeer.me:6969/announce
+
+udp://bt.xxx-tracker.com:2710/announce
+
+udp://thetracker.org:80/announce
 
 udp://open.stealth.si:80/announce
 
@@ -36,25 +34,25 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.iamhansen.xyz:2000/announce
+udp://tracker4.itzmx.com:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
-
-udp://retracker.baikal-telecom.net:2710/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.trackton.ga:7070/announce
 
 udp://tracker.supertracker.net:1337/announce
 
-udp://tracker.filepit.to:6969/announce
+udp://tracker.iamhansen.xyz:2000/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.filepit.to:6969/announce
 
 udp://torrentclub.tech:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://retracker.baikal-telecom.net:2710/announce
 
 udp://tracker.dyn.im:6969/announce
 
@@ -62,11 +60,11 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.novg.net:6969/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 udp://tracker.uw0.xyz:6969/announce
 
 udp://carapax.net:6969/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://home.penza.com.ru:6969/announce
 
@@ -80,9 +78,9 @@ udp://tracker.moeking.me:6969/announce
 
 udp://pubt.in:2710/announce
 
+udp://chihaya.toss.li:9696/announce
+
 udp://tracker.justseed.it:1337/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
-
-udp://chihaya.toss.li:9696/announce
 
