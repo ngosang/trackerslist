@@ -12,31 +12,31 @@ http://open.acgnxtracker.com:80/announce
 
 http://explodie.org:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://torrentclub.tech:6969/announce
 
-http://tracker.novg.net:6969/announce
-
 http://gwp2-v19.rinet.ru:80/announce
-
-http://open.trackerlist.xyz:80/announce
-
-http://vps02.net.orel.ru:80/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
+http://vps02.net.orel.ru:80/announce
+
+http://open.trackerlist.xyz:80/announce
+
 http://mail2.zelenaya.net:80/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://carapax.net:6969/announce
 
 http://tracker.vivancos.eu/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://torrent.nwps.ws:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 http://tracker.torrentyorg.pl:80/announce
 
@@ -46,11 +46,9 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://retracker.mgts.by:80/announce
-
 http://t.acg.rip:6699/announce
 
 http://share.camoe.cn:8080/announce
 
-http://agusiq-torrents.pl:6969/announce
+http://retracker.mgts.by:80/announce
 
