@@ -1,3 +1,5 @@
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -24,11 +26,11 @@ http://vps02.net.orel.ru:80/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
-http://tracker.gbitt.info:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://mail2.zelenaya.net:80/announce
 
-http://tracker.torrentyorg.pl:80/announce
+http://tracker.gbitt.info:80/announce
 
 http://tracker.bz:80/announce
 
@@ -38,9 +40,15 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://t.acg.rip:6699/announce
 
 http://share.camoe.cn:8080/announce
 
+http://retracker.mgts.by:80/announce
+
 http://amigacity.xyz:6969/announce
+
+http://agusiq-torrents.pl:6969/announce
 
