@@ -5,7 +5,6 @@ http://open.touki.ru/announce # malfunction
 http://carbon-bonsai-621.appspot.com/announce # malfunction
 https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
-http://tracker.trackerfix.com/announce # registered torrents
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://datascene.net/announce.php # registered torrents
@@ -36,6 +35,7 @@ http://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
 http://tracker.torrenty.org:6969/announce # registered torrents
 http://www.mvgroup.org:2710/announce # registered torrents
 udp://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
+http://anidex.moe:6969/announce # registered torrents
 http://www.tribalmixes.com/announce.php # registered torrents
 http://all4nothin.net/announce.php # registered torrents
 http://www.all4nothin.net/announce.php # registered torrents
@@ -101,21 +101,11 @@ udp://9.rarbg.to:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.me:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.me:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
 http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker4.itzmx.com:2710/announce
-http://mgtracker.org:6881/announce # duplicate of http://mgtracker.org:6969/announce
-http://mgtracker.org:2710/announce # duplicate of http://mgtracker.org:6969/announce
-http://tracker.mg64.net:6881/announce # duplicate of http://mgtracker.org:6969/announce
-udp://tracker.mg64.net:2710/announce # duplicate of udp://mgtracker.org:6969/announce
-udp://tracker.mg64.net:6969/announce # duplicate of udp://mgtracker.org:6969/announce
-udp://mgtracker.org:2710/announce # duplicate of udp://mgtracker.org:6969/announce
 udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 http://tracker.electro-torrent.pl:80/announce # duplicate of http://tracker.torrentyorg.pl:80/announce
 udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
-http://tracker.btsync.gq:2710/announce # duplicate of http://tracker.btsync.gq:233/announce
-http://tracker.btsync.gq:6969/announce # duplicate of http://tracker.btsync.gq:233/announce
-udp://tracker.btsync.gq:2710/announce # duplicate of udp://tracker.btsync.gq:233/announce
-udp://tracker.btsync.gq:6969/announce # duplicate of udp://tracker.btsync.gq:233/announce
 https://2.tracker.eu.org:443/announce # duplicate https://1.tracker.eu.org:443/announce
 https://3.tracker.eu.org:443/announce # duplicate https://1.tracker.eu.org:443/announce
 https://tracker.torrentsnows.com:443/announce # registered torrents
