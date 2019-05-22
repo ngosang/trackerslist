@@ -4,9 +4,9 @@ udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -36,31 +36,25 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.filepit.to:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://torrentclub.tech:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
+udp://tracker.supertracker.net:1337/announce
+
 udp://tracker.nyaa.uk:6969/announce
-
-udp://tracker.moeking.me:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
 udp://tracker.trackton.ga:7070/announce
-
-udp://tracker.supertracker.net:1337/announce
-
-udp://tracker.novg.net:6969/announce
-
-udp://tracker.msm8916.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -74,19 +68,19 @@ udp://retracker.akado-ural.ru:80/announce
 
 udp://pubt.in:2710/announce
 
-udp://chihaya.toss.li:9696/announce
+udp://home.penza.com.ru:6969/announce
 
 udp://carapax.net:6969/announce
 
 udp://bt.dy20188.com:80/announce
 
-udp://tracker.justseed.it:1337/announce
+udp://tracker.msm8916.com:6969/announce
 
 udp://tracker.fixr.pro:6969/announce
 
 udp://packages.crunchbangplusplus.org:6969/announce
 
-udp://home.penza.com.ru:6969/announce
+udp://chihaya.toss.li:9696/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
