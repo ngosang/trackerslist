@@ -1,10 +1,10 @@
-http://tracker.opentrackr.org:1337/announce
-
 http://tracker.internetwarriors.net:1337/announce
 
-http://explodie.org:6969/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://explodie.org:6969/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
@@ -12,13 +12,13 @@ http://tracker.bz:80/announce
 
 http://retracker.mgts.by:80/announce
 
-http://vps02.net.orel.ru:80/announce
-
-http://open.acgtracker.com:1096/announce
-
 http://gwp2-v19.rinet.ru:80/announce
 
+http://vps02.net.orel.ru:80/announce
+
 http://web4.obit.ru:80/announce
+
+http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.openzim.org:80/announce
 
@@ -39,10 +39,6 @@ http://open.trackerlist.xyz:80/announce
 http://carapax.net:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
-
-http://tracker.torrentyorg.pl:80/announce
-
-http://tracker.moxing.party:6969/announce
 
 http://t.acg.rip:6699/announce
 
