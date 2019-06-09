@@ -1,3 +1,5 @@
+https://tracker.publictorrent.net:443/announce
+
 https://tracker.gbitt.info:443/announce
 
 https://tracker.fastdownload.xyz:443/announce
