@@ -1,8 +1,8 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+http://tracker.internetwarriors.net:1337/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -24,9 +24,9 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://thetracker.org:80/announce
 
-udp://explodie.org:6969/announce
-
 http://open.acgnxtracker.com:80/announce
+
+udp://explodie.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -36,5 +36,5 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
-udp://tracker.filepit.to:6969/announce
+http://open.acgtracker.com:1096/announce
 
