@@ -12,5 +12,3 @@ https://t.quic.ws:443/announce
 
 https://t.overflow.biz:443/announce
 
-https://1337.abcvg.info:443/announce
-
