@@ -4,21 +4,17 @@ udp://188.241.58.209:6969/announce
 
 udp://188.241.58.209:6969/announce
 
-http://185.225.17.100:1337/announce
-
-udp://93.158.213.92:1337/announce
-
 udp://185.225.17.100:1337/announce
 
 http://93.158.213.92:1337/announce
 
-udp://151.80.120.112:2710/announce
+udp://93.158.213.92:1337/announce
 
 udp://151.80.120.115:2710/announce
 
-http://176.113.71.19:6961/announce
+udp://151.80.120.114:2710/announce
 
-http://104.24.104.127:8080/announce
+http://176.113.71.19:6961/announce
 
 udp://185.19.107.254:80/announce
 
@@ -28,9 +24,7 @@ udp://5.206.27.172:6969/announce
 
 udp://37.235.174.46:2710/announce
 
-udp://89.234.156.205:451/announce
-
-udp://195.154.52.99:80/announce
+udp://91.216.110.52:451/announce
 
 udp://152.89.244.179:1337/announce
 
@@ -39,8 +33,6 @@ udp://95.211.168.204:2710/announce
 http://176.113.68.66:6961/announce
 
 udp://159.100.245.181:6969/announce
-
-http://88.212.228.180:2710/announce
 
 http://51.68.122.172:80/announce
 
@@ -54,10 +46,6 @@ udp://185.83.215.123:6969/announce
 
 udp://207.246.121.172:2000/announce
 
-http://82.209.230.66:80/announce
-
-udp://91.217.91.21:3218/announce
-
 udp://109.248.43.36:6969/announce
 
 udp://52.58.128.163:6969/announce
@@ -65,6 +53,12 @@ udp://52.58.128.163:6969/announce
 udp://194.143.148.21:2710/announce
 
 udp://152.89.244.180:6969/announce
+
+http://82.209.230.66:80/announce
+
+udp://91.217.91.21:3218/announce
+
+udp://52.28.76.37:6969/announce
 
 http://91.217.91.21:3218/announce
 
@@ -80,8 +74,6 @@ udp://52.29.11.73:6969/announce
 
 udp://99.238.163.236:6969/announce
 
-udp://52.28.76.37:6969/announce
-
 udp://51.38.178.211:6969/announce
 
 udp://194.40.242.11:80/announce
@@ -94,63 +86,41 @@ udp://178.165.81.45:80/announce
 
 udp://217.76.183.53:80/announce
 
-udp://81.200.240.19:6969/announce
-
 udp://199.247.2.19:6969/announce
 
-udp://198.177.123.165:80/announce
-
-https://104.27.176.131:2053/announce
-
-https://104.27.168.146:443/announce
-
-https://104.31.85.189:443/announce
-
-https://104.28.0.175:443/announce
+udp://198.177.123.164:80/announce
 
 http://95.107.48.115:80/announce
 
-http://62.210.202.61:80/announce
-
-http://104.27.168.146:80/announce
+http://51.158.126.33:80/announce
 
 http://193.148.69.107:80/announce
 
-http://104.28.27.45:2095/announce
-
-http://104.31.247.10:80/announce
-
-http://51.38.230.101:80/announce
+http://139.99.45.37:80/announce
 
 http://78.30.254.12:2710/announce
 
-http://104.31.84.249:80/announce
-
-http://86.62.124.78:80/announce
+http://199.247.2.19:6969/announce
 
 http://38.27.101.91:6969/announce
 
-udp://78.30.254.12:2710/announce
+udp://88.212.228.180:2710/announce
 
 udp://51.15.224.0:6969/announce
 
 udp://104.244.79.229:6969/announce
 
-https://104.27.138.209:443/announce
-
-https://104.24.125.114:443/announce
+udp://81.200.240.19:6969/announce
 
 https://104.244.79.229:443/announce
 
-https://104.24.127.56:443/announce
+https://216.58.201.179:443/announce
 
-https://216.58.201.147:443/announce
+http://194.143.148.21:2710/announce
 
 http://34.92.10.197:6789/announce
 
-http://104.27.139.209:80/announce
-
-http://51.158.126.33:80/announce
+http://62.210.202.61:80/announce
 
 http://104.244.79.229:80/announce
 
@@ -159,4 +129,6 @@ http://198.251.81.243:6699/announce
 http://198.251.81.243:8080/announce
 
 http://51.83.109.116:2710/announce
+
+http://188.68.224.156:6969/announce
 

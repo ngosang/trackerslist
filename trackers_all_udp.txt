@@ -4,9 +4,9 @@ udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -22,8 +22,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://open.stealth.si:80/announce
-
 udp://open.demonii.si:1337/announce
 
 udp://bt.xxx-tracker.com:2710/announce
@@ -38,8 +36,6 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 udp://tracker.filepit.to:6969/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -47,6 +43,10 @@ udp://tracker.filemail.com:6969/announce
 udp://retracker.baikal-telecom.net:2710/announce
 
 udp://denis.stalker.upeer.me:6969/announce
+
+udp://tracker.tvunderground.org.ru:3218/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -60,8 +60,6 @@ udp://tracker.nyaa.uk:6969/announce
 
 udp://tracker.msm8916.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.fixr.pro:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -74,8 +72,6 @@ udp://retracker.maxnet.ua:80/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
-udp://home.penza.com.ru:6969/announce
-
 udp://carapax.net:6969/announce
 
 udp://bt.dy20188.com:80/announce
@@ -85,4 +81,6 @@ udp://tracker4.itzmx.com:2710/announce
 udp://tracker.novg.net:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
+
+udp://home.penza.com.ru:6969/announce
 
