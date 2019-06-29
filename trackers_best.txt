@@ -4,9 +4,9 @@ udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
@@ -20,15 +20,15 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://retracker.lanta-net.ru:2710/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
+udp://bt.xxx-tracker.com:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://open.demonii.si:1337/announce
-
-udp://bt.xxx-tracker.com:2710/announce
 
 http://tracker2.itzmx.com:6961/announce
 
