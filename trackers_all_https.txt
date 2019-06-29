@@ -14,5 +14,3 @@ https://tracker.lelux.fi:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://1.tracker.eu.org:443/announce
-
