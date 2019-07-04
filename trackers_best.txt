@@ -32,9 +32,9 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://open.demonii.si:1337/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 udp://explodie.org:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://tracker2.itzmx.com:6961/announce
+
+http://open.acgnxtracker.com:80/announce
 
