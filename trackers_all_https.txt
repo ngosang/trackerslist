@@ -8,9 +8,5 @@ https://t.quic.ws:443/announce
 
 https://tracker.publictorrent.net:443/announce
 
-https://tracker.parrotsec.org:443/announce
-
 https://tracker.lelux.fi:443/announce
-
-https://1337.abcvg.info:443/announce
 
