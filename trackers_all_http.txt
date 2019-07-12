@@ -10,13 +10,17 @@ http://tracker2.itzmx.com:6961/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://explodie.org:6969/announce
+
 http://tracker4.itzmx.com:2710/announce
 
-http://explodie.org:6969/announce
+http://retracker.mgts.by:80/announce
+
+http://vps02.net.orel.ru:80/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
-http://vps02.net.orel.ru:80/announce
+http://t.nyaatracker.com:80/announce
 
 http://tracker01.loveapp.com:6789/announce
 
@@ -32,8 +36,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://torrent.nwps.ws:80/announce
 
-http://t.nyaatracker.com:80/announce
-
 http://retracker.sevstar.net:2710/announce
 
 http://open.trackerlist.xyz:80/announce
@@ -41,8 +43,6 @@ http://open.trackerlist.xyz:80/announce
 http://open.acgtracker.com:1096/announce
 
 http://newtoncity.org:6969/announce
-
-http://mail2.zelenaya.net:80/announce
 
 http://gwp2-v19.rinet.ru:80/announce
 
