@@ -14,27 +14,27 @@ udp://9.rarbg.me:2710/announce
 
 udp://tracker.openbittorrent.com:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
-
-udp://retracker.lanta-net.ru:2710/announce
-
-udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
 udp://open.demonii.si:1337/announce
 
 udp://bt.xxx-tracker.com:2710/announce
+
+udp://tracker2.itzmx.com:6961/announce
 
 udp://explodie.org:6969/announce
 
