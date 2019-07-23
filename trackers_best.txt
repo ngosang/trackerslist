@@ -22,19 +22,19 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://open.acgnxtracker.com:80/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
