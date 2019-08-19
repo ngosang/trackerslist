@@ -16,11 +16,11 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -32,9 +32,9 @@ udp://denis.stalker.upeer.me:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
-http://open.acgnxtracker.com:80/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://explodie.org:6969/announce
+
+http://open.acgnxtracker.com:80/announce
 
