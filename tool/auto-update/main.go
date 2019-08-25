@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"flag"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -57,6 +58,10 @@ func writeConf(data []string) error {
 }
 
 func main() {
+	flag.Parse()
+	if len(flag.Arg(0)) > 0 {
+		listUrl = flag.Arg(0)
+	}
 	list1, err := downloadList()
 	if err != nil {
 		panic(err.Error())
