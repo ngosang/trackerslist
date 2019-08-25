@@ -1,10 +1,10 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.open-internet.nl:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
@@ -16,29 +16,31 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
-
-udp://open.demonii.si:1337/announce
 
 udp://denis.stalker.upeer.me:6969/announce
 
 udp://bt.xxx-tracker.com:2710/announce
 
+udp://tracker2.itzmx.com:6961/announce
+
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://open.demonii.si:1337/announce
 
 udp://explodie.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://torrentclub.tech:6969/announce
+
+udp://tracker.filepit.to:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -56,8 +58,6 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
-udp://tracker.filepit.to:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -72,13 +72,17 @@ udp://retracker.baikal-telecom.net:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
+udp://pubt.in:2710/announce
+
 udp://newtoncity.org:6969/announce
 
+udp://bt.dy20188.com:80/announce
+
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker.skynetcloud.tk:6969/announce
 
 udp://tracker.justseed.it:1337/announce
 
 udp://chihaya.toss.li:9696/announce
-
-udp://bt.dy20188.com:80/announce
 
