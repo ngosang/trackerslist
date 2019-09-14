@@ -14,15 +14,13 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.demonii.si:1337/announce
 
-udp://bt.xxx-tracker.com:2710/announce
+udp://open.stealth.si:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -37,4 +35,6 @@ udp://tracker.moeking.me:6969/announce
 udp://explodie.org:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
+
+udp://opentor.org:2710/announce
 
