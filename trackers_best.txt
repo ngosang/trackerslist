@@ -24,11 +24,11 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://denis.stalker.upeer.me:6969/announce
 
 udp://torrentclub.tech:6969/announce
 
-udp://denis.stalker.upeer.me:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
