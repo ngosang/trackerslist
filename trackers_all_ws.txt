@@ -1,6 +1,6 @@
 wss://tracker.openwebtorrent.com:443/announce
 
-ws://npserver.intranet.pw:4201/announce
+wss://tracker.fastcast.nz:443/announce
 
 wss://tracker.sloppyta.co:443/announce
 
