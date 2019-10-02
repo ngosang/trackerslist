@@ -14,11 +14,11 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://open.demonii.si:1337/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
-
-udp://open.demonii.si:1337/announce
 
 udp://torrentclub.tech:6969/announce
 
