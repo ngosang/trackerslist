@@ -6,7 +6,9 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-http://torrentclub.tech:6969/announce
+http://tracker.internetwarriors.net:1337/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
@@ -33,8 +35,6 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.publictorrent.net:80/announce
 
 http://tracker.lelux.fi:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.gbitt.info:80/announce
 
