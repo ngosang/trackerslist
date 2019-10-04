@@ -24,7 +24,7 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 
 ##### Contribute
 * Do you know more public trackers? => [Open a new issue](https://github.com/ngosang/trackerslist/issues/new)
-* Any of the trackers is not working properly? => [Open a new issue](https://github.com/ngosang/trackerslist/issues/new)
+* Any of the trackers not working properly? => [Open a new issue](https://github.com/ngosang/trackerslist/issues/new)
 
 ##### Contact
 ngosang [@] hotmail [.es]
