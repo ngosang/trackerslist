@@ -127,5 +127,11 @@ http://share.camoe.cn:8080/announce # duplicate of http://acg.rip:6699/announce
 http://t.acg.rip:6699/announce # duplicate of http://acg.rip:6699/announce
 http://atrack.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://t2.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://secure.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://tracker.acgnx.se:80/announce # duplicate of http://opentracker.acgnx.se:80/announce
 http://opentracker.acgnx.com:6869/announce # duplicate of http://opentracker.acgnx.se:80/announce
+udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
