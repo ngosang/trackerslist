@@ -2,27 +2,25 @@ http://tracker.bt4g.com:2095/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://opentracker.xyz:80/announce
+
+http://open.trackerlist.xyz:80/announce
+
 http://www.proxmox.com:6969/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.lelux.fi:80/announce
+
+http://torrentclub.tech:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://pow7.com:80/announce
-
-http://opentracker.xyz:80/announce
-
-http://open.trackerlist.xyz:80/announce
-
 http://explodie.org:6969/announce
-
-http://caramelo.ddns.net:8000/announce
 
 http://www.loushao.net:8080/announce
 
@@ -40,13 +38,13 @@ http://tracker01.loveapp.com:6789/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.publictorrent.net:80/announce
+http://tracker.torrentyorg.pl:80/announce
 
-http://tracker.lelux.fi:80/announce
+http://tracker.publictorrent.net:80/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://torrentclub.tech:6969/announce
+http://tracker.bz:80/announce
 
 http://sukebei.tracker.wf:8888/announce
 
