@@ -12,3 +12,16 @@ https://tracker.vectahosting.eu:2053/announce
 
 https://1337.abcvg.info:443/announce
 
+http://bt.henbt.com:2710/announce
+ 
+http://mgtracker.org:2710/announce
+ 
+http://mgtracker.org:6969/announce
+ 
+http://open.touki.ru/announce.php
+ 
+http://p4p.arenabg.ch:1337/announce
+ 
+http://pow7.com:80/announce
+
+
