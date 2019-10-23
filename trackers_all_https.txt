@@ -1,10 +1,12 @@
-https://tracker.nanoha.org:443/announce
-
 https://tracker.fastdownload.xyz:443/announce
 
 https://opentracker.xyz:443/announce
 
 https://opentracker.co:443/announce
+
+https://tracker.nanoha.org:443/announce
+
+https://1337.abcvg.info:443/announce
 
 https://tracker.vectahosting.eu:2053/announce
 
@@ -17,6 +19,4 @@ https://tracker.hama3.net:443/announce
 https://tracker.gbitt.info:443/announce
 
 https://opentracker.acgnx.se:443/announce
-
-https://1337.abcvg.info:443/announce
 
