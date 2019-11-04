@@ -1,4 +1,0 @@
-wss://tracker.sloppyta.co:443/announce
-
-wss://tracker.openwebtorrent.com:443/announce
-
