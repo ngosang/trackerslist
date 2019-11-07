@@ -90,3 +90,6 @@ udp://qg.lorzl.gq:2710/announce
 
 udp://chihaya.toss.li:9696/announce
 
+udp://p4p.arenabg.com:1337
+
+udp://tracker.pomf.se:80
