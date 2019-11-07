@@ -38,6 +38,10 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
+udp://p4p.arenabg.com:1337
+
+udp://tracker.pomf.se:80
+
 udp://tracker.iamhansen.xyz:2000/announce
 
 udp://tracker.filepit.to:6969/announce
