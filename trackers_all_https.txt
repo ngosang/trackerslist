@@ -16,3 +16,4 @@ https://opentracker.acgnx.se:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://vps2.avc.cx/announce.php
