@@ -1,8 +1,8 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -18,11 +18,11 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://open.stealth.si:80/announce
 
 udp://torrentclub.tech:6969/announce
 
@@ -36,5 +36,5 @@ udp://open.demonii.si:1337/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://explodie.org:6969/announce
+udp://valakas.rollo.dnsabr.com:2710/announce
 
