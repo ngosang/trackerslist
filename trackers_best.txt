@@ -1,7 +1,5 @@
 udp://tracker.coppersurfer.tk:6969/announce
 
-udp://tracker.leechers-paradise.org:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -30,11 +28,13 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://open.demonii.si:1337/announce
 
-udp://tracker.yoshi210.com:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
+
+udp://valakas.rollo.dnsabr.com:2710/announce
+
+udp://opentor.org:2710/announce
 
 udp://explodie.org:6969/announce
 
