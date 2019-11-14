@@ -4,3 +4,5 @@ wss://tracker.sloppyta.co:443/announce
 
 wss://tracker.novage.com.ua:443/announce
 
+wss://tracker.fastcast.nz:443/announce
+
