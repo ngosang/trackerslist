@@ -30,11 +30,11 @@ udp://open.demonii.si:1337/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://tracker.yoshi210.com:6969/announce
-
-udp://explodie.org:6969/announce
-
-udp://xxxtor.com:2710/announce
-
 udp://valakas.rollo.dnsabr.com:2710/announce
+
+udp://tracker.nyaa.uk:6969/announce
+
+udp://retracker.akado-ural.ru:80/announce
+
+udp://opentor.org:2710/announce
 

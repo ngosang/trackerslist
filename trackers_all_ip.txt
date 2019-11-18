@@ -6,9 +6,9 @@ udp://93.158.213.92:1337/announce
 
 udp://62.210.97.59:1337/announce
 
-udp://151.80.120.112:2710/announce
+udp://151.80.120.115:2710/announce
 
-udp://151.80.120.114:2710/announce
+udp://151.80.120.113:2710/announce
 
 udp://208.83.20.20:6969/announce
 
@@ -30,39 +30,37 @@ udp://142.44.243.4:1337/announce
 
 udp://51.15.40.114:80/announce
 
-udp://51.254.249.186:6969/announce
-
-udp://184.105.151.164:6969/announce
-
-udp://95.211.168.204:2710/announce
-
 udp://46.148.18.250:2710/announce
 
-udp://185.83.215.123:6969/announce
-
-udp://91.217.91.21:3218/announce
-
 udp://15.188.67.15:6969/announce
-
-udp://207.246.121.172:2000/announce
-
-udp://52.58.128.163:6969/announce
-
-udp://194.182.176.251:6969/announce
-
-udp://45.86.70.181:6969/announce
-
-udp://109.72.83.214:80/announce
-
-udp://78.30.254.12:2710/announce
-
-udp://212.1.226.176:2710/announce
 
 udp://217.76.183.53:80/announce
 
 udp://46.148.18.254:2710/announce
 
-udp://45.79.176.39:6969/announce
+udp://184.105.151.164:6969/announce
+
+udp://51.254.249.186:6969/announce
+
+udp://207.246.121.172:2000/announce
+
+udp://194.182.176.251:6969/announce
+
+udp://109.72.83.214:80/announce
+
+udp://212.1.226.176:2710/announce
+
+udp://95.211.168.204:2710/announce
+
+udp://185.83.215.123:6969/announce
+
+udp://91.217.91.21:3218/announce
+
+udp://185.97.255.30:6969/announce
+
+udp://52.58.128.163:6969/announce
+
+udp://223.16.205.65:6969/announce
 
 udp://207.241.231.226:6969/announce
 
@@ -74,11 +72,11 @@ http://91.217.91.21:3218/announce
 
 http://93.158.213.92:1337/announce
 
-http://51.38.230.101:80/announce
+http://54.39.98.124:80/announce
 
-http://78.30.254.12:2710/announce
+http://62.210.177.88:1096/announce
 
-http://3.229.196.117:80/announce
+http://52.4.192.223:80/announce
 
 http://184.105.151.164:6969/announce
 
@@ -88,9 +86,9 @@ udp://176.113.68.67:6961/announce
 
 udp://75.127.14.224:2710/announce
 
-udp://185.97.255.30:6969/announce
-
 udp://51.15.3.74:6969/announce
+
+udp://78.30.254.12:2710/announce
 
 udp://218.5.41.16:2710/announce
 
@@ -106,11 +104,11 @@ http://182.150.53.61:8080/announce
 
 http://95.107.48.115:80/announce
 
-http://212.1.226.176:2710/announce
+http://194.143.148.21:2710/announce
 
 http://176.113.71.19:6961/announce
 
-http://176.113.68.66:6961/announce
+http://176.113.68.67:6961/announce
 
 http://34.92.10.197:6789/announce
 
@@ -125,6 +123,10 @@ http://194.30.12.195:6969/announce
 http://176.123.5.118:80/announce
 
 http://212.47.237.124:8888/announce
+
+http://78.30.254.12:2710/announce
+
+http://51.79.71.167:80/announce
 
 http://54.37.157.173:80/announce
 
