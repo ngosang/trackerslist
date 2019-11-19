@@ -8,11 +8,13 @@ http://tracker.bt4g.com:2095/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://retracker.sevstar.net:2710/announce
+
+http://pow7.com:80/announce
+
 http://opentracker.xyz:80/announce
 
 http://open.trackerlist.xyz:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -46,9 +48,7 @@ http://tracker.bz:80/announce
 
 http://sukebei.tracker.wf:8888/announce
 
-http://retracker.sevstar.net:2710/announce
-
-http://pow7.com:80/announce
+http://sub4all.org:2710/announce
 
 http://opentracker.acgnx.se:80/announce
 
