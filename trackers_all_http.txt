@@ -10,8 +10,6 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://pow7.com:80/announce
-
 http://opentracker.xyz:80/announce
 
 http://open.trackerlist.xyz:80/announce
@@ -36,8 +34,6 @@ http://tracker01.loveapp.com:6789/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
@@ -50,7 +46,11 @@ http://sukebei.tracker.wf:8888/announce
 
 http://sub4all.org:2710/announce
 
+http://pow7.com:80/announce
+
 http://opentracker.acgnx.se:80/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
