@@ -1,5 +1,7 @@
 https://tracker.nanoha.org:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.fastdownload.xyz:443/announce
 
 https://opentracker.xyz:443/announce
