@@ -10,9 +10,9 @@ udp://165.231.0.116:80/announce
 
 udp://165.231.0.116:80/announce
 
-udp://151.80.120.114:2710/announce
-
 udp://151.80.120.112:2710/announce
+
+udp://151.80.120.114:2710/announce
 
 udp://208.83.20.20:6969/announce
 
@@ -34,7 +34,7 @@ udp://51.15.40.114:80/announce
 
 udp://184.105.151.164:6969/announce
 
-udp://95.211.168.204:2710/announce
+udp://212.47.227.58:6969/announce
 
-udp://46.148.18.250:2710/announce
+udp://95.211.168.204:2710/announce
 
