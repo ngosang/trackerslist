@@ -1,3 +1,5 @@
+https://zqzx.xyz:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.gbitt.info:443/announce
