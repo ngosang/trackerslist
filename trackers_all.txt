@@ -16,15 +16,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.moeking.me:6969/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
 udp://denis.stalker.upeer.me:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
@@ -52,11 +52,17 @@ udp://xxxtor.com:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
+udp://tracker.zum.bi:6969/announce
+
 udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.trackton.ga:7070/announce
+
+udp://tracker.skynetcloud.site:6969/announce
+
+udp://tracker.sbsub.com:2710/announce
 
 udp://tracker.nextrp.ru:6969/announce
 
@@ -76,11 +82,15 @@ udp://retracker.akado-ural.ru:80/announce
 
 udp://opentor.org:2710/announce
 
+udp://open.nyap2p.com:6969/announce
+
 udp://chihaya.toss.li:9696/announce
 
 udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bt.okmp3.ru:2710/announce
 
 https://zqzx.xyz:443/announce
 
@@ -100,7 +110,7 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.darli.net:6611/announce
 
-http://tracker.bz:80/announce
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -116,9 +126,17 @@ http://h4.trakx.nibba.trade:80/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tr.bangumi.moe:6969/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://bt2.54new.com:8080/announce
+
+https://tracker.parrotlinux.org:443/announce
+
+https://tracker.opentracker.se:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -138,7 +156,13 @@ http://tracker01.loveapp.com:6789/announce
 
 http://tracker.yoshi210.com:6969/announce
 
+http://tracker.nyap2p.com:8080/announce
+
 http://tracker.gbitt.info:80/announce
+
+http://tracker.bz:80/announce
+
+http://pow7.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 

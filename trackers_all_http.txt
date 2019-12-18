@@ -14,7 +14,7 @@ http://tracker.kamigami.org:2710/announce
 
 http://tracker.darli.net:6611/announce
 
-http://tracker.bz:80/announce
+http://tracker.corpscorp.online:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -42,7 +42,13 @@ http://tracker01.loveapp.com:6789/announce
 
 http://tracker.yoshi210.com:6969/announce
 
+http://tracker.nyap2p.com:8080/announce
+
 http://tracker.gbitt.info:80/announce
+
+http://tracker.bz:80/announce
+
+http://pow7.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
