@@ -10,6 +10,12 @@ http://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://datascene.net/announce.php # registered torrents
 http://deviloid.net:6969/announce # registered torrents
 http://elitezones.ro/announce.php # registered torrents
+http://tracker.frozen-layer.net:6969/announce # registered torrents
+http://opentracker.acgnx.se:80/announce # registered torrents
+http://sukebei.tracker.wf:8888/announce # registered torrents
+https://opentracker.acgnx.se:443/announce # registered torrents
+http://bt2.54new.com:8080/announce # registered torrents
+http://bt-tracker.gamexp.ru:2710/announce # registered torrents
 http://www.elitezones.ro/announce.php # registered torrents
 http://funfile.org:2710/announce # registered torrents
 http://potuk.com:2710/announce # registered torrents
@@ -135,3 +141,4 @@ udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/anno
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
+udp://tracker.pomf.se:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
