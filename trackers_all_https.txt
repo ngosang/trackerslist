@@ -1,5 +1,3 @@
-https://zqzx.xyz:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://1337.abcvg.info:443/announce
