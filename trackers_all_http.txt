@@ -1,12 +1,10 @@
-http://tracker.opentrackr.org:1337/announce
-
 http://explodie.org:6969/announce
 
 http://www.proxmox.com:6969/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
-http://tracker.torrentyorg.pl:80/announce
+http://tracker.opentrackr.org:1337/announce
 
 http://tracker.kamigami.org:2710/announce
 
@@ -38,6 +36,8 @@ http://tracker01.loveapp.com:6789/announce
 
 http://tracker.yoshi210.com:6969/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.lelux.fi:80/announce
@@ -46,11 +46,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.bz:80/announce
 
+http://pow7.com:80/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://acg.rip:6699/announce
 
