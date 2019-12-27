@@ -1,6 +1,12 @@
 http://explodie.org:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
+http://www.proxmox.com:6969/announce
+
 http://tracker.tvunderground.org.ru:3218/announce
+
+http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -8,17 +14,11 @@ http://tracker.corpscorp.online:80/announce
 
 http://tracker.bz:80/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://mail2.zelenaya.net:80/announce
-
 http://h4.trakx.nibba.trade:80/announce
-
-http://www.proxmox.com:6969/announce
 
 http://www.loushao.net:8080/announce
 
@@ -36,8 +36,6 @@ http://tracker01.loveapp.com:6789/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.lelux.fi:80/announce
@@ -52,9 +50,7 @@ http://pow7.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.acgnxtracker.com:80/announce
 
-http://acg.rip:6699/announce
+http://mail2.zelenaya.net:80/announce
 
