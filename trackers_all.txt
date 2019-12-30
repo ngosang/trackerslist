@@ -8,11 +8,11 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://tracker.openbittorrent.com:80/announce
+udp://9.rarbg.to:2710/announce
 
 udp://9.rarbg.me:2710/announce
 
-udp://9.rarbg.to:2710/announce
+udp://tracker.openbittorrent.com:80/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -30,11 +30,9 @@ udp://open.stealth.si:80/announce
 
 udp://denis.stalker.upeer.me:6969/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://open.demonii.si:1337/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -62,6 +60,8 @@ udp://tracker.sbsub.com:2710/announce
 
 udp://tracker.nyaa.uk:6969/announce
 
+udp://tracker.nextrp.ru:6969/announce
+
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
@@ -72,13 +72,15 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.ds.is:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.dler.org:6969/announce
 
-udp://retracker.sevstar.net:2710/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker.akado-ural.ru:80/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -96,10 +98,6 @@ udp://bt.okmp3.ru:2710/announce
 
 udp://amigacity.xyz:6969/announce
 
-https://zqzx.xyz:443/announce
-
-https://tracker.opentracker.se:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://1337.abcvg.info:443/announce
@@ -116,23 +114,25 @@ http://tracker.bt4g.com:2095/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://retracker.sevstar.net:2710/announce
+http://open.acgtracker.com:1096/announce
+
+http://mail2.zelenaya.net:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker2.itzmx.com:6961/announce
 
-udp://tracker.nextrp.ru:6969/announce
-
-udp://tracker.dler.org:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
 
-udp://qg.lorzl.gq:2710/announce
-
-udp://bt2.54new.com:8080/announce
+udp://retracker.sevstar.net:2710/announce
 
 https://tracker.parrotlinux.org:443/announce
+
+https://tracker.opentracker.se:443/announce
 
 https://tracker.lelux.fi:443/announce
 
@@ -164,21 +164,15 @@ http://tracker.nyap2p.com:8080/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.bz:80/announce
 
-http://pow7.com:80/announce
+http://retracker.sevstar.net:2710/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.acgnxtracker.com:80/announce
-
-http://mail2.zelenaya.net:80/announce
 
 http://acg.rip:6699/announce
 
