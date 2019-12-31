@@ -2,11 +2,13 @@ http://explodie.org:6969/announce
 
 http://tracker.tvunderground.org.ru:3218/announce
 
+http://tracker.torrentyorg.pl:80/announce
+
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.kamigami.org:2710/announce
+http://tracker.internetwarriors.net:1337/announce
 
-http://tracker.corpscorp.online:80/announce
+http://tracker.bz:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -38,17 +40,17 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.yoshi210.com:6969/announce
 
-http://tracker.torrentyorg.pl:80/announce
-
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.kamigami.org:2710/announce
+
 http://tracker.gbitt.info:80/announce
 
-http://tracker.bz:80/announce
-
 http://retracker.sevstar.net:2710/announce
+
+http://pow7.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
