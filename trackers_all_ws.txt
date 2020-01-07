@@ -1,3 +1,5 @@
+wss://tracker.btorrent.xyz:443/announce
+
 ws://tracker.darli.net:6611/announce
 
 wss://tracker.sloppyta.co:443/announce
