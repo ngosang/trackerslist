@@ -1,5 +1,7 @@
 https://tracker.nanoha.org:443/announce
 
+https://1337.abcvg.info:443/announce
+
 https://tracker.parrotlinux.org:443/announce
 
 https://tracker.opentracker.se:443/announce
