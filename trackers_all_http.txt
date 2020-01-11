@@ -12,13 +12,15 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://pow7.com:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://mail2.zelenaya.net:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
+
+http://www.loushao.net:8080/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -41,6 +43,8 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.gbitt.info:80/announce
 
