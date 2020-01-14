@@ -18,6 +18,10 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
@@ -28,13 +32,9 @@ udp://denis.stalker.upeer.me:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.moeking.me:6969/announce
-
-udp://tracker.cyberia.is:6969/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
+
+udp://zephir.monocul.us:6969/announce
 
