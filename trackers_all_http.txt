@@ -1,12 +1,16 @@
-http://explodie.org:6969/announce
-
 http://tracker.opentrackr.org:1337/announce
 
+http://explodie.org:6969/announce
+
 http://tracker.darli.net:6611/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://retracker.sevstar.net:2710/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -37,10 +41,6 @@ http://tracker.nyap2p.com:8080/announce
 http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://tracker.bz:80/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
