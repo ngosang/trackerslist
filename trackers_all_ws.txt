@@ -1,5 +1,3 @@
-ws://tracker.darli.net:6611/announce
-
 wss://tracker.sloppyta.co:443/announce
 
 wss://tracker.openwebtorrent.com:443/announce
