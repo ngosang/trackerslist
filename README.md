@@ -1,19 +1,19 @@
 # ngosang/trackerslist
 Updated list of public BitTorrent trackers
 
-#### Updated: 2020-01-27
+#### Updated: 2020-01-28
 *These lists are automatically updated every day:*
 
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
-* trackers_all (74 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-* trackers_all_udp (46 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
+* trackers_all (75 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
+* trackers_all_udp (48 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
 * trackers_all_http (24 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
-* trackers_all_https (4 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
-* trackers_all_ws (5 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
+* trackers_all_https (3 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
+* trackers_all_ws (3 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
 
 Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
-* trackers_all_ip (68 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
+* trackers_all_ip (70 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt
 
 ##### Notes
 * A bot automatically checks the trackers and updates the lists.
