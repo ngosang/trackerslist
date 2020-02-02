@@ -112,8 +112,6 @@ udp://tracker.coppersurfer.tk:1337/announce # duplicate of udp://tracker.coppers
 udp://tracker.pirateparty.gr:6969/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
 http://tracker.electro-torrent.pl:80/announce # duplicate of http://tracker.torrentyorg.pl:80/announce
 udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.upeer.me:6969/announce
-https://2.tracker.eu.org:443/announce # duplicate https://1.tracker.eu.org:443/announce
-https://3.tracker.eu.org:443/announce # duplicate https://1.tracker.eu.org:443/announce
 https://tracker.torrentsnows.com:443/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce # registered torrents
 http://torrent.mp3quran.net:80/announce.php # registered torrents
@@ -129,13 +127,11 @@ http://tracker.etree.org:6969/announce # registered torrents
 udp://www.mvgroup.org:2710/announce # registered torrents
 http://www.megatorrents.kg:80/announce.php # registered torrents
 udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
-http://share.camoe.cn:8080/announce # duplicate of http://acg.rip:6699/announce
-http://t.acg.rip:6699/announce # duplicate of http://acg.rip:6699/announce
+http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://atrack.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://t2.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://secure.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
-http://tracker.acgnx.se:80/announce # duplicate of http://opentracker.acgnx.se:80/announce
-http://opentracker.acgnx.com:6869/announce # duplicate of http://opentracker.acgnx.se:80/announce
+http://opentracker.acgnx.com:6869/announce # duplicate of http://tracker.acgnx.se:80/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce

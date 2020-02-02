@@ -1,4 +1,10 @@
+https://tracker.nyaa.tk:443/announce
+
 https://tracker.nanoha.org:443/announce
+
+https://2.tracker.eu.org:443/announce
+
+https://tracker.xcloud.zone:1337/announce
 
 https://tracker.parrotlinux.org:443/announce
 
