@@ -1,10 +1,12 @@
 http://explodie.org:6969/announce
 
+http://tracker.opentrackr.org:1337/announce
+
 http://trun.tom.ru:80/announce
 
 http://tracker.skyts.cn:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.bz:80/announce
 
@@ -37,8 +39,6 @@ http://tracker.torrentyorg.pl:80/announce
 http://tracker.nyap2p.com:8080/announce
 
 http://tracker.lelux.fi:80/announce
-
-http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.gcvchp.com:2710/announce
 
