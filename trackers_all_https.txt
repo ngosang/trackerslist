@@ -2,8 +2,6 @@ https://tracker.nyaa.tk:443/announce
 
 https://tracker.nanoha.org:443/announce
 
-https://2.tracker.eu.org:443/announce
-
 https://tracker.xcloud.zone:1337/announce
 
 https://tracker.parrotlinux.org:443/announce
@@ -13,4 +11,6 @@ https://tracker.opentracker.se:443/announce
 https://tracker.lelux.fi:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://1337.abcvg.info:443/announce
 

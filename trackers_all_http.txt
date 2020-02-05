@@ -1,5 +1,7 @@
 http://explodie.org:6969/announce
 
+http://www.loushao.net:8080/announce
+
 http://trun.tom.ru:80/announce
 
 http://tracker.skyts.cn:6969/announce
@@ -12,11 +14,7 @@ http://tracker.bt4g.com:2095/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://mail2.zelenaya.net:80/announce
-
 http://h4.trakx.nibba.trade:80/announce
-
-http://www.loushao.net:8080/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -42,8 +40,6 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.kamigami.org:2710/announce
 
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.gcvchp.com:2710/announce
 
 http://tracker.gbitt.info:80/announce
@@ -56,5 +52,9 @@ http://pow7.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.acgnxtracker.com:80/announce
+
+http://mail2.zelenaya.net:80/announce
 
