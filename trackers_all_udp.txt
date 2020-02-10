@@ -14,23 +14,23 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.moeking.me:6969/announce
-
-udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://open.stealth.si:80/announce
-
 udp://open.demonii.si:1337/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.cyberia.is:6969/announce
+
+udp://open.stealth.si:80/announce
 
 udp://denis.stalker.upeer.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -47,6 +47,8 @@ udp://tracker.uw0.xyz:6969/announce
 udp://tracker.sbsub.com:2710/announce
 
 udp://tracker.nyaa.uk:6969/announce
+
+udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
@@ -68,11 +70,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt.okmp3.ru:2710/announce
-
 udp://www.loushao.net:8080/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
@@ -80,15 +82,9 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
-udp://tracker.kamigami.org:2710/announce
-
-udp://tracker.filemail.com:6969/announce
-
 udp://tr2.ysagin.top:2710/announce
 
 udp://tr.bangumi.moe:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
