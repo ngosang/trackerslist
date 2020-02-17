@@ -1,10 +1,16 @@
 http://explodie.org:6969/announce
 
+http://www.loushao.net:8080/announce
+
 http://trun.tom.ru:80/announce
+
+http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.skyts.cn:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -19,8 +25,6 @@ http://open.acgnxtracker.com:80/announce
 http://mail2.zelenaya.net:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
-
-http://www.loushao.net:8080/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -37,8 +41,6 @@ http://tracker.zerobytes.xyz:1337/announce
 http://tracker.yoshi210.com:6969/announce
 
 http://tracker.ygsub.com:6969/announce
-
-http://tracker.torrentyorg.pl:80/announce
 
 http://tracker.nyap2p.com:8080/announce
 
