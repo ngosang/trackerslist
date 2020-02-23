@@ -1,10 +1,10 @@
-https://tracker.nyaa.tk:443/announce
-
 https://tracker.nanoha.org:443/announce
 
-https://1337.abcvg.info:443/announce
+https://tracker.nyaa.tk:443/announce
 
 https://tracker.lelux.fi:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://1337.abcvg.info:443/announce
 
