@@ -1,3 +1,5 @@
+udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.leechers-paradise.org:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -18,13 +20,13 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.sbsub.com:2710/announce
 
-udp://tracker.moeking.me:6969/announce
-
-udp://tracker.cyberia.is:6969/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
+
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://open.demonii.si:1337/announce
 
@@ -35,6 +37,4 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://explodie.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
-
-udp://xxxtor.com:2710/announce
 
