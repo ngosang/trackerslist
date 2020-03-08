@@ -14,23 +14,27 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.sbsub.com:2710/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://open.stealth.si:80/announce
-
 udp://open.demonii.si:1337/announce
 
 udp://denis.stalker.upeer.me:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://explodie.org:6969/announce
+
+http://explodie.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -50,7 +54,9 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.iamhansen.xyz:2000/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.ds.is:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -61,8 +67,6 @@ udp://opentracker.i2p.rocks:6969/announce
 udp://opentor.org:2710/announce
 
 udp://open.nyap2p.com:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://chihaya.toss.li:9696/announce
 
@@ -76,27 +80,23 @@ https://tracker.nanoha.org:443/announce
 
 http://trun.tom.ru:80/announce
 
-http://tracker.yoshi210.com:6969/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.acg.rip:6699/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://pow7.com:80/announce
-
-http://p4p.arenabg.com:1337/announce
-
 http://open.acgnxtracker.com:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
-
-http://explodie.org:6969/announce
 
 udp://www.loushao.net:8080/announce
 
@@ -112,7 +112,7 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.kamigami.org:2710/announce
 
-udp://tracker.ds.is:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
 
@@ -148,6 +148,8 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
+http://tracker.yoshi210.com:6969/announce
+
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.nyap2p.com:8080/announce
@@ -161,6 +163,10 @@ http://tracker.gcvchp.com:2710/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.acgnx.se:80/announce
+
+http://pow7.com:80/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
