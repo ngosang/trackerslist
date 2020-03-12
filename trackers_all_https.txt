@@ -1,8 +1,8 @@
-https://tracker.parrotlinux.org:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.nyaa.tk:443/announce
 
