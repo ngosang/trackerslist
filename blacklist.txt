@@ -144,3 +144,4 @@ udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.pomf.se:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
 http://tracker.skyts.cn:6969/announce # duplicate of http://tracker.skyts.net:6969/announce
+udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
