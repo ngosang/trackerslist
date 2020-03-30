@@ -14,13 +14,13 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.kamigami.org:2710/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
 http://vps02.net.orel.ru:80/announce
+
+http://tracker.kamigami.org:2710/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -28,19 +28,21 @@ http://tracker.bt4g.com:2095/announce
 
 http://www.loushao.net:8080/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://tracker.yoshi210.com:6969/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://t.overflow.biz:6969/announce
-
-http://t.nyaatracker.com:80/announce
 
 http://trun.tom.ru:80/announce
 
 http://tracker.ygsub.com:6969/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.dler.org:6969/announce
+
+http://t.overflow.biz:6969/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://t.acg.rip:6699/announce
 
@@ -59,6 +61,4 @@ http://tracker2.itzmx.com:6961/announce
 http://tracker.gcvchp.com:2710/announce
 
 http://tracker.acgnx.se:80/announce
-
-http://netwarer.xyz:6960/announce
 
