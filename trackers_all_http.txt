@@ -32,10 +32,6 @@ http://tracker.yoshi210.com:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://tracker2.itzmx.com:6961/announce
-
 http://t.overflow.biz:6969/announce
 
 http://retracker.sevstar.net:2710/announce
@@ -43,6 +39,8 @@ http://retracker.sevstar.net:2710/announce
 http://pow7.com:80/announce
 
 http://trun.tom.ru:80/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.ygsub.com:6969/announce
 
@@ -54,6 +52,8 @@ http://t.acg.rip:6699/announce
 
 http://open.acgnxtracker.com:80/announce
 
+http://netwarer.xyz:6960/announce
+
 http://mail2.zelenaya.net:80/announce
 
 http://tracker4.itzmx.com:2710/announce
@@ -62,5 +62,5 @@ http://tracker.gcvchp.com:2710/announce
 
 http://tracker.acgnx.se:80/announce
 
-http://netwarer.xyz:6960/announce
+http://highteahop.top:6960/announce
 

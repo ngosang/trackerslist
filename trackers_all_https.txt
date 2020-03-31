@@ -14,5 +14,3 @@ https://t3.leech.ie:443/announce
 
 https://t2.leech.ie:443/announce
 
-https://1337.abcvg.info:443/announce
-
