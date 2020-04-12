@@ -4,15 +4,15 @@ https://tracker.gbitt.info:443/announce
 
 https://aaa.army:8866/announce
 
+https://tracker.nanoha.org:443/announce
+
 https://tracker.sloppyta.co:443/announce
+
+https://tracker.parrotlinux.org:443/announce
 
 https://tracker.nitrix.me:443/announce
 
-https://tracker.nanoha.org:443/announce
-
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.parrotlinux.org:443/announce
 
 https://tk.mabo.ltd:443/announce
 
@@ -22,5 +22,5 @@ https://t2.leech.ie:443/announce
 
 https://t1.leech.ie:443/announce
 
-https://1337.abcvg.info:443/announce
+https://tracker.hama3.net:443/announce
 
