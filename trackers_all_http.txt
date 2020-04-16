@@ -10,27 +10,25 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker.nyap2p.com:8080/announce
 
-http://h4.trakx.nibba.trade:80/announce
-
 http://explodie.org:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.kamigami.org:2710/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://h4.trakx.nibba.trade:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
-http://tracker.gbitt.info:80/announce
+http://tracker.lelux.fi:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://aaa.army:8866/announce
+http://tracker.gbitt.info:80/announce
 
-http://tracker.skyts.net:6969/announce
+http://aaa.army:8866/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -39,6 +37,8 @@ http://trun.tom.ru:80/announce
 http://tracker.yoshi210.com:6969/announce
 
 http://tracker.ygsub.com:6969/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.dler.org:6969/announce
 
