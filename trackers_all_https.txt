@@ -20,5 +20,3 @@ https://t2.leech.ie:443/announce
 
 https://t1.leech.ie:443/announce
 
-https://tracker.hama3.net:443/announce
-
