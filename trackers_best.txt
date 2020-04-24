@@ -1,5 +1,3 @@
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
@@ -36,5 +34,7 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://zephir.monocul.us:6969/announce
+udp://valakas.rollo.dnsabr.com:2710/announce
+
+udp://opentor.org:2710/announce
 
