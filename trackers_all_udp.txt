@@ -18,9 +18,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.sbsub.com:2710/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -60,15 +60,19 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://tracker.army:6969/announce
-
 udp://chihaya.de:6969/announce
 
 udp://aaa.army:8866/announce
 
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker.teambelgium.net:6969/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tracker.kamigami.org:2710/announce
+
+udp://tracker.army:6969/announce
 
 udp://open.nyap2p.com:6969/announce
 
@@ -89,8 +93,6 @@ udp://tracker.dler.org:6969/announce
 udp://retracker.sevstar.net:2710/announce
 
 udp://qg.lorzl.gq:2710/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.itzmx.com:6961/announce
 

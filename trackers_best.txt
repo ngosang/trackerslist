@@ -18,9 +18,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.sbsub.com:2710/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://tracker.cyberia.is:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
