@@ -8,11 +8,11 @@ https://tracker.sloppyta.co:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.nanoha.org:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.parrotlinux.org:443/announce
-
-https://tracker.nanoha.org:443/announce
 
 https://tk.mabo.ltd:443/announce
 
