@@ -28,13 +28,13 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://valakas.rollo.dnsabr.com:2710/announce
+udp://bt2.archive.org:6969/announce
 
-udp://retracker.akado-ural.ru:80/announce
+udp://explodie.org:6969/announce
 
-udp://opentor.org:2710/announce
+udp://zephir.monocul.us:6969/announce
+
+udp://xxxtor.com:2710/announce
 
