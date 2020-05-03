@@ -7,6 +7,14 @@ https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://tracker.tricitytorrents.com:2710/announce # registered torrents
+https://torrent.ubuntu.com/announce # registered torrents
+http://tracker.gcvchp.com:2710/announce # registered torrents
+http://tracker.fdn.fr:6969/announce # registered torrents
+http://torrent.ubuntu.com:6969/announce # registered torrents
+http://tracker.acgnx.se:80/announce # registered torrents
+http://tracker.anirena.com:80/announce # registered torrents
+http://siambit.com/announce.php # registered torrents
+http://bt.edwardk.info:6969/announce # registered torrents
 http://datascene.net/announce.php # registered torrents
 http://deviloid.net:6969/announce # registered torrents
 http://elitezones.ro/announce.php # registered torrents
@@ -103,13 +111,22 @@ udp://9.rarbg.to:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2790/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2800/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.me:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.me:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.me:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.me:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.me:2720/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.me:2750/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.me:2800/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2770/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2800/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2750/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2790/announce # duplicate of udp://9.rarbg.to:2710/announce
 http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker4.itzmx.com:2710/announce
 http://tracker3.itzmx.com:8080/announce # duplicate of http://tracker3.itzmx.com:6961/announce
 udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -136,6 +153,8 @@ http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announc
 http://atrack.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://t2.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://secure.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://t1.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
+http://tracker.pow7.com:80/announce # duplicate of http://pow7.com:80/announce
 http://opentracker.acgnx.com:6869/announce # duplicate of http://tracker.acgnx.se:80/announce
 udp://tracker.btsync.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/announce
@@ -145,3 +164,11 @@ udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://tracker.pomf.se:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
 http://tracker.skyts.cn:6969/announce # duplicate of http://tracker.skyts.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
+http://t2.leech.ie:80/announce # duplicate of http://t1.leech.ie:80/announce
+https://t2.leech.ie:443/announce # duplicate of https://t1.leech.ie:443/announce
+http://t3.leech.ie:80/announce # duplicate of http://t1.leech.ie:80/announce
+https://t3.leech.ie:443/announce # duplicate of https://t1.leech.ie:443/announce
+udp://tracker.sbsub.com:2710/announce # duplicate of udp://retracker.lanta-net.ru:2710/announce
+http://tracker3.dler.org:2710/announce # duplicate of http://tracker.dler.org:6969/announce
+http://tracker4.dler.org:6969/announce # duplicate of http://tracker.dler.org:6969/announce
+udp://tracker7.dler.org:6969/announce # duplicate of udp://tracker6.dler.org:2710/announce
