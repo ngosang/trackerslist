@@ -1,6 +1,6 @@
-https://tracker.gbitt.info:443/announce
-
 https://tracker.lelux.fi:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://aaa.army:8866/announce
 
@@ -20,17 +20,15 @@ https://tracker.jae.moe:443/announce
 
 https://tk.mabo.ltd:443/announce
 
-https://t3.leech.ie:443/announce
-
-https://t2.leech.ie:443/announce
-
 https://t1.leech.ie:443/announce
-
-https://2.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
 https://tr.ready4.icu:443/announce
+
+https://t3.leech.ie:443/announce
+
+https://t2.leech.ie:443/announce
 
