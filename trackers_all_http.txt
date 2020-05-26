@@ -2,13 +2,23 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.internetwarriors.net:1337/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://p4p.arenabg.com:1337/announce
 
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker4.itzmx.com:2710/announce
+
+http://vps02.net.orel.ru:80/announce
+
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker.nyap2p.com:8080/announce
+
+http://tracker.kamigami.org:2710/announce
+
+http://tracker.gbitt.info:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -16,15 +26,7 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://explodie.org:6969/announce
 
-http://vps02.net.orel.ru:80/announce
-
-http://tracker.nyap2p.com:8080/announce
-
 http://tracker.lelux.fi:80/announce
-
-http://tracker.kamigami.org:2710/announce
-
-http://tracker.gbitt.info:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -57,8 +59,6 @@ http://t.nyaatracker.com:80/announce
 http://retracker.sevstar.net:2710/announce
 
 http://pow7.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
