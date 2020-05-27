@@ -1,13 +1,13 @@
 # ngosang/trackerslist
 Updated list of public BitTorrent trackers
 
-#### Updated: 2020-05-27
+#### Updated: 2020-05-28
 *These lists are automatically updated every day:*
 
 * trackers_best (20 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_best.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt)
-* trackers_all (103 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt)
-* trackers_all_udp (52 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt)
-* trackers_all_http (33 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt)
+* trackers_all (106 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt)
+* trackers_all_udp (53 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt)
+* trackers_all_http (35 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt)
 * trackers_all_https (18 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt)
 * trackers_all_ws (1 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt)
 
