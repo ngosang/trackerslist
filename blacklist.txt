@@ -168,3 +168,6 @@ udp://tracker.sbsub.com:2710/announce # duplicate of udp://retracker.lanta-net.r
 http://tracker3.dler.org:2710/announce # duplicate of http://tracker.dler.org:6969/announce
 http://tracker4.dler.org:6969/announce # duplicate of http://tracker.dler.org:6969/announce
 udp://tracker7.dler.org:6969/announce # duplicate of udp://tracker6.dler.org:2710/announce
+https://t1.leech.ie:443/announce # deprecated by owner
+https://t2.leech.ie:443/announce # deprecated by owner
+https://t3.leech.ie:443/announce # deprecated by owner
