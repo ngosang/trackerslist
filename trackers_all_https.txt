@@ -24,7 +24,9 @@ https://tracker.hama3.net:443/announce
 
 https://tr.ready4.icu:443/announce
 
-https://tk.mabo.ltd:443/announce
+https://2.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
+
+https://tracker.coalition.space:443/announce
 
