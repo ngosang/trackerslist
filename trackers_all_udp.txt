@@ -70,8 +70,6 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.jae.moe:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.army:6969/announce
 
 udp://tr2.ysagin.top:2710/announce
@@ -96,7 +94,7 @@ udp://tracker6.dler.org:2710/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
 
