@@ -1,2 +1,4 @@
 wss://tracker.sloppyta.co:443/announce
 
+ws://tracker.sloppyta.co:80/announce
+
