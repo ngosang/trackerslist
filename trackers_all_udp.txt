@@ -2,6 +2,10 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.leechers-paradise.org:6969/announce
+
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://9.rarbg.to:2710/announce
 
 udp://9.rarbg.me:2710/announce
@@ -16,11 +20,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker3.itzmx.com:6961/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -40,7 +42,7 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.ds.is:6969/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -48,15 +50,13 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentor.org:2710/announce
 
-udp://explodie.org:6969/announce
-
 udp://tracker.lelux.fi:6969/announce
 
-udp://tracker.ds.is:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
-udp://chihaya.de:6969/announce
+udp://explodie.org:6969/announce
 
-udp://aaa.army:8866/announce
+udp://www.loushao.net:8080/announce
 
 udp://u.wwwww.wtf:1/announce
 
@@ -84,15 +84,15 @@ udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://qg.lorzl.gq:2710/announce
+udp://chihaya.de:6969/announce
 
-udp://www.loushao.net:8080/announce
+udp://aaa.army:8866/announce
 
 udp://tracker6.dler.org:2710/announce
 
-udp://tracker2.itzmx.com:6961/announce
+udp://tracker4.itzmx.com:2710/announce
 
-udp://tracker.swateam.org.uk:2710/announce
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.filemail.com:6969/announce
 
