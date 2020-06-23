@@ -4,5 +4,7 @@ wss://tracker.sloppyta.co:443/announce
 
 wss://peertube.live:443/tracker/socket
 
+wss://open.tube:443/tracker/socket
+
 ws://tracker.sloppyta.co:80/announce
 
