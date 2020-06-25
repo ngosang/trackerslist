@@ -16,11 +16,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://open.stealth.si:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -62,6 +62,8 @@ udp://opentor.org:2710/announce
 
 udp://explodie.org:6969/announce
 
+udp://chihaya.de:6969/announce
+
 https://tracker.lelux.fi:443/announce
 
 https://tracker.gbitt.info:443/announce
@@ -84,19 +86,15 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://explodie.org:6969/announce
 
-udp://tracker.jae.moe:6969/announce
-
 udp://tracker.army:6969/announce
 
-udp://chihaya.de:6969/announce
+udp://retracker.netbynet.ru:2710/announce
 
 udp://aaa.army:8866/announce
 
-https://tracker.nitrix.me:443/announce
-
-https://tracker.jae.moe:443/announce
-
 https://aaa.army:8866/announce
+
+http://tracker.bt4g.com:2095/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -114,6 +112,10 @@ udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.jae.moe:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tr2.ysagin.top:2710/announce
@@ -126,25 +128,35 @@ udp://t1.leech.ie:1337/announce
 
 udp://retracker.sevstar.net:2710/announce
 
-udp://retracker.netbynet.ru:2710/announce
-
 udp://qg.lorzl.gq:2710/announce
 
 https://w.wwwww.wtf:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
+https://tracker.nitrix.me:443/announce
+
 https://tracker.nanoha.org:443/announce
 
+https://tracker.jae.moe:443/announce
+
+https://tracker.imgoingto.icu:443/announce
+
 https://tracker.hama3.net:443/announce
+
+https://tracker.coalition.space:443/announce
 
 https://tr.ready4.icu:443/announce
 
 https://1337.abcvg.info:443/announce
 
 http://www.loushao.net:8080/announce
+
+http://trun.tom.ru:80/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -153,6 +165,8 @@ http://tracker.yoshi210.com:6969/announce
 http://tracker.ygsub.com:6969/announce
 
 http://tracker.sloppyta.co:80/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -165,8 +179,6 @@ http://t1.leech.ie:80/announce
 http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://pow7.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -182,13 +194,7 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://bt2.54new.com:8080/announce
 
-https://tracker.vectahosting.eu:2053/announce
-
 https://tracker.shittyurl.org:443/announce
-
-https://tracker.imgoingto.icu:443/announce
-
-https://tracker.coalition.space:443/announce
 
 http://tracker4.itzmx.com:2710/announce
 

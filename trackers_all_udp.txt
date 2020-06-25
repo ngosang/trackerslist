@@ -14,11 +14,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://open.stealth.si:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -56,11 +56,11 @@ udp://opentor.org:2710/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.jae.moe:6969/announce
+udp://chihaya.de:6969/announce
 
 udp://tracker.army:6969/announce
 
-udp://chihaya.de:6969/announce
+udp://retracker.netbynet.ru:2710/announce
 
 udp://aaa.army:8866/announce
 
@@ -74,6 +74,10 @@ udp://tracker.yoshi210.com:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.jae.moe:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tr2.ysagin.top:2710/announce
@@ -85,8 +89,6 @@ udp://t2.leech.ie:1337/announce
 udp://t1.leech.ie:1337/announce
 
 udp://retracker.sevstar.net:2710/announce
-
-udp://retracker.netbynet.ru:2710/announce
 
 udp://qg.lorzl.gq:2710/announce
 
