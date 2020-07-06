@@ -2,9 +2,27 @@ wss://video.blender.org:443/tracker/socket
 
 wss://tracker.sloppyta.co:443/announce
 
+wss://tracker.lab.vvc.niif.hu:443/announce
+
+wss://tracker.files.fm:7073/announce
+
+wss://track.file.pizza:443/announce
+
 wss://peertube.live:443/tracker/socket
 
 wss://open.tube:443/tracker/socket
 
+wss://hub.bugout.link:443/announce
+
 ws://tracker.sloppyta.co:80/announce
+
+ws://tracker.lab.vvc.niif.hu:80/announce
+
+ws://tracker.files.fm:7072/announce
+
+ws://tracker.btsync.cf:6969/announce
+
+ws://track.file.pizza:80/announce
+
+ws://hub.bugout.link:80/announce
 

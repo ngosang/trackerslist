@@ -171,3 +171,6 @@ udp://tracker7.dler.org:6969/announce # duplicate of udp://tracker6.dler.org:271
 https://t1.leech.ie:443/announce # deprecated by owner
 https://t2.leech.ie:443/announce # deprecated by owner
 https://t3.leech.ie:443/announce # deprecated by owner
+http://t1.leech.ie:80/announce # deprecated by owner
+http://t2.leech.ie:80/announce # deprecated by owner
+http://t3.leech.ie:80/announce # deprecated by owner

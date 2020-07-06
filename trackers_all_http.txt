@@ -4,9 +4,17 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+http://tracker4.itzmx.com:2710/announce
+
+http://tracker.internetwarriors.net:1337/announce
 
 http://tracker.nyap2p.com:8080/announce
+
+http://tracker.bt4g.com:2095/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://explodie.org:6969/announce
 
@@ -26,11 +34,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://t3.leech.ie:80/announce
+http://tracker.gbitt.info:80/announce
 
-http://t2.leech.ie:80/announce
-
-http://t1.leech.ie:80/announce
+http://tracker.dler.org:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -42,23 +48,17 @@ http://pow7.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://open.acgnxtracker.com:80/announce
+
 http://mail2.zelenaya.net:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
 http://aaa.army:8866/announce
 
-http://tracker4.itzmx.com:2710/announce
-
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker.shittyurl.org:80/announce
 
-http://tracker.dler.org:6969/announce
-
-http://tracker.bt4g.com:2095/announce
-
 http://t.acg.rip:6699/announce
-
-http://open.acgnxtracker.com:80/announce
 
