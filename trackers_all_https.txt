@@ -1,8 +1,8 @@
-https://tracker.lelux.fi:443/announce
-
 https://tracker.gbitt.info:443/announce
 
 https://w.wwwww.wtf:443/announce
+
+https://tracker.vectahosting.eu:2053/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -11,6 +11,8 @@ https://tracker.sloppyta.co:443/announce
 https://tracker.nitrix.me:443/announce
 
 https://tracker.nanoha.org:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.jae.moe:443/announce
 
@@ -25,6 +27,4 @@ https://tr.ready4.icu:443/announce
 https://aaa.army:8866/announce
 
 https://1337.abcvg.info:443/announce
-
-https://tracker.vectahosting.eu:2053/announce
 
