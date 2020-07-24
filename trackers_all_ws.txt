@@ -18,7 +18,7 @@ ws://tracker.lab.vvc.niif.hu:80/announce
 
 ws://tracker.files.fm:7072/announce
 
-ws://track.file.pizza:80/announce
+ws://tracker.btsync.cf:6969/announce
 
-ws://hub.bugout.link:80/announce
+ws://track.file.pizza:80/announce
 
