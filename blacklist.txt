@@ -2,9 +2,33 @@ http://bt-club.ws/announce # error
 http://tracker.files.fm:6969/announce # malfunction
 http://open.touki.ru/announce.php # malfunction
 http://open.touki.ru/announce # malfunction
+http://torrentsmd.com:8080/announce # malfunction
+http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://carbon-bonsai-621.appspot.com/announce # malfunction
 https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
+https://torrents.linuxmint.com:443/announce.php # registered torrents
+http://torrents.linuxmint.com:80/announce.php # registered torrents
+http://torrent.rus.ec:2710/announce # registered torrents
+http://tracker.shittyurl.org:80/announce # registered torrents
+https://tracker.shittyurl.org:443/announce # registered torrents
+http://tracker.xdvdz.com:2710/announce # registered torrents
+http://60-fps.org:80/bt/announce.php # registered torrents
+http://alltorrents.net:80/bt/announce.php # registered torrents
+http://beertracker.ml:80/announce # registered torrents
+http://btx.anifilm.tv:80/announce.php # registered torrents
+http://bt.ali213.net:8080/announce # registered torrents
+http://freerainbowtables.com:6969/announce # registered torrents
+https://tracker.acgnx.se:443/announce # registered torrents
+http://www.freerainbowtables.com:6969/announce # registered torrents
+http://www.legittorrents.info:80/announce.php # registered torrents
+http://bttracker.debian.org:6969/announce # registered torrents
+http://tracker.frozen-layer.net:6969/announce.php # registered torrents
+http://kaztorka.org:80/announce.php # registered torrents
+http://music-torrent.net:2710/announce # registered torrents
+http://mixfiend.com:6969/announce # registered torrents
+http://bt.unionpeer.org:777/announce # registered torrents
+http://www.tvnihon.com:6969/announce # registered torrents
 udp://tracker.tricitytorrents.com:2710/announce # registered torrents
 http://tracker.tricitytorrents.com:2710/announce # registered torrents
 https://torrent.ubuntu.com/announce # registered torrents
@@ -72,7 +96,6 @@ http://torrent-team.net/announce.php # registered torrents
 http://www.shnflac.net/announce.php # registered torrents
 http://tracker.gigatorrents.ws:2710/announce # registered torrents
 http://tracker.torrentbytes.net/announce.php # registered torrents
-http://tracker.anirena.com:80/announce # registered torrents
 http://masters-tb.com/announce.php # registered torrents
 http://www.learnbits.me/announce.php # registered torrents
 http://bithq.org/announce.php # registered torrents
@@ -100,7 +123,6 @@ http://www.siambt.com/announce.php # registered torrents
 http://www.worldboxingvideoarchive.com/announce.php # registered torrents
 http://bt.edwardk.info:2710/announce # registered torrents
 http://bt.edwardk.info:4040/announce # registered torrents
-http://bt.edwardk.info:6969/announce # registered torrents
 http://bt2.edwardk.info:2710/announce # registered torrents
 http://bt2.edwardk.info:4040/announce # registered torrents
 http://bt2.edwardk.info:6969/announce # registered torrents
@@ -127,6 +149,20 @@ udp://9.rarbg.com:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2750/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2790/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.me:2790/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2750/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://7.rarbg.me:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://7.rarbg.to:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://8.rarbg.com:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.com:2720/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://p4p.arenabg.com:1337/announce # duplicate of udp://p4p.arenabg.ch:1337/announce
+udp://openbittorrent.com:80/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://sugoi.pomf.se:80/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://tracker.openbittorrent.com:80/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker4.itzmx.com:2710/announce
 http://tracker3.itzmx.com:8080/announce # duplicate of http://tracker3.itzmx.com:6961/announce
 udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
