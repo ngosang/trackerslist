@@ -2,7 +2,7 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.internetwarriors.net:1337/announce
+udp://tracker.leechers-paradise.org:6969/announce
 
 udp://p4p.arenabg.ch:1337/announce
 
@@ -14,9 +14,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
+
+udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -34,11 +36,11 @@ udp://zephir.monocul.us:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
+udp://tracker.zerobytes.xyz:1337/announce
+
 udp://tracker.uw0.xyz:6969/announce
 
 udp://retracker.akado-ural.ru:80/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -56,15 +58,11 @@ udp://u.wwwww.wtf:1/announce
 
 udp://tsundere.pw:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zum.bi:6969/announce
 
 udp://tracker.zooki.xyz:6969/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zemoj.com:6969/announce
 
@@ -73,6 +71,10 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.vulnix.sh:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
+
+udp://tracker.teambelgium.net:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -118,9 +120,9 @@ udp://retracker.local.msn-net.ru:6969/announce
 
 udp://publictracker.xyz:6969/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://public-tracker.zooki.xyz:6969/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
@@ -135,8 +137,6 @@ udp://ln.mtahost.co:6969/announce
 udp://line-net.ru:6969/announce
 
 udp://koli.services:6969/announce
-
-udp://kawaii.social:6969/announce
 
 udp://kanal-4.de:6969/announce
 
@@ -175,8 +175,6 @@ udp://discord.heihachi.pw:6969/announce
 udp://daveking.com:6969/announce
 
 udp://cutiegirl.ru:6969/announce
-
-udp://cpc69306-dudl11-0-0-cust33.16-1.cable.virginm.net:6969/announce
 
 udp://contra.sf.ca.us:6969/announce
 
@@ -226,9 +224,7 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
-udp://tracker.teambelgium.net:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.kali.org:6969/announce
 
@@ -240,7 +236,7 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://qg.lorzl.gq:2710/announce
 
-udp://opentracker.arg.bz:6969/announce
+udp://public.publictracker.xyz:6969/announce
 
 udp://open.lolicon.eu:7777/announce
 
