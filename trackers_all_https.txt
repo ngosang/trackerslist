@@ -1,6 +1,8 @@
+https://w.wwwww.wtf:443/announce
+
 https://trakx.herokuapp.com:443/announce
 
-https://w.wwwww.wtf:443/announce
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
@@ -14,9 +16,9 @@ https://tracker.gbitt.info:443/announce
 
 https://aaa.army:8866/announce
 
-https://1337.abcvg.info:443/announce
-
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.imgoingto.icu:443/announce
+
+https://tr.ready4.icu:443/announce
+
+https://1337.abcvg.info:443/announce
 
