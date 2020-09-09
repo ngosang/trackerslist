@@ -22,17 +22,15 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker3.itzmx.com:6961/announce
+
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker3.itzmx.com:6961/announce
+udp://bt1.archive.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://retracker.akado-ural.ru:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -40,13 +38,9 @@ udp://zephir.monocul.us:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://opentracker.i2p.rocks:6969/announce
+udp://retracker.akado-ural.ru:80/announce
 
 udp://opentor.org:2710/announce
 
@@ -78,6 +72,8 @@ udp://tracker.zum.bi:6969/announce
 
 udp://tracker.zooki.xyz:6969/announce
 
+udp://tracker.zerobytes.xyz:1337/announce
+
 udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.vulnix.sh:6969/announce
@@ -106,9 +102,13 @@ udp://tracker.dyne.org:6969/announce
 
 udp://tracker.ds.is:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.army:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -132,11 +132,15 @@ udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker.local.msn-net.ru:6969/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://publictracker.xyz:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentracker.arg.bz:6969/announce
 
@@ -155,6 +159,8 @@ udp://line-net.ru:6969/announce
 udp://koli.services:6969/announce
 
 udp://kanal-4.de:6969/announce
+
+udp://josueunhuit.com:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
@@ -230,8 +236,6 @@ udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tr.bangumi.moe:6969/announce
 
 udp://open.lolicon.eu:7777/announce
@@ -239,8 +243,6 @@ udp://open.lolicon.eu:7777/announce
 udp://ns389251.ovh.net:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
-
-udp://josueunhuit.com:6969/announce
 
 udp://concen.org:6969/announce
 
