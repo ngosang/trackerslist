@@ -6,8 +6,6 @@ http://tracker1.itzmx.com:8080/announce
 
 http://explodie.org:6969/announce
 
-http://h4.trakx.nibba.trade:80/announce
-
 http://vps2.avc.cx:7171/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -50,11 +48,15 @@ http://rt.tace.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
+http://pow7.com:80/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
+
+http://h4.trakx.nibba.trade:80/announce
 
 http://bobbialbano.com:6969/announce
 
