@@ -12,6 +12,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -19,8 +21,6 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://open.stealth.si:80/announce
 
 udp://tracker3.itzmx.com:6961/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -32,6 +32,8 @@ udp://bt1.archive.org:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
+udp://tracker.zerobytes.xyz:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://retracker.akado-ural.ru:80/announce
@@ -41,8 +43,6 @@ udp://opentor.org:2710/announce
 udp://explodie.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
-
-udp://www.midea123.z-media.com.cn:6969/announce
 
 udp://wassermann.online:6969/announce
 
@@ -57,8 +57,6 @@ udp://tracker2.dler.org:80/announce
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zum.bi:6969/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zemoj.com:6969/announce
 
@@ -182,8 +180,6 @@ udp://bms-hosxp.com:6969/announce
 
 udp://blokas.io:6969/announce
 
-udp://bitsparadise.info:6969/announce
-
 udp://benouworldtrip.fr:6969/announce
 
 udp://aruacfilmes.com.br:6969/announce
@@ -204,6 +200,8 @@ udp://61626c.net:6969/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
 
+udp://www.midea123.z-media.com.cn:6969/announce
+
 udp://tsundere.pw:6969/announce
 
 udp://tracker6.dler.org:2710/announce
@@ -220,6 +218,8 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
+udp://opentracker.arg.bz:6969/announce
+
 udp://open.lolicon.eu:7777/announce
 
 udp://ns389251.ovh.net:6969/announce
@@ -235,6 +235,8 @@ udp://btt.royalquest.ru:2710/announce
 udp://bt2.54new.com:8080/announce
 
 udp://bt.firebit.org:2710/announce
+
+udp://bitsparadise.info:6969/announce
 
 udp://bioquantum.co.za:6969/announce
 
