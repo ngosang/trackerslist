@@ -1,6 +1,6 @@
-https://w.wwwww.wtf:443/announce
-
 https://trakx.herokuapp.com:443/announce
+
+https://w.wwwww.wtf:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
