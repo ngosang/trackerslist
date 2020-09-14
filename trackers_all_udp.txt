@@ -1,5 +1,3 @@
-udp://tracker.coppersurfer.tk:6969/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.ch:1337/announce
@@ -12,15 +10,15 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-udp://open.stealth.si:80/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker3.itzmx.com:6961/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -31,8 +29,6 @@ udp://bt2.archive.org:6969/announce
 udp://bt1.archive.org:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -52,11 +48,15 @@ udp://ultra.zt.ua:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
+udp://tracker6.dler.org:2710/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zum.bi:6969/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zemoj.com:6969/announce
 
@@ -79,6 +79,8 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.kamigami.org:2710/announce
 
 udp://tracker.fortu.io:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
@@ -111,6 +113,8 @@ udp://retracker.sevstar.net:2710/announce
 udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker.local.msn-net.ru:6969/announce
+
+udp://qg.lorzl.gq:2710/announce
 
 udp://publictracker.xyz:6969/announce
 
@@ -204,8 +208,6 @@ udp://47.ip-51-68-199.eu:6969/announce
 
 udp://tsundere.pw:6969/announce
 
-udp://tracker6.dler.org:2710/announce
-
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.itzmx.com:6961/announce
@@ -215,8 +217,6 @@ udp://tracker.kali.org:6969/announce
 udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
-
-udp://qg.lorzl.gq:2710/announce
 
 udp://opentracker.arg.bz:6969/announce
 
