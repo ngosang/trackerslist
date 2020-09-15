@@ -1,7 +1,5 @@
 wss://video.blender.org:443/tracker/socket
 
-wss://tube.privacytools.io:443/tracker/socket
-
 wss://tracker.sloppyta.co:443/announce
 
 wss://tracker.files.fm:7073/announce
