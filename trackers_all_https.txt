@@ -20,3 +20,5 @@ https://aaa.army:8866/announce
 
 https://1337.abcvg.info:443/announce
 
+https://tr.ready4.icu:443/announce
+
