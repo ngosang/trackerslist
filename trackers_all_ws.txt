@@ -1,3 +1,5 @@
+wss://video.blender.org:443/tracker/socket
+
 wss://tube.privacytools.io:443/tracker/socket
 
 wss://tracker.sloppyta.co:443/announce
@@ -7,6 +9,8 @@ wss://tracker.lab.vvc.niif.hu:443/announce
 wss://tracker.files.fm:7073/announce
 
 wss://peertube.cpy.re:443/tracker/socket
+
+wss://open.tube:443/tracker/socket
 
 wss://hub.bugout.link:443/announce
 
