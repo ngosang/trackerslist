@@ -32,21 +32,17 @@ udp://bt1.archive.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
-udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://opentor.org:2710/announce
-
-udp://explodie.org:6969/announce
+udp://tracker.uw0.xyz:6969/announce
 
 udp://wassermann.online:6969/announce
 
 udp://vibe.community:6969/announce
 
+udp://valakas.rollo.dnsabr.com:2710/announce
+
 udp://ultra.zt.ua:6969/announce
 
 udp://u.wwwww.wtf:1/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
@@ -60,8 +56,6 @@ udp://tracker.vulnix.sh:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://tracker.uw0.xyz:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
@@ -74,15 +68,11 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.kamigami.org:2710/announce
 
-udp://tracker.fortu.io:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dyne.org:6969/announce
 
 udp://tracker.ds.is:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.army:6969/announce
 
@@ -114,6 +104,8 @@ udp://publictracker.xyz:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://opentor.org:2710/announce
+
 udp://nagios.tks.sumy.ua:80/announce
 
 udp://mts.tvbit.co:6969/announce
@@ -139,6 +131,8 @@ udp://free-tracker.zooki.xyz:6969/announce
 udp://forever-tracker.zooki.xyz:6969/announce
 
 udp://fe.dealclub.de:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -190,13 +184,23 @@ udp://47.ip-51-68-199.eu:6969/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
+udp://www.loushao.net:8080/announce
+
+udp://tsundere.pw:6969/announce
+
 udp://tracker6.dler.org:2710/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://tracker.kali.org:6969/announce
+
+udp://tracker.fortu.io:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
@@ -204,11 +208,11 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
+udp://qg.lorzl.gq:2710/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
-
-udp://opentracker.arg.bz:6969/announce
 
 udp://open.lolicon.eu:7777/announce
 
@@ -221,6 +225,8 @@ udp://josueunhuit.com:6969/announce
 udp://git.vulnix.sh:6969/announce
 
 udp://drumkitx.com:6969/announce
+
+udp://cx42light.cn:39652/announce
 
 udp://concen.org:6969/announce
 
