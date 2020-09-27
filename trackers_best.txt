@@ -22,19 +22,19 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.ds.is:6969/announce
+
+udp://open.stealth.si:80/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
 http://open.acgnxtracker.com:80/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://opentor.org:2710/announce
 
