@@ -12,8 +12,8 @@ Updated list of public BitTorrent trackers
 * trackers_all_ws (13 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_ws.txt)
 
 Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
-* trackers_best_ip (16 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_best_ip.txt)
-* trackers_all_ip (140 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_ip.txt)
+* trackers_best_ip (18 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_best_ip.txt)
+* trackers_all_ip (137 trackers) => [link](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist/trackers_all_ip.txt)
 
 ##### Notes
 * A bot automatically checks the trackers and updates the lists.

@@ -24,6 +24,8 @@ http://rt.tace.ru:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://aaa.army:8866/announce
+
 http://vpn.flying-datacenter.de:6969/announce
 
 http://trun.tom.ru:80/announce
@@ -63,8 +65,6 @@ http://derpyradio.net:6969/announce
 http://bt.3kb.xyz:80/announce
 
 http://bobbialbano.com:6969/announce
-
-http://aaa.army:8866/announce
 
 http://tracker4.itzmx.com:2710/announce
 

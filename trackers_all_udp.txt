@@ -16,17 +16,15 @@ udp://explodie.org:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.ds.is:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -42,7 +40,7 @@ udp://cdn-1.gamecoast.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
-udp://ultra.zt.ua:6969/announce
+udp://vibe.community:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -52,9 +50,9 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
 
-udp://tracker.dyne.org:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://retracker.local.msn-net.ru:6969/announce
 
 udp://retracker.akado-ural.ru:80/announce
 
@@ -64,25 +62,27 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://line-net.ru:6969/announce
 
-udp://koli.services:6969/announce
+udp://kanal-4.de:6969/announce
 
 udp://engplus.ru:6969/announce
 
-udp://chanchan.uchuu.co.uk:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://blokas.io:6969/announce
-
-udp://benouworldtrip.fr:6969/announce
+udp://bt1.archive.org:6969/announce
 
 udp://api.bitumconference.ru:6969/announce
+
+udp://aaa.army:8866/announce
+
+udp://61626c.net:6969/announce
 
 udp://www.midea123.z-media.com.cn:6969/announce
 
 udp://wassermann.online:6969/announce
 
-udp://vibe.community:6969/announce
+udp://ultra.zt.ua:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
@@ -112,6 +112,8 @@ udp://tracker.fortu.io:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.dyne.org:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.darli.net:5181/announce
@@ -138,8 +140,6 @@ udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://retracker.local.msn-net.ru:6969/announce
-
 udp://publictracker.xyz:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
@@ -156,7 +156,7 @@ udp://movies.zsw.ca:6969/announce
 
 udp://ln.mtahost.co:6969/announce
 
-udp://kanal-4.de:6969/announce
+udp://koli.services:6969/announce
 
 udp://jsb.by:8000/announce
 
@@ -186,17 +186,19 @@ udp://cutiegirl.ru:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
+udp://chanchan.uchuu.co.uk:6969/announce
+
 udp://camera.lei001.com:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
-udp://bt1.archive.org:6969/announce
-
 udp://bms-hosxp.com:6969/announce
+
+udp://blokas.io:6969/announce
 
 udp://bitsparadise.info:6969/announce
 
 udp://bioquantum.co.za:6969/announce
+
+udp://benouworldtrip.fr:6969/announce
 
 udp://bclearning.top:6969/announce
 
@@ -208,15 +210,13 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://adm.category5.tv:6969/announce
 
-udp://aaa.army:8866/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://61626c.net:6969/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
 
 udp://tracker6.dler.org:2710/announce
+
+udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.kali.org:6969/announce
 
