@@ -12,7 +12,7 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
+http://explodie.org:6969/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -26,11 +26,11 @@ udp://tracker.ds.is:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 http://open.acgnxtracker.com:80/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://retracker.lanta-net.ru:2710/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 udp://tracker.moeking.me:6969/announce
 
