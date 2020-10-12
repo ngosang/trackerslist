@@ -24,6 +24,8 @@ http://www.freerainbowtables.com:6969/announce # registered torrents
 http://www.legittorrents.info:80/announce.php # registered torrents
 http://bttracker.debian.org:6969/announce # registered torrents
 http://tracker.frozen-layer.net:6969/announce.php # registered torrents
+udp://git.vulnix.sh:6969/announce # registered torrents
+udp://tracker.vulnix.sh:6969/announce # registered torrents
 http://kaztorka.org:80/announce.php # registered torrents
 http://music-torrent.net:2710/announce # registered torrents
 http://mixfiend.com:6969/announce # registered torrents
