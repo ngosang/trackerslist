@@ -4,9 +4,9 @@ http://tracker.internetwarriors.net:1337/announce
 
 http://explodie.org:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker3.itzmx.com:6961/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -19,6 +19,10 @@ http://h4.trakx.nibba.trade:80/announce
 http://vps02.net.orel.ru:80/announce
 
 http://tracker.zum.bi:6969/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
@@ -49,8 +53,6 @@ http://tracker.anonwebz.xyz:8080/announce
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentclub.online:54123/announce
-
-http://t.overflow.biz:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
