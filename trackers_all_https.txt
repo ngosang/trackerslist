@@ -6,13 +6,13 @@ https://aaa.army:8866/announce
 
 https://w.wwwww.wtf:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.nitrix.me:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
