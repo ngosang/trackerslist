@@ -6,8 +6,6 @@ wss://tracker.sloppyta.co:443/announce
 
 wss://tracker.magnetoo.io:443/announce
 
-wss://tracker.lab.vvc.niif.hu:443/announce
-
 wss://tracker.files.fm:7073/announce
 
 wss://peertube.cpy.re:443/tracker/socket
