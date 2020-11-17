@@ -1,5 +1,7 @@
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://explodie.org:6969/announce
 
 http://tracker3.itzmx.com:6961/announce
@@ -18,13 +20,21 @@ http://vps02.net.orel.ru:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker.kamigami.org:2710/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
 http://aaa.army:8866/announce
+
+http://tracker.zum.bi:6969/announce
+
+http://tracker.skyts.net:6969/announce
+
+http://tracker.noobsubs.net:80/announce
+
+http://tracker.kamigami.org:2710/announce
+
+http://www.loushao.net:8080/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -36,13 +46,7 @@ http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker.zum.bi:6969/announce
-
 http://tracker.sloppyta.co:80/announce
-
-http://tracker.skyts.net:6969/announce
-
-http://tracker.noobsubs.net:80/announce
 
 http://tracker.lelux.fi:80/announce
 
