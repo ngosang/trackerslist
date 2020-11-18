@@ -1,6 +1,6 @@
-https://tracker.gbitt.info:443/announce
-
 https://trakx.herokuapp.com:443/announce
+
+https://tracker.gbitt.info:443/announce
 
 https://aaa.army:8866/announce
 
