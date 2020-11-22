@@ -41,6 +41,7 @@ http://tracker.acgnx.se:80/announce # registered torrents
 http://tracker.anirena.com:80/announce # registered torrents
 http://siambit.com/announce.php # registered torrents
 http://bt.edwardk.info:6969/announce # registered torrents
+http://xbtrutor.com:2710/announce # registered torrents
 http://datascene.net/announce.php # registered torrents
 http://deviloid.net:6969/announce # registered torrents
 http://elitezones.ro/announce.php # registered torrents
