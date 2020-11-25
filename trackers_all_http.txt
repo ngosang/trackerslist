@@ -2,11 +2,11 @@ http://tracker.opentrackr.org:1337/announce
 
 http://explodie.org:6969/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -14,11 +14,13 @@ http://open.acgnxtracker.com:80/announce
 
 http://rt.tace.ru:80/announce
 
-http://vps02.net.orel.ru:80/announce
-
 http://opentracker.i2p.rocks:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
+
+http://vps02.net.orel.ru:80/announce
+
+http://tracker.zum.bi:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
@@ -28,13 +30,9 @@ http://vpn.flying-datacenter.de:6969/announce
 
 http://trun.tom.ru:80/announce
 
-http://tracker2.itzmx.com:6961/announce
-
 http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.zum.bi:6969/announce
 
 http://tracker.sloppyta.co:80/announce
 
@@ -42,7 +40,7 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.anonwebz.xyz:8080/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -60,7 +58,11 @@ http://mail2.zelenaya.net:80/announce
 
 http://bobbialbano.com:6969/announce
 
+http://www.loushao.net:8080/announce
+
 http://tracker4.itzmx.com:2710/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.dler.org:6969/announce
 
