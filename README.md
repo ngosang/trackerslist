@@ -46,3 +46,4 @@ ngosang [@] hotmail [.es]
 
 ##### Third-party online tools
 * [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
+* [ipfilter](https://www.ipfilter.app/) A free, Open Source utility to keep your Bit Torrent blocklist updated
