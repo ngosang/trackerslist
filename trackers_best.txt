@@ -6,6 +6,8 @@ udp://9.rarbg.me:2710/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -35,6 +37,4 @@ udp://retracker.lanta-net.ru:2710/announce
 http://open.acgnxtracker.com:80/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
