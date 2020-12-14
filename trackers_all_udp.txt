@@ -18,39 +18,37 @@ udp://p4p.arenabg.ch:1337/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.ds.is:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.demonii.si:1337/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://www.loushao.net:8080/announce
+
+udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://cdn-2.gamecoast.org:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
 
-udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://t2.leech.ie:1337/announce
-
-udp://opentracker.i2p.rocks:6969/announce
+udp://tracker.uw0.xyz:6969/announce
 
 udp://opentor.org:2710/announce
 
 udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://www.loushao.net:8080/announce
 
 udp://wassermann.online:6969/announce
 
@@ -69,8 +67,6 @@ udp://tracker.zum.bi:6969/announce
 udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -104,6 +100,8 @@ udp://teamspeak.value-wolf.org:6969/announce
 
 udp://t3.leech.ie:1337/announce
 
+udp://t2.leech.ie:1337/announce
+
 udp://t1.leech.ie:1337/announce
 
 udp://storage.groupees.com:6969/announce
@@ -114,7 +112,13 @@ udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
+udp://public.publictracker.xyz:6969/announce
+
 udp://public-tracker.zooki.xyz:6969/announce
+
+udp://opentracker.i2p.rocks:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
@@ -136,15 +140,11 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://free-tracker.zooki.xyz:6969/announce
 
-udp://forever-tracker.zooki.xyz:6969/announce
-
 udp://fe.dealclub.de:6969/announce
 
 udp://engplus.ru:6969/announce
 
 udp://edu.uifr.ru:6969/announce
-
-udp://drumkitx.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
@@ -165,8 +165,6 @@ udp://bms-hosxp.com:6969/announce
 udp://blokas.io:6969/announce
 
 udp://bitsparadise.info:6969/announce
-
-udp://bioquantum.co.za:6969/announce
 
 udp://bclearning.top:6969/announce
 
@@ -194,17 +192,19 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://qg.lorzl.gq:2710/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://open.lolicon.eu:7777/announce
 
 udp://ns389251.ovh.net:6969/announce
+
+udp://drumkitx.com:6969/announce
 
 udp://concen.org:6969/announce
 
 udp://bt2.54new.com:8080/announce
 
 udp://bt.firebit.org:2710/announce
+
+udp://bioquantum.co.za:6969/announce
 
 udp://anidex.moe:6969/announce
 
