@@ -22,3 +22,5 @@ https://tracker.cyber-hub.net/announce
 
 https://tracker.coalition.space:443/announce
 
+https://tr.ready4.icu:443/announce
+
