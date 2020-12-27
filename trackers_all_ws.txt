@@ -4,8 +4,6 @@ wss://tube.privacytools.io:443/tracker/socket
 
 wss://tracker.sloppyta.co:443/announce
 
-wss://tracker.magnetoo.io:443/announce
-
 wss://tracker.files.fm:7073/announce
 
 wss://peertube.cpy.re:443/tracker/socket
