@@ -1,20 +1,16 @@
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.to:2710/announce
 
-udp://9.rarbg.me:2710/announce
-
-udp://3rt.tace.ru:60889/announce
-
-http://5rt.tace.ru:60889/announce
-
-udp://tracker.internetwarriors.net:1337/announce
+http://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
+
+udp://p4p.arenabg.ch:1337/announce
 
 udp://tracker3.itzmx.com:6961/announce
 
@@ -24,17 +20,21 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.ds.is:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
-http://open.acgnxtracker.com:80/announce
+udp://open.stealth.si:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
+
+udp://open.demonii.si:1337/announce
+
+http://open.acgnxtracker.com:80/announce
+
 udp://tracker.moeking.me:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
