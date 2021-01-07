@@ -8,11 +8,9 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://3rt.tace.ru:60889/announce
 
-udp://tracker3.itzmx.com:6961/announce
+udp://explodie.org:6969/announce
 
 udp://p4p.arenabg.ch:1337/announce
 
@@ -32,13 +30,13 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.demonii.si:1337/announce
 
+udp://tracker4.itzmx.com:2710/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.shkinev.me:6969/announce
-
-udp://ln.mtahost.co:6969/announce
 
 udp://cdn-2.gamecoast.org:6969/announce
 
@@ -68,6 +66,8 @@ udp://tracker.army:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.0x.tf:6969/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://t3.leech.ie:1337/announce
@@ -92,6 +92,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
+udp://ln.mtahost.co:6969/announce
+
 udp://johnrosen1.com:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
@@ -114,8 +116,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt.okmp3.ru:2710/announce
-
 udp://bms-hosxp.com:6969/announce
 
 udp://blokas.io:6969/announce
@@ -126,11 +126,7 @@ udp://aaa.army:8866/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
 
-udp://www.loushao.net:8080/announce
-
 udp://udp-tracker.shittyurl.org:6969/announce
-
-udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -144,13 +140,9 @@ udp://tracker.sigterm.xyz:6969/announce
 
 udp://tracker.fortu.io:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.0x.tf:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tr2.ysagin.top:2710/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -159,10 +151,6 @@ udp://teamspeak.value-wolf.org:6969/announce
 udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
-
-udp://qg.lorzl.gq:2710/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
 
@@ -182,13 +170,19 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.3kb.xyz:6969/announce
 
-udp://bioquantum.co.za:6969/announce
+udp://bt.okmp3.ru:2710/announce
 
 udp://admin.videoenpoche.info:6969/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tr.bangumi.moe:6969/announce
+
+udp://qg.lorzl.gq:2710/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://open.lolicon.eu:7777/announce
 
