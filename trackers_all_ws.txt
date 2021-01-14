@@ -1,10 +1,10 @@
-ws://tracker.btsync.cf:6969/announce
-
 wss://video.blender.org:443/tracker/socket
 
 wss://tube.privacytools.io:443/tracker/socket
 
 wss://tracker.sloppyta.co:443/announce
+
+wss://tracker.lab.vvc.niif.hu:443/announce
 
 wss://tracker.files.fm:7073/announce
 
