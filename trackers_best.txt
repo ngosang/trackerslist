@@ -1,7 +1,5 @@
 udp://9.rarbg.to:2710/announce
 
-udp://9.rarbg.me:2710/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -20,8 +18,6 @@ udp://p4p.arenabg.ch:1337/announce
 
 http://p4p.arenabg.com:1337/announce
 
-udp://tracker2.itzmx.com:6961/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
@@ -34,7 +30,11 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.ds.is:6969/announce
+
 udp://open.demonii.si:1337/announce
 
-udp://tracker.ds.is:6969/announce
+udp://www.torrent.eu.org:451/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
