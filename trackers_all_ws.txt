@@ -1,6 +1,6 @@
-wss://video.blender.org:443/tracker/socket
+ws://tracker.btsync.cf:6969/announce
 
-wss://tube.privacytools.io:443/tracker/socket
+wss://video.blender.org:443/tracker/socket
 
 wss://tracker.sloppyta.co:443/announce
 
@@ -12,13 +12,13 @@ wss://peertube.cpy.re:443/tracker/socket
 
 wss://open.tube:443/tracker/socket
 
+wss://hub.bugout.link:443/announce
+
 ws://tracker.sloppyta.co:80/announce
 
 ws://tracker.lab.vvc.niif.hu:80/announce
 
 ws://tracker.files.fm:7072/announce
-
-ws://tracker.btsync.cf:6969/announce
 
 ws://hub.bugout.link:80/announce
 
