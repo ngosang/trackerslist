@@ -12,29 +12,29 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-http://opentracker.i2p.rocks:6969/announce
-
-udp://47.ip-51-68-199.eu:6969/announce
-
 udp://3rt.tace.ru:60889/announce
 
 http://5rt.tace.ru:60889/announce
+
+udp://opentracker.i2p.rocks:6969/announce
+
+udp://47.ip-51-68-199.eu:6969/announce
 
 udp://tracker2.itzmx.com:6961/announce
 
 http://open.acgnxtracker.com:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.ds.is:6969/announce
 
 udp://open.stealth.si:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.ds.is:6969/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker.moeking.me:6969/announce
 
