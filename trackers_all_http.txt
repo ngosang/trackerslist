@@ -10,31 +10,29 @@ http://opentracker.i2p.rocks:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://tracker.dler.org:6969/announce
 
 http://rt.tace.ru:80/announce
 
-http://tracker-cdn.moeking.me:2095/announce
-
 http://vps02.net.orel.ru:80/announce
+
+http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker-cdn.moeking.me:2095/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-http://aaa.army:8866/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.lelux.fi:80/announce
-
 http://torrentclub.online:54123/announce
 
 http://t.overflow.biz:6969/announce
+
+http://aaa.army:8866/announce
 
 http://www.loushao.net:8080/announce
 
@@ -48,9 +46,9 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.loadbt.com:6969/announce
 
-http://tracker.gbitt.info:80/announce
+http://tracker.lelux.fi:80/announce
 
-http://tracker.anonwebz.xyz:8080/announce
+http://tracker.gbitt.info:80/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -64,6 +62,8 @@ http://pow7.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://ns3107607.ip-54-36-126.eu:6969/announce
+
 http://mail2.zelenaya.net:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -72,9 +72,7 @@ http://bt.100.pet:2710/announce
 
 http://bobbialbano.com:6969/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker4.itzmx.com:2710/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://ns3107607.ip-54-36-126.eu:6969/announce
 
