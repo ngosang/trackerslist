@@ -1,8 +1,10 @@
 http://tracker.opentrackr.org:1337/announce
 
-http://opentracker.i2p.rocks:6969/announce
+http://tracker.internetwarriors.net:1337/announce
 
 http://explodie.org:6969/announce
+
+http://opentracker.i2p.rocks:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -16,21 +18,19 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.lelux.fi:80/announce
+
+http://tracker.gbitt.info:80/announce
+
 http://t.overflow.biz:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker.lelux.fi:80/announce
-
-http://tracker.gbitt.info:80/announce
-
-http://tracker-cdn.moeking.me:2095/announce
+http://tracker.loadbt.com:6969/announce
 
 http://torrentclub.online:54123/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -38,15 +38,19 @@ http://tracker.sloppyta.co:80/announce
 
 http://tracker.skyts.net:6969/announce
 
-http://tracker.loadbt.com:6969/announce
+http://tracker-cdn.moeking.me:2095/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 http://retracker.sevstar.net:2710/announce
+
+http://pow7.com:80/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
-http://bt.100.pet:2710/announce
+http://bt.okmp3.ru:2710/announce
 
 http://bobbialbano.com:6969/announce
 
