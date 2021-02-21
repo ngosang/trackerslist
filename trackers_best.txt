@@ -8,9 +8,11 @@ udp://tracker.cyberia.is:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
+http://opentracker.i2p.rocks:6969/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
+
+http://tracker1.itzmx.com:8080/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -26,15 +28,13 @@ udp://tracker.ds.is:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://tracker2.itzmx.com:6961/announce
+udp://tracker.dler.org:6969/announce
+
+http://tracker4.itzmx.com:2710/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-http://tracker.dler.org:6969/announce
-
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://opentor.org:2710/announce
 
