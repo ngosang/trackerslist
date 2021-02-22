@@ -24,3 +24,5 @@ https://tr.ready4.icu:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://tracker.renfei.net:443/announce
+
