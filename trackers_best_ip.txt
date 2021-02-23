@@ -4,23 +4,23 @@ udp://51.81.46.170:6969/announce
 
 udp://51.68.199.47:6969/announce
 
-http://184.105.151.164:6969/announce
+udp://184.105.151.164:6969/announce
 
 http://54.37.106.164:80/announce
 
 udp://5.206.49.194:6969/announce
 
+udp://91.216.110.52:451/announce
+
 udp://5.226.148.20:6969/announce
 
 udp://185.181.60.67:80/announce
 
-udp://91.216.110.52:451/announce
-
-udp://89.234.156.205:451/announce
-
 udp://37.235.174.46:2710/announce
 
 udp://163.172.170.127:6969/announce
+
+udp://188.34.190.217:6969/announce
 
 udp://51.15.40.114:80/announce
 
@@ -30,5 +30,5 @@ udp://46.148.18.254:2710/announce
 
 http://195.201.31.194:80/announce
 
-udp://135.181.203.12:6969/announce
+udp://51.77.134.13:6969/announce
 
