@@ -12,19 +12,21 @@ udp://47.ip-51-68-199.eu:6969/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker2.itzmx.com:6961/announce
+
 http://open.acgnxtracker.com:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://tracker.ds.is:6969/announce
 
-udp://www.torrent.eu.org:451/announce
+udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.ds.is:6969/announce
-
 udp://retracker.lanta-net.ru:2710/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -35,6 +37,4 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 udp://opentor.org:2710/announce
 
 https://trakx.herokuapp.com:443/announce
-
-http://h4.trakx.nibba.trade:80/announce
 

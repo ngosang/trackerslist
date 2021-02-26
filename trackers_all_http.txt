@@ -1,5 +1,7 @@
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.internetwarriors.net:1337/announce
+
 http://opentracker.i2p.rocks:6969/announce
 
 http://explodie.org:6969/announce
@@ -8,11 +10,9 @@ http://open.acgnxtracker.com:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
+http://www.loushao.net:8080/announce
+
 http://vps02.net.orel.ru:80/announce
-
-http://tracker.gbitt.info:80/announce
-
-http://rt.tace.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
@@ -32,6 +32,8 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tracker.dler.org:6969/announce
 
 http://tracker-cdn.moeking.me:2095/announce
@@ -46,11 +48,11 @@ http://t.nyaatracker.com:80/announce
 
 http://t.acg.rip:6699/announce
 
+http://rt.tace.ru:80/announce
+
 http://retracker.sevstar.net:2710/announce
 
 http://pow7.com:80/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
@@ -61,6 +63,4 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker.vraphim.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://bt.100.pet:2710/announce
 
