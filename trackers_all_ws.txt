@@ -6,13 +6,13 @@ wss://tube.privacytools.io:443/tracker/socket
 
 wss://tracker.sloppyta.co:443/announce
 
-wss://tracker.files.fm:7073/announce
-
 wss://peertube.cpy.re:443/tracker/socket
 
 wss://open.tube:443/tracker/socket
 
 ws://tracker.sloppyta.co:80/announce
+
+ws://tracker.files.fm:7072/announce
 
 ws://hub.bugout.link:80/announce
 
