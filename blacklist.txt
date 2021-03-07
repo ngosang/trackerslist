@@ -214,3 +214,6 @@ https://t3.leech.ie:443/announce # deprecated by owner
 http://t1.leech.ie:80/announce # deprecated by owner
 http://t2.leech.ie:80/announce # deprecated by owner
 http://t3.leech.ie:80/announce # deprecated by owner
+wss://ws.peer.ooo:443/announce # deprecated by owner
+udp://bt.okmp3.ru:2710/announce # fake stats
+http://bt.okmp3.ru:2710/announce # fake stats
