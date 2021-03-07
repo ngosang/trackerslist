@@ -1,8 +1,8 @@
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.internetwarriors.net:1337/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://tracker.cyberia.is:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -24,6 +24,8 @@ udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker0.ufibox.com:6969/announce
@@ -35,6 +37,4 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 

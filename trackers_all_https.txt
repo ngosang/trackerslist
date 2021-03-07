@@ -24,5 +24,3 @@ https://tr.ready4.icu:443/announce
 
 https://bt.nfshost.com:443/announce
 
-https://1337.abcvg.info:443/announce
-
