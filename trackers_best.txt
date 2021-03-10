@@ -10,15 +10,15 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://tracker.cyberia.is:6969/announce
+
+udp://zephir.monocul.us:6969/announce
 
 udp://vibe.community:6969/announce
 
