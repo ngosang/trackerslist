@@ -6,15 +6,17 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
-udp://open.stealth.si:80/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
+
+udp://open.stealth.si:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -43,8 +45,6 @@ udp://tracker.v6speed.org:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.skyts.net:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
 
@@ -182,6 +182,8 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker-cdn.moeking.me:2095/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
@@ -198,25 +200,19 @@ http://rt.tace.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://opentracker.i2p.rocks:6969/announce
+http://pow7.com:80/announce
 
-http://open.acgtracker.com:1096/announce
+http://opentracker.i2p.rocks:6969/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
-udp://tsundere.pw:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.kali.org:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -262,11 +258,11 @@ https://1337.abcvg.info:443/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker.vraphim.com:6969/announce
+http://tracker3.itzmx.com:6961/announce
+
+http://tracker2.itzmx.com:6961/announce
 
 http://tracker.loadbt.com:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
