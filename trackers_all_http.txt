@@ -6,19 +6,21 @@ http://vpn.flying-datacenter.de:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://tracker.dler.org:6969/announce
-
-http://tracker.bt4g.com:2095/announce
+http://tracker-cdn.moeking.me:2095/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://torrentclub.online:54123/announce
-
 http://t.overflow.biz:6969/announce
+
+http://t.acg.rip:6699/announce
+
+http://pow7.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -38,21 +40,19 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.loadbt.com:6969/announce
 
-http://tracker-cdn.moeking.me:2095/announce
+http://tracker.dler.org:6969/announce
 
-http://t.acg.rip:6699/announce
+http://tracker.bt4g.com:2095/announce
+
+http://torrentclub.online:54123/announce
 
 http://rt.tace.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://pow7.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
