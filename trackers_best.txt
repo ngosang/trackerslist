@@ -4,15 +4,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
-
-udp://zephir.monocul.us:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://vibe.community:6969/announce
 
@@ -30,11 +32,9 @@ udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.skyts.net:6969/announce
-
 udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 

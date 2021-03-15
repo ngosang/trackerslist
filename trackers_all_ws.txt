@@ -14,3 +14,5 @@ ws://tracker.sloppyta.co:80/announce
 
 ws://tracker.files.fm:7072/announce
 
+ws://hub.bugout.link:80/announce
+
