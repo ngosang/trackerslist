@@ -4,17 +4,25 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.cyberia.is:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
 udp://zephir.monocul.us:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://vibe.community:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
@@ -26,19 +34,17 @@ udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.army:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://retracker.lanta-net.ru:2710/announce
+udp://qg.lorzl.gq:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -58,6 +64,8 @@ udp://line-net.ru:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
+udp://fe.dealclub.de:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -72,6 +80,8 @@ udp://daveking.com:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
+udp://code2chicken.nl:6969/announce
+
 udp://cdn-2.gamecoast.org:6969/announce
 
 udp://cdn-1.gamecoast.org:6969/announce
@@ -83,8 +93,6 @@ udp://bt2.archive.org:6969/announce
 udp://bt1.archive.org:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
 
@@ -132,8 +140,6 @@ udp://t1.leech.ie:1337/announce
 
 udp://retracker.sevstar.net:2710/announce
 
-udp://qg.lorzl.gq:2710/announce
-
 udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
@@ -150,11 +156,7 @@ udp://free.publictracker.xyz:6969/announce
 
 udp://free-tracker.zooki.xyz:6969/announce
 
-udp://fe.dealclub.de:6969/announce
-
 udp://concen.org:6969/announce
-
-udp://code2chicken.nl:6969/announce
 
 udp://camera.lei001.com:6969/announce
 

@@ -6,7 +6,7 @@ http://vpn.flying-datacenter.de:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -22,9 +22,9 @@ http://pow7.com:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://ns3107607.ip-54-36-126.eu:6969/announce
+http://open.acgtracker.com:1096/announce
 
-http://h4.trakx.nibba.trade:80/announce
+http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://explodie.org:6969/announce
 
@@ -52,7 +52,7 @@ http://torrentclub.online:54123/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.acgnxtracker.com:80/announce
+
+http://h4.trakx.nibba.trade:80/announce
 
