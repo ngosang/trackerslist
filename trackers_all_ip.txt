@@ -1,4 +1,4 @@
-udp://93.158.213.92:1337/announce
+udp://181.43.197.119:1337/announce
 
 http://93.158.213.92:1337/announce
 
@@ -6,17 +6,23 @@ udp://208.83.20.20:6969/announce
 
 udp://91.216.110.52:451/announce
 
+udp://89.234.156.205:451/announce
+
 udp://5.206.31.154:6969/announce
 
-udp://163.172.170.127:6969/announce
+udp://193.218.118.220:6969/announce
 
 udp://37.235.174.46:2710/announce
 
 udp://185.181.60.67:80/announce
 
+udp://163.172.170.127:6969/announce
+
 udp://46.148.18.250:2710/announce
 
 udp://167.179.77.133:1/announce
+
+udp://173.212.223.237:6969/announce
 
 udp://51.15.55.204:1337/announce
 
@@ -27,8 +33,6 @@ udp://91.149.192.31:6969/announce
 udp://138.68.171.1:6969/announce
 
 udp://95.217.161.135:6969/announce
-
-udp://188.34.190.217:6969/announce
 
 udp://103.196.36.31:6969/announce
 
@@ -88,8 +92,6 @@ http://51.15.55.204:1337/announce
 
 http://95.217.161.135:80/announce
 
-http://157.90.161.74:6969/announce
-
 http://107.152.127.9:6969/announce
 
 http://189.110.240.207:6969/announce
@@ -108,21 +110,27 @@ udp://104.244.153.245:6969/announce
 
 udp://205.185.121.146:6969/announce
 
+udp://78.30.254.12:2710/announce
+
+udp://129.28.148.38:6961/announce
+
 udp://168.119.183.174:80/announce
 
 udp://156.234.201.18:80/announce
-
-udp://134.209.1.127:6969/announce
 
 udp://209.141.59.16:6969/announce
 
 udp://167.99.213.191:6969/announce
 
-udp://119.28.134.203:6969/announce
+udp://188.34.190.217:6969/announce
 
 udp://109.248.43.36:6969/announce
 
 udp://185.21.216.185:6969/announce
+
+udp://109.72.83.209:80/announce
+
+udp://217.12.218.177:2710/announce
 
 udp://180.97.219.76:8070/announce
 
@@ -136,7 +144,7 @@ udp://199.195.249.193:1337/announce
 
 udp://104.244.72.77:1337/announce
 
-udp://78.30.254.12:2710/announce
+udp://27.156.64.245:2710/announce
 
 udp://51.15.41.46:6969/announce
 
@@ -178,13 +186,13 @@ udp://91.121.145.207:6969/announce
 
 http://193.37.214.12:6969/announce
 
-http://157.90.169.123:80/announce
-
-http://156.234.201.18:80/announce
+http://168.119.183.174:80/announce
 
 http://185.148.3.231:80/announce
 
 http://167.99.213.191:6969/announce
+
+http://157.90.161.74:6969/announce
 
 http://45.56.65.82:54123/announce
 

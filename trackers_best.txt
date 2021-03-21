@@ -1,3 +1,5 @@
+udp://tracker.internetwarriors.net:1337/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://exodus.desync.com:6969/announce
@@ -8,21 +10,19 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://zephir.monocul.us:6969/announce
+udp://tracker.moeking.me:6969/announce
 
 udp://vibe.community:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://u.wwwww.wtf:1/announce
-
-udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
@@ -36,5 +36,5 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.army:6969/announce
 
