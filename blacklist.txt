@@ -218,3 +218,6 @@ http://t3.leech.ie:80/announce # deprecated by owner
 wss://ws.peer.ooo:443/announce # deprecated by owner
 udp://bt.okmp3.ru:2710/announce # fake stats
 http://bt.okmp3.ru:2710/announce # fake stats
+http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
+udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
+ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
