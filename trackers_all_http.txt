@@ -6,7 +6,7 @@ http://vpn.flying-datacenter.de:6969/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker.lelux.fi:80/announce
+http://tracker.skyts.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -18,6 +18,8 @@ http://t.acg.rip:6699/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 http://h4.trakx.nibba.trade:80/announce
@@ -28,6 +30,8 @@ http://trk.publictracker.xyz:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://tracker3.itzmx.com:6961/announce
+
 http://tracker2.itzmx.com:6961/announce
 
 http://tracker2.dler.org:80/announce
@@ -35,8 +39,6 @@ http://tracker2.dler.org:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.sloppyta.co:80/announce
-
-http://tracker.skyts.net:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
@@ -56,5 +58,9 @@ http://rt.tace.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
+http://pow7.com:80/announce
+
 http://open.acgnxtracker.com:80/announce
+
+http://bt.100.pet:2710/announce
 
