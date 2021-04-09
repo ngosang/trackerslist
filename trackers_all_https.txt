@@ -6,8 +6,6 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.iriseden.eu:443/announce
 
-https://tracker.coalition.space:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
@@ -20,7 +18,7 @@ https://tracker.hama3.net:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
-https://tr.ready4.icu:443/announce
+https://tracker.coalition.space:443/announce
 
 https://bt.nfshost.com:443/announce
 
