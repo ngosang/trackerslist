@@ -1,4 +1,4 @@
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -22,13 +22,13 @@ udp://opentor.org:2710/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://tracker.dler.org:6969/announce
+udp://explodie.org:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
 udp://wassermann.online:6969/announce
-
-udp://vibe.community:6969/announce
 
 udp://us-tracker.publictracker.xyz:6969/announce
 
@@ -36,5 +36,5 @@ udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
-udp://tracker4.itzmx.com:2710/announce
+udp://tracker2.dler.org:80/announce
 
