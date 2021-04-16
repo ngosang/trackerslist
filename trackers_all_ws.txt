@@ -1,3 +1,5 @@
+ws://tracker.xn--vzyr4p.top:80/announce
+
 wss://video.blender.org:443/tracker/socket
 
 wss://tube.privacytools.io:443/tracker/socket
@@ -9,6 +11,8 @@ wss://tracker.files.fm:7073/announce
 wss://peertube.cpy.re:443/tracker/socket
 
 wss://open.tube:443/tracker/socket
+
+wss://hub.bugout.link:443/announce
 
 ws://tracker.sloppyta.co:80/announce
 
