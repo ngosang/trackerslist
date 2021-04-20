@@ -1,10 +1,10 @@
 https://trakx.herokuapp.com:443/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.iriseden.eu:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.sloppyta.co:443/announce
 
