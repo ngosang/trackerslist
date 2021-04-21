@@ -16,8 +16,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://zephir.monocul.us:6969/announce
 
 udp://wassermann.online:6969/announce
@@ -26,11 +24,13 @@ udp://vibe.community:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
-udp://us-tracker.publictracker.xyz:6969/announce
-
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker.xn--vzyr4p.top:80/announce
 
 udp://tracker.v6speed.org:6969/announce
 
