@@ -16,8 +16,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://zephir.monocul.us:6969/announce
-
 udp://wassermann.online:6969/announce
 
 udp://vibe.community:6969/announce
@@ -28,10 +26,6 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.zemoj.com:6969/announce
-
-udp://tracker.xn--vzyr4p.top:80/announce
-
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -40,13 +34,11 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.army:6969/announce
-
-udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -63,6 +55,8 @@ udp://movies.zsw.ca:6969/announce
 udp://mail.realliferpg.de:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://explodie.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -112,9 +106,13 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.0x.tf:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -131,6 +129,8 @@ udp://t3.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
 
 udp://t1.leech.ie:1337/announce
+
+udp://retracker.sevstar.net:2710/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
