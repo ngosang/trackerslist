@@ -6,15 +6,25 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://open.stealth.si:80/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://valakas.rollo.dnsabr.com:2710/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://opentor.org:2710/announce
+
+udp://open.stealth.si:80/announce
+
+udp://opentracker.i2p.rocks:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
+
+udp://explodie.org:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
@@ -22,19 +32,9 @@ udp://wassermann.online:6969/announce
 
 udp://vibe.community:6969/announce
 
-udp://valakas.rollo.dnsabr.com:2710/announce
-
 udp://us-tracker.publictracker.xyz:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://u.wwwww.wtf:1/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker0.ufibox.com:6969/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker.v6speed.org:6969/announce
 
