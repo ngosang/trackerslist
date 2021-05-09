@@ -4,6 +4,8 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://www.torrent.eu.org:451/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
@@ -12,17 +14,11 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://www.torrent.eu.org:451/announce
-
-udp://zephir.monocul.us:6969/announce
-
 udp://wassermann.online:6969/announce
 
 udp://vibe.community:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://u.wwwww.wtf:1/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
@@ -46,6 +42,8 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.army:6969/announce
 
+udp://retracker.sevstar.net:2710/announce
+
 udp://retracker.netbynet.ru:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -66,8 +64,6 @@ udp://engplus.ru:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
-udp://drumkitx.com:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
 
 udp://cutiegirl.ru:6969/announce
@@ -82,9 +78,9 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
-udp://us-tracker.publictracker.xyz:6969/announce
-
 udp://udp-tracker.shittyurl.org:6969/announce
+
+udp://tsundere.pw:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
@@ -123,8 +119,6 @@ udp://t3.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce
 
 udp://t1.leech.ie:1337/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
