@@ -1,16 +1,10 @@
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker.ccp.ovh:6969/announce
-
-http://tracker-cdn.moeking.me:2095/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
 http://trk.publictracker.xyz:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -23,6 +17,8 @@ http://tracker.lelux.fi:80/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker-cdn.moeking.me:2095/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
@@ -38,13 +34,19 @@ http://open.acgtracker.com:1096/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
+http://h4.trakx.nibba.trade:80/announce
+
 http://explodie.org:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.loadbt.com:6969/announce
+
+http://tracker.ccp.ovh:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -55,8 +57,6 @@ http://retracker.sevstar.net:2710/announce
 http://pow7.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://h4.trakx.nibba.trade:80/announce
 
 http://0205.uptm.ch:6969/announce
 
