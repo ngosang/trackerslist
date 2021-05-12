@@ -14,10 +14,6 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.moeking.me:6969/announce
-
-udp://zephir.monocul.us:6969/announce
-
 udp://wassermann.online:6969/announce
 
 udp://vibe.community:6969/announce
@@ -36,6 +32,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zemoj.com:6969/announce
 
+udp://tracker.xn--vzyr4p.top:80/announce
+
 udp://tracker.v6speed.org:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -47,6 +45,10 @@ udp://tracker.shkinev.me:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.nrx.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -70,7 +72,11 @@ udp://t2.leech.ie:1337/announce
 
 udp://t1.leech.ie:1337/announce
 
+udp://retracker.sevstar.net:2710/announce
+
 udp://retracker.netbynet.ru:2710/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -120,15 +126,11 @@ udp://bt1.archive.org:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
 
-udp://vibe.sleepyinternetfun.xyz:1738/announce
-
 udp://tsundere.pw:6969/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
@@ -138,15 +140,11 @@ udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr2.ysagin.top:2710/announce
+
 udp://tr.bangumi.moe:6969/announce
 
-udp://retracker.sevstar.net:2710/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://public-tracker.zooki.xyz:6969/announce
-
-udp://open.lolicon.eu:7777/announce
 
 udp://concen.org:6969/announce
 
