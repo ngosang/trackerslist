@@ -163,6 +163,8 @@ udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2720/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
+udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
 udp://p4p.arenabg.com:1337/announce # duplicate of udp://p4p.arenabg.ch:1337/announce
 udp://openbittorrent.com:80/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
