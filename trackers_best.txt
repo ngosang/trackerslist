@@ -1,10 +1,6 @@
-http://p4p.arenabg.com:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://p4p.arenabg.ch:1337/announce
-
-http://tracker.internetwarriors.net:1337/announce
-
-http://tracker.opentrackr.org:1337/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
@@ -20,10 +16,6 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.moeking.me:6969/announce
-
-http://tracker-cdn.moeking.me:2095/announce
-
 udp://zephir.monocul.us:6969/announce
 
 udp://z.mercax.com:53/announce
@@ -34,7 +26,15 @@ udp://vibe.community:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
-udp://udp-tracker.shittyurl.org:6969/announce
-
 udp://u.wwwww.wtf:1/announce
+
+udp://tracker0.ufibox.com:6969/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.xn--vzyr4p.top:80/announce
+
+udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.shkinev.me:6969/announce
 

@@ -1,10 +1,4 @@
-http://p4p.arenabg.com:1337/announce
-
-http://tracker.internetwarriors.net:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker-cdn.moeking.me:2095/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -12,29 +6,27 @@ http://vpn.flying-datacenter.de:6969/announce
 
 http://trk.publictracker.xyz:6969/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker.xn--vzyr4p.top:80/announce
 
 http://tracker.sloppyta.co:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.lelux.fi:80/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker-cdn.moeking.me:2095/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
-
-http://torrentclub.online:54123/announce
 
 http://t.overflow.biz:6969/announce
 
 http://rt.tace.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -52,15 +44,17 @@ http://tracker4.itzmx.com:2710/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker.loadbt.com:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.ccp.ovh:6969/announce
 
 http://tracker.breizh.pm:6969/announce
 
+http://torrentclub.online:54123/announce
+
 http://t.acg.rip:6699/announce
 
 http://pow7.com:80/announce
-
-http://bt.100.pet:2710/announce
 
