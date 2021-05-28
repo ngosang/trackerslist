@@ -16,5 +16,3 @@ https://tracker.iriseden.eu:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
-https://tracker.coalition.space:443/announce
-
