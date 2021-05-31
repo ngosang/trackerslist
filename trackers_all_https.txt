@@ -1,5 +1,7 @@
 https://trakx.herokuapp.com:443/announce
 
+https://tracker.sloppyta.co:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lelux.fi:443/announce
@@ -8,11 +10,7 @@ https://tracker.iriseden.fr:443/announce
 
 https://tracker.iriseden.eu:443/announce
 
-https://1337.abcvg.info:443/announce
-
 https://tracker.tamersunion.org:443/announce
-
-https://tracker.sloppyta.co:443/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -20,5 +18,5 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.coalition.space:443/announce
 
-https://danielcloud.ddns.net/announce.php
+https://tr.ready4.icu:443/announce
 
