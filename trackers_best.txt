@@ -6,8 +6,6 @@ udp://tracker.internetwarriors.net:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -37,4 +35,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zemoj.com:6969/announce
 
