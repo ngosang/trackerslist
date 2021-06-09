@@ -4,11 +4,13 @@ http://p4p.arenabg.com:1337/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.internetwarriors.net:1337/announce
-
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -29,8 +31,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
 
