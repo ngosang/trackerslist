@@ -10,9 +10,7 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://retracker.lanta-net.ru:2710/announce
+udp://zephir.monocul.us:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -34,6 +32,8 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -46,7 +46,7 @@ udp://tracker.army:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://public.tracker.vraphim.com:6969/announce
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -84,9 +84,9 @@ udp://admin.videoenpoche.info:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-https://w.wwwww.wtf:443/announce
-
 https://trakx.herokuapp.com:443/announce
+
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -96,13 +96,11 @@ https://tracker.iriseden.fr:443/announce
 
 https://tracker.iriseden.eu:443/announce
 
+https://1337.abcvg.info:443/announce
+
 http://vps02.net.orel.ru:80/announce
 
-http://trk.publictracker.xyz:6969/announce
-
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker.noobsubs.net:80/announce
 
 http://tracker.lelux.fi:80/announce
 
@@ -112,11 +110,11 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://t.nyaatracker.com:80/announce
+http://retracker.joxnet.ru:80/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
-http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
@@ -150,8 +148,6 @@ udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.kali.org:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
@@ -166,8 +162,6 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
-udp://tr2.ysagin.top:2710/announce
-
 udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
@@ -181,6 +175,8 @@ udp://t2.leech.ie:1337/announce
 udp://t1.leech.ie:1337/announce
 
 udp://retracker.sevstar.net:2710/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -206,8 +202,6 @@ udp://app.icon256.com:8000/announce
 
 udp://anidex.moe:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 https://tracker.sloppyta.co:443/announce
 
 https://tracker.nitrix.me:443/announce
@@ -216,7 +210,7 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.coalition.space:443/announce
 
-https://1337.abcvg.info:443/announce
+http://trk.publictracker.xyz:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
@@ -225,6 +219,8 @@ http://tracker2.dler.org:80/announce
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.sloppyta.co:80/announce
+
+http://tracker.noobsubs.net:80/announce
 
 http://tracker.nighthawk.pw:2052/announce
 
@@ -249,4 +245,6 @@ http://rt.tace.ru:80/announce
 http://retracker.sevstar.net:2710/announce
 
 http://pow7.com:80/announce
+
+http://open.acgnxtracker.com:80/announce
 
