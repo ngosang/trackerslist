@@ -8,15 +8,11 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://open.stealth.si:80/announce
-
 udp://zephir.monocul.us:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://wassermann.online:6969/announce
 
@@ -42,6 +38,10 @@ udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
@@ -62,8 +62,6 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ccp.ovh:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
@@ -77,6 +75,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
+
+udp://tr2.ysagin.top:2710/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -92,6 +92,8 @@ udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://public-tracker.zooki.xyz:6969/announce
@@ -99,6 +101,8 @@ udp://public-tracker.zooki.xyz:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentor.org:2710/announce
+
+udp://open.stealth.si:80/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -128,11 +132,15 @@ udp://cutiegirl.ru:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
+udp://camera.lei001.com:6969/announce
+
 udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bclearning.top:6969/announce
 
 udp://app.icon256.com:8000/announce
 
@@ -146,17 +154,15 @@ udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker.kali.org:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr.bangumi.moe:6969/announce
 
 udp://concen.org:6969/announce
 
-udp://camera.lei001.com:6969/announce
-
 udp://bt.firebit.org:2710/announce
-
-udp://bclearning.top:6969/announce
 
 udp://anidex.moe:6969/announce
 

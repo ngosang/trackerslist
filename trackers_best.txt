@@ -8,15 +8,11 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
-udp://open.stealth.si:80/announce
-
 udp://zephir.monocul.us:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://wassermann.online:6969/announce
 
@@ -37,4 +33,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker.uw0.xyz:6969/announce
 

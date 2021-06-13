@@ -42,6 +42,8 @@ http://retracker.sevstar.net:2710/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://open.acgnxtracker.com:80/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
@@ -50,11 +52,11 @@ http://h4.trakx.nibba.trade:80/announce
 
 http://explodie.org:6969/announce
 
+http://bt.100.pet:2710/announce
+
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://t.acg.rip:6699/announce
-
-http://bt.100.pet:2710/announce
 
