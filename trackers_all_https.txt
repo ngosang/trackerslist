@@ -1,3 +1,5 @@
+https://w.wwwww.wtf:443/announce
+
 https://trakx.herokuapp.com:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -14,11 +16,9 @@ https://tracker.iriseden.eu:443/announce
 
 https://tracker.coalition.space:443/announce
 
-https://1337.abcvg.info:443/announce
+https://tr.torland.ga/announce
 
 https://tracker.foreverpirates.co:443/announce
 
-https://tr.torland.ga/announce
-
-https://tr.ready4.icu:443/announce
+https://1337.abcvg.info:443/announce
 

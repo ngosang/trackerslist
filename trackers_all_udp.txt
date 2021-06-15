@@ -12,8 +12,6 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
@@ -28,7 +26,7 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://u.wwwww.wtf:1/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -36,13 +34,19 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.uw0.xyz:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
+
+udp://tracker.nrx.me:6969/announce
 
 udp://tracker.nighthawk.pw:2052/announce
 
@@ -51,6 +55,10 @@ udp://tracker.monitorit4.me:6969/announce
 udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -64,15 +72,19 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
+udp://tr2.ysagin.top:2710/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://t3.leech.ie:1337/announce
+
+udp://t1.leech.ie:1337/announce
+
 udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -110,11 +122,7 @@ udp://cutiegirl.ru:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
-udp://camera.lei001.com:6969/announce
-
 udp://bubu.mapfactor.com:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -128,31 +136,23 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
-udp://u.wwwww.wtf:1/announce
-
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://tracker.skyts.net:6969/announce
-
-udp://tracker.nrx.me:6969/announce
-
 udp://tracker.kali.org:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr.bangumi.moe:6969/announce
 
-udp://t3.leech.ie:1337/announce
-
 udp://t2.leech.ie:1337/announce
 
-udp://t1.leech.ie:1337/announce
-
 udp://concen.org:6969/announce
+
+udp://camera.lei001.com:6969/announce
 
 udp://bt2.54new.com:8080/announce
 
