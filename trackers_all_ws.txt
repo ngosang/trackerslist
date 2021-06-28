@@ -1,5 +1,7 @@
 wss://video.blender.org:443/tracker/socket
 
+wss://tube.privacytools.io:443/tracker/socket
+
 wss://tracker.files.fm:7073/announce
 
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
