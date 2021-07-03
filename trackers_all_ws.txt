@@ -1,5 +1,3 @@
-wss://video.blender.org:443/tracker/socket
-
 wss://tube.privacytools.io:443/tracker/socket
 
 wss://tracker.files.fm:7073/announce
@@ -9,6 +7,4 @@ wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://peertube.cpy.re:443/tracker/socket
 
 ws://tracker.files.fm:7072/announce
-
-ws://hub.bugout.link:80/announce
 

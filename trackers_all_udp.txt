@@ -1,30 +1,36 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://9.rarbg.com:2810/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://retracker.sevstar.net:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://explodie.org:6969/announce
-
 udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://zephir.monocul.us:6969/announce
+udp://bclearning.top:6969/announce
 
 udp://wassermann.online:6969/announce
 
@@ -44,11 +50,11 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.shkinev.me:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -60,7 +66,7 @@ udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.leech.ie:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -76,25 +82,13 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
-udp://tr2.ysagin.top:2710/announce
-
 udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
 udp://torrentclub.online:54123/announce
 
-udp://t3.leech.ie:1337/announce
-
-udp://t2.leech.ie:1337/announce
-
-udp://t1.leech.ie:1337/announce
-
-udp://retracker.sevstar.net:2710/announce
-
 udp://retracker.netbynet.ru:2710/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -130,9 +124,7 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.54new.com:8080/announce
 
-udp://bclearning.top:6969/announce
-
-udp://app.icon256.com:8000/announce
+udp://bt.yui.cat:55268/announce
 
 udp://anidex.moe:6969/announce
 

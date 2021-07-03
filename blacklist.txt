@@ -1,5 +1,4 @@
 http://bt-club.ws/announce # error
-http://tracker.files.fm:6969/announce # malfunction
 http://open.touki.ru/announce.php # malfunction
 http://open.touki.ru/announce # malfunction
 http://torrentsmd.com:8080/announce # malfunction
@@ -133,6 +132,9 @@ http://bt2.edwardk.info:6969/announce # registered torrents
 http://open.nyaatorrents.info:6544/announce # registered torrents
 http://open.lolicon.eu:7777/announce # registered torrents
 http://torrent.resonatingmedia.com:6969/announce # registered torrents
+udp://t1.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://t2.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
+udp://t3.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
 udp://9.rarbg.to:2730/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2740/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2720/announce # duplicate of udp://9.rarbg.to:2710/announce
@@ -218,8 +220,6 @@ http://t1.leech.ie:80/announce # deprecated by owner
 http://t2.leech.ie:80/announce # deprecated by owner
 http://t3.leech.ie:80/announce # deprecated by owner
 wss://ws.peer.ooo:443/announce # deprecated by owner
-udp://bt.okmp3.ru:2710/announce # fake stats
-http://bt.okmp3.ru:2710/announce # fake stats
 http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
 ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
