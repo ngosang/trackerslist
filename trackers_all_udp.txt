@@ -8,19 +8,25 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://retracker.sevstar.net:2710/announce
+udp://tracker.army:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -48,8 +54,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -60,19 +64,13 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.nrx.me:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://tracker.loadbt.com:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
-
-udp://tracker.army:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -89,6 +87,8 @@ udp://tr.bangumi.moe:6969/announce
 udp://torrentclub.online:54123/announce
 
 udp://retracker.netbynet.ru:2710/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
