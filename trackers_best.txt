@@ -1,8 +1,12 @@
-udp://tracker.opentrackr.org:1337/announce
-
 http://p4p.arenabg.com:1337/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
 udp://9.rarbg.com:2810/announce
+
+udp://exodus.desync.com:6969/announce
+
+http://openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -16,25 +20,21 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
-http://openbittorrent.com:80/announce
-
-udp://tracker.moeking.me:6969/announce
-
 udp://wassermann.online:6969/announce
 
-udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://vibe.community:6969/announce
 
-udp://udp-tracker.shittyurl.org:6969/announce
+udp://u.wwwww.wtf:1/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.moeking.me:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.loadbt.com:6969/announce
 
