@@ -4,13 +4,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://openbittorrent.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://vps02.net.orel.ru:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://torrentclub.online:54123/announce
+http://retracker.sevstar.net:2710/announce
 
 http://pow7.com:80/announce
 
@@ -27,8 +27,6 @@ http://fxtt.ru:80/announce
 http://explodie.org:6969/announce
 
 http://bt.okmp3.ru:2710/announce
-
-http://vps02.net.orel.ru:80/announce
 
 http://trk.publictracker.xyz:6969/announce
 
@@ -54,11 +52,11 @@ http://tracker-cdn.moeking.me:2095/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
+http://torrentclub.online:54123/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t.acg.rip:6699/announce
-
-http://retracker.sevstar.net:2710/announce
 
 http://googer.cc:1337/announce
 

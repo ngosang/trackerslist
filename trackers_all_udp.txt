@@ -6,11 +6,11 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
-
-udp://open.stealth.si:80/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://wassermann.online:6969/announce
+
+udp://vibe.community:6969/announce
 
 udp://u.wwwww.wtf:1/announce
 
@@ -24,23 +24,31 @@ udp://tracker.uw0.xyz:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://retracker.sevstar.net:2710/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://opentor.org:2710/announce
 
+udp://open.stealth.si:80/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
+
+udp://explodie.org:6969/announce
+
 udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://wassermann.online:6969/announce
-
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://vibe.community:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
@@ -78,8 +86,6 @@ udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tracker-de.ololosh.space:6969/announce
 
 udp://tr.cili001.com:8070/announce
@@ -87,8 +93,6 @@ udp://tr.cili001.com:8070/announce
 udp://tr.bangumi.moe:6969/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
