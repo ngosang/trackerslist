@@ -6,9 +6,9 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 http://openbittorrent.com:80/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -30,11 +30,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
