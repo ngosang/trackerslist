@@ -14,8 +14,6 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.lelux.fi:443/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.coalition.space:443/announce
 
 https://tr.torland.ga:443/announce
