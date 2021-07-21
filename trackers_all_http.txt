@@ -4,15 +4,7 @@ http://tracker.opentrackr.org:1337/announce
 
 http://openbittorrent.com:80/announce
 
-http://vps02.net.orel.ru:80/announce
-
-http://tracker.noobsubs.net:80/announce
-
 http://tracker.gbitt.info:80/announce
-
-http://tracker.files.fm:6969/announce
-
-http://tracker.dler.org:6969/announce
 
 http://opentracker.i2p.rocks:6969/announce
 
@@ -24,6 +16,8 @@ http://explodie.org:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://vps02.net.orel.ru:80/announce
+
 http://trk.publictracker.xyz:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
@@ -34,9 +28,15 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker.loadbt.com:6969/announce
+http://tracker.noobsubs.net:80/announce
+
+http://tracker.nighthawk.pw:2052/announce
 
 http://tracker.lelux.fi:80/announce
+
+http://tracker.files.fm:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
