@@ -1,3 +1,5 @@
+https://trakx.herokuapp.com:443/announce
+
 https://tracker.lilithraws.cf:443/announce
 
 https://tracker.iriseden.fr:443/announce
@@ -5,8 +7,6 @@ https://tracker.iriseden.fr:443/announce
 https://tracker.iriseden.eu:443/announce
 
 https://w.wwwww.wtf:443/announce
-
-https://trakx.herokuapp.com:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
