@@ -12,15 +12,17 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
+udp://opentor.org:2710/announce
+
 udp://open.stealth.si:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
-udp://opentor.org:2710/announce
+udp://retracker.sevstar.net:2710/announce
 
 udp://explodie.org:6969/announce
 
@@ -62,11 +64,11 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.loadbt.com:6969/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.edkj.club:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -77,6 +79,8 @@ udp://tracker.army:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.0x.tf:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
@@ -102,6 +106,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://engplus.ru:6969/announce
 
+udp://edu.uifr.ru:6969/announce
+
 udp://discord.heihachi.pw:6969/announce
 
 udp://cutiegirl.ru:6969/announce
@@ -123,6 +129,4 @@ udp://app.icon256.com:8000/announce
 udp://anidex.moe:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
