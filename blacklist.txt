@@ -165,6 +165,7 @@ udp://8.rarbg.to:2710/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.to:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2780/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://9.rarbg.com:2720/announce # duplicate of udp://9.rarbg.to:2710/announce
+udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.to:2710/announce
 udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
 udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
 udp://p4p.arenabg.com:1337/announce # duplicate of udp://p4p.arenabg.ch:1337/announce
@@ -223,3 +224,20 @@ wss://ws.peer.ooo:443/announce # deprecated by owner
 http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
 ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
+http://masters-tb.com:80/announce.php # registered torrents
+http://mixfiend.com:80/announce.php # registered torrents
+http://mvgforumtracker.mvgroup.org:80/tracker.php/announce # registered torrents
+http://bluebird-hd.org:80/announce.php # registered torrents
+http://torrent.unix-ag.uni-kl.de:80/announce # registered torrents
+http://torrents.hikarinokiseki.com:6969/announce # registered torrents
+http://tracker.tambovnet.org:80/announce.php # registered torrents
+http://tracker.torrentbytes.net:80/announce.php # registered torrents
+http://tracker.trancetraffic.com:80/announce.php # registered torrents
+http://www.mvgroup.org:80/tracker.php/announce # registered torrents
+http://www.shnflac.net:80/announce.php # registered torrents
+http://www.tribalmixes.com:80/announce.php # registered torrents
+http://www.worldboxingvideoarchive.com:80/announce.php # registered torrents
+http://www.xwt-classics.net:80/announce.php # registered torrents
+http://xtremewrestlingtorrents.net:80/announce.php # registered torrents
+http://proaudiotorrents.org:80/announce.php # registered torrents
+http://tracker.frozen-layer.com:6969/announce # registered torrents
