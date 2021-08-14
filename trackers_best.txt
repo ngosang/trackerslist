@@ -6,6 +6,8 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 http://tracker.openbittorrent.com:80/announce
 
 http://openbittorrent.com:80/announce
@@ -20,21 +22,19 @@ udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.uw0.xyz:6969/announce
-
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://opentor.org:2710/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
+
+udp://explodie.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
