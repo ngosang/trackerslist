@@ -8,17 +8,21 @@ udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 http://openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://retracker.lanta-net.ru:2710/announce
+udp://retracker.sevstar.net:2710/announce
 
 udp://open.stealth.si:80/announce
 
@@ -32,9 +36,5 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.iriseden.fr:443/announce
-
-https://tracker.iriseden.eu:443/announce
 
