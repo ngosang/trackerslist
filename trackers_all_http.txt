@@ -1,28 +1,26 @@
+http://p4p.arenabg.com:1337/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
 
 http://openbittorrent.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.moeking.me:6969/announce
 
 http://tracker.grepler.com:6969/announce
 
-http://tr.cili001.com:8070/announce
+http://tracker.dler.org:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://pow7.com:80/announce
-
 http://open.acgtracker.com:1096/announce
 
 http://fxtt.ru:80/announce
-
-http://1337.abcvg.info:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -30,11 +28,11 @@ http://tracker4.itzmx.com:2710/announce
 
 http://tracker2.dler.org:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.xn--vzyr4p.top:80/announce
-
-http://tracker.tvunderground.org.ru:3218/announce
 
 http://tracker.noobsubs.net:80/announce
 
@@ -42,17 +40,19 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.breizh.pm:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://t.overflow.biz:6969/announce
 
 http://t.acg.rip:6699/announce
+
+http://pow7.com:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
@@ -63,4 +63,6 @@ http://explodie.org:6969/announce
 http://data-bg.net:80/announce.php
 
 http://bt.okmp3.ru:2710/announce
+
+http://1337.abcvg.info:80/announce
 
