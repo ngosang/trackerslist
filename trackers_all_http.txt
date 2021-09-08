@@ -8,17 +8,9 @@ http://openbittorrent.com:80/announce
 
 http://tracker.moeking.me:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
-
-http://retracker.joxnet.ru:80/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://h4.trakx.nibba.trade:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -52,6 +44,8 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.breizh.pm:6969/announce
 
+http://tr.cili001.com:8070/announce
+
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentclub.online:54123/announce
@@ -61,6 +55,10 @@ http://t.overflow.biz:6969/announce
 http://t.acg.rip:6699/announce
 
 http://pow7.com:80/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://h4.trakx.nibba.trade:80/announce
 
 http://googer.cc:1337/announce
 
