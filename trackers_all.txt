@@ -8,8 +8,6 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://exodus.desync.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
@@ -22,19 +20,33 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker-de.ololosh.space:6969/announce
 
 udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
+udp://retracker.lanta-net.ru:2710/announce
+
+udp://opentor.org:2710/announce
+
+udp://open.stealth.si:80/announce
+
+udp://explodie.org:6969/announce
+
 udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+https://w.wwwww.wtf:443/announce
+
+https://trakx.herokuapp.com:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -44,15 +56,23 @@ https://tracker.iriseden.fr:443/announce
 
 https://tracker.iriseden.eu:443/announce
 
-https://1337.abcvg.info:443/announce
+https://achilles.virtadpt.net:443/announce.php
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.moeking.me:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://bt.okmp3.ru:2710/announce
+http://open.acgtracker.com:1096/announce
+
+http://h4.trakx.nibba.trade:80/announce
+
+http://explodie.org:6969/announce
 
 udp://wassermann.online:6969/announce
 
@@ -64,10 +84,6 @@ udp://udp.tracker.coalition.space:1337/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://u.wwwww.wtf:1/announce
-
-udp://tsundere.pw:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.dler.org:80/announce
@@ -78,13 +94,11 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.xn--vzyr4p.top:80/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -96,9 +110,11 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.grepler.com:6969/announce
 
 udp://tracker.edkj.club:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -109,8 +125,6 @@ udp://tracker.army:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.0x.tf:6969/announce
-
-udp://tracker-de.ololosh.space:6969/announce
 
 udp://tr2.ysagin.top:2710/announce
 
@@ -166,10 +180,6 @@ udp://abufinzio.monocul.us:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-https://w.wwwww.wtf:443/announce
-
-https://trakx.herokuapp.com:443/announce
-
 https://trackme.theom.nz:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -180,6 +190,8 @@ https://tracker.kuroy.me:443/announce
 
 https://tr.torland.ga:443/announce
 
+https://1337.abcvg.info:443/announce
+
 http://vps02.net.orel.ru:80/announce
 
 http://trackme.theom.nz:80/announce
@@ -187,8 +199,6 @@ http://trackme.theom.nz:80/announce
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker2.dler.org:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -210,8 +220,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.breizh.pm:6969/announce
 
-http://tr.cili001.com:8070/announce
-
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://torrentclub.online:54123/announce
@@ -222,17 +230,13 @@ http://t.acg.rip:6699/announce
 
 http://pow7.com:80/announce
 
-http://open.acgtracker.com:1096/announce
-
-http://h4.trakx.nibba.trade:80/announce
-
 http://googer.cc:1337/announce
 
 http://fxtt.ru:80/announce
 
-http://explodie.org:6969/announce
-
 http://data-bg.net:80/announce.php
+
+http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 
