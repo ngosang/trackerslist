@@ -1,5 +1,3 @@
-http://p4p.arenabg.com:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 http://openbittorrent.com:80/announce
@@ -14,13 +12,7 @@ http://t.nyaatracker.com:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://retracker.joxnet.ru:80/announce
-
-http://pow7.com:80/announce
-
 http://open.acgtracker.com:1096/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -60,13 +52,19 @@ http://t.overflow.biz:6969/announce
 
 http://t.acg.rip:6699/announce
 
+http://pow7.com:80/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 http://googer.cc:1337/announce
 
+http://fxtt.ru:80/announce
+
 http://explodie.org:6969/announce
 
 http://data-bg.net:80/announce.php
+
+http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 
