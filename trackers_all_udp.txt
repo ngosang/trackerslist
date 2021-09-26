@@ -2,17 +2,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
@@ -21,6 +21,8 @@ udp://retracker.lanta-net.ru:2710/announce
 udp://opentor.org:2710/announce
 
 udp://open.stealth.si:80/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -68,15 +70,11 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.edkj.club:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.army:6969/announce
 
@@ -86,13 +84,11 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
-udp://tr2.ysagin.top:2710/announce
-
 udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
-udp://retracker.sevstar.net:2710/announce
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -107,8 +103,6 @@ udp://mail.realliferpg.de:6969/announce
 udp://inferno.demonoid.is:3391/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
