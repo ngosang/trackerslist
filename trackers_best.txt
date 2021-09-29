@@ -1,10 +1,12 @@
+http://p4p.arenabg.com:1337/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
@@ -16,15 +18,15 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
-udp://tracker.army:6969/announce
+udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
+
+udp://opentor.org:2710/announce
 
 udp://open.stealth.si:80/announce
 
@@ -34,7 +36,5 @@ udp://bt1.archive.org:6969/announce
 
 https://trakx.herokuapp.com:443/announce
 
-https://tracker.nitrix.me:443/announce
-
-https://tracker.nanoha.org:443/announce
+https://tracker.tamersunion.org:443/announce
 
