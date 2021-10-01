@@ -4,33 +4,11 @@ udp://9.rarbg.com:2810/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.moeking.me:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker-de.ololosh.space:6969/announce
-
-udp://retracker.sevstar.net:2710/announce
-
-udp://retracker.netbynet.ru:2710/announce
-
-udp://opentor.org:2710/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://bt2.archive.org:6969/announce
-
-udp://bt1.archive.org:6969/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://wassermann.online:6969/announce
 
@@ -40,12 +18,6 @@ udp://vibe.community:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://u.wwwww.wtf:1/announce
-
-udp://tsundere.pw:6969/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -54,15 +26,15 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.zemoj.com:6969/announce
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.nrx.me:6969/announce
+udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -70,9 +42,13 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.army:6969/announce
 
@@ -80,15 +56,13 @@ udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
-udp://tr2.ysagin.top:2710/announce
+udp://tracker-de.ololosh.space:6969/announce
 
-udp://tr.cili001.com:8070/announce
+udp://retracker.netbynet.ru:2710/announce
 
-udp://tr.bangumi.moe:6969/announce
+udp://retracker.lanta-net.ru:2710/announce
 
-udp://public.publictracker.xyz:6969/announce
-
-udp://open.publictracker.xyz:6969/announce
+udp://opentor.org:2710/announce
 
 udp://mts.tvbit.co:6969/announce
 
@@ -100,15 +74,9 @@ udp://inferno.demonoid.is:3391/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://engplus.ru:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
-
-udp://cutiegirl.ru:6969/announce
-
-udp://concen.org:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
@@ -116,15 +84,55 @@ udp://camera.lei001.com:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
+
 udp://bms-hosxp.com:6969/announce
+
+udp://abufinzio.monocul.us:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://u.wwwww.wtf:1/announce
+
+udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker.nrx.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.loadbt.com:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tr2.ysagin.top:2710/announce
+
+udp://tr.cili001.com:8070/announce
+
+udp://tr.bangumi.moe:6969/announce
+
+udp://retracker.sevstar.net:2710/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
+
+udp://explodie.org:6969/announce
+
+udp://cutiegirl.ru:6969/announce
+
+udp://concen.org:6969/announce
 
 udp://bclearning.top:6969/announce
 
 udp://anidex.moe:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
-
-udp://abufinzio.monocul.us:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
