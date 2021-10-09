@@ -1,5 +1,6 @@
 http://bt-club.ws/announce # error
 http://open.touki.ru/announce.php # malfunction
+udp://anidex.moe:6969/announce # malfunction
 http://open.touki.ru/announce # malfunction
 http://torrentsmd.com:8080/announce # malfunction
 http://irrenhaus.dyndns.dk:80/announce.php # malfunction
