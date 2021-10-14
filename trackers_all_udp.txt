@@ -4,25 +4,31 @@ udp://9.rarbg.com:2810/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://www.torrent.eu.org:451/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.loadbt.com:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
+
+udp://tracker.moeking.me:6969/announce
+
+udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://opentor.org:2710/announce
+
 udp://open.stealth.si:80/announce
 
 udp://inferno.demonoid.is:3391/announce
-
-udp://explodie.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -36,11 +42,7 @@ udp://vibe.community:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://tsundere.pw:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -56,7 +58,7 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -64,7 +66,7 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
@@ -86,10 +88,6 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
-udp://retracker.sevstar.net:2710/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
@@ -100,7 +98,11 @@ udp://movies.zsw.ca:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://fe.dealclub.de:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://engplus.ru:6969/announce
 
