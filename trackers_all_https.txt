@@ -16,8 +16,6 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
-https://tracker.coalition.space:443/announce
-
 https://tr.torland.ga:443/announce
 
 https://1337.abcvg.info:443/announce
