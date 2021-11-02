@@ -9,6 +9,9 @@ https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
 https://torrents.linuxmint.com:443/announce.php # registered torrents
 http://torrents.linuxmint.com:80/announce.php # registered torrents
+http://ed2k.vip:7070/announce # registered torrents
+http://tracker.ddunlimited.net:6969/announce # registered torrents
+http://tracker.linkomanija.org:2710/announce # registered torrents
 http://torrent.rus.ec:2710/announce # registered torrents
 http://tracker.shittyurl.org:80/announce # registered torrents
 https://tracker.shittyurl.org:443/announce # registered torrents
@@ -170,6 +173,24 @@ udp://9.rarbg.com:2780/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2720/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2920/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.com:2860/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2820/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2850/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2880/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2940/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.com:2950/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.me:2910/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://tracker.fatkhoala.org:13720/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.fatkhoala.org:13790/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15710/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15730/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15770/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker.tallpenguin.org:15800/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
+udp://tracker-de.ololosh.space:6969/announce # duplicate of udp://tracker.ololosh.space:6969/announce
 udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
 udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
 udp://p4p.arenabg.com:1337/announce # duplicate of udp://p4p.arenabg.ch:1337/announce
