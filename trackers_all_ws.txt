@@ -4,7 +4,3 @@ wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 
 wss://peertube.cpy.re:443/tracker/socket
 
-ws://tracker.files.fm:7072/announce
-
-ws://hub.bugout.link:80/announce
-
