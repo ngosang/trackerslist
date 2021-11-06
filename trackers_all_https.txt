@@ -4,6 +4,8 @@ https://tracker.iriseden.fr:443/announce
 
 https://tracker.iriseden.eu:443/announce
 
+https://1337.abcvg.info:443/announce
+
 https://trackme.theom.nz:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -19,6 +21,4 @@ https://tracker.imgoingto.icu:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tr.torland.ga:443/announce
-
-https://1337.abcvg.info:443/announce
 
