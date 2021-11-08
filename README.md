@@ -40,6 +40,7 @@ ngosang [@] hotmail [.es]
 ### Third-party tools
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
 * [transmission python script](https://github.com/blind-oracle/transmission-trackers) to add these trackers to [transmission](https://github.com/transmission/transmission)
+* [transmission perl script](https://github.com/eexpress/bin/blob/master/add-tracker-to-transmission.pl) to add these trackers to [transmission](https://github.com/transmission/transmission)
 * [transmission bash script 1](https://github.com/AndrewMarchukov/tracker-add) to add these trackers to [transmission](https://github.com/transmission/transmission)
 * [transmission bash script 2](https://github.com/oilervoss/transmission) to add these trackers to [transmission](https://github.com/transmission/transmission)
 * [transmission bash script 3](https://github.com/Jorman/Scripts#addtransmissiontrackerssh) to add these trackers to [transmission](https://github.com/transmission/transmission)
