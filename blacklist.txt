@@ -7,6 +7,8 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://carbon-bonsai-621.appspot.com/announce # malfunction
 https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
+udp://tracker.breizh.pm:6969/announce # requested by sysadmin
+http://tracker.breizh.pm:6969/announce # requested by sysadmin
 https://torrents.linuxmint.com:443/announce.php # registered torrents
 http://torrents.linuxmint.com:80/announce.php # registered torrents
 http://ed2k.vip:7070/announce # registered torrents
@@ -194,10 +196,10 @@ udp://tracker-de.ololosh.space:6969/announce # duplicate of udp://tracker.ololos
 udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
 udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
 udp://p4p.arenabg.com:1337/announce # duplicate of udp://p4p.arenabg.ch:1337/announce
-udp://openbittorrent.com:80/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
+udp://tracker.openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
-udp://sugoi.pomf.se:80/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
-udp://tracker.openbittorrent.com:80/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://sugoi.pomf.se:80/announce # duplicate of udp://tracker.pomf.se:80/announce
 http://tracker4.itzmx.com:6961/announce # duplicate of http://tracker4.itzmx.com:2710/announce
 http://tracker3.itzmx.com:8080/announce # duplicate of http://tracker3.itzmx.com:6961/announce
 udp://tracker.coppersurfer.tk:80/announce # duplicate of udp://tracker.coppersurfer.tk:6969/announce
@@ -232,7 +234,6 @@ udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/anno
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-udp://tracker.pomf.se:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
 http://tracker.skyts.cn:6969/announce # duplicate of http://tracker.skyts.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.sbsub.com:2710/announce # duplicate of udp://retracker.lanta-net.ru:2710/announce
