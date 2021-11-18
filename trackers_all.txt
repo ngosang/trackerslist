@@ -8,7 +8,11 @@ udp://9.rarbg.com:2810/announce
 
 udp://open.tracker.cl:1337/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://exodus.desync.com:6969/announce
+
+http://openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -32,8 +36,6 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -43,6 +45,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
@@ -58,9 +62,9 @@ udp://movies.zsw.ca:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
-udp://fe.dealclub.de:6969/announce
+udp://inferno.demonoid.is:3391/announce
 
 udp://explodie.org:6969/announce
 
@@ -76,8 +80,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://app.icon256.com:8000/announce
-
 https://w.wwwww.wtf:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -90,7 +92,7 @@ https://tracker.iriseden.fr:443/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
@@ -104,17 +106,23 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tk.nvacg.org:3333/announce
+
 http://t.overflow.biz:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://openbittorrent.com:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://h4.trakx.nibba.trade:80/announce
+
+http://fxtt.ru:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
 udp://tracker4.itzmx.com:2710/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -131,6 +139,10 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.haynet.io:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -151,6 +163,8 @@ udp://retracker.sevstar.net:2710/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://jeremylee.sh:6969/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
@@ -186,6 +200,8 @@ http://trackme.theom.nz:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker.lelux.fi:80/announce
 
 http://tracker.dler.org:6969/announce
@@ -202,11 +218,9 @@ http://rt.optizone.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://open.acgtracker.com:1096/announce
+http://pow7.com:80/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://fxtt.ru:80/announce
 
 http://1337.abcvg.info:80/announce
 
