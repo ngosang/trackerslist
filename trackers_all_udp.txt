@@ -18,11 +18,9 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker.0x.tf:6969/announce
-
 udp://retracker.netbynet.ru:2710/announce
+
+udp://retracker.lanta-net.ru:2710/announce
 
 udp://opentor.org:2710/announce
 
@@ -50,6 +48,8 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -68,6 +68,8 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.dler.org:6969/announce
@@ -78,9 +80,15 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.0x.tf:6969/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
+
+udp://retracker.sevstar.net:2710/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
