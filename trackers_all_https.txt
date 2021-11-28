@@ -4,6 +4,8 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://trackme.theom.nz:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -19,8 +21,6 @@ https://tracker.kuroy.me:443/announce
 https://tracker.foreverpirates.co:443/announce
 
 https://tr.torland.ga:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://t1.tokhmi.xyz:443/announce
 
