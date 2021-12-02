@@ -20,6 +20,8 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tr.torland.ga:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://t1.tokhmi.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
