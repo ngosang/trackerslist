@@ -3,8 +3,8 @@
 [![Public trackers](https://img.shields.io/badge/Public%20trackers-111-blue.svg)](#)
 [![Last update](https://img.shields.io/badge/Last%20update-2021/12/04-blue.svg)](#)
 [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X5NJLLX5GLTV6&source=url)
-[![Donate Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg)](https://www.buymeacoffee.com/ngosang)
-[![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-orange.svg)](https://en.cryptobadges.io/donate/1FTTQ5moNHf3FFCaDYXRfoF5gCLUvqfbNu)
+[![Donate Bitcoin](https://en.cryptobadges.io/badge/micro/192VBN1a1LQ6aUqn2APmeoJyv8V3ng44Gn)](https://en.cryptobadges.io/donate/192VBN1a1LQ6aUqn2APmeoJyv8V3ng44Gn)
+[![Donate Ethereum](https://en.cryptobadges.io/badge/micro/0x0D1549BbB00926BF3D92c1A8A58695e982f1BE2E)](https://en.cryptobadges.io/donate/0x0D1549BbB00926BF3D92c1A8A58695e982f1BE2E)
 
 Updated list of public BitTorrent trackers
 
