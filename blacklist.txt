@@ -210,6 +210,7 @@ udp://denis.stalker.upeer.me:1337/announce # duplicate of udp://denis.stalker.up
 https://tracker.torrentsnows.com:443/announce # registered torrents
 http://torrent.fedoraproject.org:6969/announce # registered torrents
 http://torrent.mp3quran.net:80/announce.php # registered torrents
+wss://peertube.cpy.re:443/tracker/socket # registered torrents
 http://bt.3dmgame.com:2710/announce # registered torrents
 http://bt.ali213.net:8000/announce # registered torrents
 http://tracker.ali213.net:8000/announce # registered torrents
