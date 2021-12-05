@@ -4,6 +4,8 @@ udp://open.tracker.cl:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -13,8 +15,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://retracker.lanta-net.ru:2710/announce
 
 udp://open.stealth.si:80/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -26,19 +26,15 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tr.cili001.com:8070/announce
+
+udp://retracker.sevstar.net:2710/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://opentor.org:2710/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://fe.dealclub.de:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -50,8 +46,6 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://tsundere.pw:6969/announce
-
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.dler.org:80/announce
@@ -59,6 +53,8 @@ udp://tracker2.dler.org:80/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker0.ufibox.com:6969/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -80,23 +76,19 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
+udp://tracker.altrosky.nl:6969/announce
+
 udp://tracker.0x.tf:6969/announce
 
-udp://tr2.ysagin.top:2710/announce
+udp://public.tracker.vraphim.com:6969/announce
 
-udp://tr.cili001.com:8070/announce
-
-udp://tr.bangumi.moe:6969/announce
-
-udp://retracker.sevstar.net:2710/announce
+udp://public.publictracker.xyz:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -107,6 +99,8 @@ udp://movies.zsw.ca:6969/announce
 udp://mail.realliferpg.de:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://engplus.ru:6969/announce
 
