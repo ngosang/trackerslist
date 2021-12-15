@@ -4,13 +4,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
-
-http://tracker.moeking.me:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
@@ -24,7 +24,9 @@ http://t.overflow.biz:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://pow7.com:80/announce
+http://retracker.joxnet.ru:80/announce
+
+http://openbittorrent.com:80/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -34,11 +36,13 @@ http://fosstorrents.com:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://1337.abcvg.info:80/announce
+
 http://trackme.theom.nz:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.moeking.me:6969/announce
 
 http://tracker.loadbt.com:6969/announce
 
@@ -54,7 +58,7 @@ http://rt.optizone.ru:80/announce
 
 http://retracker.sevstar.net:2710/announce
 
-http://fxtt.ru:80/announce
+http://pow7.com:80/announce
 
-http://1337.abcvg.info:80/announce
+http://fxtt.ru:80/announce
 
