@@ -1,8 +1,14 @@
+https://tracker.nitrix.me:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tracker.lelux.fi:443/announce
+
 https://tracker.iriseden.fr:443/announce
+
+https://tr.torland.ga:443/announce
 
 https://t1.tokhmi.xyz:443/announce
 
@@ -12,13 +18,7 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.madassnews.net:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.kuroy.me:443/announce
-
-https://tracker.foreverpirates.co:443/announce
-
-https://tr.torland.ga:443/announce
 
 https://tr.highstar.shop:443/announce
 
