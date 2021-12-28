@@ -4,6 +4,8 @@ https://tracker.lilithraws.cf:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
+https://t.btcland.xyz:443/announce
+
 https://trackme.theom.nz:443/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -27,8 +29,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.doogh.club:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://t.btcland.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
 
