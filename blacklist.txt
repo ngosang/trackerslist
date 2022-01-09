@@ -235,7 +235,7 @@ udp://tracker.btsync.gq:2710/announce # duplicate of udp://qg.lorzl.gq:2710/anno
 udp://tracker.btsync.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:233/announce # duplicate of udp://qg.lorzl.gq:2710/announce
 udp://qg.lorzl.gq:6969/announce # duplicate of udp://qg.lorzl.gq:2710/announce
-http://tracker.skyts.cn:6969/announce # duplicate of http://tracker.skyts.net:6969/announce
+http://tracker.skyts.cn:6969/announce # duplicate of http://open.tracker.ink:6969/announce & http://tracker.skyts.net:6969/announce
 udp://tracker.gbitt.info:80/announce # duplicate of udp://tracker-udp.gbitt.info:80/announce
 udp://tracker.sbsub.com:2710/announce # duplicate of udp://retracker.lanta-net.ru:2710/announce
 http://tracker3.dler.org:2710/announce # duplicate of http://tracker.dler.org:6969/announce
