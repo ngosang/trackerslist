@@ -10,9 +10,11 @@ udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://retracker.lanta-net.ru:2710/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -20,17 +22,19 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.loadbt.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
 udp://opentor.org:2710/announce
+
+udp://open.stealth.si:80/announce
+
+udp://mts.tvbit.co:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -42,11 +46,13 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zemoj.com:6969/announce
 
@@ -57,6 +63,8 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -70,9 +78,9 @@ udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.edkj.club:6969/announce
 
-udp://tracker.ddunlimited.net:6969/announce
+udp://tracker.dler.org:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
+udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -87,8 +95,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
-
-udp://mts.tvbit.co:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
