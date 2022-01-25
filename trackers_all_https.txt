@@ -26,3 +26,4 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://1337.abcvg.info:443/announce
 
+https://o-unkusrx.cloud.okteto.net:443/announce
