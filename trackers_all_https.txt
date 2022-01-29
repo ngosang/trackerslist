@@ -6,7 +6,7 @@ https://tracker.lelux.fi:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
-https://tr.torland.ga:443/announce
+https://opentracker.i2p.rocks:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -16,6 +16,8 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
+https://tr.torland.ga:443/announce
+
 https://tr.highstar.shop:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
@@ -23,8 +25,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 https://tr.doogh.club:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://o-unkusrx.cloud.okteto.net:443/announce
 
