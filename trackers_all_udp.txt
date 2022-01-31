@@ -4,8 +4,6 @@ udp://open.tracker.cl:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -16,15 +14,19 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.sylphix.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.loligirl.cn:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -33,6 +35,8 @@ udp://tracker.jordan.im:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -72,13 +76,13 @@ udp://abufinzio.monocul.us:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://tsundere.pw:6969/announce
-
-udp://tracker4.itzmx.com:2710/announce
-
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -115,8 +119,6 @@ udp://cutiegirl.ru:6969/announce
 udp://concen.org:6969/announce
 
 udp://camera.lei001.com:6969/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://bclearning.top:6969/announce
 
