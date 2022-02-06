@@ -6,8 +6,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.pomf.se:80/announce
@@ -17,8 +15,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://retracker.lanta-net.ru:2710/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -37,6 +33,8 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://tracker4.itzmx.com:2710/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
