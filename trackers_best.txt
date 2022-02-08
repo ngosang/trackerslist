@@ -1,6 +1,16 @@
+udp://open.tracker.cl:1337/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
+
+udp://exodus.desync.com:6969/announce
+
+udp://tracker.openbittorrent.com:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
+
+http://openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -20,8 +30,6 @@ udp://tracker.sylphix.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -29,12 +37,4 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.loligirl.cn:1337/announce
 
 udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.jordan.im:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker.auctor.tv:6969/announce
-
-udp://tracker.altrosky.nl:6969/announce
 
