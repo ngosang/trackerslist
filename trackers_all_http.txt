@@ -38,9 +38,11 @@ http://open.acgnxtracker.com:80/announce
 
 http://home.yxgz.vip:6969/announce
 
-http://h4.trakx.nibba.trade:80/announce
+http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
+
+http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -68,9 +70,7 @@ http://pow7.com:80/announce
 
 http://open.tracker.ink:6969/announce
 
-http://fxtt.ru:80/announce
-
-http://btracker.top:11451/announce
+http://h4.trakx.nibba.trade:80/announce
 
 http://1337.abcvg.info:80/announce
 
