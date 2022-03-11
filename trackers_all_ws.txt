@@ -1,10 +1,6 @@
-wss://tracker.btorrent.xyz
-
 wss://tracker.files.fm:7073/announce
 
-wss://spacetradersapi-chatbox.herokuapp.com:443/announce
+wss://tracker.btorrent.xyz
 
 ws://tracker.files.fm:7072/announce
-
-ws://hub.bugout.link:80/announce
 
