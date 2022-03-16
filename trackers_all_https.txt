@@ -12,8 +12,6 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.babico.name.tr:443/announce
 
 https://tr.torland.ga:443/announce
@@ -37,6 +35,8 @@ https://opentracker.i2p.rocks:443/announce
 https://opentracker.cc:443/announce
 
 https://abir0dev.github.io:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://1337.abcvg.info:443/announce
 
