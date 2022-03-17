@@ -1,12 +1,12 @@
 http://tracker.opentrackr.org:1337/announce
 
+http://p4p.arenabg.com:1337/announce
+
 http://tracker.openbittorrent.com:80/announce
 
 http://tracker4.itzmx.com:2710/announce
 
 http://tracker.dler.org:6969/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -44,9 +44,9 @@ http://t.overflow.biz:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://retracker.joxnet.ru:80/announce
-
 http://open.tracker.ink:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -60,9 +60,9 @@ http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://1337.abcvg.info:80/announce
+
 http://t.acg.rip:6699/announce
 
 http://rt.optizone.ru:80/announce
-
-http://1337.abcvg.info:80/announce
 
