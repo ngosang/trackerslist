@@ -46,6 +46,7 @@ ngosang [@] hotmail [.es]
 * [qbittorrent bash script](https://github.com/Jorman/Scripts#addqbittorrenttrackerssh) to add these trackers to [qBittorent](https://github.com/qbittorrent/qBittorrent)
 * [aria2 go script](https://github.com/rocket049/aria2-trackers) to add these trackers to [aria2](https://github.com/aria2/aria2)
 * [aria2 bash script](https://github.com/wuyuansushen/aria2c_TrackersList) to add these trackers to [aria2](https://github.com/aria2/aria2)
+* [deluge-default-trackers](https://github.com/stefantalpalaru/deluge-default-trackers) to add these trackers to [deluge](https://github.com/deluge-torrent/deluge)
 
 ### Third-party online tools
 * [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
