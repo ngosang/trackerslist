@@ -6,8 +6,6 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -29,6 +27,10 @@ udp://explodie.org:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -70,8 +72,6 @@ udp://tr.cili001.com:8070/announce
 
 udp://torrentclub.space:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 udp://open.tracker.ink:6969/announce
@@ -107,12 +107,6 @@ udp://admin.videoenpoche.info:6969/announce
 udp://abufinzio.monocul.us:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://u4.trakx.crim.ist:1337/announce
-
-udp://tsundere.pw:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker.leech.ie:1337/announce
 

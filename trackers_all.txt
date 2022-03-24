@@ -4,19 +4,13 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://9.rarbg.com:2810/announce
-
 http://pow7.com:80/announce
+
+udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
-
-udp://opentracker.i2p.rocks:6969/announce
-
-https://opentracker.i2p.rocks:443/announce
-
-http://opentracker.i2p.rocks:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -40,7 +34,15 @@ udp://tracker.dler.org:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+https://tr.torland.ga:443/announce
+
+http://vps02.net.orel.ru:80/announce
+
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://u4.trakx.crim.ist:1337/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -81,8 +83,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tr.cili001.com:8070/announce
 
 udp://torrentclub.space:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -136,8 +136,6 @@ https://tracker.iriseden.fr:443/announce
 
 https://tracker.babico.name.tr:443/announce
 
-https://tr.torland.ga:443/announce
-
 https://tr.highstar.shop:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
@@ -146,17 +144,13 @@ https://tr.doogh.club:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.abirxo.cf:443/announce
-
-https://tr.abir.ga:443/announce
-
 https://tr.abiir.top:443/announce
+
+https://opentracker.i2p.rocks:443/announce
 
 https://opentracker.cc:443/announce
 
-https://1337.abcvg.info:443/announce
-
-http://vps02.net.orel.ru:80/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -186,11 +180,11 @@ http://tr.cili001.com:8070/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://tk.nvacg.org:3333/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t.nyaatracker.com:80/announce
+
+http://retracker.joxnet.ru:80/announce
 
 http://open.tracker.ink:6969/announce
 
@@ -206,14 +200,6 @@ http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://1337.abcvg.info:80/announce
-
-udp://u4.trakx.crim.ist:1337/announce
-
-udp://tsundere.pw:6969/announce
-
-udp://tracker2.dler.org:80/announce
-
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.fatkhoala.org:13710/announce
@@ -224,11 +210,17 @@ udp://tr.bangumi.moe:6969/announce
 
 udp://concen.org:6969/announce
 
+https://tracker.foreverpirates.co:443/announce
+
+https://tr.abirxo.cf:443/announce
+
 https://abir0dev.github.io:443/announce
 
-http://tracker2.dler.org:80/announce
+https://1337.abcvg.info:443/announce
 
 http://t.acg.rip:6699/announce
 
-http://rt.optizone.ru:80/announce
+http://fxtt.ru:80/announce
+
+http://1337.abcvg.info:80/announce
 
