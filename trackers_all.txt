@@ -2,8 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -22,25 +20,15 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://opentor.org:2710/announce
+http://tracker.dler.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 udp://explodie.org:6969/announce
 
-https://tr.torland.ga:443/announce
-
-http://vps02.net.orel.ru:80/announce
-
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://u4.trakx.crim.ist:1337/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -52,11 +40,9 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.merded.xyz:8000/announce
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.loligirl.cn:1337/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -82,19 +68,13 @@ udp://tr.cili001.com:8070/announce
 
 udp://torrentclub.space:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
+udp://public.publictracker.xyz:6969/announce
 
 udp://open.tracker.ink:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://leet-tracker.moe:38151/announce
-
-udp://leet-tracker.moe:23861/announce
-
-udp://inferno.demonoid.is:3391/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -130,9 +110,9 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.babico.name.tr:443/announce
+
+https://tr.torland.ga:443/announce
 
 https://tr.highstar.shop:443/announce
 
@@ -152,9 +132,7 @@ https://opentracker.cc:443/announce
 
 https://abir0dev.github.io:443/announce
 
-https://1337.abcvg.info:443/announce
-
-http://tracker2.dler.org:80/announce
+http://vps02.net.orel.ru:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -165,8 +143,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.merded.xyz:8000/announce
 
 http://tracker.loadbt.com:6969/announce
 
@@ -206,9 +182,13 @@ http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://1337.abcvg.info:80/announce
+udp://u4.trakx.crim.ist:1337/announce
 
-udp://tracker.monitorit4.me:6969/announce
+udp://tsundere.pw:6969/announce
+
+udp://tracker2.dler.org:80/announce
+
+udp://tracker.merded.xyz:8000/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -216,9 +196,21 @@ udp://tracker.fatkhoala.org:13710/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
-udp://tr.bangumi.moe:6969/announce
+udp://leet-tracker.moe:38151/announce
+
+udp://leet-tracker.moe:23861/announce
 
 udp://concen.org:6969/announce
 
+https://1337.abcvg.info:443/announce
+
+http://tracker2.dler.org:80/announce
+
+http://tracker.merded.xyz:8000/announce
+
 http://t.acg.rip:6699/announce
+
+http://rt.optizone.ru:80/announce
+
+http://1337.abcvg.info:80/announce
 

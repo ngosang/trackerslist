@@ -6,8 +6,6 @@ http://tracker.dler.org:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
@@ -17,8 +15,6 @@ http://tracker.skyts.net:6969/announce
 http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.merded.xyz:8000/announce
 
 http://tracker.loadbt.com:6969/announce
 
@@ -58,7 +54,13 @@ http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
-http://1337.abcvg.info:80/announce
+http://tracker2.dler.org:80/announce
+
+http://tracker.merded.xyz:8000/announce
 
 http://t.acg.rip:6699/announce
+
+http://rt.optizone.ru:80/announce
+
+http://1337.abcvg.info:80/announce
 
