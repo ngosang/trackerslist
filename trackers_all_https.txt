@@ -8,6 +8,8 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
+https://tracker.babico.name.tr:443/announce
+
 https://tr.torland.ga:443/announce
 
 https://tr.highstar.shop:443/announce
@@ -18,19 +20,17 @@ https://tr.doogh.club:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tracker.yarr.pt:443/announce
-
-https://tracker.kuroy.me:443/announce
-
-https://tracker.babico.name.tr:443/announce
-
 https://tr.abirxo.cf:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://opentracker.cc:443/announce
-
 https://abir0dev.github.io:443/announce
+
+https://tracker.yarr.pt:443/announce
+
+https://tracker.kuroy.me:443/announce
+
+https://opentracker.cc:443/announce
 
 https://1337.abcvg.info:443/announce
 
