@@ -2,6 +2,10 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+http://p4p.arenabg.com:1337/announce
+
+udp://9.rarbg.com:2810/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
@@ -19,8 +23,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://9.rarbg.com:2810/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -102,6 +104,8 @@ udp://abufinzio.monocul.us:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+https://tracker.nitrix.me:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -128,8 +132,6 @@ http://tracker.loadbt.com:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.hiyj.cn:80/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -145,8 +147,6 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 http://t.overflow.biz:6969/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -192,13 +192,9 @@ udp://bclearning.top:6969/announce
 
 https://tracker.yarr.pt:443/announce
 
-https://tracker.nitrix.me:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.babico.name.tr:443/announce
-
-https://tr.ready4.icu:443/announce
 
 https://tr.highstar.shop:443/announce
 
