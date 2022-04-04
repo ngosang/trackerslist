@@ -18,6 +18,8 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.babico.name.tr:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://tr.highstar.shop:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
