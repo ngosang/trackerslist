@@ -14,6 +14,8 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.kuroy.me:443/announce
 
+https://tracker.foreverpirates.co:443/announce
+
 https://tracker.babico.name.tr:443/announce
 
 https://tr.highstar.shop:443/announce
