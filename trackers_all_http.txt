@@ -14,8 +14,6 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -30,6 +28,8 @@ http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -40,7 +40,11 @@ http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://tracker.skyts.net:6969/announce
+
 http://tracker.merded.xyz:8000/announce
+
+http://tracker.loadbt.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -51,6 +55,8 @@ http://t.acg.rip:6699/announce
 http://open.tracker.ink:6969/announce
 
 http://fxtt.ru:80/announce
+
+http://fosstorrents.com:6969/announce
 
 http://1337.abcvg.info:80/announce
 
