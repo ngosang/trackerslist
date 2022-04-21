@@ -28,13 +28,13 @@ udp://tracker.dler.org:6969/announce
 
 udp://explodie.org:6969/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.0x.tf:6969/announce
+udp://vibe.sleepyinternetfun.xyz:1738/announce
 
-udp://movies.zsw.ca:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://bt1.archive.org:6969/announce
-
-https://tracker.nanoha.org:443/announce
+udp://tracker.zerobytes.xyz:1337/announce
 
