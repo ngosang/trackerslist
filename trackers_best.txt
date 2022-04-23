@@ -26,6 +26,8 @@ udp://tracker.moeking.me:6969/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
@@ -35,6 +37,4 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
 

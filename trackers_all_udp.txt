@@ -22,6 +22,8 @@ udp://tracker.moeking.me:6969/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
@@ -39,8 +41,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -62,6 +62,8 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt.oiyo.tk:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -69,8 +71,6 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://u4.trakx.crim.ist:1337/announce
-
-udp://tsundere.pw:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -98,15 +98,11 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://cutiegirl.ru:6969/announce
 
 udp://concen.org:6969/announce
 
 udp://camera.lei001.com:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://bclearning.top:6969/announce
 
