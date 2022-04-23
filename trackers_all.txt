@@ -4,9 +4,9 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 http://tracker.openbittorrent.com:80/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -32,6 +32,8 @@ udp://explodie.org:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+http://tracker4.itzmx.com:2710/announce
+
 http://tracker.dler.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -41,10 +43,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -98,8 +96,6 @@ http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.loadbt.com:6969/announce
-
 http://tracker.lelux.fi:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -108,17 +104,11 @@ http://tracker.corpscorp.online:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://retracker.joxnet.ru:80/announce
 
-http://open.acgtracker.com:1096/announce
-
 http://open.acgnxtracker.com:80/announce
-
-http://fxtt.ru:80/announce
 
 http://btracker.top:11451/announce
 
@@ -128,15 +118,19 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.merded.xyz:8000/announce
 
 udp://tracker.loligirl.cn:1337/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -150,9 +144,13 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://mts.tvbit.co:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://cutiegirl.ru:6969/announce
 
@@ -200,11 +198,19 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.merded.xyz:8000/announce
 
+http://tracker.loadbt.com:6969/announce
+
 http://tracker.gbitt.info:80/announce
 
 http://tr.cili001.com:8070/announce
 
 http://t.acg.rip:6699/announce
+
+http://open.acgtracker.com:1096/announce
+
+http://fxtt.ru:80/announce
+
+http://fosstorrents.com:6969/announce
 
 http://1337.abcvg.info:80/announce
 

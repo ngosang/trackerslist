@@ -32,10 +32,6 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.loadbt.com:6969/announce
-
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.jordan.im:6969/announce
@@ -72,15 +68,19 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
+udp://tsundere.pw:6969/announce
+
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.skyts.net:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.merded.xyz:8000/announce
 
 udp://tracker.loligirl.cn:1337/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -94,9 +94,13 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://mts.tvbit.co:6969/announce
+
+udp://inferno.demonoid.is:3391/announce
 
 udp://cutiegirl.ru:6969/announce
 
