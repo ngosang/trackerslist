@@ -22,9 +22,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://opentor.org:2710/announce
-
 udp://tracker.dler.org:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 

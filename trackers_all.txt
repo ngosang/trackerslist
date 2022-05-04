@@ -26,9 +26,9 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://opentor.org:2710/announce
-
 udp://tracker.dler.org:6969/announce
+
+udp://explodie.org:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -46,8 +46,6 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -61,8 +59,6 @@ udp://torrentclub.space:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -104,21 +100,17 @@ http://tracker.bt4g.com:2095/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://retracker.joxnet.ru:80/announce
-
 http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
-
-http://fxtt.ru:80/announce
-
-http://fosstorrents.com:6969/announce
 
 http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -127,8 +119,6 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.merded.xyz:8000/announce
 
 udp://tracker.loligirl.cn:1337/announce
 
@@ -149,6 +139,8 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -173,6 +165,8 @@ https://tracker.yarr.pt:443/announce
 https://tracker.nitrix.me:443/announce
 
 https://tracker.kuroy.me:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tracker.babico.name.tr:443/announce
 
@@ -200,8 +194,6 @@ http://tracker.skyts.net:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-http://tracker.merded.xyz:8000/announce
-
 http://tracker.loadbt.com:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -211,6 +203,10 @@ http://tr.cili001.com:8070/announce
 http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
+
+http://fxtt.ru:80/announce
+
+http://fosstorrents.com:6969/announce
 
 http://1337.abcvg.info:80/announce
 
