@@ -10,17 +10,11 @@ udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://open.stealth.si:80/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://opentor.org:2710/announce
 
 udp://explodie.org:6969/announce
 
@@ -34,8 +28,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -46,7 +38,7 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -76,19 +68,17 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt.oiyo.tk:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker.zemoj.com:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.loligirl.cn:1337/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
@@ -100,8 +90,6 @@ udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://open.tracker.ink:6969/announce
 
 udp://cutiegirl.ru:6969/announce
@@ -109,6 +97,8 @@ udp://cutiegirl.ru:6969/announce
 udp://concen.org:6969/announce
 
 udp://camera.lei001.com:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bclearning.top:6969/announce
 
