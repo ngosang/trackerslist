@@ -34,5 +34,3 @@ https://tr.abiir.top:443/announce
 
 https://abir0dev.github.io:443/announce
 
-https://1337.abcvg.info:443/announce
-
