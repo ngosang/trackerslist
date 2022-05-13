@@ -18,8 +18,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.lelux.fi:80/announce
 
-http://tracker.gbitt.info:80/announce
-
 http://tracker.files.fm:6969/announce
 
 http://tracker.dler.org:6969/announce
@@ -36,23 +34,27 @@ http://open.acgnxtracker.com:80/announce
 
 http://btracker.top:11451/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
 http://tracker.loadbt.com:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 http://tr.cili001.com:8070/announce
 
 http://t.acg.rip:6699/announce
-
-http://rt.optizone.ru:80/announce
 
 http://open.tracker.ink:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://fxtt.ru:80/announce
+
 http://fosstorrents.com:6969/announce
+
+http://bt.okmp3.ru:2710/announce
+
+http://1337.abcvg.info:80/announce
 
