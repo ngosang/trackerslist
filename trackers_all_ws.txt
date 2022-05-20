@@ -10,5 +10,3 @@ wss://qot.abiir.top:443/announce
 
 ws://tracker.files.fm:7072/announce
 
-ws://hub.bugout.link:80/announce
-
