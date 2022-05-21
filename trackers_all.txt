@@ -2,6 +2,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -13,6 +15,8 @@ udp://opentracker.i2p.rocks:6969/announce
 https://opentracker.i2p.rocks:443/announce
 
 http://opentracker.i2p.rocks:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -34,6 +38,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -45,8 +51,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -104,7 +108,7 @@ http://tracker.bt4g.com:2095/announce
 
 http://t.nyaatracker.com:80/announce
 
-http://retracker.joxnet.ru:80/announce
+http://open.acgtracker.com:1096/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -118,7 +122,9 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tsundere.pw:6969/announce
 
-udp://tracker.srv00.com:6969/announce
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skyts.net:6969/announce
 
@@ -195,8 +201,6 @@ http://tr.cili001.com:8070/announce
 http://t.acg.rip:6699/announce
 
 http://open.tracker.ink:6969/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://fxtt.ru:80/announce
 

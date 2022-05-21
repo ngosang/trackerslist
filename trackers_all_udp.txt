@@ -1,10 +1,14 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -26,6 +30,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -37,8 +43,6 @@ udp://tracker.lelux.fi:6969/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -68,7 +72,9 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tsundere.pw:6969/announce
 
-udp://tracker.srv00.com:6969/announce
+udp://tracker.zemoj.com:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skyts.net:6969/announce
 
