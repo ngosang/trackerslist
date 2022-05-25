@@ -1,5 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -12,9 +14,11 @@ https://opentracker.i2p.rocks:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
-udp://open.stealth.si:80/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -24,17 +28,13 @@ udp://explodie.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.skyts.net:6969/announce
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.edkj.club:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.0x.tf:6969/announce
-
-udp://movies.zsw.ca:6969/announce
 
