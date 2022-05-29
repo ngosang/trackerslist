@@ -6,11 +6,11 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -24,10 +24,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://explodie.org:6969/announce
-
-udp://vibe.sleepyinternetfun.xyz:1738/announce
-
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -36,5 +32,9 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.monitorit4.me:6969/announce
+
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
