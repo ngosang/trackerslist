@@ -26,5 +26,3 @@ https://tr.abirxo.cf:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://1337.abcvg.info:443/announce
-
