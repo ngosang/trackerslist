@@ -1,8 +1,10 @@
 http://tracker.opentrackr.org:1337/announce
 
+http://opentracker.i2p.rocks:6969/announce
+
 http://tracker.openbittorrent.com:80/announce
 
-http://opentracker.i2p.rocks:6969/announce
+http://tracker.dler.org:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -18,19 +20,19 @@ http://tracker.lelux.fi:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.corpscorp.online:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
 http://t.nyaatracker.com:80/announce
 
+http://retracker.joxnet.ru:80/announce
+
 http://open.acgnxtracker.com:80/announce
 
 http://btracker.top:11451/announce
 
-http://1337.abcvg.info:80/announce
+http://bt.okmp3.ru:2710/announce
 
 http://tracker3.ctix.cn:2095/announce
 
@@ -58,6 +60,8 @@ http://tr.cili001.com:8070/announce
 
 http://t.acg.rip:6699/announce
 
+http://rt.optizone.ru:80/announce
+
 http://open.tracker.ink:6969/announce
 
 http://open.acgtracker.com:1096/announce
@@ -66,5 +70,5 @@ http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
 
-http://bt.okmp3.ru:2710/announce
+http://1337.abcvg.info:80/announce
 
