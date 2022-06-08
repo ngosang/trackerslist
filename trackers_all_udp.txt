@@ -14,15 +14,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.loadbt.com:6969/announce
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -38,8 +36,6 @@ udp://v2.iperson.xyz:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://tsundere.pw:6969/announce
-
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
@@ -47,6 +43,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -62,6 +60,8 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.logirl.moe:17052/announce
 
+udp://tracker.loadbt.com:6969/announce
+
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -69,6 +69,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
@@ -84,6 +86,8 @@ udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
@@ -91,8 +95,6 @@ udp://tr.bangumi.moe:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 

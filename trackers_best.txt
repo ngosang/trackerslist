@@ -18,15 +18,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.loadbt.com:6969/announce
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -37,4 +35,6 @@ udp://bt.oiyo.tk:6969/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.baka.ink:443/announce
 
