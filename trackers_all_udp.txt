@@ -14,19 +14,17 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://exodus.desync.com:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.edkj.club:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -43,8 +41,6 @@ udp://u4.trakx.crim.ist:1337/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -85,8 +81,6 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.0x.tf:6969/announce
-
-udp://tr.cili001.com:8070/announce
 
 udp://torrentclub.space:6969/announce
 
