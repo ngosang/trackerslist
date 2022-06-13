@@ -1,14 +1,16 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -16,11 +18,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -28,13 +32,9 @@ udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.0x.tf:6969/announce
+udp://tracker.babico.name.tr:8000/announce
 
-udp://movies.zsw.ca:6969/announce
+udp://run.publictracker.xyz:6969/announce
 
-udp://explodie.org:6969/announce
-
-udp://bt.oiyo.tk:6969/announce
-
-https://tracker.nanoha.org:443/announce
+udp://open.tracker.ink:6969/announce
 
