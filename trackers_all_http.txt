@@ -38,19 +38,19 @@ http://bt.okmp3.ru:2710/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+http://tracker3.ctix.cn:2095/announce
+
 http://tracker3.520.jp:2095/announce
 
 http://tracker2.dler.org:80/announce
+
+http://tracker2.ctix.cn:2095/announce
 
 http://tracker2.520.jp:2095/announce
 
 http://tracker.srv00.com:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.noobsubs.net:80/announce
-
-http://tracker.gbitt.info:80/announce
 
 http://tracker.edkj.club:6969/announce
 
