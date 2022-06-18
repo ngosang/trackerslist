@@ -2,15 +2,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
 http://opentracker.i2p.rocks:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
@@ -20,15 +22,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.moeking.me:6969/announce
-
-udp://tracker.edkj.club:6969/announce
+udp://opentor.org:2710/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -46,11 +46,13 @@ udp://tracker.pomf.se:80/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -84,25 +86,29 @@ udp://bt.oiyo.tk:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-https://tracker1.520.jp:443/announce
-
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.lelux.fi:443/announce
 
+https://tracker.foreverpirates.co:443/announce
+
 https://tracker.baka.ink:443/announce
+
+https://chihaya-heroku.120181311.xyz:443/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://tracker3.ctix.cn:2095/announce
+
 http://tracker2.dler.org:80/announce
+
+http://tracker2.ctix.cn:2095/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zerobytes.xyz:1337/announce
-
-http://tracker.srv00.com:80/announce
 
 http://tracker.skyts.net:6969/announce
 
@@ -138,11 +144,11 @@ udp://v2.iperson.xyz:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.publictracker.xyz:6969/announce
+
+udp://tracker.loadbt.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -154,7 +160,7 @@ udp://tracker.babico.name.tr:8000/announce
 
 udp://tr.cili001.com:8070/announce
 
-udp://public.tracker.vraphim.com:6969/announce
+udp://tr.bangumi.moe:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -184,8 +190,6 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://tracker.babico.name.tr:443/announce
 
 https://track.plop.pm:8989/announce
@@ -198,17 +202,11 @@ https://tr.abir.ga:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://chihaya-heroku.120181311.xyz:443/announce
-
 https://1337.abcvg.info:443/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker3.ctix.cn:2095/announce
-
 http://tracker3.520.jp:2095/announce
-
-http://tracker2.ctix.cn:2095/announce
 
 http://tracker2.520.jp:2095/announce
 
