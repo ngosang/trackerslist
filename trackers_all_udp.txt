@@ -26,9 +26,9 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.pomf.se:80/announce
+udp://tracker.skyts.net:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -49,6 +49,8 @@ udp://tracker.0x.tf:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://open.tracker.ink:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -76,8 +78,6 @@ udp://v2.iperson.xyz:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://tracker4.itzmx.com:2710/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.zemoj.com:6969/announce
@@ -86,9 +86,9 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.skyts.net:6969/announce
-
 udp://tracker.publictracker.xyz:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -98,11 +98,7 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
-udp://tr.bangumi.moe:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
-
-udp://open.tracker.ink:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 

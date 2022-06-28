@@ -24,17 +24,17 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+http://tracker.dler.org:6969/announce
+
+http://open.acgnxtracker.com:80/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.jordan.im:6969/announce
 
