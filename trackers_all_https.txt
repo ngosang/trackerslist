@@ -4,13 +4,15 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.lelux.fi:443/announce
-
 https://tracker.baka.ink:443/announce
 
 https://x7x.up.railway.app:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker.logirl.moe:443/announce
+
+https://tracker.lelux.fi:443/announce
 
 https://tracker.kuroy.me:443/announce
 
