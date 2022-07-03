@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -10,29 +8,29 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
-udp://exodus.desync.com:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://open.stealth.si:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.skyts.net:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
+
+udp://exodus.desync.com:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://open.tracker.ink:6969/announce
+udp://tracker.0x.tf:6969/announce
+
+udp://movies.zsw.ca:6969/announce
 
 udp://explodie.org:6969/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -44,7 +42,7 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker1.myporn.club:9337/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zemoj.com:6969/announce
 
@@ -54,11 +52,13 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.pomf.se:80/announce
-
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.logirl.moe:17052/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -66,7 +66,7 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.edkj.club:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -75,8 +75,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker.0x.tf:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -88,15 +86,13 @@ udp://torrentclub.space:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
+
+udp://open.tracker.ink:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
 udp://mts.tvbit.co:6969/announce
-
-udp://movies.zsw.ca:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
@@ -111,6 +107,8 @@ udp://bubu.mapfactor.com:6969/announce
 udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bclearning.top:6969/announce
 
