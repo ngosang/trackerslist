@@ -18,23 +18,23 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://exodus.desync.com:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
-udp://tr.cili001.com:8070/announce
+udp://tracker.altrosky.nl:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
+udp://tracker.0x.tf:6969/announce
 
-udp://explodie.org:6969/announce
+udp://mts.tvbit.co:6969/announce
 
-udp://bt.oiyo.tk:6969/announce
-
-https://tracker.nanoha.org:443/announce
-
-https://tracker.logirl.moe:443/announce
-
-https://tracker.lilithraws.org:443/announce
+udp://movies.zsw.ca:6969/announce
 
