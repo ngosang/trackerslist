@@ -6,17 +6,21 @@ https://tracker.lilithraws.org:443/announce
 
 https://tracker.lelux.fi:443/announce
 
-https://tracker.foreverpirates.co:443/announce
-
 https://xtremex.herokuapp.com:443/announce
 
 https://x7x.up.railway.app:443/announce
+
+https://tracker.logirl.moe:443/announce
 
 https://tracker.kuroy.me:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+https://tracker.foreverpirates.co:443/announce
+
 https://track.plop.pm:8989/announce
+
+https://tr.ready4.icu:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
