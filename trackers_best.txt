@@ -16,21 +16,21 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+http://tracker.dler.org:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.0x.tf:6969/announce
-
-udp://movies.zsw.ca:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
+udp://open.demonii.com:1337/announce
 
 udp://explodie.org:6969/announce
 
