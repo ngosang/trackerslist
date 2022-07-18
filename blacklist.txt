@@ -277,3 +277,5 @@ http://proaudiotorrents.org:80/announce.php # registered torrents
 http://tracker.frozen-layer.com:6969/announce # registered torrents
 https://t.btcland.xyz:443/announce # detected as suspicious
 https://tracker.lilithraws.cf:443/announce # duplicate of https://tracker.lilithraws.org:443/announce
+udp://www.torrent.eu.org:451/announce # duplicate of udp://tracker.torrent.eu.org:451/announce
+

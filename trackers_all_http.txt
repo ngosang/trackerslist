@@ -2,17 +2,15 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-http://opentracker.i2p.rocks:6969/announce
-
-http://tracker.dler.org:6969/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.corpscorp.online:80/announce
+http://tracker.lelux.fi:80/announce
+
+http://tracker.dler.org:6969/announce
 
 http://t.nyaatracker.com:80/announce
-
-http://retracker.joxnet.ru:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -34,15 +32,7 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker.nucozer-tracker.ml:2710/announce
-
-http://tracker.noobsubs.net:80/announce
-
-http://tracker.lelux.fi:80/announce
-
 http://tracker.iro.moe:80/announce
-
-http://tracker.gbitt.info:80/announce
 
 http://tracker.files.fm:6969/announce
 
