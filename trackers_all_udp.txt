@@ -1,30 +1,30 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://open.tracker.cl:1337/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker2.dler.org:80/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.0x.tf:6969/announce
-
 udp://open.demonii.com:1337/announce
 
-udp://movies.zsw.ca:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -42,11 +42,11 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://transkaroo.joustasie.net:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.zemoj.com:6969/announce
 
@@ -56,9 +56,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.pomf.se:80/announce
-
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -77,6 +77,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
+
+udp://tracker.0x.tf:6969/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -117,6 +119,8 @@ udp://open.free-tracker.ga:6969/announce
 udp://new-line.net:6969/announce
 
 udp://mts.tvbit.co:6969/announce
+
+udp://movies.zsw.ca:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
@@ -160,8 +164,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt.oiyo.tk:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://black-bird.ynh.fr:6969/announce
@@ -169,8 +171,6 @@ udp://black-bird.ynh.fr:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://astrr.ru:6969/announce
-
-udp://adt.adt-textile.ru:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
 
