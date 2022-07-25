@@ -14,39 +14,33 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.pomf.se:80/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
+udp://tracker.0x.tf:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://movies.zsw.ca:6969/announce
+
 udp://explodie.org:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://bt.oiyo.tk:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -55,6 +49,8 @@ http://t.nyaatracker.com:80/announce
 http://bt.okmp3.ru:2710/announce
 
 udp://zecircle.xyz:6969/announce
+
+udp://yahor.ftp.sh:6969/announce
 
 udp://www.2600.com:6969/announce
 
@@ -76,15 +72,19 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.pomf.se:80/announce
+
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -98,9 +98,9 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.0x.tf:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -142,8 +142,6 @@ udp://new-line.net:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
-udp://movies.zsw.ca:6969/announce
-
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -184,6 +182,8 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://black-bird.ynh.fr:6969/announce
@@ -198,11 +198,7 @@ udp://aarsen.me:6969/announce
 
 udp://960303.xyz:6969/announce
 
-https://xtremex.herokuapp.com:443/announce
-
 https://tracker1.520.jp:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -213,8 +209,6 @@ https://tracker.4.babico.name.tr/announce
 https://track.plop.pm:8989/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -238,11 +232,11 @@ http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.zerobytes.xyz:1337/announce
 
-http://tracker.iro.moe:80/announce
+http://tracker.skyts.net:6969/announce
+
+http://tracker.lelux.fi:80/announce
 
 http://tracker.files.fm:6969/announce
 

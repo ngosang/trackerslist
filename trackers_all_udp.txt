@@ -8,31 +8,27 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.pomf.se:80/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
+udp://tracker.0x.tf:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://explodie.org:6969/announce
+udp://movies.zsw.ca:6969/announce
 
-udp://bt1.archive.org:6969/announce
+udp://explodie.org:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://zecircle.xyz:6969/announce
+
+udp://yahor.ftp.sh:6969/announce
 
 udp://www.2600.com:6969/announce
 
@@ -54,15 +50,19 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.pomf.se:80/announce
+
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -76,9 +76,9 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.4.babico.name.tr:3131/announce
+udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.0x.tf:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tr.cili001.com:8070/announce
 
@@ -120,8 +120,6 @@ udp://new-line.net:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
-udp://movies.zsw.ca:6969/announce
-
 udp://mirror.aptus.co.tz:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
@@ -161,6 +159,8 @@ udp://camera.lei001.com:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
