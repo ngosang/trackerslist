@@ -8,9 +8,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -48,17 +50,11 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.skyts.net:6969/announce
-
-udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.pomf.se:80/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
