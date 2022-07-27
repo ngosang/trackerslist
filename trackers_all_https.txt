@@ -8,9 +8,9 @@ https://tracker1.520.jp:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.foreverpirates.co:443/announce
+https://tracker.gbitt.info:443/announce
 
-https://tracker.4.babico.name.tr/announce
+https://tracker.foreverpirates.co:443/announce
 
 https://track.plop.pm:8989/announce
 
