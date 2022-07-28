@@ -2,49 +2,37 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-http://vps02.net.orel.ru:80/announce
-
-http://tracker3.ctix.cn:8080/announce
-
-http://tracker2.dler.org:80/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.nucozer-tracker.ml:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.files.fm:6969/announce
-
 http://tracker.dler.org:6969/announce
-
-http://t.overflow.biz:6969/announce
-
-http://t.nyaatracker.com:80/announce
-
-http://t.acg.rip:6699/announce
-
-http://open.nyap2p.com:8080/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://bt.okmp3.ru:2710/announce
 
 http://widemus.de:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
+http://vps02.net.orel.ru:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
+http://tracker3.ctix.cn:8080/announce
+
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker.skyts.net:6969/announce
+
+http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://tracker.files.fm:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -56,11 +44,19 @@ http://tr.cili001.com:8070/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
+http://t.overflow.biz:6969/announce
+
+http://t.acg.rip:6699/announce
+
 http://open.tracker.ink:6969/announce
+
+http://open.nyap2p.com:8080/announce
 
 http://open.acgnxtracker.com:80/announce
 
 http://incine.ru:6969/announce
 
 http://fxtt.ru:80/announce
+
+http://1337.abcvg.info:80/announce
 

@@ -1,10 +1,12 @@
 udp://93.158.213.92:1337/announce
 
-udp://151.80.120.113:2810/announce
+udp://151.80.120.115:2810/announce
 
-udp://45.154.253.4:6969/announce
+udp://152.231.114.224:1337/announce
 
-http://45.154.253.4:80/announce
+udp://45.154.253.6:6969/announce
+
+http://45.154.253.6:80/announce
 
 udp://91.216.110.52:451/announce
 
@@ -12,15 +14,15 @@ udp://185.181.60.155:80/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://167.235.245.209:80/announce
+udp://193.42.111.57:9337/announce
 
 udp://5.79.243.195:6969/announce
 
 udp://107.189.11.230:6969/announce
 
-udp://59.125.31.158:6969/announce
+udp://185.70.187.79:6969/announce
 
-udp://185.21.216.185:6969/announce
+udp://185.134.22.3:6969/announce
 
 udp://213.183.61.23:1337/announce
 
@@ -30,9 +32,5 @@ udp://148.251.53.72:6969/announce
 
 udp://184.105.151.166:6969/announce
 
-udp://119.28.71.45:8080/announce
-
 udp://207.241.231.226:6969/announce
-
-udp://35.227.12.84:6969/announce
 
