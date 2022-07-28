@@ -20,5 +20,3 @@ https://tr.abiir.top:443/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
-https://1337.abcvg.info:443/announce
-
