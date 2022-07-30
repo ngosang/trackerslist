@@ -14,9 +14,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -26,15 +28,13 @@ udp://open.demonii.com:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://bt.oiyo.tk:6969/announce
+https://tracker1.520.jp:443/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.nucozer-tracker.ml:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+udp://zecircle.xyz:6969/announce
 

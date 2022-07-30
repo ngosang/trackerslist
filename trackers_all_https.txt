@@ -1,10 +1,10 @@
 https://opentracker.i2p.rocks:443/announce
 
+https://tracker1.520.jp:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-https://tracker1.520.jp:443/announce
 
 https://tracker.kuroy.me:443/announce
 
