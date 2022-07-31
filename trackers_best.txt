@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -16,25 +14,27 @@ udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+http://tracker.dler.org:6969/announce
 
-udp://tracker.pomf.se:80/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.altrosky.nl:6969/announce
+
+udp://tracker.0x.tf:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://fe.dealclub.de:6969/announce
+
 udp://explodie.org:6969/announce
 
-https://tracker1.520.jp:443/announce
+udp://bt1.archive.org:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-http://tracker.mywaifu.best:6969/announce
-
-udp://zecircle.xyz:6969/announce
 
