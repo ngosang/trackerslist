@@ -2,6 +2,8 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
 
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
@@ -25,8 +27,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.gbitt.info:80/announce
 

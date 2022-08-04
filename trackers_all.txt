@@ -18,6 +18,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.pomf.se:80/announce
+
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
@@ -26,9 +28,13 @@ udp://open.demonii.com:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://bt.oiyo.tk:6969/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -65,8 +71,6 @@ udp://tracker.srv00.com:6969/announce
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.pomf.se:80/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -166,8 +170,6 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bt.oiyo.tk:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://black-bird.ynh.fr:6969/announce
@@ -221,8 +223,6 @@ http://tracker1.itzmx.com:8080/announce
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.skyts.net:6969/announce
-
-http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.gbitt.info:80/announce
 
