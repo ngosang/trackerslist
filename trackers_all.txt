@@ -2,23 +2,23 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-https://opentracker.i2p.rocks:443/announce
-
 http://tracker.openbittorrent.com:80/announce
+
+https://opentracker.i2p.rocks:443/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.pomf.se:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -28,11 +28,15 @@ udp://open.demonii.com:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://bt.oiyo.tk:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.nucozer-tracker.ml:2710/announce
 
@@ -40,7 +44,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://bt.okmp3.ru:2710/announce
+udp://zecircle.xyz:6969/announce
 
 udp://yahor.ftp.sh:6969/announce
 
@@ -58,19 +62,17 @@ udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -94,6 +96,8 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://torrentclub.space:6969/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -113,8 +117,6 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -159,8 +161,6 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://concen.org:6969/announce
 
 udp://chouchou.top:8080/announce
-
-udp://chennuo.xyz:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
@@ -220,8 +220,6 @@ http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.skyts.net:6969/announce
 
 http://tracker.gbitt.info:80/announce
@@ -249,6 +247,8 @@ http://incine.ru:6969/announce
 http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 
