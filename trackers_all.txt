@@ -2,6 +2,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
@@ -12,9 +14,9 @@ https://opentracker.i2p.rocks:443/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://open.stealth.si:80/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -22,11 +24,7 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.0x.tf:6969/announce
-
 udp://open.demonii.com:1337/announce
-
-udp://movies.zsw.ca:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -39,8 +37,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.lilithraws.org:443/announce
 
 http://tracker3.ctix.cn:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.nucozer-tracker.ml:2710/announce
 
@@ -74,6 +70,8 @@ udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.tcp.exchange:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
@@ -98,9 +96,11 @@ udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
+udp://tracker.0x.tf:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tr.bangumi.moe:6969/announce
+udp://torrents.artixlinux.org:6969/announce
 
 udp://torrentclub.space:6969/announce
 
@@ -134,6 +134,8 @@ udp://new-line.net:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
+udp://movies.zsw.ca:6969/announce
+
 udp://moonburrow.club:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -161,8 +163,6 @@ udp://davidkirkevans.com:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://concen.org:6969/announce
-
-udp://camera.lei001.com:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -215,6 +215,8 @@ http://tracker3.itzmx.com:6961/announce
 http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.srv00.com:80/announce
 
