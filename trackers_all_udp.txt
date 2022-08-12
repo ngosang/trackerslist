@@ -6,9 +6,11 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -19,8 +21,6 @@ udp://tracker.dler.org:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://explodie.org:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://chouchou.top:8080/announce
 
@@ -51,6 +51,8 @@ udp://tracker.zemoj.com:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
+
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -98,8 +100,6 @@ udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
@@ -139,6 +139,8 @@ udp://epider.me:6969/announce
 udp://davidkirkevans.com:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
+
+udp://concen.org:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
