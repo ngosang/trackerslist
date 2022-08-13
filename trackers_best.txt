@@ -28,6 +28,8 @@ udp://explodie.org:6969/announce
 
 udp://chouchou.top:8080/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt.oiyo.tk:6969/announce
 
 https://tracker.nanoha.org:443/announce
@@ -35,6 +37,4 @@ https://tracker.nanoha.org:443/announce
 https://tracker.lilithraws.org:443/announce
 
 http://tracker3.ctix.cn:8080/announce
-
-http://tracker.nucozer-tracker.ml:2710/announce
 

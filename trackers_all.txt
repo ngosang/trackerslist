@@ -30,6 +30,8 @@ udp://explodie.org:6969/announce
 
 udp://chouchou.top:8080/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt.oiyo.tk:6969/announce
 
 https://tracker.nanoha.org:443/announce
@@ -43,6 +45,8 @@ http://tracker.nucozer-tracker.ml:2710/announce
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -118,6 +122,8 @@ udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
@@ -166,8 +172,6 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://black-bird.ynh.fr:6969/announce
@@ -185,6 +189,8 @@ udp://960303.xyz:6969/announce
 https://xtremex.herokuapp.com:443/announce
 
 https://tracker1.520.jp:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -237,8 +243,6 @@ http://incine.ru:6969/announce
 http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 

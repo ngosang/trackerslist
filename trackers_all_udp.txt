@@ -24,6 +24,8 @@ udp://explodie.org:6969/announce
 
 udp://chouchou.top:8080/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bt.oiyo.tk:6969/announce
 
 udp://zecircle.xyz:6969/announce
@@ -100,6 +102,8 @@ udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
@@ -147,8 +151,6 @@ udp://camera.lei001.com:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 

@@ -10,6 +10,8 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://widemus.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -47,8 +49,6 @@ http://incine.ru:6969/announce
 http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 
