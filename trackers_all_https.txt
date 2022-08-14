@@ -12,8 +12,6 @@ https://tracker.moeblog.cn:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.gbitt.info:443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tr.burnabyhighstar.com:443/announce

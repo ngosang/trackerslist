@@ -16,8 +16,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -28,11 +26,9 @@ udp://open.demonii.com:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://chouchou.top:8080/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -40,13 +36,9 @@ https://tracker.lilithraws.org:443/announce
 
 http://tracker3.ctix.cn:8080/announce
 
-http://tracker.nucozer-tracker.ml:2710/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://bt.okmp3.ru:2710/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -86,8 +78,6 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -99,8 +89,6 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.0x.tf:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr.bangumi.moe:6969/announce
 
@@ -172,6 +160,10 @@ udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://black-bird.ynh.fr:6969/announce
@@ -193,8 +185,6 @@ https://tracker1.520.jp:443/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.gbitt.info:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -220,7 +210,7 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.srv00.com:80/announce
 
-http://tracker.gbitt.info:80/announce
+http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -243,6 +233,8 @@ http://incine.ru:6969/announce
 http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 

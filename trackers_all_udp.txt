@@ -10,8 +10,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -22,11 +20,9 @@ udp://open.demonii.com:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://chouchou.top:8080/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bt.oiyo.tk:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -66,8 +62,6 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -79,8 +73,6 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.0x.tf:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr.bangumi.moe:6969/announce
 
@@ -151,6 +143,10 @@ udp://camera.lei001.com:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
