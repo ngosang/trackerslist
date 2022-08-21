@@ -10,13 +10,13 @@ http://tracker.nucozer-tracker.ml:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.edkj.club:6969/announce
-
 http://tracker.dler.org:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://open.tracker.ink:6969/announce
+
+http://bt.okmp3.ru:2710/announce
+
+http://widemus.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -32,7 +32,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.bt4g.com:2095/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -45,8 +49,6 @@ http://incine.ru:6969/announce
 http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
-
-http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 
