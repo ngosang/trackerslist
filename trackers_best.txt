@@ -28,9 +28,9 @@ udp://tracker.dler.org:6969/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://chouchou.top:8080/announce
+udp://open.demonii.com:1337/announce
 
-udp://bt.oiyo.tk:6969/announce
+udp://chouchou.top:8080/announce
 
 https://tracker.nanoha.org:443/announce
 

@@ -30,9 +30,9 @@ udp://tracker.dler.org:6969/announce
 
 udp://open.tracker.ink:6969/announce
 
-udp://chouchou.top:8080/announce
+udp://open.demonii.com:1337/announce
 
-udp://bt.oiyo.tk:6969/announce
+udp://chouchou.top:8080/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -42,7 +42,11 @@ http://tracker3.ctix.cn:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.nucozer-tracker.ml:2710/announce
+
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -67,8 +71,6 @@ udp://transkaroo.joustasie.net:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -104,6 +106,8 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr.bangumi.moe:6969/announce
+
 udp://torrentclub.space:6969/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -129,8 +133,6 @@ udp://public.publictracker.xyz:6969/announce
 udp://psyco.fr:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://new-line.net:6969/announce
 
@@ -174,7 +176,11 @@ udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://bt.oiyo.tk:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
+
+udp://black-bird.ynh.fr:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
@@ -214,13 +220,9 @@ http://tracker1.itzmx.com:8080/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
-http://tracker.nucozer-tracker.ml:2710/announce
-
 http://tracker.gbitt.info:80/announce
 
 http://tracker.files.fm:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
