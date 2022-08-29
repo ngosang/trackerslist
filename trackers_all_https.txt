@@ -4,9 +4,13 @@ https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.gbitt.info:443/announce
+
+https://1337.abcvg.info:443/announce
+
 https://tracker1.520.jp:443/announce
 
-https://tracker.gbitt.info:443/announce
+https://tracker.jiesen.life:8443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
@@ -15,6 +19,4 @@ https://tracker.expli.top:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://1337.abcvg.info:443/announce
 
