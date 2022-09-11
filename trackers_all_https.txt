@@ -16,6 +16,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
+https://tracker.expli.top:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abir.ga:443/announce
