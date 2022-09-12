@@ -2,33 +2,39 @@ udp://93.158.213.92:1337/announce
 
 http://93.158.213.92:1337/announce
 
-udp://151.80.120.115:2810/announce
+udp://151.80.120.113:2810/announce
 
-udp://45.154.253.6:6969/announce
+udp://45.154.253.8:6969/announce
 
-http://45.154.253.6:80/announce
+udp://89.234.156.205:451/announce
 
-udp://91.216.110.52:451/announce
-
-udp://208.83.20.20:6969/announce
+udp://185.181.60.155:80/announce
 
 udp://107.189.11.230:6969/announce
 
-udp://185.185.40.95:6969/announce
+udp://185.70.187.79:6969/announce
 
 udp://216.146.25.92:1337/announce
 
 udp://184.105.151.166:6969/announce
 
+udp://208.83.20.20:6969/announce
+
 udp://119.28.71.45:8080/announce
 
-http://95.107.48.115:80/announce
+udp://35.227.12.84:6969/announce
+
+http://156.234.201.18:80/announce
+
+http://35.227.12.84:2710/announce
 
 http://95.217.167.10:6969/announce
 
 http://141.144.224.250:6969/announce
 
-http://185.185.40.95:6969/announce
+http://185.70.187.79:6969/announce
+
+http://209.209.112.121:2710/announce
 
 udp://65.21.91.32:6969/announce
 
@@ -40,9 +46,11 @@ udp://74.120.175.165:6969/announce
 
 udp://185.102.219.163:6969/announce
 
-udp://163.172.209.40:80/announce
+udp://167.235.245.209:80/announce
 
 udp://156.234.201.18:80/announce
+
+udp://134.209.1.127:6969/announce
 
 udp://209.141.59.16:6969/announce
 
@@ -61,8 +69,6 @@ udp://135.181.197.114:1337/announce
 udp://158.39.77.211:6969/announce
 
 udp://52.58.128.163:6969/announce
-
-udp://88.80.28.7:6969/announce
 
 udp://178.170.48.154:1337/announce
 
@@ -98,8 +104,6 @@ udp://5.188.6.45:6969/announce
 
 udp://37.187.95.112:6969/announce
 
-udp://171.104.226.25:6969/announce
-
 udp://94.243.222.100:6969/announce
 
 udp://213.108.129.160:6969/announce
@@ -109,6 +113,8 @@ udp://198.100.149.66:6969/announce
 udp://167.99.185.219:6969/announce
 
 udp://41.79.68.156:6969/announce
+
+udp://138.3.249.47:6969/announce
 
 udp://172.105.235.127:6969/announce
 
@@ -134,8 +140,6 @@ udp://207.241.231.226:6969/announce
 
 udp://207.241.226.111:6969/announce
 
-udp://34.94.213.23:6969/announce
-
 udp://195.154.237.90:6666/announce
 
 udp://82.65.115.10:6969/announce
@@ -154,13 +158,13 @@ udp://89.36.216.8:6969/announce
 
 http://185.216.178.49:6969/announce
 
+http://95.107.48.115:80/announce
+
 http://141.144.224.250:2710/announce
 
-http://163.172.209.40:80/announce
+http://141.144.224.250:6961/announce
 
-http://119.28.71.45:8080/announce
-
-http://34.94.213.23:2710/announce
+http://167.235.245.209:80/announce
 
 http://159.69.65.157:6969/announce
 
@@ -175,8 +179,4 @@ http://171.104.226.25:6969/announce
 http://144.76.118.107:6969/announce
 
 http://212.6.3.67:80/announce
-
-http://47.55.181.68:6969/announce
-
-http://209.209.112.121:2710/announce
 
