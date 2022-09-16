@@ -8,15 +8,15 @@ http://tracker.openbittorrent.com:80/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://open.stealth.si:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.pomf.se:80/announce
+udp://tracker.moeking.me:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -24,17 +24,17 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://chouchou.top:8080/announce
+
+udp://bt.oiyo.tk:6969/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
+http://vps02.net.orel.ru:80/announce
+
+http://tracker3.ctix.cn:8080/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://bt.okmp3.ru:2710/announce
-
-udp://zecircle.xyz:6969/announce
-
-udp://yahor.ftp.sh:6969/announce
 
