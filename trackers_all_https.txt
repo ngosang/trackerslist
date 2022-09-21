@@ -12,8 +12,6 @@ https://tracker1.520.jp:443/announce
 
 https://tracker.kuroy.me:443/announce
 
-https://tracker.jiesen.life:8443/announce
-
 https://tracker.foreverpirates.co:443/announce
 
 https://tracker.expli.top:443/announce
