@@ -198,7 +198,6 @@ udp://tracker.tallpenguin.org:15800/announce # duplicate of udp://tracker.fatkho
 udp://tracker-de.ololosh.space:6969/announce # duplicate of udp://tracker.ololosh.space:6969/announce
 udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
 udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
-udp://p4p.arenabg.com:1337/announce # duplicate of udp://p4p.arenabg.ch:1337/announce
 http://openbittorrent.com:80/announce # duplicate of http://tracker.openbittorrent.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce # duplicate of udp://tracker4.itzmx.com:2710/announce
 udp://openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce

@@ -2,9 +2,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
+udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
@@ -14,13 +16,19 @@ udp://open.stealth.si:80/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.swateam.org.uk:2710/announce
+
 udp://tracker.publictracker.xyz:6969/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -28,13 +36,5 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker.0x.tf:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
+udp://tracker.army:6969/announce
 
