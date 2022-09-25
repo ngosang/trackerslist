@@ -54,3 +54,4 @@ http://incine.ru:6969/announce
 
 http://1337.abcvg.info:80/announce
 
+http://wepzone.net:6969/announce
