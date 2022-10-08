@@ -12,19 +12,19 @@ udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -40,7 +40,11 @@ https://tracker.lilithraws.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.edkj.club:6969/announce
 
 http://tracker.dler.org:6969/announce
 
@@ -58,8 +62,6 @@ udp://u4.trakx.crim.ist:1337/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
@@ -72,11 +74,11 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.pomf.se:80/announce
-
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -118,6 +120,8 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
+udp://shizzle.hammetjus.nl:6969/announce
+
 udp://sanincode.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -129,8 +133,6 @@ udp://rep-art.ynh.fr:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 
 udp://qtstm32fan.ru:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -187,6 +189,8 @@ udp://chouchou.top:8080/announce
 udp://carr.codes:6969/announce
 
 udp://camera.lei001.com:6969/announce
+
+udp://buddyfly.top:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -251,8 +255,6 @@ http://tracker3.ctix.cn:8080/announce
 http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.skyts.net:6969/announce
 
