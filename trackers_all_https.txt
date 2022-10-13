@@ -1,5 +1,9 @@
 https://opentracker.i2p.rocks:443/announce
 
+https://tracker2.ctix.cn:443/announce
+
+https://tracker1.520.jp:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -7,10 +11,6 @@ https://tracker.lilithraws.org:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://xtremex.herokuapp.com:443/announce
-
-https://tracker2.ctix.cn:443/announce
-
-https://tracker1.520.jp:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
