@@ -4,21 +4,23 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zemoj.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
@@ -32,8 +34,6 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.army:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -41,8 +41,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -78,9 +76,9 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker.tcp.exchange:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -104,13 +102,19 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
+
+udp://tr.bangumi.moe:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
 udp://torrentclub.space:6969/announce
 
 udp://thouvenin.cloud:6969/announce
+
+udp://theodoric.fr:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
