@@ -14,6 +14,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://1337.abcvg.info:443/announce
+
 https://xtremex.herokuapp.com:443/announce
 
 https://tracker.moeblog.cn:443/announce
@@ -29,6 +31,4 @@ https://tracker.expli.top:443/announce
 https://tr.abir.ga:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://1337.abcvg.info:443/announce
 
