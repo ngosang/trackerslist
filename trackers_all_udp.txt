@@ -2,51 +2,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-udp://tracker2.dler.org:80/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.swateam.org.uk:2710/announce
-
-udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.encrypted-data.xyz:1337/announce
-
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.army:6969/announce
-
-udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tr.cili001.com:8070/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -56,39 +22,45 @@ udp://movies.zsw.ca:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://fe.dealclub.de:6969/announce
-
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
-
-udp://bt2.archive.org:6969/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://admin.videoenpoche.info:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
 udp://yahor.ftp.sh:6969/announce
 
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
 udp://uploads.gamecoast.net:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.tcp.exchange:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.skyts.net:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.openbtba.com:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -98,6 +70,8 @@ udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.encrypted-data.xyz:1337/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -106,15 +80,21 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
+udp://tracker.army:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
-udp://tr.bangumi.moe:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
 udp://torrentclub.space:6969/announce
 
 udp://thouvenin.cloud:6969/announce
+
+udp://theodoric.fr:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -131,6 +111,10 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
 
@@ -150,8 +134,6 @@ udp://mail.zasaonsk.ga:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
 
-udp://madiator.com:6969/announce
-
 udp://leefafa.tk:6969/announce
 
 udp://laze.cc:6969/announce
@@ -163,6 +145,8 @@ udp://keke.re:6969/announce
 udp://htz3.noho.st:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://f1sh.de:6969/announce
 
@@ -182,15 +166,25 @@ udp://camera.lei001.com:6969/announce
 
 udp://buddyfly.top:6969/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
+
 udp://bt.ktrackers.com:6666/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
+udp://admin.videoenpoche.info:6969/announce
+
 udp://admin.52ywp.com:6969/announce
 
 udp://aarsen.me:6969/announce
 
 udp://960303.xyz:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
