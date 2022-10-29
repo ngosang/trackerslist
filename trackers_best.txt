@@ -26,7 +26,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://tracker.pomf.se:80/announce
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -36,5 +36,5 @@ udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
 
-udp://tracker.army:6969/announce
+udp://tracker.dler.org:6969/announce
 
