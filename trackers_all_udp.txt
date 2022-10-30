@@ -2,11 +2,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
-udp://open.stealth.si:80/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://open.stealth.si:80/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
@@ -22,6 +22,8 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
@@ -31,8 +33,6 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.army:6969/announce
 
@@ -46,8 +46,6 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://movies.zsw.ca:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
@@ -57,6 +55,8 @@ udp://fe.dealclub.de:6969/announce
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://chouchou.top:8080/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -90,6 +90,10 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -99,8 +103,6 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
-
-udp://tr.cili001.com:8070/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -134,6 +136,8 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://open.demonii.com:1337/announce
+
 udp://new-line.net:6969/announce
 
 udp://moonburrow.club:6969/announce
@@ -165,8 +169,6 @@ udp://download.nerocloud.me:6969/announce
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://concen.org:6969/announce
-
-udp://chouchou.top:8080/announce
 
 udp://carr.codes:6969/announce
 
