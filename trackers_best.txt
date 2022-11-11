@@ -1,24 +1,22 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://9.rarbg.com:2810/announce
+udp://open.tracker.cl:1337/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://9.rarbg.com:2810/announce
+
 https://opentracker.i2p.rocks:443/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 http://tracker.openbittorrent.com:80/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -37,4 +35,6 @@ https://tracker.nanoha.org:443/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.cyber-hub.net:443/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
