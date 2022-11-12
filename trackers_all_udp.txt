@@ -1,6 +1,8 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.tracker.cl:1337/announce
+udp://9.rarbg.com:2810/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -8,11 +10,9 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://9.rarbg.com:2810/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -50,11 +50,17 @@ udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.publictracker.xyz:6969/announce
+
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.openbtba.com:6969/announce
 
+udp://tracker.novaopcj.eu.org:6969/announce
+
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -65,8 +71,6 @@ udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -84,6 +88,10 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr.cili001.com:8070/announce
+
+udp://tr.bangumi.moe:6969/announce
+
 udp://torrents.artixlinux.org:6969/announce
 
 udp://torrentclub.space:6969/announce
@@ -97,6 +105,8 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://slicie.icon256.com:8000/announce
 
 udp://sanincode.com:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
