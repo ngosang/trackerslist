@@ -2,21 +2,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://opentracker.i2p.rocks:6969/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -68,9 +64,9 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.encrypted-data.xyz:1337/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -98,6 +94,8 @@ udp://torrentclub.space:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
+udp://theodoric.fr:6969/announce
+
 udp://tamas3.ynh.fr:6969/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
@@ -124,7 +122,7 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://new-line.net:6969/announce
+udp://open.demonii.com:1337/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -179,8 +177,6 @@ udp://admin.videoenpoche.info:6969/announce
 udp://admin.52ywp.com:6969/announce
 
 udp://aarsen.me:6969/announce
-
-udp://960303.xyz:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
