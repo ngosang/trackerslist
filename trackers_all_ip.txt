@@ -2,17 +2,17 @@ udp://93.158.213.92:1337/announce
 
 http://93.158.213.92:1337/announce
 
-udp://151.80.120.114:2810/announce
-
-udp://186.10.172.145:1337/announce
-
-udp://45.154.253.9:6969/announce
+udp://151.80.120.115:2810/announce
 
 udp://23.137.251.45:6969/announce
 
+udp://91.216.110.53:451/announce
+
+udp://185.230.4.150:1337/announce
+
 udp://185.181.60.155:80/announce
 
-udp://91.216.110.52:451/announce
+udp://156.234.201.18:80/announce
 
 udp://176.56.6.162:6969/announce
 
@@ -20,9 +20,7 @@ udp://13.115.115.32:6969/announce
 
 udp://107.189.11.230:6969/announce
 
-udp://211.75.29.227:6969/announce
-
-udp://185.230.4.150:1337/announce
+udp://220.130.15.27:6969/announce
 
 udp://185.107.82.74:1337/announce
 
@@ -42,7 +40,7 @@ http://13.115.115.32:6969/announce
 
 http://95.217.167.10:6969/announce
 
-http://211.75.29.227:6969/announce
+http://220.130.15.27:6969/announce
 
 udp://65.21.91.32:6969/announce
 
@@ -56,13 +54,9 @@ udp://167.235.245.209:80/announce
 
 udp://193.42.111.57:9337/announce
 
-udp://156.234.201.18:80/announce
-
 udp://209.141.59.16:6969/announce
 
 udp://66.94.100.216:6969/announce
-
-udp://45.92.156.182:2710/announce
 
 udp://84.252.75.21:6969/announce
 
@@ -79,6 +73,8 @@ udp://135.181.197.114:1337/announce
 udp://113.196.95.160:6969/announce
 
 udp://158.39.77.211:6969/announce
+
+udp://52.58.128.163:6969/announce
 
 udp://151.115.49.115:1337/announce
 
@@ -120,11 +116,11 @@ udp://95.31.11.224:6969/announce
 
 udp://193.37.214.12:6969/announce
 
-udp://147.78.1.138:6969/announce
-
 udp://135.125.106.92:6969/announce
 
 udp://185.106.94.80:6969/announce
+
+udp://51.15.41.46:6969/announce
 
 udp://5.188.6.45:6969/announce
 
@@ -147,6 +143,8 @@ udp://144.91.88.22:6969/announce
 udp://192.81.211.104:6969/announce
 
 udp://172.105.235.127:6969/announce
+
+udp://101.43.174.230:6969/announce
 
 udp://95.216.74.39:6969/announce
 
@@ -176,6 +174,10 @@ udp://51.159.54.68:6666/announce
 
 udp://82.65.115.10:6969/announce
 
+udp://46.138.242.240:6969/announce
+
+udp://212.83.181.109:6969/announce
+
 udp://61.190.182.107:6969/announce
 
 udp://51.15.79.209:6969/announce
@@ -186,13 +188,13 @@ http://83.6.231.40:6969/announce
 
 http://95.107.48.115:80/announce
 
-http://45.32.164.67:2710/announce
+http://45.63.104.68:2710/announce
 
-http://45.32.164.67:6961/announce
+http://45.63.104.68:6961/announce
 
 http://167.235.245.209:80/announce
 
-http://45.32.164.67:8080/announce
+http://45.63.104.68:8080/announce
 
 http://151.115.49.115:1337/announce
 
@@ -213,6 +215,8 @@ http://88.99.189.199:6969/announce
 http://144.76.118.107:6969/announce
 
 http://212.6.3.67:80/announce
+
+http://47.54.245.23:6969/announce
 
 http://209.209.112.121:2710/announce
 
