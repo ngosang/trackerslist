@@ -4,15 +4,15 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-http://tracker.openbittorrent.com:80/announce
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://p4p.arenabg.com:1337/announce
+http://tracker.openbittorrent.com:80/announce
 
 udp://open.stealth.si:80/announce
 
@@ -20,11 +20,13 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.novaopcj.eu.org:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -36,9 +38,7 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://bt2.archive.org:6969/announce
-
-udp://bt1.archive.org:6969/announce
+https://tracker2.ctix.cn:443/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -51,8 +51,6 @@ https://tracker.cyber-hub.net:443/announce
 https://tr.burnabyhighstar.com:443/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.novaopcj.eu.org:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -71,6 +69,8 @@ udp://tracker2.dler.org:80/announce
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -97,8 +97,6 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.ddunlimited.net:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -133,6 +131,8 @@ udp://slicie.icon256.com:8000/announce
 udp://sanincode.com:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+udp://run-2.publictracker.xyz:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
@@ -184,9 +184,11 @@ udp://chouchou.top:8080/announce
 
 udp://carr.codes:6969/announce
 
-udp://camera.lei001.com:6969/announce
-
 udp://buddyfly.top:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -203,8 +205,6 @@ udp://aarsen.me:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://xtremex.herokuapp.com:443/announce
-
-https://tracker2.ctix.cn:443/announce
 
 https://tracker1.520.jp:443/announce
 
@@ -239,6 +239,8 @@ http://tracker2.dler.org:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.zerobytes.xyz:1337/announce
+
+http://tracker.novaopcj.eu.org:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
