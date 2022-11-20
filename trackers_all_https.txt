@@ -18,8 +18,6 @@ https://tracker1.520.jp:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://tracker.gbitt.info:443/announce
