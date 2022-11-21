@@ -8,8 +8,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://www.peckservers.com:9000/announce
 
-http://wepzone.net:6969/announce
-
 http://vps02.net.orel.ru:80/announce
 
 http://tracker3.itzmx.com:6961/announce
