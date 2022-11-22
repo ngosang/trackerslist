@@ -2,6 +2,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -40,8 +42,6 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.zemoj.com:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
@@ -65,10 +65,6 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
-
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -121,8 +117,6 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
 
 udp://open.dstud.io:6969/announce
 

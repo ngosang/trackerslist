@@ -1,6 +1,8 @@
 udp://93.158.213.92:1337/announce
 
-udp://151.80.120.115:2810/announce
+udp://151.80.120.112:2810/announce
+
+udp://45.154.253.6:6969/announce
 
 udp://23.137.251.45:6969/announce
 
