@@ -4,8 +4,6 @@ udp://open.tracker.cl:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -15,6 +13,8 @@ udp://open.stealth.si:80/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -44,6 +44,8 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker.zemoj.com:6969/announce
+
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
@@ -67,8 +69,6 @@ udp://tracker.joybomb.tw:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -114,11 +114,11 @@ udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
-
-udp://open.tracker.ink:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
