@@ -6,21 +6,23 @@ udp://open.tracker.cl:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-http://tracker.openbittorrent.com:80/announce
+udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
+http://tracker.openbittorrent.com:80/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-udp://open.stealth.si:80/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tr.cili001.com:8070/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -44,11 +46,13 @@ https://tracker.cyber-hub.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://bt.okmp3.ru:2710/announce
+http://tr.cili001.com:8070/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -61,8 +65,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -83,6 +85,8 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -107,8 +111,6 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
@@ -142,7 +144,7 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
+udp://open.tracker.ink:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -232,8 +234,6 @@ http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.skyts.net:6969/announce
@@ -250,13 +250,13 @@ http://tracker.edkj.club:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tr.cili001.com:8070/announce
-
 http://t.overflow.biz:6969/announce
 
 http://t.acg.rip:6699/announce
 
 http://parag.rs:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
@@ -265,6 +265,8 @@ http://incine.ru:6969/announce
 http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 
