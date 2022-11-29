@@ -2,21 +2,23 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.tracker.cl:1337/announce
 
+udp://9.rarbg.com:2810/announce
+
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tr.cili001.com:8070/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
-
-udp://open.stealth.si:80/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -28,7 +30,7 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://zecircle.xyz:6969/announce
+udp://www.peckservers.com:9000/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
@@ -43,6 +45,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.zemoj.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -59,8 +63,6 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -86,6 +88,8 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tr.bangumi.moe:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -102,8 +106,6 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
-udp://sanincode.com:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
@@ -111,6 +113,8 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
