@@ -2,11 +2,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-http://tracker.novaopcj.eu.org:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 http://www.peckservers.com:9000/announce
 
@@ -28,6 +30,8 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.novaopcj.eu.org:6969/announce
+
 http://tracker.gbitt.info:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -35,8 +39,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.encrypted-data.xyz:1337/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tr.cili001.com:8070/announce
 
 http://t.overflow.biz:6969/announce
 

@@ -1,28 +1,30 @@
-udp://tracker.opentrackr.org:1337/announce
-
 http://tracker.opentrackr.org:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
 
 udp://open.tracker.cl:1337/announce
 
-udp://9.rarbg.com:2810/announce
-
-udp://tracker.openbittorrent.com:6969/announce
+http://tracker.openbittorrent.com:80/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-http://tracker.openbittorrent.com:80/announce
+https://opentracker.i2p.rocks:443/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
-https://opentracker.i2p.rocks:443/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
+
+udp://tr.cili001.com:8070/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -32,9 +34,13 @@ udp://movies.zsw.ca:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
+udp://fe.dealclub.de:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -44,11 +50,13 @@ https://tracker.cyber-hub.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-http://tracker.novaopcj.eu.org:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tr.cili001.com:8070/announce
 
 udp://www.peckservers.com:9000/announce
 
@@ -72,8 +80,6 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
 
-udp://tracker.swateam.org.uk:2710/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
@@ -90,6 +96,8 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.ddunlimited.net:6969/announce
@@ -102,13 +110,9 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.army:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
@@ -164,8 +168,6 @@ udp://htz3.noho.st:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://fe.dealclub.de:6969/announce
-
 udp://f1sh.de:6969/announce
 
 udp://epider.me:6969/announce
@@ -184,13 +186,9 @@ udp://camera.lei001.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://black-bird.ynh.fr:6969/announce
-
-udp://astrr.ru:6969/announce
 
 udp://admin.videoenpoche.info:6969/announce
 
@@ -207,6 +205,8 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 https://tr.abiir.top:443/announce
 
@@ -232,6 +232,8 @@ http://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.novaopcj.eu.org:6969/announce
+
 http://tracker.gbitt.info:80/announce
 
 http://tracker.files.fm:6969/announce
@@ -239,8 +241,6 @@ http://tracker.files.fm:6969/announce
 http://tracker.encrypted-data.xyz:1337/announce
 
 http://tracker.bt4g.com:2095/announce
-
-http://tr.cili001.com:8070/announce
 
 http://t.overflow.biz:6969/announce
 
