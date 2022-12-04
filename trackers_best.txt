@@ -12,17 +12,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://open.stealth.si:80/announce
-
-udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
-udp://tr.cili001.com:8070/announce
-
 udp://p4p.arenabg.com:1337/announce
+
+udp://open.stealth.si:80/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -37,4 +33,8 @@ udp://exodus.desync.com:6969/announce
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.cyber-hub.net:443/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
