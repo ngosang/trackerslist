@@ -6,13 +6,17 @@ udp://9.rarbg.com:2810/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://tracker.zerobytes.xyz:1337/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.pomf.se:80/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -27,8 +31,6 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://www.peckservers.com:9000/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
@@ -54,11 +56,11 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.pomf.se:80/announce
-
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -68,7 +70,7 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
-udp://tracker.encrypted-data.xyz:1337/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -87,8 +89,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr.cili001.com:8070/announce
-
-udp://tr.bangumi.moe:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -117,6 +117,8 @@ udp://public.tracker.vraphim.com:6969/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
+
+udp://open.tracker.ink:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
