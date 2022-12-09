@@ -12,27 +12,31 @@ https://opentracker.i2p.rocks:443/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.openbittorrent.com:6969/announce
+
+udp://open.stealth.si:80/announce
+
+udp://tracker1.myporn.club:9337/announce
+
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.pomf.se:80/announce
+
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
-udp://open.stealth.si:80/announce
+udp://open.tracker.ink:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-udp://fe.dealclub.de:6969/announce
-
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -42,11 +46,15 @@ https://tracker.cyber-hub.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-http://tracker.openbittorrent.com:80/announce
+http://vps02.net.orel.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://t.overflow.biz:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
@@ -57,8 +65,6 @@ udp://v2.iperson.xyz:6969/announce
 udp://uploads.gamecoast.net:6969/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -72,13 +78,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.pomf.se:80/announce
-
 udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -87,6 +89,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
+
+udp://tracker.encrypted-data.xyz:1337/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -97,6 +101,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.army:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
@@ -134,8 +140,6 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://psyco.fr:6969/announce
 
-udp://open.tracker.ink:6969/announce
-
 udp://open.free-tracker.ga:6969/announce
 
 udp://open.dstud.io:6969/announce
@@ -160,6 +164,8 @@ udp://htz3.noho.st:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://fe.dealclub.de:6969/announce
+
 udp://f1sh.de:6969/announce
 
 udp://epider.me:6969/announce
@@ -177,6 +183,8 @@ udp://carr.codes:6969/announce
 udp://camera.lei001.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -210,11 +218,7 @@ http://www.peckservers.com:9000/announce
 
 http://wepzone.net:6969/announce
 
-http://vps02.net.orel.ru:80/announce
-
 http://tracker3.ctix.cn:8080/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 http://tracker2.dler.org:80/announce
 
@@ -232,17 +236,15 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.encrypted-data.xyz:1337/announce
 
+http://tracker.edkj.club:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://tr.cili001.com:8070/announce
 
-http://t.overflow.biz:6969/announce
-
 http://t.acg.rip:6699/announce
 
 http://parag.rs:6969/announce
-
-http://open.tracker.ink:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
