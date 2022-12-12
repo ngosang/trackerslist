@@ -2,23 +2,27 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.tracker.cl:1337/announce
 
+udp://9.rarbg.com:2810/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
-udp://open.stealth.si:80/announce
-
-udp://9.rarbg.com:2810/announce
-
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://p4p.arenabg.com:1337/announce
+
+udp://open.stealth.si:80/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -27,6 +31,8 @@ udp://ipv4.tracker.harry.lu:80/announce
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://zecircle.xyz:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
@@ -51,8 +57,6 @@ udp://tracker.swateam.org.uk:2710/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.pomf.se:80/announce
 
 udp://tracker.openbtba.com:6969/announce
 
@@ -107,8 +111,6 @@ udp://run-2.publictracker.xyz:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
