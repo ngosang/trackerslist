@@ -1,2 +1,6 @@
+wss://tracker.files.fm:7073/announce
+
 wss://tracker.btorrent.xyz
+
+ws://tracker.files.fm:7072/announce
 

@@ -2,31 +2,43 @@ udp://93.158.213.92:1337/announce
 
 http://93.158.213.92:1337/announce
 
+udp://151.80.120.115:2810/announce
+
 udp://23.137.251.45:6969/announce
-
-udp://185.181.60.155:80/announce
-
-udp://91.216.110.52:451/announce
 
 udp://176.56.6.162:6969/announce
 
-udp://65.108.63.133:80/announce
-
 udp://107.189.11.230:6969/announce
 
+udp://185.70.187.79:6969/announce
+
+udp://51.15.41.46:6969/announce
+
 udp://185.230.4.150:1337/announce
+
+udp://185.181.60.155:80/announce
 
 udp://185.107.82.74:1337/announce
 
 udp://198.100.149.66:6969/announce
 
+udp://149.202.88.193:80/announce
+
 udp://184.105.151.166:6969/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://151.80.120.114:2810/announce
+http://95.107.48.115:80/announce
 
 http://95.217.167.10:6969/announce
+
+http://159.69.65.157:6969/announce
+
+http://185.70.187.79:6969/announce
+
+http://201.42.214.55:6969/announce
+
+http://47.54.245.23:6969/announce
 
 udp://65.21.91.32:6969/announce
 
@@ -52,7 +64,11 @@ udp://45.92.156.182:2710/announce
 
 udp://84.252.75.21:6969/announce
 
+udp://171.104.110.88:6969/announce
+
 udp://194.53.137.231:6969/announce
+
+udp://65.108.63.133:80/announce
 
 udp://43.154.2.254:6969/announce
 
@@ -65,8 +81,6 @@ udp://135.181.197.114:1337/announce
 udp://113.196.95.160:6969/announce
 
 udp://158.39.74.31:6969/announce
-
-udp://61.222.178.254:6969/announce
 
 udp://88.80.28.7:6969/announce
 
@@ -106,9 +120,9 @@ udp://135.125.106.92:6969/announce
 
 udp://185.106.94.80:6969/announce
 
-udp://37.187.95.112:6969/announce
+udp://5.188.6.45:6969/announce
 
-udp://171.104.110.88:6969/announce
+udp://37.187.95.112:6969/announce
 
 udp://176.123.1.180:6969/announce
 
@@ -129,8 +143,6 @@ udp://192.81.211.104:6969/announce
 udp://172.105.235.127:6969/announce
 
 udp://101.43.174.230:6969/announce
-
-udp://149.202.88.193:80/announce
 
 udp://95.216.74.39:6969/announce
 
@@ -170,31 +182,23 @@ udp://51.15.79.209:6969/announce
 
 http://97.117.105.168:9000/announce
 
-http://83.6.223.8:6969/announce
-
-http://95.107.48.115:80/announce
+http://83.6.234.75:6969/announce
 
 http://167.235.245.209:80/announce
 
 http://156.234.201.18:80/announce
 
-http://95.217.161.135:80/announce
+http://171.104.110.88:6969/announce
 
-http://159.69.65.157:6969/announce
+http://95.217.161.135:80/announce
 
 http://47.243.23.189:6969/announce
 
-http://61.222.178.254:6969/announce
-
 http://180.97.219.76:8070/announce
-
-http://201.42.214.55:6969/announce
 
 http://51.81.200.170:6699/announce
 
 http://88.99.189.199:6969/announce
-
-http://171.104.110.88:6969/announce
 
 http://212.6.3.67:80/announce
 
