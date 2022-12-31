@@ -2,19 +2,21 @@ udp://93.158.213.92:1337/announce
 
 http://93.158.213.92:1337/announce
 
+udp://151.80.120.115:2810/announce
+
 udp://23.137.251.45:6969/announce
 
-udp://91.216.110.53:451/announce
-
-udp://45.154.253.10:6969/announce
-
-udp://193.42.111.57:9337/announce
-
 udp://156.234.201.18:80/announce
+
+udp://91.216.110.53:451/announce
 
 udp://65.108.63.133:80/announce
 
 udp://107.189.11.230:6969/announce
+
+udp://185.70.187.79:6969/announce
+
+udp://180.97.219.76:8070/announce
 
 udp://185.230.4.150:1337/announce
 
@@ -30,13 +32,11 @@ udp://184.105.151.166:6969/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://151.80.120.112:2810/announce
-
-http://156.234.201.18:80/announce
+udp://207.241.231.226:6969/announce
 
 http://95.217.167.10:6969/announce
 
-http://220.130.15.30:6969/announce
+http://180.97.219.76:8070/announce
 
 http://209.209.112.121:2710/announce
 
@@ -49,6 +49,8 @@ udp://74.120.175.165:6969/announce
 udp://185.102.219.163:6969/announce
 
 udp://211.22.29.93:80/announce
+
+udp://193.42.111.57:9337/announce
 
 udp://209.141.59.16:6969/announce
 
@@ -72,8 +74,6 @@ udp://113.196.95.160:6969/announce
 
 udp://158.39.74.31:6969/announce
 
-udp://220.130.15.30:6969/announce
-
 udp://88.80.28.7:6969/announce
 
 udp://178.170.48.154:1337/announce
@@ -88,7 +88,7 @@ udp://158.101.161.60:3131/announce
 
 udp://109.201.134.183:80/announce
 
-udp://180.97.219.76:8070/announce
+udp://51.15.3.74:6969/announce
 
 udp://209.126.11.233:6969/announce
 
@@ -109,8 +109,6 @@ udp://193.37.214.12:6969/announce
 udp://135.125.106.92:6969/announce
 
 udp://185.106.94.80:6969/announce
-
-udp://5.188.6.45:6969/announce
 
 udp://37.187.95.112:6969/announce
 
@@ -152,8 +150,6 @@ udp://104.131.98.232:6969/announce
 
 udp://61.164.110.198:6969/announce
 
-udp://207.241.231.226:6969/announce
-
 udp://207.241.226.111:6969/announce
 
 udp://51.159.54.68:6666/announce
@@ -182,7 +178,7 @@ http://159.69.65.157:6969/announce
 
 http://47.243.23.189:6969/announce
 
-http://180.97.219.76:8070/announce
+http://185.70.187.79:6969/announce
 
 http://51.81.200.170:6699/announce
 
