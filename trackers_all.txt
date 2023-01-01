@@ -2,27 +2,23 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://9.rarbg.com:2810/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-http://tracker.openbittorrent.com:80/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
-
-udp://tr.cili001.com:8070/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -38,7 +34,7 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://bt2.archive.org:6969/announce
+udp://9.rarbg.com:2810/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -50,11 +46,7 @@ http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.bt4g.com:2095/announce
-
-http://tr.cili001.com:8070/announce
-
-http://bt.okmp3.ru:2710/announce
+http://tracker.dler.org:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -66,11 +58,11 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
+
+udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -90,6 +82,8 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -104,6 +98,8 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr.cili001.com:8070/announce
+
 udp://tr.bangumi.moe:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
@@ -111,6 +107,8 @@ udp://torrents.artixlinux.org:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://thouvenin.cloud:6969/announce
+
+udp://theodoric.fr:6969/announce
 
 udp://themaninashed.com:6969/announce
 
@@ -172,6 +170,8 @@ udp://carr.codes:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
+udp://bt2.archive.org:6969/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
@@ -206,8 +206,6 @@ http://tracker3.ctix.cn:8080/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
@@ -216,17 +214,21 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.bt4g.com:2095/announce
+
+http://tr.cili001.com:8070/announce
 
 http://t.acg.rip:6699/announce
 
-http://open.tracker.ink:6969/announce
-
 http://open.acgnxtracker.com:80/announce
+
+http://incine.ru:6969/announce
 
 http://fxtt.ru:80/announce
 
 http://fosstorrents.com:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://1337.abcvg.info:80/announce
 
