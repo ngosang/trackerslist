@@ -1,26 +1,20 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.tracker.cl:1337/announce
-
-udp://opentracker.i2p.rocks:6969/announce
+udp://9.rarbg.com:2810/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
-udp://tracker.altrosky.nl:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://open.stealth.si:80/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://fe.dealclub.de:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -90,6 +84,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
+udp://tracker.altrosky.nl:6969/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -112,8 +108,6 @@ udp://thagoat.rocks:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://stargrave.org:6969/announce
-
 udp://slicie.icon256.com:8000/announce
 
 udp://sanincode.com:6969/announce
@@ -123,6 +117,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://rep-art.ynh.fr:6969/announce
 
 udp://qtstm32fan.ru:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -163,6 +159,8 @@ udp://freedom.1776.ga:6969/announce
 udp://free.publictracker.xyz:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://epider.me:6969/announce
 
