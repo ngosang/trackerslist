@@ -4,17 +4,19 @@ udp://9.rarbg.com:2810/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tr.cili001.com:8070/announce
 
 udp://p4p.arenabg.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -28,6 +30,8 @@ udp://wepzone.net:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+udp://v2.iperson.xyz:6969/announce
+
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
@@ -35,10 +39,6 @@ udp://uploads.gamecoast.net:6969/announce
 udp://trackerb.jonaslsa.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
-
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -70,6 +70,10 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -83,6 +87,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://tr.cili001.com:8070/announce
 
 udp://tr.bangumi.moe:6969/announce
 
@@ -144,8 +150,6 @@ udp://laze.cc:6969/announce
 
 udp://kokodayo.site:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://htz3.noho.st:6969/announce
 
 udp://freedom.1776.ga:6969/announce
@@ -167,6 +171,8 @@ udp://cutscloud.duckdns.org:6969/announce
 udp://creative.7o7.cx:6969/announce
 
 udp://concen.org:6969/announce
+
+udp://chouchou.top:8080/announce
 
 udp://carr.codes:6969/announce
 
