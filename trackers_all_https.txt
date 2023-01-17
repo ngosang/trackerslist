@@ -1,10 +1,10 @@
+https://opentracker.i2p.rocks:443/announce
+
 https://tracker.nanoha.org:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
-
-https://opentracker.i2p.rocks:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -23,4 +23,6 @@ https://tracker.foreverpirates.co:443/announce
 https://tracker.expli.top:443/announce
 
 https://t1.hloli.org:443/announce
+
+https://1337.abcvg.info:443/announce
 
