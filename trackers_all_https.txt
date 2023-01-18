@@ -24,5 +24,3 @@ https://tracker.expli.top:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://1337.abcvg.info:443/announce
-
