@@ -2,21 +2,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.com:2810/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.moeking.me:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -62,6 +58,8 @@ udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.moeking.me:6969/announce
+
 udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -69,6 +67,8 @@ udp://tracker.leech.ie:1337/announce
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -78,8 +78,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
-udp://tracker.army:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
@@ -87,6 +85,8 @@ udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr.cili001.com:8070/announce
+
+udp://tr.bangumi.moe:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
@@ -144,9 +144,9 @@ udp://mail.artixlinux.org:6969/announce
 
 udp://laze.cc:6969/announce
 
-udp://htz3.noho.st:6969/announce
+udp://ipv4.tracker.harry.lu:80/announce
 
-udp://freedom.1776.ga:6969/announce
+udp://htz3.noho.st:6969/announce
 
 udp://free.publictracker.xyz:6969/announce
 
