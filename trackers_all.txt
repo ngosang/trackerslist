@@ -30,11 +30,7 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.dler.org:6969/announce
-
-http://bt.okmp3.ru:2710/announce
 
 udp://zecircle.xyz:6969/announce
 
@@ -64,6 +60,8 @@ udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -77,8 +75,6 @@ udp://tracker.openbtba.com:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -113,8 +109,6 @@ udp://themaninashed.com:6969/announce
 udp://thagoat.rocks:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://stargrave.org:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
@@ -224,8 +218,6 @@ https://tracker.expli.top:443/announce
 
 https://t1.hloli.org:443/announce
 
-http://www.peckservers.com:9000/announce
-
 http://wepzone.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -234,11 +226,11 @@ http://tracker3.ctix.cn:8080/announce
 
 http://tracker2.dler.org:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.qu.ax:6969/announce
-
-http://tracker.lelux.fi:80/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -259,4 +251,8 @@ http://open.tracker.ink:6969/announce
 http://open.acgnxtracker.com:80/announce
 
 http://incine.ru:6969/announce
+
+http://fosstorrents.com:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 

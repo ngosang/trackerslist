@@ -28,13 +28,13 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
-http://bt.okmp3.ru:2710/announce
-
 udp://zecircle.xyz:6969/announce
 
 udp://www.peckservers.com:9000/announce
 
 udp://wepzone.net:6969/announce
+
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://v2.iperson.xyz:6969/announce
 

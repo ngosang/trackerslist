@@ -48,6 +48,8 @@ udp://tracker.tcp.exchange:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.skyts.net:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -61,8 +63,6 @@ udp://tracker.openbtba.com:6969/announce
 udp://tracker.monitorit4.me:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
@@ -97,8 +97,6 @@ udp://themaninashed.com:6969/announce
 udp://thagoat.rocks:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://stargrave.org:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
