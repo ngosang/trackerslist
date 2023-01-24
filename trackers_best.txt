@@ -4,7 +4,11 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://public.tracker.vraphim.com:6969/announce
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -26,15 +30,11 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-http://vps02.net.orel.ru:80/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.files.fm:6969/announce
-
-http://tracker.dler.org:6969/announce
-
-http://fosstorrents.com:6969/announce
-
 udp://zecircle.xyz:6969/announce
+
+udp://www.peckservers.com:9000/announce
 
