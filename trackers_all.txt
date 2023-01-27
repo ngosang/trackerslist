@@ -254,8 +254,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://t.acg.rip:6699/announce
 
-http://p2p.0g.cx:6969/announce
-
 http://open.tracker.ink:6969/announce
 
 http://open.acgnxtracker.com:80/announce
