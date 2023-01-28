@@ -10,11 +10,15 @@ udp://open.stealth.si:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tr.cili001.com:8070/announce
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -60,17 +64,11 @@ udp://tracker.openbtba.com:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
-
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
@@ -98,8 +96,6 @@ udp://thagoat.rocks:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://stargrave.org:6969/announce
-
 udp://slicie.icon256.com:8000/announce
 
 udp://sanincode.com:6969/announce
@@ -113,8 +109,6 @@ udp://rep-art.ynh.fr:6969/announce
 udp://qtstm32fan.ru:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
-
-udp://public.publictracker.xyz:6969/announce
 
 udp://public-tracker.ml:6969/announce
 
@@ -141,8 +135,6 @@ udp://mail.zasaonsk.ga:6969/announce
 udp://mail.artixlinux.org:6969/announce
 
 udp://laze.cc:6969/announce
-
-udp://ipv4.tracker.harry.lu:80/announce
 
 udp://htz3.noho.st:6969/announce
 

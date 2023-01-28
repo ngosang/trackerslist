@@ -2,6 +2,7 @@ https://tr.highstar.shop:443/announce # detected by antivirus software
 http://btracker.top:11451/announce # detected by antivirus software
 https://tr.fuckbitcoin.xyz:443/announce # detected by antivirus software
 https://tracker.jiesen.life:8443/announce # detected by antivirus software
+http://p2p.0g.cx:6969/announce # detected by antivirus software
 http://bt-club.ws/announce # error
 http://open.touki.ru/announce.php # malfunction
 udp://anidex.moe:6969/announce # malfunction
