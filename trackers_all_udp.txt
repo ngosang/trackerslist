@@ -4,11 +4,9 @@ udp://9.rarbg.com:2810/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://www.peckservers.com:9000/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -25,6 +23,8 @@ udp://explodie.org:6969/announce
 udp://exodus.desync.com:6969/announce
 
 udp://zecircle.xyz:6969/announce
+
+udp://www.peckservers.com:9000/announce
 
 udp://wepzone.net:6969/announce
 
@@ -84,8 +84,6 @@ udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tr.bangumi.moe:6969/announce
-
 udp://torrents.artixlinux.org:6969/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -105,8 +103,6 @@ udp://run.publictracker.xyz:6969/announce
 udp://run-2.publictracker.xyz:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
-
-udp://qtstm32fan.ru:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
