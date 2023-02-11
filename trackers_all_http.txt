@@ -34,3 +34,4 @@ http://fosstorrents.com:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
+http://tracker.trackerfix.com:80/announce
