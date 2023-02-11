@@ -174,3 +174,6 @@ udp://aarsen.me:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+udp://9.rarbg.me:2860/announce
+
+udp://9.rarbg.to:28710/announce
