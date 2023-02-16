@@ -4,8 +4,6 @@ http://tracker.openbittorrent.com:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://wepzone.net:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -21,6 +19,8 @@ http://tracker.qu.ax:6969/announce
 http://tracker.gbitt.info:80/announce
 
 http://tracker.edkj.club:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 

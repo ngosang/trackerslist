@@ -22,5 +22,5 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
-https://t1.hloli.org:443/announce
+https://tracker.expli.top:443/announce
 
