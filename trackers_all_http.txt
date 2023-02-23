@@ -4,8 +4,6 @@ http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -23,6 +21,8 @@ http://open.acgnxtracker.com:80/announce
 http://bt.okmp3.ru:2710/announce
 
 http://tracker3.ctix.cn:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker.qu.ax:6969/announce
 
