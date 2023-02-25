@@ -16,6 +16,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.mlsub.net:443/announce
 
 https://tracker.kuroy.me:443/announce
