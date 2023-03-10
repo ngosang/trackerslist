@@ -2,23 +2,21 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 udp://9.rarbg.com:2810/announce
 
-http://tracker.openbittorrent.com:80/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-udp://www.peckservers.com:9000/announce
+http://tracker.openbittorrent.com:80/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -27,8 +25,6 @@ udp://tracker.theoks.net:6969/announce
 udp://tracker.swateam.org.uk:2710/announce
 
 udp://tracker.skynetcloud.site:6969/announce
-
-udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
@@ -106,11 +102,11 @@ http://tracker.bt4g.com:2095/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://fosstorrents.com:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 udp://zecircle.xyz:6969/announce
+
+udp://www.peckservers.com:9000/announce
 
 udp://wepzone.net:6969/announce
 
@@ -127,6 +123,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
 
@@ -208,6 +206,8 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://epider.me:6969/announce
 
+udp://download.nerocloud.me:6969/announce
+
 udp://cutscloud.duckdns.org:6969/announce
 
 udp://concen.org:6969/announce
@@ -269,6 +269,8 @@ http://open.tracker.ink:6969/announce
 http://montreal.nyap2p.com:8080/announce
 
 http://incine.ru:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 http://dht.dhtclub.com:666/announce
 

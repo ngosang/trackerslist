@@ -22,8 +22,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://fosstorrents.com:6969/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://wepzone.net:6969/announce
@@ -43,6 +41,8 @@ http://open.tracker.ink:6969/announce
 http://montreal.nyap2p.com:8080/announce
 
 http://incine.ru:6969/announce
+
+http://fosstorrents.com:6969/announce
 
 http://dht.dhtclub.com:666/announce
 
