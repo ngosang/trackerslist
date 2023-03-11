@@ -4,8 +4,6 @@ http://tracker.openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.skyts.net:6969/announce
@@ -27,6 +25,8 @@ http://bt.okmp3.ru:2710/announce
 http://wepzone.net:6969/announce
 
 http://tracker3.ctix.cn:8080/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker.qu.ax:6969/announce
 
