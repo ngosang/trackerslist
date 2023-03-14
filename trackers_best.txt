@@ -8,8 +8,6 @@ udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-udp://open.tracker.cl:1337/announce
-
 udp://9.rarbg.com:2810/announce
 
 udp://open.demonii.com:1337/announce
@@ -32,9 +30,11 @@ https://tracker.tamersunion.org:443/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
 udp://movies.zsw.ca:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.lelux.fi:6969/announce
 
