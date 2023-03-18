@@ -1,2 +1,0 @@
-wss://tracker.btorrent.xyz
-
