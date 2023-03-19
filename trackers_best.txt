@@ -8,9 +8,9 @@ udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://9.rarbg.com:2810/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -36,5 +36,5 @@ https://tracker.gbitt.info:443/announce
 
 http://tracker.gbitt.info:80/announce
 
-udp://explodie.org:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
