@@ -8,21 +8,21 @@ udp://tracker.openbittorrent.com:6969/announce
 
 http://tracker.openbittorrent.com:80/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://9.rarbg.com:2810/announce
 
-udp://exodus.desync.com:6969/announce
-
-udp://open.stealth.si:80/announce
+udp://open.demonii.com:1337/announce
 
 https://tracker2.ctix.cn:443/announce
 
 https://tracker1.520.jp:443/announce
 
+http://vps02.net.orel.ru:80/announce
+
+udp://exodus.desync.com:6969/announce
+
 https://tracker.tamersunion.org:443/announce
 
-http://vps02.net.orel.ru:80/announce
+udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -30,11 +30,11 @@ udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://movies.zsw.ca:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://chouchou.top:8080/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
-udp://tracker-udp.gbitt.info:80/announce
+https://tracker.gbitt.info:443/announce
 
