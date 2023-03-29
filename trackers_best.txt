@@ -4,11 +4,9 @@ udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://open.tracker.cl:1337/announce
+http://tracker.openbittorrent.com:80/announce
 
 udp://9.rarbg.com:2810/announce
 
@@ -31,6 +29,8 @@ https://tracker2.ctix.cn:443/announce
 https://tracker1.520.jp:443/announce
 
 http://vps02.net.orel.ru:80/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
