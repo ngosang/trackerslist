@@ -10,21 +10,15 @@ udp://208.83.20.20:6969/announce
 
 udp://185.181.60.155:80/announce
 
-udp://91.216.110.53:451/announce
-
-http://95.107.48.115:80/announce
+udp://89.234.156.205:451/announce
 
 udp://149.202.88.193:80/announce
 
 udp://107.189.11.58:6969/announce
 
-udp://184.105.151.166:6969/announce
-
 udp://156.234.201.18:80/announce
 
-udp://176.56.2.99:6969/announce
-
-udp://109.201.134.183:80/announce
-
 udp://198.100.149.66:6969/announce
+
+udp://184.105.151.166:6969/announce
 
