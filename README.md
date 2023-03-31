@@ -50,3 +50,4 @@ ngosang [@] hotmail [.es]
 
 ### Third-party online tools
 * [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
+* [magnets](https://4ndv.github.io/magnets) to add these trackers to your magnet links
