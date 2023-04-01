@@ -12,17 +12,9 @@ http://www.peckservers.com:9000/announce
 
 http://tracker2.dler.org:80/announce
 
-http://tracker.dler.org:6969/announce
-
-http://incine.ru:6969/announce
-
-http://bt.okmp3.ru:2710/announce
-
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker.renfei.net:8080/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://incine.ru:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -32,9 +24,15 @@ http://fosstorrents.com:6969/announce
 
 http://dht.dhtclub.com:666/announce
 
-http://tracker.qu.ax:6969/announce
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.dler.org:6969/announce
 
 http://montreal.nyap2p.com:8080/announce
+
+http://bt.okmp3.ru:2710/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://bt1.letpo.com:80/announce
 
