@@ -10,17 +10,17 @@ http://tracker.openbittorrent.com:80/announce
 
 udp://9.rarbg.com:2810/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://tracker.moeking.me:6969/announce
 
-udp://explodie.org:6969/announce
+https://tracker.tamersunion.org:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -34,7 +34,7 @@ http://tracker.gbitt.info:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 udp://tracker.altrosky.nl:6969/announce
+
+udp://explodie.org:6969/announce
 
