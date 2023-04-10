@@ -144,6 +144,7 @@ http://bt2.edwardk.info:6969/announce # registered torrents
 http://open.nyaatorrents.info:6544/announce # registered torrents
 http://open.lolicon.eu:7777/announce # registered torrents
 http://torrent.resonatingmedia.com:6969/announce # registered torrents
+udp://t.zerg.pw:1337/announce # duplicate of  udp://t.zerg.pw:6969
 udp://t1.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
 udp://t2.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
 udp://t3.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
