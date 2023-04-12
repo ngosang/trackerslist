@@ -8,15 +8,15 @@ http://tracker.gbitt.info:80/announce
 
 http://open.acgnxtracker.com:80/announce
 
-http://tracker2.dler.org:80/announce
-
-http://tracker.zerobytes.xyz:1337/announce
-
 http://tracker.lelux.fi:80/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker2.dler.org:80/announce
 
 http://tracker.renfei.net:8080/announce
+
+http://tracker.mywaifu.best:6969/announce
+
+http://parag.rs:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -24,19 +24,17 @@ http://fosstorrents.com:6969/announce
 
 http://dht.dhtclub.com:666/announce
 
-http://bt1.letpo.com:80/announce
-
 http://bt.okmp3.ru:2710/announce
-
-http://tracker.mywaifu.best:6969/announce
-
-http://parag.rs:6969/announce
-
-http://montreal.nyap2p.com:8080/announce
 
 http://wepzone.net:6969/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker.dler.org:6969/announce
+
+http://montreal.nyap2p.com:8080/announce
+
+http://bt1.letpo.com:80/announce
+
+http://tracker.qu.ax:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
