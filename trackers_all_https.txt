@@ -2,7 +2,7 @@ https://opentracker.i2p.rocks:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.lelux.fi:443/announce
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.gbitt.info:443/announce
 
@@ -13,10 +13,6 @@ https://tracker.mlsub.net:443/announce
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.kuroy.me:443/announce
-
-https://tracker.imgoingto.icu:443/announce
 
 https://tr.ready4.icu:443/announce
 
