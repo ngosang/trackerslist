@@ -24,17 +24,17 @@ https://tracker.tamersunion.org:443/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://movies.zsw.ca:6969/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://p4p.arenabg.com:1337/announce
-
-udp://movies.zsw.ca:6969/announce
-
-udp://explodie.org:6969/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
