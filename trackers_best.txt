@@ -30,7 +30,7 @@ udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://movies.zsw.ca:6969/announce
+udp://p4p.arenabg.com:1337/announce
 
 udp://explodie.org:6969/announce
 
