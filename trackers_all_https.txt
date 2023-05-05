@@ -16,8 +16,6 @@ https://tracker.mlsub.net:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://1337.abcvg.info:443/announce
