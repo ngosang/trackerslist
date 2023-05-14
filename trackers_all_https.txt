@@ -2,9 +2,11 @@ https://opentracker.i2p.rocks:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 https://tracker.tamersunion.org:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
+https://tracker.gbitt.info:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
