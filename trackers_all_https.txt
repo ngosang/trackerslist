@@ -1,8 +1,8 @@
 https://opentracker.i2p.rocks:443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -19,4 +19,6 @@ https://t1.hloli.org:443/announce
 https://t.zerg.pw/announce
 
 https://1337.abcvg.info:443/announce
+
+https://tr.ready4.icu:443/announce
 
