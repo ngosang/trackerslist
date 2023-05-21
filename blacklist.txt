@@ -12,6 +12,7 @@ http://irrenhaus.dyndns.dk:80/announce.php # malfunction
 http://carbon-bonsai-621.appspot.com/announce # malfunction
 https://carbon-bonsai-621.appspot.com/announce # malfunction
 https://academic-p2p.appspot.com/announce # malfunction
+http://bt.okmp3.ru:2710/announce # fake seeds
 udp://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker.breizh.pm:6969/announce # requested by sysadmin
 https://torrents.linuxmint.com:443/announce.php # registered torrents
