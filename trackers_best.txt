@@ -8,15 +8,23 @@ http://tracker.openbittorrent.com:80/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
+
 udp://p4p.arenabg.com:1337/announce
+
+udp://movies.zsw.ca:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -28,13 +36,5 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.monitorit4.me:6969/announce
-
-udp://tracker.joybomb.tw:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
 
