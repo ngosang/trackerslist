@@ -28,13 +28,13 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://htz3.noho.st:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://epider.me:6969/announce
+
+udp://aarsen.me:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.moeblog.cn:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
