@@ -2,6 +2,8 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
 
+http://bt.endpot.com:80/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
@@ -22,11 +24,13 @@ http://wg.mortis.me:6969/announce
 
 http://wepzone.net:6969/announce
 
+http://tracker.zerobytes.xyz:1337/announce
+
 http://tracker.skyts.net:6969/announce
 
-http://tracker.files.fm:6969/announce
+http://tracker.qu.ax:6969/announce
 
-http://tracker.edkj.club:6969/announce
+http://tracker.files.fm:6969/announce
 
 http://tracker.dler.org:6969/announce
 
