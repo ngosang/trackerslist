@@ -18,21 +18,21 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://tracker.bitsearch.to:1337/announce
 
 http://bt.endpot.com:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://movies.zsw.ca:6969/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker.zerobytes.xyz:1337/announce
+udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
