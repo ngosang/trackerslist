@@ -2,6 +2,10 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+udp://open.tracker.cl:1337/announce
+
+udp://tracker.openbittorrent.com:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
@@ -12,19 +16,27 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
+udp://explodie.org:6969/announce
+
+udp://uploads.gamecoast.net:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://explodie.org:6969/announce
+udp://htz3.noho.st:6969/announce
+
+udp://aarsen.me:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
-udp://uploads.gamecoast.net:6969/announce
+udp://trackerb.jonaslsa.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -32,11 +44,19 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.joybomb.tw:6969/announce
 
+udp://tracker.jonaslsa.com:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://thouvenin.cloud:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://sanincode.com:6969/announce
 
@@ -44,39 +64,17 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://private.anonseed.com:6969/announce
 
+udp://opentracker.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
+
 udp://open.dstud.io:6969/announce
 
 udp://moonburrow.club:6969/announce
 
-udp://htz3.noho.st:6969/announce
+udp://isk.richardsw.club:6969/announce
 
 udp://epider.me:6969/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
-
-udp://acxx.de:6969/announce
-
-udp://aarsen.me:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://v2.iperson.xyz:6969/announce
-
-udp://trackerb.jonaslsa.com:6969/announce
-
-udp://tracker.zerobytes.xyz:1337/announce
-
-udp://tracker.jonaslsa.com:6969/announce
-
-udp://tracker.filemail.com:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
-
-udp://opentracker.io:6969/announce
-
-udp://new-line.net:6969/announce
 
 udp://download.nerocloud.me:6969/announce
 
@@ -84,33 +82,45 @@ udp://carr.codes:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://black-bird.ynh.fr:6969/announce
+udp://bt1.archive.org:6969/announce
 
-udp://yahor.of.by:6969/announce
+udp://bt.ktrackers.com:6666/announce
+
+udp://acxx.de:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker.srv00.com:6969/announce
-
-udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.farted.net:6969/announce
-
-udp://tracker.dler.org:6969/announce
+udp://v2.iperson.xyz:6969/announce
 
 udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
+udp://tk1.trackerservers.com:8080/announce
+
+udp://public-tracker.cf:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
+
+udp://new-line.net:6969/announce
+
+udp://black-bird.ynh.fr:6969/announce
+
+udp://yahor.of.by:6969/announce
+
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
+udp://tracker.farted.net:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.army:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
-
-udp://tk1.trackerservers.com:8080/announce
-
-udp://thinking.duckdns.org:6969/announce
 
 udp://t.zerg.pw:6969/announce
 
@@ -124,13 +134,9 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
-udp://public-tracker.cf:6969/announce
+udp://public.publictracker.xyz:6969/announce
 
 udp://open.u-p.pw:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://oh.fuuuuuck.com:6969/announce
 
 udp://ns1.monolithindustries.com:6969/announce
 
@@ -140,15 +146,11 @@ udp://mail.segso.net:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
-udp://freedomalternative.com:6969/announce
-
 udp://free.publictracker.xyz:6969/announce
 
 udp://6.pocketnet.app:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
