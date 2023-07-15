@@ -14,11 +14,11 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.loligirl.cn:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://t1.hloli.org:443/announce
 
 https://t.zerg.pw/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
