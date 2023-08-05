@@ -16,13 +16,7 @@ udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-https://t1.hloli.org:443/announce
-
-udp://tracker.moeking.me:6969/announce
-
-http://bt.endpot.com:80/announce
-
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -32,9 +26,15 @@ https://tracker.gbitt.info:443/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://montreal.nyap2p.com:8080/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://uploads.gamecoast.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker.dump.cl:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://p4p.arenabg.com:1337/announce
 
