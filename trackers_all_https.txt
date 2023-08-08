@@ -8,15 +8,15 @@ https://tracker.tamersunion.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+https://tracker.renfei.net:443/announce
+
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.renfei.net:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.cloudit.top:443/announce
 
