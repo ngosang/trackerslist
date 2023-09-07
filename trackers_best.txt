@@ -20,21 +20,21 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://explodie.org:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.moeking.me:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://movies.zsw.ca:6969/announce
-
-https://tracker.tamersunion.org:443/announce
 
 https://tracker.gbitt.info:443/announce
 
 http://tracker.gbitt.info:80/announce
+
+http://bt.endpot.com:80/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tk1.trackerservers.com:8080/announce
+
+udp://explodie.org:6969/announce
+
+https://tracker.tamersunion.org:443/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
