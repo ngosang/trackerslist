@@ -14,13 +14,9 @@ https://tracker.lilithraws.org:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://t1.hloli.org:443/announce
 
 https://www.peckservers.com:9443/announce
-
-https://tracker.cloudit.top:443/announce
 
 https://1337.abcvg.info:443/announce
 
