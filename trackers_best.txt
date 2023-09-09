@@ -10,9 +10,9 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-http://tracker.openbittorrent.com:80/announce
-
 udp://tracker.openbittorrent.com:6969/announce
+
+http://tracker.openbittorrent.com:80/announce
 
 udp://open.stealth.si:80/announce
 
@@ -30,11 +30,11 @@ https://tracker.gbitt.info:443/announce
 
 http://tracker.gbitt.info:80/announce
 
-http://montreal.nyap2p.com:8080/announce
-
 http://bt.endpot.com:80/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://tk1.trackerservers.com:8080/announce
 
