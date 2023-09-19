@@ -14,8 +14,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://incine.ru:6969/announce
 
 http://www.peckservers.com:9000/announce
@@ -26,15 +24,19 @@ http://uraniumhexafluori.de:1919/announce
 
 http://tracker2.itzmx.com:6961/announce
 
+http://tracker.qu.ax:6969/announce
+
 http://tracker.netmap.top:6969/announce
 
 http://tracker.files.fm:6969/announce
 
+http://tracker.dler.org:6969/announce
+
+http://open.acgtracker.com:1096/announce
+
 http://ch3oh.ru:6969/announce
 
 http://1337.abcvg.info:80/announce
-
-http://tracker1.itzmx.com:8080/announce
 
 http://tracker.gbitt.info:80/announce
 
