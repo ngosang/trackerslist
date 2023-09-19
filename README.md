@@ -1,7 +1,7 @@
 # ngosang/trackerslist
 
 [![Last update](https://img.shields.io/badge/Last%20update-2023/09/19-green.svg)](#)
-[![Public trackers](https://img.shields.io/badge/Public%20trackers-111-blue.svg)](#)
+[![Public trackers](https://img.shields.io/badge/Public%20trackers-117-blue.svg)](#)
 [![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-yellow.svg)](https://www.paypal.com/paypalme/diegoheras0xff)
 [![Donate Bitcoin](https://img.shields.io/badge/Donate-Bitcoin-f7931a.svg)](https://www.blockchain.com/btc/address/192VBN1a1LQ6aUqn2APmeoJyv8V3ng44Gn)
 [![Donate Ethereum](https://img.shields.io/badge/Donate-Ethereum-8c8c8c.svg)](https://www.blockchain.com/eth/address/0x0D1549BbB00926BF3D92c1A8A58695e982f1BE2E)
@@ -12,15 +12,15 @@ Updated list of public BitTorrent trackers
 *These lists are automatically updated every day. Last update 2023/09/19:*
 
 * trackers_best (20 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best.txt)
-* trackers_all (111 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt)
-* trackers_all_udp (80 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_udp.txt)
-* trackers_all_http (18 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_http.txt)
-* trackers_all_https (13 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_https.txt)
+* trackers_all (117 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt)
+* trackers_all_udp (81 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_udp.txt)
+* trackers_all_http (22 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_http.txt)
+* trackers_all_https (14 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_https.txt)
 * trackers_all_ws (2 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ws.txt)
 
 Are you having DNS problems? These lists contain the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (19 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best_ip.txt)
-* trackers_all_ip (86 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
+* trackers_all_ip (93 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
 
 ### Notes
 * A bot automatically checks the trackers and updates the lists.
@@ -46,7 +46,8 @@ ngosang [@] hotmail [.es]
 * [transmission bash script 3](https://github.com/Jorman/Scripts#addtransmissiontrackerssh) to add these trackers to [transmission](https://github.com/transmission/transmission)
 * [qbittorrent bash script](https://github.com/Jorman/Scripts#addqbittorrenttrackerssh) to add these trackers to [qBittorent](https://github.com/qbittorrent/qBittorrent)
 * [aria2 go script](https://github.com/rocket049/aria2-trackers) to add these trackers to [aria2](https://github.com/aria2/aria2)
-* [aria2 bash script](https://github.com/wuyuansushen/aria2c_TrackersList) to add these trackers to [aria2](https://github.com/aria2/aria2)
+* [aria2 bash script 1](https://gist.github.com/HaleTom/fe873dc2f3c5bd14f7418efefc2b91a8) to add these trackers to [aria2](https://github.com/aria2/aria2)
+* [aria2 bash script 2](https://github.com/wuyuansushen/aria2c_TrackersList) to add these trackers to [aria2](https://github.com/aria2/aria2)
 
 ### Third-party online tools
 * [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
