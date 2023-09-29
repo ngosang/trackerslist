@@ -12,17 +12,17 @@ http://tracker.openbittorrent.com:80/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://exodus.desync.com:6969/announce
 
 http://bt.endpot.com:80/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -32,9 +32,9 @@ udp://explodie.org:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.imgoingto.icu:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 http://open.acgnxtracker.com:80/announce
+
+udp://uploads.gamecoast.net:6969/announce
 
