@@ -145,6 +145,10 @@ http://bt2.edwardk.info:6969/announce # registered torrents
 http://open.nyaatorrents.info:6544/announce # registered torrents
 http://open.lolicon.eu:7777/announce # registered torrents
 http://torrent.resonatingmedia.com:6969/announce # registered torrents
+http://y.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
+udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://y.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://tk1.trackerservers.com:8080/announce # duplicate of udp://tracker2.itzmx.com:6961/announce
 udp://t.zerg.pw:1337/announce # duplicate of udp://t.zerg.pw:6969
 udp://t1.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
