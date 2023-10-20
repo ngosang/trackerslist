@@ -149,6 +149,7 @@ http://y.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6
 http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
 udp://y.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
+udp://y.t-1.org:6969/announce # duplicate of udp://x.t-1.org:6969/announce
 udp://tk1.trackerservers.com:8080/announce # duplicate of udp://tracker2.itzmx.com:6961/announce
 udp://t.zerg.pw:1337/announce # duplicate of udp://t.zerg.pw:6969
 udp://t1.leech.ie:1337/announce # duplicate of udp://tracker.leech.ie:1337/announce
