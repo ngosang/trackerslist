@@ -14,8 +14,6 @@ https://tracker.imgoingto.icu:443/announce
 
 https://www.peckservers.com:9443/announce
 
-https://tracker.moeblog.cn:443/announce
-
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -23,8 +21,6 @@ https://tracker.cloudit.top:443/announce
 https://t1.hloli.org:443/announce
 
 https://1337.abcvg.info:443/announce
-
-https://tracker.netmap.top:8443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
