@@ -10,9 +10,9 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 http://tracker.openbittorrent.com:80/announce
+
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -21,10 +21,6 @@ udp://exodus.desync.com:6969/announce
 https://tracker.renfei.net:443/announce
 
 http://tracker.renfei.net:8080/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 udp://explodie.org:6969/announce
 
@@ -37,4 +33,8 @@ udp://tracker.tiny-vps.com:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://p4p.arenabg.com:1337/announce
+
+udp://movies.zsw.ca:6969/announce
 
