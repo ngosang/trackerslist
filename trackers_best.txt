@@ -22,7 +22,11 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
+udp://uploads.gamecoast.net:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -30,11 +34,7 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://movies.zsw.ca:6969/announce
-
 https://tracker.gbitt.info:443/announce
 
 http://tracker.gbitt.info:80/announce
-
-http://open.acgnxtracker.com:80/announce
 
