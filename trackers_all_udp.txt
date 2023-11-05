@@ -10,47 +10,37 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
-udp://explodie.org:6969/announce
+udp://exodus.desync.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://p4p.arenabg.com:1337/announce
+udp://explodie.org:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.4.babico.name.tr:3131/announce
-
-udp://thouvenin.cloud:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://sanincode.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://open.dstud.io:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://isk.richardsw.club:6969/announce
-
-udp://epider.me:6969/announce
 
 udp://acxx.de:6969/announce
 
 udp://aarsen.me:6969/announce
 
 udp://yahor.of.by:6969/announce
-
-udp://x.t-1.org:6969/announce
 
 udp://x.paranoid.agency:6969/announce
 
@@ -80,17 +70,15 @@ udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.auctor.tv:6969/announce
+udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://thouvenin.cloud:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
-
-udp://su-data.com:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -102,9 +90,11 @@ udp://opentracker.io:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://free.publictracker.xyz:6969/announce
 
-udp://evan.im:6969/announce
+udp://epider.me:6969/announce
 
 udp://carr.codes:6969/announce
 
@@ -118,15 +108,25 @@ udp://6.pocketnet.app:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
+udp://x.t-1.org:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
+udp://su-data.com:6969/announce
+
+udp://open.u-p.pw:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
+udp://freedomalternative.com:6969/announce
+
 udp://fh2.cmp-gaming.com:6969/announce
+
+udp://evan.im:6969/announce
 
 udp://concen.org:6969/announce
 
