@@ -4,9 +4,9 @@ https://tracker2.ctix.cn:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://open.tracker.cl:1337/announce
+
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -22,19 +22,19 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
-udp://uploads.gamecoast.net:6969/announce
-
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 https://tracker.gbitt.info:443/announce
 
 http://tracker.gbitt.info:80/announce
 
+udp://uploads.gamecoast.net:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
