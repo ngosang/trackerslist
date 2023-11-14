@@ -166,8 +166,6 @@ udp://51.15.26.25:6969/announce
 
 http://45.95.232.15:6969/announce
 
-http://192.9.228.30:6699/announce
-
 http://5.182.86.242:6969/announce
 
 http://104.244.77.14:1337/announce
