@@ -1,5 +1,7 @@
 http://tracker.opentrackr.org:1337/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.gbitt.info:80/announce
@@ -32,7 +34,7 @@ http://tracker.bt4g.com:2095/announce
 
 http://incine.ru:6969/announce
 
-http://1337.abcvg.info:80/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -40,5 +42,5 @@ http://t.acg.rip:6699/announce
 
 http://ch3oh.ru:6969/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+http://1337.abcvg.info:80/announce
 
