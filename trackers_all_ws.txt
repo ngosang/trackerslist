@@ -4,3 +4,5 @@ wss://tracker.files.fm:7073/announce
 
 ws://tracker.files.fm:7072/announce
 
+wss://bt.rer.lol:233/announce
+
