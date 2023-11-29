@@ -1,9 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-https://tracker2.ctix.cn:443/announce
-
-https://tracker1.520.jp:443/announce
-
 http://tracker.opentrackr.org:1337/announce
 
 udp://opentracker.i2p.rocks:6969/announce
@@ -213,4 +209,6 @@ udp://aegir.sexy:6969/announce
 http://www.peckservers.com:9000/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+https://tracker.gcrreen.xyz:443/announce
 

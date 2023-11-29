@@ -1,9 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-https://tracker2.ctix.cn:443/announce
-
-https://tracker1.520.jp:443/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://open.demonii.com:1337/announce
