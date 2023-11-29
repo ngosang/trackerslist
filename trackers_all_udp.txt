@@ -142,3 +142,5 @@ udp://carr.codes:6969/announce
 
 udp://aegir.sexy:6969/announce
 
+udp://bt.rer.lol:2710/announce
+
