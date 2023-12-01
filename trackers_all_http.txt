@@ -1,3 +1,7 @@
+http://45.85.249.39:6969/announce
+
+http://45.85.249.39:1337/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 http://tracker.openbittorrent.com:80/announce
