@@ -267,6 +267,10 @@ wss://ws.peer.ooo:443/announce # deprecated by owner
 http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
 ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://tracker.fansub.id:80/announce # duplicate of https://tracker.fansub.id:443/announce
+https://1337.abcvg.info:443/announce # duplicate of http://1337.abcvg.info:80/announce
 http://masters-tb.com:80/announce.php # registered torrents
 http://mixfiend.com:80/announce.php # registered torrents
 http://mvgforumtracker.mvgroup.org:80/tracker.php/announce # registered torrents
@@ -277,6 +281,7 @@ http://tracker.tambovnet.org:80/announce.php # registered torrents
 http://tracker.torrentbytes.net:80/announce.php # registered torrents
 http://tracker.trancetraffic.com:80/announce.php # registered torrents
 http://www.mvgroup.org:80/tracker.php/announce # registered torrents
+http://t.acg.rip:6699/announce # registered torrents
 http://www.shnflac.net:80/announce.php # registered torrents
 http://www.tribalmixes.com:80/announce.php # registered torrents
 http://www.worldboxingvideoarchive.com:80/announce.php # registered torrents
