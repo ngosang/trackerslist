@@ -16,8 +16,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://uploads.gamecoast.net:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
@@ -26,15 +24,17 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dump.cl:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.4.babico.name.tr:3131/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://thouvenin.cloud:6969/announce
+
 udp://sanincode.com:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
-
-udp://movies.zsw.ca:6969/announce
-
-udp://aarsen.me:6969/announce
 
