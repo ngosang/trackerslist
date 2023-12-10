@@ -1,5 +1,3 @@
-https://tracker.gbitt.info:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.renfei.net:443/announce
@@ -8,15 +6,13 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://www.peckservers.com:9443/announce
 
-https://tracker.moeblog.cn:443/announce
+https://tracker.netmap.top:8443/announce
 
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.imgoingto.icu:443/announce
-
-https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -26,5 +22,7 @@ https://yolo.liberbear.com:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker.netmap.top:8443/announce
+https://tracker.gcrreen.xyz:443/announce
+
+https://tracker.gbitt.info:443/announce
 
