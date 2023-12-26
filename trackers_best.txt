@@ -4,6 +4,8 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://open.demonii.com:1337/announce
 
+http://tracker.openbittorrent.com:80/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.stealth.si:80/announce
@@ -14,27 +16,25 @@ udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://uploads.gamecoast.net:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+https://tracker.tamersunion.org:443/announce
+
+udp://uploads.gamecoast.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://tracker.cubonegro.lol:6969/announce
+
+udp://thinking.duckdns.org:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
+
+udp://ryjer.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://p4p.arenabg.com:1337/announce
-
-udp://new-line.net:6969/announce
-
-udp://movies.zsw.ca:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
-
-https://tracker.tamersunion.org:443/announce
-
-udp://tracker.filemail.com:6969/announce
 
