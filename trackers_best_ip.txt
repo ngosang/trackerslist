@@ -10,15 +10,15 @@ udp://91.216.110.52:451/announce
 
 udp://23.157.120.14:6969/announce
 
-udp://185.102.219.163:6969/announce
-
-udp://222.84.22.25:6969/announce
+udp://156.234.201.18:80/announce
 
 udp://109.201.134.183:80/announce
 
-udp://83.102.180.21:80/announce
-
 udp://198.100.149.66:6969/announce
 
-udp://37.187.111.136:6969/announce
+udp://185.102.219.163:6969/announce
+
+udp://83.146.104.162:6969/announce
+
+udp://222.84.22.25:6969/announce
 
