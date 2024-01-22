@@ -130,3 +130,4 @@ udp://aegir.sexy:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
+udp://tracker.picotorrent.one:6969/announce
