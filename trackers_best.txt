@@ -8,11 +8,9 @@ https://opentracker.i2p.rocks:443/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.openbittorrent.com:6969/announce
-
 http://tracker.openbittorrent.com:80/announce
 
-udp://open.tracker.cl:1337/announce
+udp://tracker.openbittorrent.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -24,17 +22,19 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://movies.zsw.ca:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.gbitt.info:443/announce
+
+http://tracker.gbitt.info:80/announce
+
+udp://uploads.gamecoast.net:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
