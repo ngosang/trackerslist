@@ -1,4 +1,4 @@
-udp://tracker.opentrackr.org:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -16,19 +16,17 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
-
-udp://movies.zsw.ca:6969/announce
-
 udp://explodie.org:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://tracker1.myporn.club:9337/announce
+https://tracker.gbitt.info:443/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+http://tracker.gbitt.info:80/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -36,5 +34,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
-udp://tracker.cubonegro.lol:6969/announce
+udp://tracker.dump.cl:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
