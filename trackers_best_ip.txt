@@ -16,19 +16,21 @@ udp://23.157.120.14:6969/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://156.234.201.18:80/announce
+udp://193.42.111.57:9337/announce
 
 udp://83.146.98.78:6969/announce
 
-udp://116.8.90.195:6969/announce
+udp://209.141.59.16:6969/announce
+
+udp://38.7.201.142:6969/announce
 
 udp://109.201.134.183:80/announce
 
 udp://45.9.60.30:6969/announce
 
+udp://94.243.222.100:6969/announce
+
 udp://198.100.149.66:6969/announce
 
-udp://207.241.226.111:6969/announce
-
-udp://51.159.54.68:6666/announce
+udp://167.99.185.219:6969/announce
 

@@ -20,21 +20,21 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.skyts.net:6969/announce
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.cubonegro.lol:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
-udp://open.tracker.ink:6969/announce
+udp://new-line.net:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
+udp://moonburrow.club:6969/announce
 
