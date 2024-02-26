@@ -1,4 +1,4 @@
-udp://tracker.opentrackr.org:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
 udp://open.tracker.cl:1337/announce
 
@@ -7,6 +7,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://opentracker.i2p.rocks:6969/announce
 
 https://opentracker.i2p.rocks:443/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
@@ -18,23 +20,21 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.skyts.net:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://opentracker.io:6969/announce
+
+udp://open.tracker.ink:6969/announce
+
+udp://new-line.net:6969/announce
+
 udp://movies.zsw.ca:6969/announce
 
-udp://bt1.archive.org:6969/announce
+udp://bt2.archive.org:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
-https://tracker.gbitt.info:443/announce
-
-http://tracker.gbitt.info:80/announce
-
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.therarbg.com:6969/announce
+udp://bt.ktrackers.com:6666/announce
 
