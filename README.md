@@ -38,6 +38,8 @@ Are you having DNS problems? These lists contain the same trackers but with IP a
 ngosang [@] hotmail [.es]
 
 ### Third-party tools
+* [IPFS Upload](https://hatthieves.es/ipfs-upload/): The main concern is the URL contains the hash and it changes with each update. The goal of this project is to have a static URL that always returns updated trackers. If you have the IPFS URL, it will get out of date quickly. From the official page: [IPFS Tech](https://ipfs.tech/) *"However, this doesn't mean you need to remember a long string of CIDs — IPFS can find the latest version of your file using the IPNS decentralized naming system, and DNSLink can be used to map CIDs to human-readable DNS names."*, [sample mirror in IPF](https://ipfs.io/ipfs/QmV6nVTAgBzYM2dAbnCiNS7SacUnUdRbvPBTQioTSaB84g)
+* [Github Feeds API](https://docs.github.com/en/rest/activity/feeds): You can use github feature for rss/atom feed, [mirror in RSS](https://github.com/ngosang/trackerslist/commits/master.atom)
 * [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
 * [deluge plugin](https://github.com/stefantalpalaru/deluge-default-trackers) to add these trackers to [deluge](https://github.com/deluge-torrent/deluge)
 * [transmission python script](https://github.com/blind-oracle/transmission-trackers) to add these trackers to [transmission](https://github.com/transmission/transmission)
