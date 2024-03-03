@@ -20,21 +20,21 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+udp://tracker.skyts.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.theoks.net:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://opentracker.io:6969/announce
+udp://open.tracker.ink:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://epider.me:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
-
 https://tracker.tamersunion.org:443/announce
+
+https://tracker.gbitt.info:443/announce
+
+http://tracker.gbitt.info:80/announce
+
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
