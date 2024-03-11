@@ -10,9 +10,13 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker.renfei.net:443/announce
 
+https://tracker.netmap.top:8443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tracker.ipfsscan.io:443/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -23,10 +27,6 @@ https://tr.burnabyhighstar.com:443/announce
 https://t1.hloli.org:443/announce
 
 https://yolo.liberbear.com:443/announce
-
-https://tracker.netmap.top:8443/announce
-
-https://tracker.ipfsscan.io:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
