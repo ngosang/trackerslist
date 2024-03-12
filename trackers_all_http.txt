@@ -16,8 +16,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.qu.ax:6969/announce
 
-http://tracker.netmap.top:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -36,7 +34,9 @@ http://canardscitrons.nohost.me:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker.netmap.top:6969/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
