@@ -14,9 +14,11 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -28,13 +30,11 @@ udp://open.tracker.ink:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://isk.richardsw.club:6969/announce
-
-udp://explodie.org:6969/announce
+https://tracker.tamersunion.org:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.gbitt.info:80/announce
+
+udp://tracker2.dler.org:80/announce
 
