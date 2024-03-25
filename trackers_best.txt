@@ -1,4 +1,4 @@
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -12,15 +12,13 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker.skyts.net:6969/announce
+udp://exodus.desync.com:6969/announce
+
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://open.tracker.ink:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -28,13 +26,15 @@ udp://explodie.org:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.renfei.net:443/announce
-
 https://tracker.gbitt.info:443/announce
-
-http://tracker.renfei.net:8080/announce
 
 http://tracker.gbitt.info:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.dler.org:6969/announce
+
+udp://open.tracker.ink:6969/announce
 
