@@ -1,9 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.auctor.tv:6969/announce
-
-udp://opentracker.i2p.rocks:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
@@ -12,37 +8,21 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://movies.zsw.ca:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://opentracker.io:6969/announce
+udp://movies.zsw.ca:6969/announce
 
-udp://new-line.net:6969/announce
-
-udp://epider.me:6969/announce
-
-udp://bt2.archive.org:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
-
-udp://aarsen.me:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://bt1.archive.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -70,19 +50,21 @@ udp://tracker.farted.net:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://run-2.publictracker.xyz:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://public.publictracker.xyz:6969/announce
+
+udp://opentracker.io:6969/announce
+
+udp://open.xxtor.com:3074/announce
 
 udp://open.u-p.pw:6969/announce
 
@@ -90,41 +72,49 @@ udp://open.dstud.io:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://moonburrow.club:6969/announce
+
+udp://ipv4.rer.lol:2710/announce
 
 udp://free.publictracker.xyz:6969/announce
 
+udp://evan.im:6969/announce
+
+udp://epider.me:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://aarsen.me:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://1c.premierzal.ru:6969/announce
+
+udp://tracker2.itzmx.com:6961/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
-udp://tracker.ccp.ovh:6969/announce
-
 udp://tracker.artixlinux.org:6969/announce
 
 udp://tracker.anima.nz:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://torrents.artixlinux.org:6969/announce
 
-udp://su-data.com:6969/announce
+udp://run.publictracker.xyz:6969/announce
 
 udp://pirate.t-1.org:1337/announce
 
-udp://open.xxtor.com:3074/announce
-
-udp://ipv4.rer.lol:2710/announce
-
 udp://fh2.cmp-gaming.com:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://concen.org:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://aegir.sexy:6969/announce
 
