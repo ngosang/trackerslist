@@ -4,6 +4,8 @@ https://tracker.gbitt.info:443/announce
 
 https://tracker.renfei.net:443/announce
 
+https://t1.hloli.org:443/announce
+
 https://yolo.liberbear.com:443/announce
 
 https://www.peckservers.com:9443/announce
