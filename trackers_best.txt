@@ -2,25 +2,23 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 https://tracker.loligirl.cn:443/announce
+
+udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+http://bvarf.tracker.sh:2086/announce
+
+udp://tracker.skyts.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
 udp://opentracker.io:6969/announce
 
 udp://new-line.net:6969/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -28,7 +26,7 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.renfei.net:443/announce
 
-http://tracker.skyts.net:6969/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.renfei.net:8080/announce
 
@@ -36,5 +34,7 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://open.tracker.ink:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 

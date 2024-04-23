@@ -12,6 +12,8 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
+https://tracker.ipfsscan.io:443/announce
+
 https://tracker.gcrreen.xyz:443/announce
 
 https://tracker.cloudit.top:443/announce

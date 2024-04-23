@@ -14,13 +14,11 @@ udp://45.9.60.30:6969/announce
 
 udp://94.243.222.100:6969/announce
 
-udp://34.89.30.59:6969/announce
-
-udp://23.157.120.14:6969/announce
-
-http://222.84.20.55:6969/announce
+http://156.234.201.18:80/announce
 
 http://35.231.115.55:80/announce
 
-udp://220.130.15.30:80/announce
+http://222.84.20.55:6969/announce
+
+udp://83.146.98.78:6969/announce
 
