@@ -8,17 +8,15 @@ udp://89.234.156.205:451/announce
 
 udp://109.201.134.183:80/announce
 
-udp://23.157.120.14:6969/announce
-
 udp://208.83.20.20:6969/announce
 
 udp://220.130.15.30:80/announce
 
-udp://83.146.98.78:6969/announce
-
 udp://23.153.248.83:6969/announce
 
-udp://193.37.214.12:6969/announce
-
 udp://83.102.180.21:80/announce
+
+udp://45.9.60.30:6969/announce
+
+udp://23.157.120.14:6969/announce
 

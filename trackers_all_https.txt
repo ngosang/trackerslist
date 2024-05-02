@@ -1,3 +1,5 @@
+https://tracker1.ctix.cn:443/announce
+
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.renfei.net:443/announce
