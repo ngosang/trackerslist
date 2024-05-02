@@ -20,3 +20,4 @@ https://t1.hloli.org:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
+https://tracker-zhuqiy.dgj055.icu:443/announce
