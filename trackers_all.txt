@@ -175,5 +175,3 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
-
-https://tracker-zhuqiy.dgj055.icu:443/announce
