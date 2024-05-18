@@ -8,33 +8,33 @@ https://tracker.loligirl.cn:443/announce
 
 udp://open.stealth.si:80/announce
 
+http://bvarf.tracker.sh:2086/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.skyts.net:6969/announce
+
+http://open.tracker.ink:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-https://tracker.gbitt.info:443/announce
-
-http://tracker.gbitt.info:80/announce
-
-http://bvarf.tracker.sh:2086/announce
+https://tracker.tamersunion.org:443/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
-udp://tracker.picotorrent.one:6969/announce
-
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://retracker.lanta.me:2710/announce
+
 udp://p2p.publictracker.xyz:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
-udp://moonburrow.club:6969/announce
-
-udp://explodie.org:6969/announce
+udp://opentracker.io:6969/announce
 
