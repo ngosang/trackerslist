@@ -4,19 +4,19 @@ https://tracker.loligirl.cn:443/announce
 
 https://tracker.gbitt.info:443/announce
 
-https://tracker.renfei.net:443/announce
-
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.yemekyedim.com:443/announce
+https://tracker.renfei.net:443/announce
 
-https://www.peckservers.com:9443/announce
+https://tracker.yemekyedim.com:443/announce
 
 https://trackers.ptlsp.com:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.gcrreen.xyz:443/announce
 
@@ -26,7 +26,7 @@ https://tracker.cloudit.top:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
-https://tr.ready4.icu:443/announce
-
 https://bt.ptlsp.com:443/announce
+
+https://www.peckservers.com:9443/announce
 
