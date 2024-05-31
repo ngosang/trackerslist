@@ -268,6 +268,7 @@ http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthaw
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
 ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
 https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+https://tracker1.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 http://tracker.fansub.id:80/announce # duplicate of https://tracker.fansub.id:443/announce
 https://1337.abcvg.info:443/announce # duplicate of http://1337.abcvg.info:80/announce
