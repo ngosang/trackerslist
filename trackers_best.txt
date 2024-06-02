@@ -6,11 +6,13 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+https://tracker.loligirl.cn:443/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -32,9 +34,7 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
+udp://moonburrow.club:6969/announce
+
 udp://leet-tracker.moe:1337/announce
-
-udp://isk.richardsw.club:6969/announce
-
-https://tracker.renfei.net:443/announce
 
