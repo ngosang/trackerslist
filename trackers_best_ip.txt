@@ -8,27 +8,27 @@ udp://89.234.156.205:451/announce
 
 udp://208.83.20.20:6969/announce
 
+udp://83.102.180.21:80/announce
+
 udp://45.9.60.30:6969/announce
 
 udp://94.243.222.100:6969/announce
 
-udp://167.99.185.219:6969/announce
+udp://176.56.6.248:6969/announce
 
-udp://23.157.120.14:6969/announce
+udp://35.227.59.57:6969/announce
 
-udp://209.141.59.16:6969/announce
+udp://34.94.76.146:1337/announce
 
 udp://23.153.248.83:6969/announce
 
-udp://176.31.250.174:6969/announce
+udp://82.156.24.219:6969/announce
 
-udp://83.102.180.21:80/announce
+udp://34.94.76.146:6969/announce
 
-udp://185.230.4.150:1337/announce
+udp://37.27.4.53:6969/announce
 
-udp://51.68.174.87:6969/announce
+udp://167.99.185.219:6969/announce
 
-udp://207.241.231.226:6969/announce
-
-udp://207.241.226.111:6969/announce
+udp://185.216.179.62:25/announce
 
