@@ -4,11 +4,11 @@ http://tracker.gbitt.info:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.dler.org:6969/announce
+http://tr.kxmp.cf:80/announce
+
+http://www.peckservers.com:9000/announce
 
 http://wepzone.net:6969/announce
 
@@ -22,6 +22,8 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
 http://t.overflow.biz:6969/announce
@@ -33,8 +35,6 @@ http://fosstorrents.com:6969/announce
 http://ch3oh.ru:6969/announce
 
 http://1337.abcvg.info:80/announce
-
-http://www.peckservers.com:9000/announce
 
 http://tracker1.itzmx.com:8080/announce
 
