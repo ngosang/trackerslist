@@ -12,15 +12,15 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.imgoingto.icu:443/announce
+https://tracker.lilithraws.org:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tracker.imgoingto.icu:443/announce
 
 https://tracker.cloudit.top:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.ipfsscan.io:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
