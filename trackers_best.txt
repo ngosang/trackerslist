@@ -2,35 +2,35 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://open.u-p.pw:6969/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://opentracker.io:6969/announce
 
-https://tracker.tamersunion.org:443/announce
+udp://open.u-p.pw:6969/announce
+
+udp://oh.fuuuuuck.com:6969/announce
+
+udp://moonburrow.club:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.0x7c0.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://open.free-tracker.ga:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
-
-udp://moonburrow.club:6969/announce
+udp://open.demonoid.ch:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
