@@ -8,11 +8,13 @@ udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://opentracker.io:6969/announce
+udp://moonburrow.club:6969/announce
 
-https://tracker.gbitt.info:443/announce
+udp://explodie.org:6969/announce
 
-http://tracker.gbitt.info:80/announce
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -20,21 +22,19 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://retracker.lanta.me:2710/announce
+udp://opentracker.io:6969/announce
 
 udp://open.u-p.pw:6969/announce
 
 udp://oh.fuuuuuck.com:6969/announce
 
-udp://moonburrow.club:6969/announce
-
-udp://explodie.org:6969/announce
+udp://leet-tracker.moe:1337/announce
 
 udp://epider.me:6969/announce
 
-udp://amigacity.xyz:6969/announce
-
 https://tracker.tamersunion.org:443/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+https://tracker.gbitt.info:443/announce
+
+http://tracker.gbitt.info:80/announce
 
