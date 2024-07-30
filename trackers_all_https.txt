@@ -6,11 +6,15 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker.renfei.net:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.loligirl.cn:443/announce
 
 https://tracker.lilithraws.org:443/announce
+
+https://tr.ready4.icu:443/announce
+
+https://www.peckservers.com:9443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
