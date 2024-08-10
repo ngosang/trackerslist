@@ -10,31 +10,31 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://opentracker.io:6969/announce
-
-udp://new-line.net:6969/announce
-
-udp://explodie.org:6969/announce
-
-udp://epider.me:6969/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
-
-https://tracker.tamersunion.org:443/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker2.dler.org:80/announce
-
-udp://tracker1.myporn.club:9337/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://tamas3.ynh.fr:6969/announce
+
+udp://opentracker.io:6969/announce
+
+udp://open.u-p.pw:6969/announce
+
+udp://new-line.net:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://isk.richardsw.club:6969/announce
+
+udp://explodie.org:6969/announce
+
+udp://epider.me:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
