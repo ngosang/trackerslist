@@ -14,11 +14,11 @@ https://tracker.cloudit.top:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
+https://tr.ready4.icu:443/announce
+
 https://www.peckservers.com:9443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.gcrenwp.top:443/announce
-
-https://tr.ready4.icu:443/announce
 
