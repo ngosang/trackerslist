@@ -42,3 +42,4 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://1337.abcvg.info:80/announce
 
+http://jvavav.com:80/announce
