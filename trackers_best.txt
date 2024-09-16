@@ -4,9 +4,17 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.dump.cl:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://opentracker.io:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://isk.richardsw.club:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -14,9 +22,11 @@ udp://exodus.desync.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://tracker.dump.cl:6969/announce
+http://tracker.ipv6tracker.org:80/announce
 
-udp://tracker.bittor.pw:1337/announce
+http://tr.kxmp.cf:80/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -24,17 +34,7 @@ udp://run.publictracker.xyz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://opentracker.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
-udp://isk.richardsw.club:6969/announce
+udp://bt2.archive.org:6969/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.ipv6tracker.org:80/announce
-
-http://tr.kxmp.cf:80/announce
 

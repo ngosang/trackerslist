@@ -1,12 +1,16 @@
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://tracker.ipv6tracker.org:80/announce
 
 http://tr.kxmp.cf:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://tracker2.dler.org:80/announce
+
+http://tracker.dler.org:6969/announce
+
+http://www.peckservers.com:9000/announce
 
 http://wepzone.net:6969/announce
 
@@ -20,8 +24,6 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker-zhuqiy.dgj055.icu:80/announce
@@ -32,7 +34,17 @@ http://t.overflow.biz:6969/announce
 
 http://open.tracker.ink:6969/announce
 
+http://jvavav.com:80/announce
+
+http://ch3oh.ru:6969/announce
+
+http://canardscitrons.nohost.me:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://1337.abcvg.info:80/announce
 
 http://tracker3.itzmx.com:6961/announce
 
@@ -40,13 +52,5 @@ http://tracker2.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://mc.itscraftsoftware.my.id:8804/announce
-
-http://jvavav.com:80/announce
-
-http://ch3oh.ru:6969/announce
-
-http://bvarf.tracker.sh:2086/announce
-
-http://1337.abcvg.info:80/announce
+http://region.nl1.privex.cc:6969/announce
 
