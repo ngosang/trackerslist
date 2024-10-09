@@ -2,21 +2,19 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
+http://tracker.ipv6tracker.org:80/announce
+
+http://www.peckservers.com:9000/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
-http://tracker.files.fm:6969/announce
-
-http://tr.kxmp.cf:80/announce
-
-http://www.peckservers.com:9000/announce
-
 http://tracker.qu.ax:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.files.fm:6969/announce
 
 http://tracker.edkj.club:6969/announce
 
@@ -24,9 +22,7 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
-http://tracker-zhuqiy.dgj055.icu:80/announce
-
-http://torrenttracker.nwc.acsalaska.net:6969/announce
+http://tr.kxmp.cf:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -38,15 +34,13 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker4.itzmx.com:2710/announce
 
-http://tracker3.itzmx.com:6961/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.peckservers.com:9000/announce
 
-http://region.nl1.privex.cc:6969/announce
+http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://bvarf.tracker.sh:2086/announce
 
