@@ -1,10 +1,10 @@
 https://tracker.tamersunion.org:443/announce
 
+https://www.peckservers.com:9443/announce
+
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.lilithraws.org:443/announce
-
-https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.cloudit.top:443/announce
 
@@ -12,9 +12,9 @@ https://tracker-zhuqiy.dgj055.icu:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
-https://www.peckservers.com:9443/announce
-
 https://tracker.pmman.tech:443/announce
+
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
