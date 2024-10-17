@@ -6,23 +6,19 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
-udp://explodie.org:6969/announce
-
-udp://tracker.dump.cl:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.0x7c0.com:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://public.tracker.vraphim.com:6969/announce
+udp://open.tracker.ink:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
@@ -30,19 +26,25 @@ udp://leet-tracker.moe:1337/announce
 
 udp://isk.richardsw.club:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.theoks.net:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.dump.cl:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
 udp://bt.ktrackers.com:6666/announce
 
 udp://yahor.of.by:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -52,11 +54,13 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skynetcloud.site:6969/announce
+
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
 
@@ -71,6 +75,8 @@ udp://tracker.dler.org:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.ccp.ovh:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -92,13 +98,17 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://jutone.com:6969/announce
 
+udp://free.publictracker.xyz:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://amigacity.xyz:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
+
+udp://tracker.ddunlimited.net:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
