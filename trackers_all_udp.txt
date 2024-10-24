@@ -6,19 +6,25 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://explodie.org:6969/announce
 
-udp://tracker.skyts.net:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://moonburrow.club:6969/announce
+
+udp://bt.ktrackers.com:6666/announce
 
 udp://wepzone.net:6969/announce
 
@@ -30,8 +36,6 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.jamesthebard.net:6969/announce
@@ -42,6 +46,8 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
@@ -50,7 +56,9 @@ udp://tracker.darkness.services:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 udp://ryjer.com:6969/announce
 
@@ -60,8 +68,6 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://p2p.publictracker.xyz:6969/announce
@@ -69,8 +75,6 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://open.dstud.io:6969/announce
 
 udp://odd-hd.fr:6969/announce
-
-udp://moonburrow.club:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
@@ -95,6 +99,8 @@ udp://tracker.ddunlimited.net:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
+
+udp://freedomalternative.com:6969/announce
 
 udp://concen.org:6969/announce
 
