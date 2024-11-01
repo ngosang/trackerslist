@@ -15,6 +15,16 @@ https://academic-p2p.appspot.com/announce # malfunction
 http://bt.okmp3.ru:2710/announce # fake seeds
 udp://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker.breizh.pm:6969/announce # requested by sysadmin
+http://ehtracker.org:80/1/announce # registered torrents
+http://www.megatorrents.kg:80/announce.php # registered torrents
+https://tracker.monikadesign.uk:443/announce # registered torrents
+http://bt.beatrice-raws.org:80/announce # registered torrents
+https://bt.beatrice-raws.org:443/announce # registered torrents
+http://anidex.moe:6969/announce # registered torrents
+http://bt.nnm-club.info:2710/announce # registered torrents
+http://bt02.nnm-club.cc:2710/announce # registered torrents
+http://bt02.nnm-club.info:2710/announce # registered torrents
+http://tracker.xfapi.top:7070/announce # registered torrents
 https://torrents.linuxmint.com:443/announce.php # registered torrents
 http://torrents.linuxmint.com:80/announce.php # registered torrents
 http://ed2k.vip:7070/announce # registered torrents
@@ -145,6 +155,19 @@ http://bt2.edwardk.info:6969/announce # registered torrents
 http://open.nyaatorrents.info:6544/announce # registered torrents
 http://open.lolicon.eu:7777/announce # registered torrents
 http://torrent.resonatingmedia.com:6969/announce # registered torrents
+https://torrent.ubuntu.com:443/announce # registered torrents
+http://tracker.dm258.cn:7070/announce # registered torrents
+http://open.touki.ru:80/announce.php # registered torrents
+http://bt.edwardk.info:6767/announce # registered torrents
+http://tracker.enitin.xyz:80/announce # redirects to https://tracker.enitin.xyz/announce
+http://opentrackr.org:1337/announce # duplicate of http://tracker.opentrackr.org:1337/announce
+http://www.peckservers.com:9000/announce # duplicate of http://tracker.peckservers.com:9000/announce
+http://tracker.internetwarriors.net:1337/announce # duplicate of http://open.tracker.cl:1337/announce
+udp://tracker.internetwarriors.net:1337/announce # duplicate of udp://open.tracker.cl:1337/announce
+http://bt.edwardk.info:676/announce # duplicate of http://bt.edwardk.info:6767/announce
+http://bt.edwardk.info:63124/announce # duplicate of http://bt.edwardk.info:6767/announce
+http://bt.edwardk.info:12891/announce # duplicate of http://bt.edwardk.info:6767/announce
+https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 http://y.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
 http://z.paranoid.agency:6969/announce # duplicate of http://x.paranoid.agency:6969/announce
 udp://z.paranoid.agency:6969/announce # duplicate of udp://x.paranoid.agency:6969/announce
@@ -208,6 +231,7 @@ udp://tracker.tallpenguin.org:15800/announce # duplicate of udp://tracker.fatkho
 udp://tracker-de.ololosh.space:6969/announce # duplicate of udp://tracker.ololosh.space:6969/announce
 udp://tracker.dler.com:6969/announce # duplicate of udp://tracker.dler.org:6969/announce
 udp://tracker2.dler.com:80/announce # duplicate of udp://tracker2.dler.org:80/announce
+http://bz.tracker.bz:80/announce # duplicate of http://tracker.bz:80/announce
 http://openbittorrent.com:80/announce # duplicate of http://tracker.openbittorrent.com:80/announce
 udp://retracker.lanta-net.ru:2710/announce # duplicate of udp://tracker4.itzmx.com:2710/announce
 udp://openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce

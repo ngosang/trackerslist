@@ -1,2 +1,2 @@
-wss://tracker.webtorrent.dev
+wss://tracker.webtorrent.dev:443/announce
 
