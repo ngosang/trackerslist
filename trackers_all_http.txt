@@ -68,9 +68,9 @@ http://0123456789nonexistent.com:80/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
-http://wepzone.net:6969/announce
-
 http://tracker2.dler.org:80/announce
+
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.srv00.com:6969/announce
 
@@ -78,13 +78,9 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.peckservers.com:9000/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.edkj.club:6969/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -104,6 +100,8 @@ http://p4p.arenabg.com:1337/announce
 
 http://open.acgtracker.com:1096/announce
 
+http://fleira.no:6969/announce
+
 http://ch3oh.ru:6969/announce
 
 http://canardscitrons.nohost.me:6969/announce
@@ -114,13 +112,15 @@ http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker.waaa.moe:6969/announce
+http://tracker.mywaifu.best:6969/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://ftp.pet:6969/announce
+http://rfc5746.mywaifu.best:6969/announce
 
-http://fleira.no:6969/announce
+http://ftp.pet:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
