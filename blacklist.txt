@@ -260,6 +260,7 @@ http://tracker.kali.org:6969/announce # registered torrents
 http://tracker.etree.org:6969/announce # registered torrents
 udp://www.mvgroup.org:2710/announce # registered torrents
 http://www.megatorrents.kg:80/announce.php # registered torrents
+udp://torrents.artixlinux.org:6969/announce # registered torrents
 udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
 http://pow7.com:80/announce # malfunction issue #374
