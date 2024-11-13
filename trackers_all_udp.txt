@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
@@ -10,19 +8,23 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://opentracker.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
+
 udp://explodie.org:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
-udp://opentracker.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
 
@@ -30,25 +32,19 @@ udp://leet-tracker.moe:1337/announce
 
 udp://isk.richardsw.club:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
-udp://yahor.of.by:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://moonburrow.club:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://z.mercax.com:53/announce
+
+udp://yahor.of.by:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -86,6 +82,8 @@ udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://trackarr.org:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -114,6 +112,8 @@ udp://jutone.com:6969/announce
 
 udp://ismaarino.com:1234/announce
 
+udp://ipv4.rer.lol:2710/announce
+
 udp://evan.im:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -130,7 +130,7 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://ipv4.rer.lol:2710/announce
+udp://freedomalternative.com:6969/announce
 
 udp://concen.org:6969/announce
 
