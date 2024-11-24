@@ -8,33 +8,33 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://explodie.org:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://isk.richardsw.club:6969/announce
+udp://opentracker.io:6969/announce
 
-udp://explodie.org:6969/announce
+udp://exodus.desync.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+https://tracker.tamersunion.org:443/announce
 
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
 
+http://tracker810.xyz:11450/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
+
 http://tracker.vanitycore.co:6969/announce
-
-http://tracker.lintk.me:2710/announce
-
-http://tracker.dmcomic.org:2710/announce
-
-http://retracker.spark-rostov.ru:80/announce
-
-http://open.trackerlist.xyz:80/announce
-
-http://highteahop.top:6960/announce
-
-http://bt.poletracker.org:2710/announce
-
-http://0d.kebhana.mx:443/announce
-
-http://0123456789nonexistent.com:80/announce
 
