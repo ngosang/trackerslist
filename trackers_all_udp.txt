@@ -8,31 +8,25 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
 udp://explodie.org:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://opentracker.io:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.dump.cl:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
-
-udp://public.tracker.vraphim.com:6969/announce
-
-udp://opentracker.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
 udp://z.mercax.com:53/announce
+
+udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -43,6 +37,8 @@ udp://tracker1.myporn.club:9337/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -58,13 +54,13 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://trackarr.org:6969/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -104,9 +100,9 @@ udp://tracker.vds.nz:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.darkness.services:6969/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://ismaarino.com:1234/announce
 
