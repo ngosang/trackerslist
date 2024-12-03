@@ -90,8 +90,6 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tr1.aag.moe:2095/announce
 
-http://tr.nyacat.pw:80/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://t.overflow.biz:6969/announce
@@ -99,8 +97,6 @@ http://t.overflow.biz:6969/announce
 http://p4p.arenabg.com:1337/announce
 
 http://open.acgtracker.com:1096/announce
-
-http://fleira.no:6969/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -111,6 +107,10 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tr.nyacat.pw:80/announce
+
+http://fleira.no:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
