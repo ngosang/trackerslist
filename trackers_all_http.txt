@@ -1,7 +1,5 @@
 http://tracker.opentrackr.org:1337/announce
 
-http://open.tracker.cl:1337/announce
-
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
@@ -46,8 +44,6 @@ http://seeders-paradise.org:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 http://open.trackerlist.xyz:80/announce
 
 http://home.yxgz.club:6969/announce
@@ -66,6 +62,14 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
+http://public.tracker.vraphim.com:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker.renfei.net:8080/announce
+
+http://p4p.arenabg.com:1337/announce
+
 http://wepzone.net:6969/announce
 
 http://tracker2.dler.org:80/announce
@@ -73,8 +77,6 @@ http://tracker2.dler.org:80/announce
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.srv00.com:6969/announce
-
-http://tracker.renfei.net:8080/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -90,13 +92,15 @@ http://tracker-zhuqiy.dgj055.icu:80/announce
 
 http://tr1.aag.moe:2095/announce
 
+http://tr.nyacat.pw:80/announce
+
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-http://p4p.arenabg.com:1337/announce
-
 http://open.acgtracker.com:1096/announce
+
+http://fleira.no:6969/announce
 
 http://ch3oh.ru:6969/announce
 
@@ -107,10 +111,6 @@ http://tracker4.itzmx.com:2710/announce
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker1.itzmx.com:8080/announce
-
-http://tr.nyacat.pw:80/announce
-
-http://fleira.no:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
