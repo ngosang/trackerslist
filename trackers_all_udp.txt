@@ -1,5 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://open.demonii.com:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://open.stealth.si:80/announce
@@ -12,21 +14,17 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
 udp://opentracker.io:6969/announce
 
-udp://open.free-tracker.ga:6969/announce
-
 udp://ns-1.x-fins.com:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
 
 udp://public.tracker.vraphim.com:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://z.mercax.com:53/announce
 
@@ -53,6 +51,8 @@ udp://tracker.gigantino.net:6969/announce
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.edkj.club:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -84,6 +84,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://jutone.com:6969/announce
 
+udp://ismaarino.com:1234/announce
+
 udp://evan.im:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -92,15 +94,13 @@ udp://bt.ktrackers.com:6666/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 udp://amigacity.xyz:6969/announce
 
 udp://tracker.vds.nz:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://ismaarino.com:1234/announce
+udp://serpb.vpsburti.com:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -109,4 +109,6 @@ udp://concen.org:6969/announce
 udp://bt.rer.lol:6969/announce
 
 udp://bt.rer.lol:2710/announce
+
+udp://bandito.byterunner.io:6969/announce
 
