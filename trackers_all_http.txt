@@ -62,11 +62,9 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
-
 http://public.tracker.vraphim.com:6969/announce
 
-http://p4p.arenabg.com:1337/announce
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://wepzone.net:6969/announce
 
@@ -97,6 +95,8 @@ http://tr.nyacat.pw:80/announce
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://t.overflow.biz:6969/announce
+
+http://p4p.arenabg.com:1337/announce
 
 http://open.acgtracker.com:1096/announce
 
