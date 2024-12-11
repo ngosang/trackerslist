@@ -4,23 +4,21 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://open.stealth.si:80/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
 udp://opentracker.io:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 http://www.torrentsnipe.info:2701/announce
 
@@ -92,7 +90,9 @@ udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-https://tracker.cloudit.top:443/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 udp://z.mercax.com:53/announce
 
@@ -140,8 +140,6 @@ udp://serpb.vpsburti.com:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
-
 udp://retracker.lanta.me:2710/announce
 
 udp://p4p.arenabg.com:1337/announce
@@ -157,6 +155,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://jutone.com:6969/announce
 
 udp://ismaarino.com:1234/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -184,15 +184,15 @@ https://tracker.ipfsscan.io:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
+https://tracker.cloudit.top:443/announce
+
 https://tracker.bt4g.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://tr.nyacat.pw:443/announce
-
-https://sparkle.ghostchu-services.top:443/announce
-
-https://api.ipv4online.uk:443/announce
 
 http://wepzone.net:6969/announce
 
@@ -236,7 +236,7 @@ udp://concen.org:6969/announce
 
 https://tracker.leechshield.link:443/announce
 
-https://tr.zukizuki.org:443/announce
+https://api.ipv4online.uk:443/announce
 
 http://tracker4.itzmx.com:2710/announce
 

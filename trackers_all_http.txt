@@ -64,6 +64,8 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
+http://tracker1.bt.moack.co.kr:80/announce
+
 http://wepzone.net:6969/announce
 
 http://tracker2.dler.org:80/announce
