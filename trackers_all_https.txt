@@ -4,8 +4,6 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tracker.leechshield.link:443/announce
-
 https://tracker.ipfsscan.io:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -23,4 +21,6 @@ https://tr.nyacat.pw:443/announce
 https://sparkle.ghostchu-services.top:443/announce
 
 https://api.ipv4online.uk:443/announce
+
+https://tracker.leechshield.link:443/announce
 
