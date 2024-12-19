@@ -8,23 +8,19 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
-udp://leet-tracker.moe:1337/announce
-
-udp://isk.richardsw.club:6969/announce
+udp://open.free-tracker.ga:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-http://www.torrentsnipe.info:2701/announce
-
-http://tracker810.xyz:11450/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://tracker.moxing.party:6969/announce
+http://tracker.vanitycore.co:6969/announce
 
 http://tracker.lintk.me:2710/announce
 
@@ -36,5 +32,9 @@ http://tracker.bt-hash.com:80/announce
 
 http://shubt.net:2710/announce
 
-http://share.hkg-fansub.info:80/announce.php
+http://seeders-paradise.org:80/announce
+
+http://home.yxgz.club:6969/announce
+
+http://buny.uk:6969/announce
 
