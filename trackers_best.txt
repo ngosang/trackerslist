@@ -16,25 +16,25 @@ udp://opentracker.io:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-http://www.torrentsnipe.info:2701/announce
-
-http://tracker.moxing.party:6969/announce
-
-http://tracker.corpscorp.online:80/announce
-
-http://share.hkg-fansub.info:80/announce.php
-
-http://open.trackerlist.xyz:80/announce
-
-http://finbytes.org:80/announce.php
-
-http://bt.poletracker.org:2710/announce
-
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://isk.richardsw.club:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
+
+http://www.torrentsnipe.info:2701/announce
+
+http://www.genesis-sp.org:2710/announce
+
+http://tracker810.xyz:11450/announce
 
