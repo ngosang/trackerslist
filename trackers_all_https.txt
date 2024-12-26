@@ -10,6 +10,8 @@ https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.ipfsscan.io:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.cloudit.top:443/announce
 
 https://tracker.bt4g.com:443/announce
