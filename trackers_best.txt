@@ -6,19 +6,15 @@ http://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://explodie.org:6969/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker2.dler.org:80/announce
-
-udp://tracker.tiny-vps.com:6969/announce
+udp://explodie.org:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.dump.cl:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -37,4 +33,8 @@ udp://discord.heihachi.pw:6969/announce
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
+
+http://tracker810.xyz:11450/announce
+
+http://tracker.xiaoduola.xyz:6969/announce
 
