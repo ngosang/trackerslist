@@ -2,6 +2,10 @@ https://tracker.cloudit.top:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
+https://tracker.leechshield.link:443/announce
+
 https://tracker.bt4g.com:443/announce
 
 https://tracker-zhuqiy.dgj055.icu:443/announce
@@ -10,13 +14,9 @@ https://tr.zukizuki.org:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://sparkle.ghostchu-services.top:443/announce
+
 https://api.ipv4online.uk:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
-https://tracker.leechshield.link:443/announce
-
 https://tracker.gcrenwp.top:443/announce
-
-https://sparkle.ghostchu-services.top:443/announce
 
