@@ -1,4 +1,2 @@
 wss://tracker.webtorrent.dev:443/announce
 
-wss://tracker.files.fm:7073/announce
-
