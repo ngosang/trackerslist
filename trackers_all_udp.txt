@@ -4,9 +4,9 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
@@ -24,6 +24,8 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -38,9 +40,11 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -74,8 +78,6 @@ udp://ismaarino.com:1234/announce
 
 udp://isk.richardsw.club:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -88,9 +90,13 @@ udp://bandito.byterunner.io:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://evan.im:6969/announce
 
 udp://concen.org:6969/announce
 

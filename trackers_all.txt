@@ -4,13 +4,13 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 http://open.tracker.cl:1337/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
@@ -28,6 +28,8 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skyts.net:6969/announce
@@ -42,9 +44,11 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.darkness.services:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -78,8 +82,6 @@ udp://ismaarino.com:1234/announce
 
 udp://isk.richardsw.club:6969/announce
 
-udp://evan.im:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
@@ -93,10 +95,6 @@ udp://bandito.byterunner.io:6969/announce
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.pmman.tech:443/announce
-
-https://tracker.linvk.com:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -192,8 +190,6 @@ http://fleira.no:6969/announce
 
 http://finbytes.org:80/announce.php
 
-http://ch3oh.ru:6969/announce
-
 http://buny.uk:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
@@ -208,15 +204,23 @@ http://0123456789nonexistent.com:80/announce
 
 udp://tracker.fnix.net:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
+udp://evan.im:6969/announce
+
 udp://concen.org:6969/announce
+
+https://tracker.linvk.com:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
 
-http://1337.abcvg.info:80/announce
+http://ch3oh.ru:6969/announce
 
