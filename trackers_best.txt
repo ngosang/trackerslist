@@ -2,13 +2,15 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-http://open.tracker.cl:1337/announce
+udp://open.tracker.cl:1337/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -24,12 +26,6 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -37,4 +33,8 @@ udp://tracker.qu.ax:6969/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
