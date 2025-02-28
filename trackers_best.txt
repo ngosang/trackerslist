@@ -4,25 +4,29 @@ udp://open.demonii.com:1337/announce
 
 http://open.tracker.cl:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker-udp.gbitt.info:80/announce
-
-udp://opentracker.io:6969/announce
-
-udp://open.free-tracker.ga:6969/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
+udp://tracker.ololosh.space:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://opentracker.io:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -32,9 +36,5 @@ http://www.genesis-sp.org:2710/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker.skyts.net:6969/announce
-
-http://tracker.bz:80/announce
-
-http://shubt.net:2710/announce
+http://tracker.vanitycore.co:6969/announce
 
