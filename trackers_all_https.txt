@@ -20,5 +20,3 @@ https://tr.zukizuki.org:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://sparkle.ghostchu-services.top:443/announce
-
