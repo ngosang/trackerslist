@@ -10,7 +10,7 @@ udp://23.157.120.14:6969/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://34.94.76.146:6969/announce
+udp://83.146.105.110:6969/announce
 
 udp://35.227.59.57:6969/announce
 
@@ -18,11 +18,11 @@ udp://35.227.59.57:1337/announce
 
 http://35.227.59.57:6969/announce
 
+http://35.227.59.57:2710/announce
+
 http://35.227.59.57:80/announce
 
-http://34.94.76.146:80/announce
-
-http://34.94.76.146:6969/announce
+http://34.89.91.10:2710/announce
 
 http://35.227.59.57:80/announce.php
 
@@ -34,7 +34,7 @@ udp://51.222.82.36:6969/announce
 
 udp://60.249.37.20:80/announce
 
-udp://135.125.202.143:6969/announce
+udp://193.42.111.57:9337/announce
 
-udp://83.146.105.110:6969/announce
+udp://135.125.202.143:6969/announce
 
