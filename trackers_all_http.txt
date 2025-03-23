@@ -1,18 +1,16 @@
 http://tracker.opentrackr.org:1337/announce
 
-http://tracker810.xyz:11450/announce
-
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
 
 http://wepzone.net:6969/announce
 
+http://tracker810.xyz:11450/announce
+
 http://tracker2.dler.org:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
-
-http://tracker.waaa.moe:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -34,7 +32,7 @@ http://tracker.dmcomic.org:2710/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.dler.com:6969/announce
+http://tracker.darkness.services:6969/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -45,6 +43,8 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
 http://t.jaekr.sh:6969/announce
 
@@ -62,6 +62,8 @@ http://p4p.arenabg.com:1337/announce
 
 http://open.trackerlist.xyz:80/announce
 
+http://open.acgtracker.com:1096/announce
+
 http://home.yxgz.club:6969/announce
 
 http://highteahop.top:6960/announce
@@ -70,11 +72,17 @@ http://fleira.no:6969/announce
 
 http://finbytes.org:80/announce.php
 
+http://ch3oh.ru:6969/announce
+
 http://buny.uk:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
 http://bt.poletracker.org:2710/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://1337.abcvg.info:80/announce
 
 http://0d.kebhana.mx:443/announce
 
@@ -82,23 +90,15 @@ http://0123456789nonexistent.com:80/announce
 
 http://tracker.zhuqiy.top:80/announce
 
+http://tracker.waaa.moe:6969/announce
+
 http://tracker.ghostchu-services.top:80/announce
 
-http://tracker.darkness.services:6969/announce
+http://tracker.dler.com:6969/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
-
 http://t.overflow.biz:6969/announce
-
-http://open.acgtracker.com:1096/announce
-
-http://ch3oh.ru:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-http://1337.abcvg.info:80/announce
 
