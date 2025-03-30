@@ -1,12 +1,12 @@
 https://tracker.yemekyedim.com:443/announce
 
+https://tracker.lilithraws.org:443/announce
+
 https://tracker.bt4g.com:443/announce
 
 https://tracker.zhuqiy.top:443/announce
 
 https://tracker.linvk.com:443/announce
-
-https://tracker.lilithraws.org:443/announce
 
 https://tracker.leechshield.link:443/announce
 
