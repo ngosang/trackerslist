@@ -1,9 +1,5 @@
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker.pmman.tech:443/announce
-
-https://tracker.lilithraws.org:443/announce
-
 https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -19,6 +15,8 @@ https://sparkle.ghostchu-services.top:443/announce
 https://tracker.zhuqiy.top:443/announce
 
 https://tracker.linvk.com:443/announce
+
+https://tracker.lilithraws.org:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
