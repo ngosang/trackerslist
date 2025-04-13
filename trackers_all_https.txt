@@ -1,5 +1,7 @@
 https://tracker.yemekyedim.com:443/announce
 
+https://tracker.pmman.tech:443/announce
+
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.linvk.com:443/announce
