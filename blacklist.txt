@@ -15,6 +15,7 @@ https://academic-p2p.appspot.com/announce # malfunction
 http://bt.okmp3.ru:2710/announce # fake seeds
 udp://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker.breizh.pm:6969/announce # requested by sysadmin
+http://tracker2.postman.i2p/announce.php # registered torrents
 http://ehtracker.org:80/1/announce # registered torrents
 http://www.megatorrents.kg:80/announce.php # registered torrents
 https://tracker.monikadesign.uk:443/announce # registered torrents
