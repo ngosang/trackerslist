@@ -98,8 +98,6 @@ http://fosstorrents.com:6969/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://1337.abcvg.info:80/announce
-
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.zhuqiy.top:80/announce
@@ -107,4 +105,6 @@ http://tracker.zhuqiy.top:80/announce
 http://tracker.23794.top:6969/announce
 
 http://chihaya.de:80/announce
+
+http://1337.abcvg.info:80/announce
 
