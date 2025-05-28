@@ -6,13 +6,7 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.linvk.com:443/announce
-
-https://tracker.leechshield.link:443/announce
-
-https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.gcrenwp.top:443/announce
+https://tracker.itscraftsoftware.my.id:443/announce
 
 https://tracker.expli.top:443/announce
 
@@ -22,7 +16,13 @@ https://tr.zukizuki.org:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://sparkle.ghostchu-services.top:443/announce
+https://tracker.linvk.com:443/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
+https://tracker.leechshield.link:443/announce
+
+https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.gcrenwp.top:443/announce
+
+https://sparkle.ghostchu-services.top:443/announce
 
