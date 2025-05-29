@@ -4,13 +4,15 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.skyts.net:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
+udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.dump.cl:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://wepzone.net:6969/announce
 
@@ -20,7 +22,7 @@ udp://tracker2.dler.org:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
@@ -64,15 +66,9 @@ udp://opentracker.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://open.dstud.io:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://leet-tracker.moe:1337/announce
-
-udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -82,15 +78,13 @@ udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://www.2600.com:6969/announce
-
-udp://tracker.therarbg.to:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.deadorbit.nl:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
-udp://open.dstud.io:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
