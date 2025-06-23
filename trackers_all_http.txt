@@ -8,10 +8,6 @@ http://wepzone.net:6969/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker2.dler.org:80/announce
-
-http://tracker.zhuqiy.top:80/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
@@ -32,9 +28,9 @@ http://tracker.lintk.me:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.ghostchu-services.top:80/announce
-
 http://tracker.dmcomic.org:2710/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -78,15 +74,21 @@ http://bt1.xxxxbt.cc:6969/announce
 
 http://bt.poletracker.org:2710/announce
 
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
 http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker.zhuqiy.top:80/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.darkness.services:6969/announce
 
@@ -97,6 +99,4 @@ http://tracker.23794.top:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://t.overflow.biz:6969/announce
-
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
