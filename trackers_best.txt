@@ -8,33 +8,33 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.bittor.pw:1337/announce
+
+udp://open.free-tracker.ga:6969/announce
+
 udp://explodie.org:6969/announce
 
-udp://wepzone.net:6969/announce
+http://tracker810.xyz:11450/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
+http://tracker.xiaoduola.xyz:6969/announce
 
-udp://tracker2.dler.org:80/announce
+http://tracker.vanitycore.co:6969/announce
 
-udp://tracker.tryhackx.org:6969/announce
+http://tracker.sbsub.com:2710/announce
 
-udp://tracker.srv00.com:6969/announce
+http://tracker.lintk.me:2710/announce
 
-udp://tracker.qu.ax:6969/announce
+http://tracker.ipv6tracker.org:80/announce
 
-udp://tracker.gmi.gd:6969/announce
+http://tracker.dmcomic.org:2710/announce
 
-udp://tracker.gigantino.net:6969/announce
+http://tracker.corpscorp.online:80/announce
 
-udp://tracker.filemail.com:6969/announce
+http://tracker.bz:80/announce
 
-udp://tracker.dler.org:6969/announce
+http://tracker.bt-hash.com:80/announce
 
-udp://tracker.darkness.services:6969/announce
+http://t.jaekr.sh:6969/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://t.overflow.biz:6969/announce
+http://shubt.net:2710/announce
 
