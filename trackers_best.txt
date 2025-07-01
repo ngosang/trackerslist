@@ -1,40 +1,40 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://explodie.org:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://wepzone.net:6969/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
+
+udp://tracker2.dler.org:80/announce
+
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
+udp://tracker.qu.ax:6969/announce
 
-http://www.torrentsnipe.info:2701/announce
+udp://tracker.ololosh.space:6969/announce
 
-http://www.genesis-sp.org:2710/announce
+udp://tracker.fnix.net:6969/announce
 
-http://tracker810.xyz:11450/announce
+udp://tracker.filemail.com:6969/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
+udp://tracker.dump.cl:6969/announce
 
-http://tracker.moxing.party:6969/announce
+udp://tracker.dler.org:6969/announce
 
-http://tracker.bz:80/announce
-
-http://tracker.bt-hash.com:80/announce
-
-http://retracker.spark-rostov.ru:80/announce
-
-http://highteahop.top:6960/announce
-
-http://finbytes.org:80/announce.php
-
-http://bt1.xxxxbt.cc:6969/announce
-
-http://bt.poletracker.org:2710/announce
+udp://tracker.darkness.services:6969/announce
 
