@@ -1,5 +1,13 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.hifimarket.in:2710/announce
+
+udp://tracker.healthcareindia.store:1337/announce
+
+udp://hificode.in:6969/announce
+
 http://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
