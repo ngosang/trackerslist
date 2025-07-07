@@ -6,11 +6,11 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://wepzone.net:6969/announce
 
@@ -18,11 +18,13 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.therarbg.to:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -30,7 +32,9 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -66,7 +70,7 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://leet-tracker.moe:1337/announce
 
-udp://isk.richardsw.club:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -118,8 +122,6 @@ http://tracker.zhuqiy.top:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.sbsub.com:2710/announce
@@ -153,8 +155,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
-
-http://tracker.23794.top:6969/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -200,13 +200,11 @@ http://0123456789nonexistent.com:80/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.therarbg.to:6969/announce
 
-udp://tracker.gigantino.net:6969/announce
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
-
-udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -216,7 +214,9 @@ udp://bt.rer.lol:6969/announce
 
 udp://bt.rer.lol:2710/announce
 
-https://tracker.itscraftsoftware.my.id:443/announce
-
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker.waaa.moe:6969/announce
+
+http://tracker.23794.top:6969/announce
 

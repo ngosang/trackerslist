@@ -14,8 +14,6 @@ http://tracker.zhuqiy.top:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.sbsub.com:2710/announce
@@ -49,8 +47,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
-
-http://tracker.23794.top:6969/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -95,4 +91,8 @@ http://0d.kebhana.mx:443/announce
 http://0123456789nonexistent.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker.waaa.moe:6969/announce
+
+http://tracker.23794.top:6969/announce
 
