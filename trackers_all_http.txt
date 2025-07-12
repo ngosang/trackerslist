@@ -38,8 +38,6 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.corpscorp.online:80/announce
 
 http://tracker.bz:80/announce
@@ -53,8 +51,6 @@ http://tracker.bittor.pw:1337/announce
 http://tracker.23794.top:6969/announce
 
 http://tr.kxmp.cf:80/announce
-
-http://taciturn-shadow.spb.ru:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -97,6 +93,8 @@ http://0d.kebhana.mx:443/announce
 http://0123456789nonexistent.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.dler.com:6969/announce
 
