@@ -8,8 +8,6 @@ http://wepzone.net:6969/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
@@ -31,10 +29,6 @@ http://tracker.lintk.me:2710/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.dmcomic.org:2710/announce
-
-http://tracker.dler.org:6969/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -86,6 +80,8 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.zhuqiy.top:80/announce
@@ -93,6 +89,10 @@ http://tracker.zhuqiy.top:80/announce
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
+
+http://tracker.dler.org:6969/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.23794.top:6969/announce
 
