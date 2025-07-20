@@ -1,5 +1,17 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.zupix.online:2710/announce
+
+udp://tracker.zupix.online:1337/announce
+
+udp://tracker.zupix.online:1333/announce
+
+udp://tracker.zupix.online:8000/announce
+
+udp://tracker.zupix.online:6969/announce
+
+udp://zupix.online:6969/announce
+
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://open.demonii.com:1337/announce
