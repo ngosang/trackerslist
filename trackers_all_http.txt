@@ -4,6 +4,8 @@ http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
 
+http://wepzone.net:6969/announce
+
 http://tracker810.xyz:11450/announce
 
 http://tracker2.dler.org:80/announce
@@ -78,15 +80,11 @@ http://bt1.xxxxbt.cc:6969/announce
 
 http://bt.poletracker.org:2710/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://1337.abcvg.info:80/announce
 
 http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
-
-http://wepzone.net:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -97,4 +95,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.23794.top:6969/announce
+
+http://taciturn-shadow.spb.ru:6969/announce
 
