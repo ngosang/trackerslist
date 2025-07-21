@@ -68,6 +68,8 @@ http://p4p.arenabg.com:1337/announce
 
 http://open.trackerlist.xyz:80/announce
 
+http://open.tracker.cl:1337/announce
+
 http://home.yxgz.club:6969/announce
 
 http://highteahop.top:6960/announce
@@ -80,7 +82,7 @@ http://bt1.xxxxbt.cc:6969/announce
 
 http://bt.poletracker.org:2710/announce
 
-http://1337.abcvg.info:80/announce
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://0d.kebhana.mx:443/announce
 
@@ -94,7 +96,9 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
+http://tracker.darkness.services:6969/announce
+
 http://tracker.23794.top:6969/announce
 
-http://taciturn-shadow.spb.ru:6969/announce
+http://1337.abcvg.info:80/announce
 
