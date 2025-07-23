@@ -54,8 +54,6 @@ http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
 
-http://tracker.23794.top:6969/announce
-
 http://taciturn-shadow.spb.ru:6969/announce
 
 http://t.overflow.biz:6969/announce
