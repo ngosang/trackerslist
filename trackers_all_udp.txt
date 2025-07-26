@@ -6,13 +6,11 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://explodie.org:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://explodie.org:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -33,8 +31,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -69,6 +65,8 @@ udp://bt.ktrackers.com:6666/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://1c.premierzal.ru:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 

@@ -10,13 +10,11 @@ http://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://explodie.org:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://explodie.org:6969/announce
-
-udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -37,8 +35,6 @@ udp://tracker.fnix.net:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -76,8 +72,6 @@ udp://1c.premierzal.ru:6969/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.gcrenwp.top:443/announce
@@ -89,8 +83,6 @@ https://tracker.bt4g.com:443/announce
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
-
-http://wepzone.net:6969/announce
 
 http://tracker810.xyz:11450/announce
 
@@ -146,8 +138,6 @@ http://seeders-paradise.org:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://region.nl1.privex.cc:6969/announce
-
 http://public.tracker.vraphim.com:6969/announce
 
 http://p4p.arenabg.com:1337/announce
@@ -171,6 +161,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
+
+udp://wepzone.net:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
@@ -198,6 +190,8 @@ udp://bandito.byterunner.io:6969/announce
 
 https://tracker.zhuqiy.top:443/announce
 
+https://tracker.pmman.tech:443/announce
+
 https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -205,6 +199,8 @@ https://tracker.ghostchu-services.top:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://sparkle.ghostchu-services.top:443/announce
+
+http://wepzone.net:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -215,6 +211,8 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.darkness.services:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
 
