@@ -6,11 +6,13 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://explodie.org:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://explodie.org:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -18,15 +20,13 @@ udp://tracker2.dler.org:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.srv00.com:6969/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
