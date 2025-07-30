@@ -161,6 +161,9 @@ http://tracker.dm258.cn:7070/announce # registered torrents
 http://open.touki.ru:80/announce.php # registered torrents
 http://bt.edwardk.info:6767/announce # registered torrents
 http://tracker.enitin.xyz:80/announce # redirects to https://tracker.enitin.xyz/announce
+udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
+udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 http://opentrackr.org:1337/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 http://www.peckservers.com:9000/announce # duplicate of http://tracker.peckservers.com:9000/announce
 http://tracker.internetwarriors.net:1337/announce # duplicate of http://open.tracker.cl:1337/announce
