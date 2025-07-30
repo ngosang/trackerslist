@@ -1,7 +1,5 @@
 http://tracker.opentrackr.org:1337/announce
 
-http://open.tracker.cl:1337/announce
-
 http://www.torrentsnipe.info:2701/announce
 
 http://tracker.sbsub.com:2710/announce
@@ -67,8 +65,6 @@ http://tracker.corpscorp.online:80/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bittor.pw:1337/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://torrent.hificode.in:6969/announce
 
