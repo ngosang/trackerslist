@@ -2,8 +2,6 @@ https://tracker.zhuqiy.top:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.leechshield.link:443/announce
@@ -22,7 +20,7 @@ https://tracker.aburaya.live:443/announce
 
 https://tr.zukizuki.org:443/announce
 
-https://t.213891.xyz:443/announce
-
 https://pybittrack.retiolus.net:443/announce
+
+https://t.213891.xyz:443/announce
 
