@@ -1,5 +1,7 @@
 http://tracker.opentrackr.org:1337/announce
 
+http://open.tracker.cl:1337/announce
+
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
@@ -24,8 +26,6 @@ http://tracker.vanitycore.co:6969/announce
 
 http://tracker.valete.tf:9999/announce
 
-http://tracker.tritan.gg:8080/announce
-
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.renfei.net:8080/announce
@@ -42,9 +42,9 @@ http://tracker.lintk.me:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.ghostchu-services.top:80/announce
-
 http://tracker.dmcomic.org:2710/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.cutie.dating:80/announce
 
@@ -108,7 +108,9 @@ http://0123456789nonexistent.com:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.tritan.gg:8080/announce
+
+http://tracker.ghostchu-services.top:80/announce
 
 http://1337.abcvg.info:80/announce
 
