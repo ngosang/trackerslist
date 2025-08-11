@@ -1,5 +1,7 @@
 http://tracker.opentrackr.org:1337/announce
 
+http://open.tracker.cl:1337/announce
+
 http://www.torrentsnipe.info:2701/announce
 
 http://www.genesis-sp.org:2710/announce
@@ -7,8 +9,6 @@ http://www.genesis-sp.org:2710/announce
 http://wepzone.net:6969/announce
 
 http://tracker810.xyz:11450/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker1.bt.moack.co.kr:80/announce
 
@@ -44,8 +44,6 @@ http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.cutie.dating:80/announce
 
 http://tracker.corpscorp.online:80/announce
@@ -57,8 +55,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
-
-http://tracker.23794.top:6969/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -82,8 +78,6 @@ http://p4p.arenabg.com:1337/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://open.tracker.cl:1337/announce
-
 http://ipv4.rer.lol:2710/announce
 
 http://home.yxgz.club:6969/announce
@@ -106,9 +100,15 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.tritan.gg:8080/announce
+
+http://tracker.dler.org:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 http://1337.abcvg.info:80/announce
 
