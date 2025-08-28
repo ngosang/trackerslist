@@ -6,8 +6,6 @@ http://www.genesis-sp.org:2710/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
@@ -83,6 +81,8 @@ http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 

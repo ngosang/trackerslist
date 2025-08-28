@@ -24,7 +24,7 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.fnix.net:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
