@@ -20,9 +20,9 @@ https://tr.zukizuki.org:443/announce
 
 https://t1.hloli.org:443/announce
 
-https://api.ipv4online.uk:443/announce
-
 https://tracker.leechshield.link:443/announce
 
 https://tracker.aburaya.live:443/announce
+
+https://api.ipv4online.uk:443/announce
 

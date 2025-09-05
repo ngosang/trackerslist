@@ -6,9 +6,11 @@ udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.srv00.com:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -24,17 +26,15 @@ udp://tracker.zupix.online:6969/announce
 
 udp://tracker.wepzone.net:6969/announce
 
+udp://tracker.valete.tf:9999/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.hifimarket.in:2710/announce
 

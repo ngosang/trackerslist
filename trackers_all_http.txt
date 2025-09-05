@@ -78,6 +78,8 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
+http://passpulse.net:8000/announce
+
 http://p4p.arenabg.com:1337/announce
 
 http://open.trackerlist.xyz:80/announce
@@ -85,8 +87,6 @@ http://open.trackerlist.xyz:80/announce
 http://ipv4.rer.lol:2710/announce
 
 http://home.yxgz.club:6969/announce
-
-http://highteahop.top:6960/announce
 
 http://finbytes.org:80/announce.php
 
@@ -107,6 +107,10 @@ http://0123456789nonexistent.com:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.tritan.gg:8080/announce
+
+http://tracker.darkness.services:6969/announce
+
+http://highteahop.top:6960/announce
 
 http://1337.abcvg.info:80/announce
 
