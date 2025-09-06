@@ -1,7 +1,5 @@
 wss://tracker.btorrent.xyz:443
 
-ws://passpulse.net:8000/announce
-
 wss://tracker.webtorrent.dev:443
 
 wss://tracker.ghostchu-services.top:443/announce
