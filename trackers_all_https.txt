@@ -16,6 +16,8 @@ https://t1.hloli.org:443/announce
 
 https://api.ipv4online.uk:443/announce
 
+https://tracker.zhuqiy.top:443/announce
+
 https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
