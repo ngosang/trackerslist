@@ -6,41 +6,25 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://explodie.org:6969/announce
 
-udp://wepzone.net:6969/announce
+udp://exodus.desync.com:6969/announce
 
-udp://udp.tracker.projectk.org:23333/announce
+udp://tracker.theoks.net:6969/announce
+
+udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.zupix.online:6969/announce
-
-udp://tracker.wepzone.net:6969/announce
-
-udp://tracker.valete.tf:9999/announce
-
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.torrust-demo.com:6969/announce
-
-udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.skillindia.site:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.hifimarket.in:2710/announce
 
@@ -48,13 +32,11 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.dler.org:6969/announce
 
-udp://tracker.bitcoinindia.space:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -63,8 +45,6 @@ udp://t.overflow.biz:6969/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://retracker.lanta.me:2710/announce
-
-udp://public.tracker.vraphim.com:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -81,8 +61,6 @@ udp://martin-gebhardt.eu:25/announce
 udp://leet-tracker.moe:1337/announce
 
 udp://isk.richardsw.club:6969/announce
-
-udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://hificode.in:6969/announce
 
@@ -110,8 +88,6 @@ https://tracker.moeblog.cn:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-https://tracker.expli.top:443/announce
-
 https://tracker.bt4g.com:443/announce
 
 https://t1.hloli.org:443/announce
@@ -126,13 +102,11 @@ http://wepzone.net:6969/announce
 
 http://tracker810.xyz:11450/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
-
-http://tracker.wepzone.net:6969/announce
-
-http://tracker.waaa.moe:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -178,8 +152,6 @@ http://seeders-paradise.org:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
-http://public.tracker.vraphim.com:6969/announce
-
 http://p4p.arenabg.com:1337/announce
 
 http://open.trackerlist.xyz:80/announce
@@ -204,9 +176,29 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
+udp://udp.tracker.projectk.org:23333/announce
+
+udp://tracker.zupix.online:6969/announce
+
+udp://tracker.valete.tf:9999/announce
+
+udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.skillindia.site:6969/announce
+
+udp://tracker.plx.im:6969/announce
+
+udp://tracker.hifitechindia.com:6969/announce
+
 udp://tracker.healthcareindia.store:1337/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.fnix.net:6969/announce
+
+udp://tracker.bitcoinindia.space:6969/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ipv4.rer.lol:2710/announce
 
@@ -222,11 +214,11 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
+https://tracker.expli.top:443/announce
+
 https://tracker.aburaya.live:443/announce
 
 https://tr.zukizuki.org:443/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
