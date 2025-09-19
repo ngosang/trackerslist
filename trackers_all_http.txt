@@ -20,8 +20,6 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
-http://tracker.valete.tf:9999/announce
-
 http://tracker.sbsub.com:2710/announce
 
 http://tracker.renfei.net:8080/announce
@@ -37,6 +35,8 @@ http://tracker.moxing.party:6969/announce
 http://tracker.lintk.me:2710/announce
 
 http://tracker.ipv6tracker.org:80/announce
+
+http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
@@ -57,6 +57,8 @@ http://tracker.bt-hash.com:80/announce
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.23794.top:6969/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://torrent.hificode.in:6969/announce
 
@@ -92,6 +94,8 @@ http://bt.poletracker.org:2710/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+http://1337.abcvg.info:80/announce
+
 http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
@@ -99,6 +103,4 @@ http://0123456789nonexistent.com:80/announce
 http://tracker1.itzmx.com:8080/announce
 
 http://tracker.tritan.gg:8080/announce
-
-http://tracker.ghostchu-services.top:80/announce
 

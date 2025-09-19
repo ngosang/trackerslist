@@ -6,6 +6,8 @@ udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://wepzone.net:6969/announce
@@ -24,8 +26,6 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
@@ -36,5 +36,5 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.healthcareindia.store:1337/announce
+udp://tracker.hifimarket.in:2710/announce
 
