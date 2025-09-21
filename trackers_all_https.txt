@@ -1,6 +1,10 @@
+https://tracker.tamersunion.org:443/announce
+
 https://tracker.zhuqiy.top:443/announce
 
 https://tracker.yemekyedim.com:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
