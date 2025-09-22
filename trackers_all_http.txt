@@ -8,19 +8,13 @@ http://wepzone.net:6969/announce
 
 http://tracker810.xyz:11450/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.zhuqiy.top:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.vanitycore.co:6969/announce
-
-http://tracker.valete.tf:9999/announce
 
 http://tracker.sbsub.com:2710/announce
 
@@ -98,11 +92,15 @@ http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
 
+http://tracker2.dler.org:80/announce
+
 http://tracker1.itzmx.com:8080/announce
+
+http://tracker.valete.tf:9999/announce
 
 http://tracker.tritan.gg:8080/announce
 
 http://ch3oh.ru:6969/announce
 
-http://1337.abcvg.info:80/announce
+http://bvarf.tracker.sh:2086/announce
 
