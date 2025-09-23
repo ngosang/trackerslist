@@ -4,7 +4,7 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
+udp://explodie.org:6969/announce
 
 udp://wepzone.net:6969/announce
 
@@ -18,7 +18,7 @@ udp://tracker.zupix.online:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-udp://tracker.tryhackx.org:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
@@ -32,6 +32,8 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
+udp://tracker.ololosh.space:6969/announce
+
 udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.hifimarket.in:2710/announce
@@ -41,8 +43,6 @@ udp://tracker.healthcareindia.store:1337/announce
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -64,15 +64,9 @@ udp://opentracker.io:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 udp://isk.richardsw.club:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://glotorrents.pw:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -88,9 +82,11 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
 
-udp://tracker.torrust-demo.com:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.fnix.net:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
