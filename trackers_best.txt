@@ -12,8 +12,6 @@ udp://open.stealth.si:80/announce
 
 udp://explodie.org:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://wepzone.net:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
@@ -23,6 +21,8 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 udp://tracker2.dler.org:80/announce
 
 udp://tracker.zupix.online:6969/announce
+
+udp://tracker.valete.tf:9999/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
