@@ -14,27 +14,27 @@ udp://exodus.desync.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
-
 udp://tracker2.dler.org:80/announce
-
-udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.torrust-demo.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
-udp://tracker.gmi.gd:6969/announce
-
 udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://run.publictracker.xyz:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
+
+udp://opentracker.io:6969/announce
+
+udp://open.dstud.io:6969/announce
 
