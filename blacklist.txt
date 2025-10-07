@@ -160,6 +160,7 @@ https://torrent.ubuntu.com:443/announce # registered torrents
 http://tracker.dm258.cn:7070/announce # registered torrents
 http://open.touki.ru:80/announce.php # registered torrents
 http://bt.edwardk.info:6767/announce # registered torrents
+http://ch3oh.ru:6969/announce # registered torrents
 http://tracker.enitin.xyz:80/announce # redirects to https://tracker.enitin.xyz/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
