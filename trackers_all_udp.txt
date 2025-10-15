@@ -6,17 +6,17 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://explodie.org:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://yuki.bt.bontal.net:6969/announce
 
 udp://wepzone.net:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.zupix.online:6969/announce
 
@@ -25,10 +25,6 @@ udp://tracker.valete.tf:9999/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.therarbg.to:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
 
@@ -42,11 +38,13 @@ udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.ducks.party:1984/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.cloudbase.store:1333/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
@@ -74,9 +72,13 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://hificode.in:6969/announce
 
+udp://discord.heihachi.pw:6969/announce
+
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://bt.bontal.net:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://bandito.byterunner.io:6969/announce
 
@@ -86,19 +88,17 @@ udp://1c.premierzal.ru:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://concen.org:6969/announce
 
 udp://bt.rer.lol:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
