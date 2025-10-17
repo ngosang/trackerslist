@@ -4,11 +4,13 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
+udp://open.stealth.si:80/announce
+
 udp://explodie.org:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://yuki.bt.bontal.net:6969/announce
 
@@ -54,10 +56,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://torrentclub.online:54123/announce
@@ -86,11 +84,9 @@ udp://ns-1.x-fins.com:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://leet-tracker.moe:1337/announce
-
-udp://isk.richardsw.club:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -103,6 +99,8 @@ udp://bandito.byterunner.io:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://1c.premierzal.ru:6969/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://concen.org:6969/announce
 

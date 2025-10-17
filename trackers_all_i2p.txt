@@ -1,12 +1,20 @@
-http://opentracker.dg2.i2p/a
+http://opentracker.dg2.i2p:80/a
 
-http://opentracker.eeptorrent.i2p/a
+http://opentracker.eeptorrent.i2p:80/a
 
-http://opentracker.fattydove.i2p/a
+http://opentracker.fattydove.i2p:80/a
 
-http://opentracker.r4sas.i2p/a
+http://opentracker.r4sas.i2p:80/a
 
-http://opentracker.simp.i2p/a
+http://opentracker.simp.i2p:80/a
 
-http://opentracker.skank.i2p/a
+http://opentracker.skank.i2p:80/a
+
+http://qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p:80/a
+
+http://sigmatracker.i2p:80/a
+
+udp://opentracker.simp.i2p:6969/a
+
+udp://opentracker.skank.i2p:6969/a
 
