@@ -1,34 +1,50 @@
 udp://93.158.213.92:1337/announce
 
-http://93.158.213.92:1337/announce
+udp://23.134.88.9:6969/announce
 
-udp://185.121.168.244:6969/announce
-
-udp://185.121.168.244:1337/announce
+udp://23.134.88.9:1337/announce
 
 udp://185.243.218.213:80/announce
+
+udp://91.216.110.53:451/announce
+
+udp://23.157.120.14:6969/announce
 
 udp://178.128.94.74:6969/announce
 
 udp://44.30.4.4:6969/announce
 
-udp://91.216.110.53:451/announce
+udp://211.75.205.187:80/announce
+
+udp://209.50.255.93:3218/announce
+
+udp://135.125.236.64:6969/announce
 
 udp://77.91.85.95:6969/announce
 
 udp://45.13.119.213:6969/announce
 
+udp://209.141.59.25:6969/announce
+
+udp://5.255.124.190:6969/announce
+
+udp://52.58.128.163:6969/announce
+
 udp://152.53.152.105:1984/announce
 
-udp://109.201.134.183:80/announce
+udp://211.75.205.187:6969/announce
+
+udp://111.90.151.241:6969/announce
 
 udp://152.53.152.105:54123/announce
+
+udp://189.18.162.54:6969/announce
 
 udp://151.243.109.110:6969/announce
 
 udp://83.102.180.21:80/announce
 
-udp://62.60.157.92:6969/announce
+udp://37.235.176.37:2710/announce
 
 udp://185.230.4.150:1337/announce
 
@@ -38,23 +54,23 @@ udp://5.45.69.185:6969/announce
 
 udp://94.23.207.177:6969/announce
 
-udp://220.200.35.40:6969/announce
+udp://176.99.7.59:6969/announce
 
 udp://104.248.85.59:6969/announce
+
+udp://103.251.166.126:6969/announce
 
 udp://185.189.13.108:6969/announce
 
 udp://5.102.159.190:6969/announce
 
+http://34.94.76.146:2701/announce
+
 http://44.30.4.4:6969/announce
 
 http://34.94.76.146:11450/announce
 
-http://211.75.205.188:80/announce
-
 http://156.234.201.18:80/announce
-
-http://34.94.76.146:6969/announce
 
 http://142.171.85.76:6969/announce
 
@@ -64,19 +80,19 @@ http://45.13.119.213:6969/announce
 
 http://95.217.167.10:6969/announce
 
-http://34.94.76.146:80/announce
+http://34.94.76.146:6969/announce
+
+http://34.94.76.146:2710/announce
 
 http://140.235.237.23:6969/announce
 
 http://45.146.254.59:80/announce
 
-http://34.94.76.146:1337/announce
+http://34.94.76.146:80/announce
 
-http://123.245.62.100:6969/announce
+http://123.245.62.99:6969/announce
 
-http://34.94.76.146:2710/announce
-
-http://34.94.76.146:80/announce.php
+http://189.18.162.54:6969/announce
 
 http://62.60.157.92:6969/announce
 
@@ -84,67 +100,49 @@ http://185.230.4.150:1337/announce
 
 http://193.31.26.113:6969/announce
 
-http://220.200.35.40:2710/announce
-
 udp://23.175.184.30:23333/announce
 
-udp://51.222.82.36:6969/announce
-
-udp://211.75.205.188:80/announce
+udp://54.39.48.3:6969/announce
 
 udp://94.136.190.183:6969/announce
 
 udp://82.67.44.197:9999/announce
 
-udp://209.50.255.93:3218/announce
+udp://144.126.245.19:6969/announce
 
-udp://135.125.236.64:6969/announce
+udp://193.233.161.213:6969/announce
 
 udp://94.136.190.183:1337/announce
 
 udp://54.36.179.216:6969/announce
 
-udp://94.136.190.183:2710/announce
-
-udp://209.141.59.25:6969/announce
-
-udp://5.255.124.190:6969/announce
-
-udp://52.58.128.163:6969/announce
-
-udp://211.75.205.189:6969/announce
-
 udp://94.136.190.183:1333/announce
-
-udp://111.90.151.241:6969/announce
-
-udp://189.18.162.54:6969/announce
-
-udp://37.235.176.37:2710/announce
 
 udp://194.62.248.73:15480/announce
 
 udp://185.216.179.62:25/announce
 
-udp://176.99.7.59:6969/announce
-
 udp://37.59.48.81:6969/announce
 
+udp://220.200.35.40:6969/announce
+
 udp://107.189.2.131:1337/announce
-
-udp://103.251.166.126:6969/announce
-
-http://35.227.59.57:2710/announce
 
 http://35.227.59.57:6969/announce
 
 http://82.67.44.197:9999/announce
 
-http://138.124.183.78:6969/announce
+http://35.227.59.57:2710/announce
 
 http://35.227.59.57:80/announce
 
-http://189.18.162.54:6969/announce
+http://138.124.183.78:6969/announce
+
+http://35.227.59.57:1337/announce
+
+http://35.227.59.57:80/announce.php
+
+http://220.200.35.40:2710/announce
 
 http://107.189.2.131:1337/announce
 
