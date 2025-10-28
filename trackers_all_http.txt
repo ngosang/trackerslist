@@ -16,6 +16,8 @@ http://tracker.zhuqiy.com:80/announce
 
 http://tracker.xiaoduola.xyz:6969/announce
 
+http://tracker.waaa.moe:6969/announce
+
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.tritan.gg:8080/announce
@@ -54,11 +56,17 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.bt-hash.com:80/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tracker.23794.top:6969/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://t.overflow.biz:6969/announce
+
+http://shubt.net:2710/announce
 
 http://share.hkg-fansub.info:80/announce.php
 
@@ -86,6 +94,8 @@ http://bt1.xxxxbt.cc:6969/announce
 
 http://bt.rer.lol:2710/announce
 
+http://bt.poletracker.org:2710/announce
+
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
@@ -93,14 +103,6 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://0d.kebhana.mx:443/announce
 
 http://0123456789nonexistent.com:80/announce
-
-http://tracker.bittor.pw:1337/announce
-
-http://torrent.hificode.in:6969/announce
-
-http://shubt.net:2710/announce
-
-http://bt.poletracker.org:2710/announce
 
 http://1337.abcvg.info:80/announce
 

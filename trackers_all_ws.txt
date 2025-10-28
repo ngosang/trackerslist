@@ -1,5 +1,3 @@
-wss://tracker.webtorrent.dev:443
-
 wss://tracker.ghostchu-services.top:443/announce
 
 wss://tracker.files.fm:7073/announce
