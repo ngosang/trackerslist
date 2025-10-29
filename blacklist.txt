@@ -89,7 +89,6 @@ http://tracker.pussytorrents.org:3000/announce # registered torrents
 http://tracker.torrentleech.org:2710/announce # registered torrents
 http://www.bit-hdtv.com:2710/announce # registered torrents
 http://www.blackcats-games.net:2228/announce # registered torrents
-http://bt.beatrice-raws.org:80/announce # registered torrents
 http://nyaa.tracker.wf:7777/announce # registered torrents
 http://bt.hliang.com:2710/announce # registered torrents
 http://bt.zlofenix.org:81/announce # registered torrents
@@ -103,7 +102,6 @@ http://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
 http://tracker.torrenty.org:6969/announce # registered torrents
 http://www.mvgroup.org:2710/announce # registered torrents
 udp://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
-http://anidex.moe:6969/announce # registered torrents
 http://www.tribalmixes.com/announce.php # registered torrents
 http://all4nothin.net/announce.php # registered torrents
 http://www.all4nothin.net/announce.php # registered torrents
@@ -251,7 +249,6 @@ udp://tracker.bitcoinindia.space:6969/announce # duplicate of udp://tracker.zupi
 udp://tracker.rescuecrew7.com:1337/announce # duplicate of udp://tracker.startwork.cv:1337/announce
 udp://tracker.healthcareindia.store:1337/announce # duplicate of udp://tracker.startwork.cv:1337/announce
 udp://openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
-udp://tracker.openbittorrent.com:80/announce # duplicate of udp://tracker.openbittorrent.com:80/announce
 udp://opentrackr.org:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
 udp://sugoi.pomf.se:80/announce # duplicate of udp://tracker.pomf.se:80/announce
 http://tracker1.itzmx.com:8080/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
@@ -282,7 +279,6 @@ http://www.zone-torrent.net:80/announce.php # registered torrents
 http://tracker.kali.org:6969/announce # registered torrents
 http://tracker.etree.org:6969/announce # registered torrents
 udp://www.mvgroup.org:2710/announce # registered torrents
-http://www.megatorrents.kg:80/announce.php # registered torrents
 udp://torrents.artixlinux.org:6969/announce # registered torrents
 udp://tracker.open-internet.nl:6969/announce # duplicate of udp://tracker.leechers-paradise.org:6969/announce
 http://share.camoe.cn:8080/announce # duplicate of http://t.acg.rip:6699/announce
@@ -315,7 +311,6 @@ wss://ws.peer.ooo:443/announce # deprecated by owner
 http://tracker.nighthawk.pw:4201/announce # duplicate of http://tracker.nighthawk.pw:2052/announce
 udp://tracker.nighthawk.pw:4201/announce # duplicate of udp://tracker.nighthawk.pw:2052/announce
 ws://tracker.nighthawk.pw:4201/announce # duplicate of ws://tracker.nighthawk.pw:2052/announce
-https://tracker1.520.jp:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 https://tracker1.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 https://tracker2.ctix.cn:443/announce # duplicate of http://tracker.opentrackr.org:1337/announce
 http://tracker.fansub.id:80/announce # duplicate of https://tracker.fansub.id:443/announce

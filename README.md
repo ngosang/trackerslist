@@ -18,10 +18,12 @@ Updated list of public BitTorrent trackers
 * trackers_all_https (18 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_https.txt)
 * trackers_all_ws (4 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ws.txt)
 * trackers_all_i2p (10 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_i2p.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_i2p.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_i2p.txt)
+* trackers_all_yggdrasil (1 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_yggdrasil.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_yggdrasil.txt)
 
 Are you having DNS problems? These lists contain the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best_ip.txt)
-* trackers_all_ip (82 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
+* trackers_all_ip (77 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
+* trackers_all_yggdrasil_ip (4 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_yggdrasil_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_yggdrasil_ip.txt)
 
 ### Notes
 * A bot automatically checks the trackers and updates the lists.
@@ -29,6 +31,7 @@ Are you having DNS problems? These lists contain the same trackers but with IP a
 * Trackers are sorted by popularity and latency (from best to worst).
 * WebSocket trackers (AKA WebTorrent, ws, wss) are supported by few clients. [More info](https://webtorrent.io).
 * I2P trackers require an [I2P Router](https://geti2p.net/) and a compatible BitTorrent client like: [qBittorrent](https://github.com/qbittorrent/qBittorrent), [BiglyBT](https://github.com/BiglySoftware/BiglyBT), [Tixati](https://tixati.com/news), [I2PSnark](https://i2pplus.github.io/#download) or [libtorrent](https://github.com/arvidn/libtorrent). [More info](https://geti2p.net/en/docs/applications/bittorrent).
+* Yggdrasil trackers require the [Yggdrasil Network Router](https://yggdrasil-network.github.io/).
 * Lists with IP addresses can be shorter because [Cloudflare IPs](https://www.cloudflare.com/ips/) are removed.
 
 ### Contribute
