@@ -18,23 +18,23 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.zupix.online:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
 
-udp://tracker.startwork.cv:1337/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.plx.im:6969/announce
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.dler.org:6969/announce
 
