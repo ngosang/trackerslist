@@ -6,6 +6,8 @@ https://tracker.yemekyedim.com:443/announce
 
 https://tracker.pmman.tech:443/announce
 
+https://tracker.moeblog.cn:443/announce
+
 https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
@@ -21,8 +23,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://bt.bontal.net:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
-
-https://tracker.moeblog.cn:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
