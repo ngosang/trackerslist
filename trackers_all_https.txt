@@ -26,8 +26,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://shahidrazi.online:443/announce
 
-https://bt.bontal.net:443/announce
-
 https://tracker.uraniumhexafluori.de:443/announce
 
 https://t.213891.xyz:443/announce
