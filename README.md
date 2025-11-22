@@ -22,7 +22,7 @@ Updated list of public BitTorrent trackers
 
 Are you having DNS problems? These lists contain the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best_ip.txt)
-* trackers_all_ip (70 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
+* trackers_all_ip (67 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
 * trackers_all_yggdrasil_ip (3 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_yggdrasil_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_yggdrasil_ip.txt)
 
 ### Notes
