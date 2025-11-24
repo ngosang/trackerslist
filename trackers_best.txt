@@ -8,8 +8,6 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://explodie.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://wepzone.net:6969/announce
@@ -24,9 +22,13 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.torrust-demo.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -35,6 +37,4 @@ udp://tracker.filemail.com:6969/announce
 udp://tracker.dler.org:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://t.overflow.biz:6969/announce
 
