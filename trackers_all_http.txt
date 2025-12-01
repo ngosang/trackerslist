@@ -6,15 +6,9 @@ http://www.genesis-sp.org:2710/announce
 
 http://wepzone.net:6969/announce
 
-http://tracker810.xyz:11450/announce
-
 http://tracker2.dler.org:80/announce
 
-http://tracker.zhuqiy.com:80/announce
-
 http://tracker.xiaoduola.xyz:6969/announce
-
-http://tracker.waaa.moe:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
@@ -30,11 +24,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.moxing.party:6969/announce
 
-http://tracker.lintk.me:2710/announce
-
 http://tracker.ipv6tracker.org:80/announce
-
-http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
@@ -48,8 +38,6 @@ http://tracker.cutie.dating:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
-http://tracker.bz:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.bt-hash.com:80/announce
@@ -57,8 +45,6 @@ http://tracker.bt-hash.com:80/announce
 http://tracker.bittor.pw:1337/announce
 
 http://tracker.23794.top:6969/announce
-
-http://tr.nyacat.pw:80/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -76,33 +62,47 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
-http://open.trackerlist.xyz:80/announce
-
 http://open.acgtracker.com:1096/announce
-
-http://home.yxgz.club:6969/announce
 
 http://extracker.dahrkael.net:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
-http://buny.uk:6969/announce
-
 http://bt1.xxxxbt.cc:6969/announce
 
-http://bt.rer.lol:2710/announce
-
 http://bt.poletracker.org:2710/announce
+
+http://1337.abcvg.info:80/announce
+
+http://0123456789nonexistent.com:80/announce
+
+http://tracker810.xyz:11450/announce
+
+http://tracker.zhuqiy.com:80/announce
+
+http://tracker.waaa.moe:6969/announce
+
+http://tracker.lintk.me:2710/announce
+
+http://tracker.ghostchu-services.top:80/announce
+
+http://tracker.bz:80/announce
+
+http://tr.nyacat.pw:80/announce
+
+http://t.overflow.biz:6969/announce
+
+http://open.trackerlist.xyz:80/announce
+
+http://home.yxgz.club:6969/announce
+
+http://buny.uk:6969/announce
+
+http://bt.rer.lol:2710/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-http://1337.abcvg.info:80/announce
-
 http://0d.kebhana.mx:443/announce
-
-http://0123456789nonexistent.com:80/announce
-
-http://t.overflow.biz:6969/announce
 
