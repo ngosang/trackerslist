@@ -1,5 +1,3 @@
-https://tracker.zhuqiy.com:443/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.pmman.tech:443/announce
@@ -13,6 +11,8 @@ https://tr.zukizuki.org:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://bt.bontal.net:443/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
