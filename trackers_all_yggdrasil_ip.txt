@@ -2,5 +2,5 @@ http://[200:1e2f:e608:eb3a:2bf:1e62:87ba:e2f7]:80/announce
 
 http://[21e:6565:9c87:a49d:dafa:92c1:b33f:f21]:1337/announce
 
-udp://[302:68d0:f0d5:b88d::fdb]:6969/announce
+udp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969/announce
 
