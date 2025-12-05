@@ -6,11 +6,7 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://wepzone.net:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
@@ -18,15 +14,15 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
+udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -44,13 +40,17 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://opentracker.io:6969/announce
 
+udp://open.free-tracker.ga:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://hificode.in:6969/announce
 
-udp://explodie.org:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
+udp://glotorrents.pw:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -63,6 +63,8 @@ udp://bandito.byterunner.io:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.zupix.online:6969/announce
 
@@ -78,9 +80,13 @@ udp://tracker.startwork.cv:1337/announce
 
 udp://tracker.plx.im:6969/announce
 
+udp://tracker.hifimarket.in:2710/announce
+
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.1h.is:1337/announce
 
