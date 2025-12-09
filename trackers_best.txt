@@ -6,35 +6,35 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://exodus.desync.com:6969/announce
+udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
+udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.startwork.cv:1337/announce
+
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.hifimarket.in:2710/announce
+
+udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tr4ck3r.duckdns.org:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
-udp://opentracker.io:6969/announce
-
-udp://explodie.org:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
-https://tracker.zhuqiy.com:443/announce
-
-https://tracker.yemekyedim.com:443/announce
-
-https://tracker.pmman.tech:443/announce
+udp://t.overflow.biz:6969/announce
 
