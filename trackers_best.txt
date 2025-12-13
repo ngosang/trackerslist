@@ -8,33 +8,33 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker2.dler.org:80/announce
+
+udp://tracker1.myporn.club:9337/announce
+
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://glotorrents.pw:6969/announce
+udp://p4p.arenabg.com:1337/announce
+
+udp://opentracker.io:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker.sbsub.com:2710/announce
+udp://bt.bontal.net:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+https://yuki.bt.bontal.net:443/announce
 
-udp://tracker.zupix.online:6969/announce
-
-udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.torrust-demo.com:6969/announce
-
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.t-1.org:6969/announce
-
-udp://tracker.srv00.com:6969/announce
+https://tracker.yemekyedim.com:443/announce
 
