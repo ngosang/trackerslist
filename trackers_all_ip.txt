@@ -10,25 +10,23 @@ udp://89.234.156.205:451/announce
 
 udp://185.243.218.213:80/announce
 
-udp://23.157.120.14:6969/announce
-
 udp://211.75.210.221:80/announce
 
 udp://135.125.236.64:6969/announce
-
-udp://193.233.161.213:6969/announce
-
-udp://209.141.59.16:6969/announce
 
 udp://43.250.54.137:6969/announce
 
 udp://209.141.59.25:6969/announce
 
-udp://34.66.57.33:1337/announce
+udp://211.75.210.221:6969/announce
 
 udp://23.153.248.128:6969/announce
 
+udp://109.201.134.183:80/announce
+
 udp://111.90.151.241:6969/announce
+
+udp://200.170.109.148:6969/announce
 
 udp://80.71.224.126:6969/announce
 
@@ -38,9 +36,15 @@ udp://37.235.176.37:2710/announce
 
 udp://185.230.4.150:1337/announce
 
+udp://45.9.60.30:6969/announce
+
 udp://186.10.172.248:1337/announce
 
 udp://185.216.179.62:25/announce
+
+udp://34.66.57.33:1337/announce
+
+udp://23.157.120.14:6969/announce
 
 udp://176.99.7.59:6969/announce
 
@@ -58,7 +62,7 @@ http://43.250.54.137:6969/announce
 
 http://95.217.167.10:6969/announce
 
-http://211.75.205.189:6969/announce
+http://211.75.210.221:6969/announce
 
 http://140.235.237.23:6969/announce
 
@@ -66,7 +70,7 @@ http://138.124.183.78:6969/announce
 
 http://45.146.254.59:80/announce
 
-http://123.245.62.88:6969/announce
+http://200.170.109.148:6969/announce
 
 http://185.230.4.150:1337/announce
 
@@ -80,8 +84,6 @@ http://217.156.123.49:1337/announce
 
 udp://184.105.226.26:6969/announce
 
-udp://23.175.184.30:23333/announce
-
 udp://107.189.7.165:6969/announce
 
 udp://94.136.190.183:6969/announce
@@ -89,6 +91,8 @@ udp://94.136.190.183:6969/announce
 udp://209.50.255.93:3218/announce
 
 udp://144.126.245.19:6969/announce
+
+udp://94.136.190.183:1337/announce
 
 udp://54.36.179.216:6969/announce
 
@@ -98,13 +102,9 @@ udp://81.230.84.201:6969/announce
 
 udp://5.255.124.190:6969/announce
 
-udp://209.250.249.67:6969/announce
+udp://45.134.88.121:6969/announce
 
 udp://152.53.152.105:1984/announce
-
-udp://211.75.205.189:6969/announce
-
-udp://94.136.190.183:1333/announce
 
 udp://107.189.4.235:1337/announce
 

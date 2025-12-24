@@ -4,8 +4,6 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.moeking.me:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.bt4g.com:443/announce
 
 https://tr.zukizuki.org:443/announce
