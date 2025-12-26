@@ -8,15 +8,21 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
-udp://exodus.desync.com:6969/announce
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
@@ -30,19 +36,23 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://opentracker.io:6969/announce
 
+udp://open.tracker.cl:1337/announce
+
 udp://leet-tracker.moe:1337/announce
 
 udp://bt.bontal.net:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 https://tracker.yemekyedim.com:443/announce
 
 https://tracker.pmman.tech:443/announce
 
 https://tracker.moeking.me:443/announce
+
+https://tracker.gcrenwp.top:443/announce
+
+https://tracker.alaskantf.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -64,15 +74,11 @@ http://tracker.darkness.services:6969/announce
 
 http://tracker.cutie.dating:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tr.kxmp.cf:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
 http://open.tracker.cl:1337/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
@@ -82,13 +88,13 @@ http://bvarf.tracker.sh:2086/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://yuki.bt.bontal.net:6969/announce
+
 udp://www.2600.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
 udp://tracker3.t-1.org:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker1.t-1.org:6969/announce
 
@@ -103,6 +109,8 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
@@ -120,8 +128,6 @@ udp://tracker.ducks.party:1984/announce
 
 udp://tracker.cloudbase.store:1333/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.1h.is:1337/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -130,9 +136,11 @@ udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://torrentclub.online:54123/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://retracker.lanta.me:2710/announce
 
-udp://open.tracker.cl:1337/announce
+udp://open.dstud.io:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -160,11 +168,7 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-https://tracker.gcrenwp.top:443/announce
-
 https://tracker.bt4g.com:443/announce
-
-https://tracker.alaskantf.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -185,6 +189,8 @@ http://tr.nyacat.pw:80/announce
 http://tr.highstar.shop:80/announce
 
 http://t.overflow.biz:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://bt.rer.lol:2710/announce
 

@@ -16,15 +16,11 @@ http://tracker.darkness.services:6969/announce
 
 http://tracker.cutie.dating:80/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tr.kxmp.cf:80/announce
 
 http://p4p.arenabg.com:1337/announce
 
 http://open.tracker.cl:1337/announce
-
-http://open.acgtracker.com:1096/announce
 
 http://lucke.fenesisu.moe:6969/announce
 
@@ -47,6 +43,8 @@ http://tr.nyacat.pw:80/announce
 http://tr.highstar.shop:80/announce
 
 http://t.overflow.biz:6969/announce
+
+http://open.acgtracker.com:1096/announce
 
 http://bt.rer.lol:2710/announce
 
