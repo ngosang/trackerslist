@@ -10,6 +10,8 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.dler.org:6969/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.darkness.services:6969/announce
@@ -26,21 +28,21 @@ http://p4p.arenabg.com:1337/announce
 
 http://open.tracker.cl:1337/announce
 
+http://lucke.fenesisu.moe:6969/announce
+
 http://extracker.dahrkael.net:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://1337.abcvg.info:80/announce
-
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.ghostchu-services.top:80/announce
+http://tracker.skyts.net:6969/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -50,9 +52,9 @@ http://tr.highstar.shop:80/announce
 
 http://open.acgtracker.com:1096/announce
 
-http://lucke.fenesisu.moe:6969/announce
-
 http://bt.rer.lol:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
+http://1337.abcvg.info:80/announce
 
