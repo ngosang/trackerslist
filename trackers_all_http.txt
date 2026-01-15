@@ -4,8 +4,6 @@ http://open.tracker.cl:1337/announce
 
 http://wepzone.net:6969/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker.zhuqiy.com:80/announce
 
 http://tracker.wepzone.net:6969/announce
@@ -24,13 +22,13 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
+http://tracker.darkness.services:6969/announce
+
 http://tracker.cutie.dating:80/announce
 
 http://tracker.23794.top:6969/announce
 
 http://tr.kxmp.cf:80/announce
-
-http://t.overflow.biz:6969/announce
 
 http://open.acgtracker.com:1096/announce
 
@@ -41,6 +39,8 @@ http://bvarf.tracker.sh:2086/announce
 http://bt.rer.lol:2710/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker.waaa.moe:6969/announce
 

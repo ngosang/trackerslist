@@ -1,10 +1,10 @@
+https://yuki.bt.bontal.net:443/announce
+
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker.pmman.tech:443/announce
 
 https://tracker.moeking.me:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.cutie.dating:443/announce
 
@@ -21,6 +21,8 @@ https://tracker.moeblog.cn:443/announce
 https://tracker.leechshield.link:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
+
+https://tracker.gcrenwp.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
