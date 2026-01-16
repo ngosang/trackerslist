@@ -1,14 +1,10 @@
-https://yuki.bt.bontal.net:443/announce
-
-https://tracker.zhuqiy.com:443/announce
-
 https://tracker.pmman.tech:443/announce
 
 https://tracker.moeking.me:443/announce
 
 https://tracker.cutie.dating:443/announce
 
-https://tr.zukizuki.org:443/announce
+https://tracker.alaskantf.com:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -26,9 +22,9 @@ https://tracker.gcrenwp.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
-https://tr.nyacat.pw:443/announce
+https://tr.zukizuki.org:443/announce
 
-https://t.213891.xyz:443/announce
+https://tr.nyacat.pw:443/announce
 
 https://shahidrazi.online:443/announce
 
