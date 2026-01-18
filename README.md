@@ -1,7 +1,7 @@
 # ngosang/trackerslist
 
-[![Last update](https://img.shields.io/badge/Last%20update-2026/01/18-green.svg)](#)
-[![Public trackers](https://img.shields.io/badge/Public%20trackers-105-blue.svg)](#)
+[![Last update](https://img.shields.io/badge/Last%20update-2026/01/19-green.svg)](#)
+[![Public trackers](https://img.shields.io/badge/Public%20trackers-94-blue.svg)](#)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ngosang/trackerslist)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ngosang)
@@ -9,14 +9,14 @@
 Updated list of public BitTorrent trackers.
 
 ### Lists
-*These lists are automatically updated every day. Last update 2026/01/18:*
+*These lists are automatically updated every day. Last update 2026/01/19:*
 
 * trackers_best (20 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best.txt)
-* trackers_all (105 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt)
-* trackers_all_udp (47 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_udp.txt)
-* trackers_all_http (44 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_http.txt)
-* trackers_all_https (14 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_https.txt)
-* trackers_all_ws (3 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ws.txt)
+* trackers_all (94 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt)
+* trackers_all_udp (50 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_udp.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_udp.txt)
+* trackers_all_http (29 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_http.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_http.txt)
+* trackers_all_https (15 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_https.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_https.txt)
+* trackers_all_ws (2 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ws.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ws.txt)
 * trackers_all_i2p (10 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_i2p.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_i2p.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_i2p.txt)
 * trackers_all_yggdrasil (1 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_yggdrasil.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_yggdrasil.txt)
 
