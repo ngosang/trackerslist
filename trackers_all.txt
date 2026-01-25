@@ -4,23 +4,29 @@ http://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 udp://open.stealth.si:80/announce
+
+http://open.tracker.cl:1337/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -32,13 +38,11 @@ udp://leet-tracker.moe:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://bt.bontal.net:6969/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.zhuqiy.com:443/announce
 
-https://tracker.moeking.me:443/announce
+https://tracker.pmman.tech:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
@@ -48,9 +52,9 @@ https://tr.zukizuki.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
-https://bt.bontal.net:443/announce
-
 http://wepzone.net:6969/announce
+
+http://tracker2.dler.org:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
@@ -62,11 +66,11 @@ http://tracker.qu.ax:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.dler.org:6969/announce
-
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.darkness.services:6969/announce
+
+http://tracker.23794.top:6969/announce
 
 http://tr.kxmp.cf:80/announce
 
@@ -86,11 +90,7 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://tracker3.t-1.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker1.t-1.org:6969/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
@@ -144,11 +144,7 @@ udp://bandito.byterunner.io:6969/announce
 
 https://tracker.uraniumhexafluori.de:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -158,13 +154,13 @@ https://t.213891.xyz:443/announce
 
 https://shahidrazi.online:443/announce
 
-http://tracker2.dler.org:80/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
