@@ -4,25 +4,21 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-http://open.tracker.cl:1337/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
-udp://tracker.theoks.net:6969/announce
+http://open.tracker.cl:1337/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://t.overflow.biz:6969/announce
-
-udp://p4p.arenabg.com:1337/announce
+udp://run.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -34,7 +30,11 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.bt4g.com:443/announce
-
 https://tracker.alaskantf.com:443/announce
+
+https://shahidrazi.online:443/announce
+
+http://www.torrentsnipe.info:2701/announce
+
+http://www.genesis-sp.org:2710/announce
 
