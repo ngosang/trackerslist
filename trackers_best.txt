@@ -2,9 +2,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
+udp://exodus.desync.com:6969/announce
 
 http://open.tracker.cl:1337/announce
+
+udp://open.stealth.si:80/announce
+
+udp://zer0day.ch:1337/announce
+
+udp://wepzone.net:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -14,27 +22,19 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.dler.org:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.alaskantf.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://t.overflow.biz:6969/announce
+udp://run.publictracker.xyz:6969/announce
 
 udp://opentracker.io:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://martin-gebhardt.eu:25/announce
-
-udp://evan.im:6969/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.zhuqiy.com:443/announce
 
