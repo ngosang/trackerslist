@@ -224,6 +224,9 @@ udp://9.rarbg.com:2950/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.me:2910/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2830/announce # duplicate of udp://9.rarbg.com:2810/announce
 udp://9.rarbg.to:2990/announce # duplicate of udp://9.rarbg.com:2810/announce
+udp://tracker1.t-1.org:6969/announce # duplicate of udp://tracker.t-1.org:6969/announce
+udp://tracker3.t-1.org:6969/announce # duplicate of udp://tracker.t-1.org:6969/announce
+udp://tracker.sharebro.in:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.fatkhoala.org:13720/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13740/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13750/announce # duplicate of udp://tracker.fatkhoala.org:13710/announce

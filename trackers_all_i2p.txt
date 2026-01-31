@@ -1,3 +1,7 @@
+http://4olv65sj4ifeak26wqiifr3q2vjv5d44x733ncqhtd7cmjwoinpa.b32.i2p:80/announce
+
+http://6wbrmd4wodeewdykfw362gmlbeo26njc5zmtuxdvtomehpozzjja.b32.i2p:80/announce
+
 http://opentracker.dg2.i2p:80/a
 
 http://opentracker.eeptorrent.i2p:80/a
