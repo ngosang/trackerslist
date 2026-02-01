@@ -8,6 +8,8 @@ https://tracker.moeblog.cn:443/announce
 
 https://tracker.iperson.xyz:443/announce
 
+https://tr.zukizuki.org:443/announce
+
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://cny.fan:443/announce
@@ -18,9 +20,7 @@ https://tracker.iochimari.moe:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
-https://tr.nyacat.pw:443/announce
+https://tracker.bt4g.com:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://shahidrazi.online:443/announce
 
