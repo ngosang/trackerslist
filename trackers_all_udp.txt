@@ -4,6 +4,8 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://zer0day.ch:1337/announce
@@ -12,13 +14,15 @@ udp://wepzone.net:6969/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker.tvunderground.org.ru:3218/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -31,8 +35,6 @@ udp://tracker-udp.gbitt.info:80/announce
 udp://t.overflow.biz:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
-
-udp://opentracker.io:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -48,7 +50,7 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://tracker.zupix.online:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
+udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -76,15 +78,11 @@ udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.1h.is:1337/announce
-
-udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
