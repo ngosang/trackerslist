@@ -1,10 +1,8 @@
 https://tracker.zhuqiy.com:443/announce
 
-https://tracker.pmman.tech:443/announce
-
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tracker.bt4g.com:443/announce
 
 https://tr.zukizuki.org:443/announce
 
@@ -17,10 +15,6 @@ https://tracker.uraniumhexafluori.de:443/announce
 https://tracker.iochimari.moe:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
-
-https://tracker.bt4g.com:443/announce
-
-https://tr.nyacat.pw:443/announce
 
 https://t.213891.xyz:443/announce
 
