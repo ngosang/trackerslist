@@ -4,29 +4,39 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://zer0day.ch:1337/announce
 
 udp://wepzone.net:6969/announce
+
+udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.filemail.com:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.alaskantf.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://explodie.org:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
@@ -47,8 +57,6 @@ udp://tracker.therarbg.to:6969/announce
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
@@ -72,7 +80,11 @@ udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.1h.is:1337/announce
+
+udp://tracker-de-2.cutie.dating:1337/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -83,8 +95,6 @@ udp://rekcart.duckdns.org:15480/announce
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
