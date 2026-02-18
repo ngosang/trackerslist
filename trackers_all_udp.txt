@@ -4,13 +4,23 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://wepzone.net:6969/announce
 
 udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.srv00.com:6969/announce
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.t-1.org:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
+udp://tracker.plx.im:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -24,9 +34,11 @@ udp://t.overflow.biz:6969/announce
 
 udp://opentracker.io:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://leet-tracker.moe:1337/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
+udp://explodie.org:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -38,8 +50,6 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.zupix.online:6969/announce
 
-udp://tracker.yume-hatsuyuki.moe:6969/announce
-
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.tryhackx.org:6969/announce
@@ -48,13 +58,9 @@ udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.therarbg.to:6969/announce
 
-udp://tracker.t-1.org:6969/announce
-
 udp://tracker.startwork.cv:1337/announce
 
-udp://tracker.qu.ax:6969/announce
-
-udp://tracker.plx.im:6969/announce
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
@@ -97,4 +103,6 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 udp://evan.im:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 

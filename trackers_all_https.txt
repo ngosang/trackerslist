@@ -1,14 +1,10 @@
 https://tracker.zhuqiy.com:443/announce
 
-https://tracker.pmman.tech:443/announce
-
-https://tracker.moeblog.cn:443/announce
-
-https://tracker.iperson.xyz:443/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.bt4g.com:443/announce
+
+https://tr.zukizuki.org:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 

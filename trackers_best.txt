@@ -4,13 +4,23 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://wepzone.net:6969/announce
 
 udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.srv00.com:6969/announce
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.t-1.org:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
+udp://tracker.plx.im:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
@@ -24,17 +34,7 @@ udp://t.overflow.biz:6969/announce
 
 udp://opentracker.io:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://leet-tracker.moe:1337/announce
-
-udp://d40969.acod.regrucolo.ru:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-https://tracker.zhuqiy.com:443/announce
-
-https://tracker.pmman.tech:443/announce
-
-https://tracker.moeblog.cn:443/announce
-
-https://tracker.iperson.xyz:443/announce
 
