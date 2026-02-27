@@ -4,7 +4,15 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
+udp://exodus.desync.com:6969/announce
+
+http://bvarf.tracker.sh:2086/announce
+
 udp://wepzone.net:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
@@ -14,10 +22,6 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.therarbg.to:6969/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.t-1.org:6969/announce
@@ -26,8 +30,6 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
@@ -35,6 +37,4 @@ udp://tracker.opentorrent.top:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
