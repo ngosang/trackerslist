@@ -2,25 +2,25 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
-udp://exodus.desync.com:6969/announce
+udp://open.stealth.si:80/announce
 
-http://bvarf.tracker.sh:2086/announce
+https://torrent.tracker.durukanbal.com:443/announce
 
-udp://wepzone.net:6969/announce
+https://cny.fan:443/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
-udp://tracker.wepzone.net:6969/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
