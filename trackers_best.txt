@@ -10,6 +10,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 udp://wepzone.net:6969/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.wepzone.net:6969/announce
@@ -20,9 +22,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
-
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.qu.ax:6969/announce
 
 udp://tracker.alaskantf.com:6969/announce
 
