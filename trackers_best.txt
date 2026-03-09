@@ -4,7 +4,7 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
+https://torrent.tracker.durukanbal.com:443/announce
 
 udp://wepzone.net:6969/announce
 
@@ -16,11 +16,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.qu.ax:6969/announce
-
-udp://tracker.ducks.party:1984/announce
-
-udp://tracker.dler.org:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -30,11 +26,15 @@ udp://tracker.alaskantf.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://torrentclub.online:54123/announce
-
-udp://rekcart.duckdns.org:15480/announce
+udp://open.dstud.io:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://explodie.org:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+https://tracker.moeking.me:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
