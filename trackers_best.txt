@@ -2,7 +2,7 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://exodus.desync.com:6969/announce
+udp://open.stealth.si:80/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -20,6 +20,10 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.dler.org:6969/announce
 
+udp://tracker.corpscorp.online:80/announce
+
+udp://tracker.bluefrog.pw:2710/announce
+
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.alaskantf.com:6969/announce
@@ -28,13 +32,9 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://retracker.lanta.me:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://explodie.org:6969/announce
-
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
