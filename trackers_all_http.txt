@@ -10,11 +10,11 @@ http://tracker.wepzone.net:6969/announce
 
 http://tracker.tritan.gg:8080/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.renfei.net:8080/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.dler.com:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -23,8 +23,6 @@ http://tracker.darkness.services:6969/announce
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.alaskantf.com:6969/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -38,17 +36,15 @@ http://bvarf.tracker.sh:2086/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.tvunderground.org.ru:3218/announce
+
+http://tracker.skyts.net:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.dler.org:6969/announce
-
-http://tracker.dler.com:6969/announce
 
 http://tr.nyacat.pw:80/announce
 
