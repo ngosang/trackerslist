@@ -16,25 +16,25 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.darkness.services:6969/announce
-
-udp://tracker.corpscorp.online:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://explodie.org:6969/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker.pmman.tech:443/announce
+
+https://tracker.moeblog.cn:443/announce
+
+https://tracker.bt4g.com:443/announce
 
