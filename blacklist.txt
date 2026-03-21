@@ -16,6 +16,7 @@ https://tracker.jdx3.org:443/announce # malfunction
 http://data-bg.net:80/announce.php # malfunction
 udp://extracker.dahrkael.net:6969/announce # malfunction
 http://bt.okmp3.ru:2710/announce # fake seeds
+https://torrent.tracker.durukanbal.com:443/announce # fake seeds
 udp://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker2.postman.i2p/announce.php # registered torrents
