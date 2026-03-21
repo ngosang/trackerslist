@@ -8,7 +8,7 @@ https://tracker.moeking.me:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
-https://tracker.gcrenwp.top:443/announce
+https://tracker.iochimari.moe:443/announce
 
 https://tracker.bt4g.com:443/announce
 
