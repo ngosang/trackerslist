@@ -16,11 +16,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.darkness.services:6969/announce
 
 udp://tracker.cubonegro.org:80/announce
-
-udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -28,21 +26,13 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://open.dstud.io:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://udp.tracker.projectk.org:23333/announce
-
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker.tvunderground.org.ru:3218/announce
 
@@ -68,11 +58,13 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.ducks.party:1984/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ddunlimited.net:6969/announce
+
+udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
@@ -93,8 +85,6 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 udp://martin-gebhardt.eu:25/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://explodie.org:6969/announce
 
 udp://evan.im:6969/announce
 
