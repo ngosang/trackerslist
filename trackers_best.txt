@@ -1,6 +1,6 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://wepzone.net:6969/announce
+udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -16,9 +16,13 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://t.overflow.biz:6969/announce
 
+udp://opentracker.io:6969/announce
+
 udp://open.stealth.si:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.zhuqiy.com:443/announce
 
@@ -28,13 +32,9 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
-https://tracker.moeking.me:443/announce
-
 https://tracker.gcrenwp.top:443/announce
-
-https://tracker.bt4g.com:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://cny.fan:443/announce
+http://www.torrentsnipe.info:2701/announce
 
