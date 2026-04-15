@@ -2,21 +2,17 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
-
-udp://tracker.qu.ax:6969/announce
 
 udp://tracker.darkness.services:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.004430.xyz:1337/announce
 
 udp://leet-tracker.moe:1337/announce
 
@@ -36,6 +32,10 @@ udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.playground.ru:6969/announce
@@ -50,6 +50,8 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.dler.org:6969/announce
@@ -62,7 +64,7 @@ udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.1h.is:1337/announce
 
-udp://tracker.004430.xyz:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
@@ -74,8 +76,6 @@ udp://seedpeer.net:6969/announce
 
 udp://rekcart.duckdns.org:15480/announce
 
-udp://opentracker.io:6969/announce
-
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -83,4 +83,8 @@ udp://martin-gebhardt.eu:25/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://evan.im:6969/announce
+
+udp://bandito.byterunner.io:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
