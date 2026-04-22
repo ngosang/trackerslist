@@ -16,9 +16,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
@@ -36,5 +36,5 @@ udp://leet-tracker.moe:1337/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://evan.im:6969/announce
+udp://explodie.org:6969/announce
 
