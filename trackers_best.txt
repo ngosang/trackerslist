@@ -6,6 +6,8 @@ udp://open.stealth.si:80/announce
 
 udp://wepzone.net:6969/announce
 
+udp://utracker.ghostchu-services.top:6969/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -20,6 +22,8 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
+udp://tracker.bittor.pw:1337/announce
+
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -32,9 +36,5 @@ udp://seedpeer.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://leet-tracker.moe:1337/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
-
-udp://explodie.org:6969/announce
 
