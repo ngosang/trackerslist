@@ -1,14 +1,12 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.stealth.si:80/announce
 
 udp://wepzone.net:6969/announce
 
 udp://vito-tracker.space:6969/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
+udp://vito-tracker.duckdns.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -16,15 +14,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.playground.ru:6969/announce
-
-udp://tracker.opentorrent.top:6969/announce
-
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.corpscorp.online:80/announce
-
-udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.004430.xyz:1337/announce
 
@@ -32,15 +22,23 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://torrents.tmtime.dev:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://t.overflow.biz:6969/announce
 
 udp://explodie.org:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://yuptracker-eu.gaijinent.com:27022/announce
+
+udp://www.nartlof.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
+
 udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://uabits.today:6990/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -58,6 +56,16 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
+udp://tracker.playground.ru:6969/announce
+
+udp://tracker.opentorrent.top:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.hismz.cn:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -67,6 +75,10 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.ddunlimited.net:6969/announce
+
+udp://tracker.corpscorp.online:80/announce
+
+udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -78,8 +90,6 @@ udp://torrentclub.online:54123/announce
 
 udp://torrent.bowed.net:8081/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://seedpeer.net:6969/announce
 
 udp://rekcart.duckdns.org:15480/announce
@@ -87,6 +97,8 @@ udp://rekcart.duckdns.org:15480/announce
 udp://open.ftorrent.com:443/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 udp://leet-tracker.moe:1337/announce
 
@@ -96,5 +108,5 @@ udp://evan.im:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://admin.52ywp.com:6969/announce
 

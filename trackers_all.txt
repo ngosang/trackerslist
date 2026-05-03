@@ -2,15 +2,13 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.stealth.si:80/announce
 
 udp://wepzone.net:6969/announce
 
 udp://vito-tracker.space:6969/announce
 
-udp://utracker.ghostchu-services.top:6969/announce
+udp://vito-tracker.duckdns.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -18,15 +16,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.playground.ru:6969/announce
-
-udp://tracker.opentorrent.top:6969/announce
-
 udp://tracker.dler.org:6969/announce
-
-udp://tracker.corpscorp.online:80/announce
-
-udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.004430.xyz:1337/announce
 
@@ -34,7 +24,7 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://torrents.tmtime.dev:6969/announce
 
-udp://martin-gebhardt.eu:25/announce
+udp://t.overflow.biz:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -50,8 +40,6 @@ https://tracker.nekomi.cn:443/announce
 
 https://tracker.moeking.me:443/announce
 
-https://tracker.ghostchu-services.top:443/announce
-
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.7471.top:443/announce
@@ -59,8 +47,6 @@ https://tracker.7471.top:443/announce
 https://torrents.tmtime.dev:443/announce
 
 http://vito-tracker.space:6969/announce
-
-http://tracker2.dler.org:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
@@ -70,25 +56,33 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.ghostchu-services.top:80/announce
+http://tracker.dler.org:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
+http://tracker.23794.top:6969/announce
+
 http://tr.kxmp.cf:80/announce
 
-http://torrents.tmtime.dev:80/announce
+http://t.overflow.biz:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-http://1337.abcvg.info:80/announce
-
 http://004430.xyz:80/announce
+
+udp://yuptracker-eu.gaijinent.com:27022/announce
+
+udp://www.nartlof.com:6969/announce
+
+udp://utracker.ghostchu-services.top:6969/announce
 
 udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
+
+udp://uabits.today:6990/announce
 
 udp://tracker.yume-hatsuyuki.moe:6969/announce
 
@@ -106,6 +100,16 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
+udp://tracker.playground.ru:6969/announce
+
+udp://tracker.opentorrent.top:6969/announce
+
+udp://tracker.nyaa.vc:6969/announce
+
+udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.hismz.cn:6969/announce
+
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.fnix.net:6969/announce
@@ -115,6 +119,10 @@ udp://tracker.flatuslifir.is:6969/announce
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.ddunlimited.net:6969/announce
+
+udp://tracker.corpscorp.online:80/announce
+
+udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -126,8 +134,6 @@ udp://torrentclub.online:54123/announce
 
 udp://torrent.bowed.net:8081/announce
 
-udp://t.overflow.biz:6969/announce
-
 udp://seedpeer.net:6969/announce
 
 udp://rekcart.duckdns.org:15480/announce
@@ -135,6 +141,8 @@ udp://rekcart.duckdns.org:15480/announce
 udp://open.ftorrent.com:443/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://martin-gebhardt.eu:25/announce
 
 udp://leet-tracker.moe:1337/announce
 
@@ -144,7 +152,9 @@ udp://evan.im:6969/announce
 
 udp://bandito.byterunner.io:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://admin.52ywp.com:6969/announce
+
+https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -152,13 +162,17 @@ https://t.213891.xyz:443/announce
 
 https://pybittrack.retiolus.net:443/announce
 
+https://http1.torrust-tracker-demo.com:443/announce
+
+http://tracker2.dler.org:80/announce
+
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.ghostchu-services.top:80/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -166,7 +180,7 @@ http://tracker.bt4g.com:2095/announce
 
 http://tr.highstar.shop:80/announce
 
-http://t.overflow.biz:6969/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+
+http://1337.abcvg.info:80/announce
 
