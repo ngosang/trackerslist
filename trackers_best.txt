@@ -4,13 +4,15 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://www.nartlof.com:6969/announce
 
 udp://vito-tracker.space:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
 
-udp://udp.tracker.projectk.org:23333/announce
+udp://u.peer-exchange.download:6969/announce
+
+udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -26,15 +28,13 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
+udp://tracker.nyaa.vc:6969/announce
+
 udp://tracker.iperson.xyz:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 
-udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.auctor.tv:6969/announce
+udp://tracker.dler.org:6969/announce
 
