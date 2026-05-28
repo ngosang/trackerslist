@@ -8,23 +8,19 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://wepzone.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.004430.xyz:1337/announce
 
-udp://torrents.tmtime.dev:6969/announce
-
-udp://leet-tracker.moe:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -62,8 +58,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.ddunlimited.net:6969/announce
@@ -76,9 +70,11 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.1h.is:1337/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://torrents.tmtime.dev:6969/announce
 
 udp://torrentclub.online:54123/announce
+
+udp://torrent.bowed.net:8081/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -92,7 +88,11 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
+udp://leet-tracker.moe:1337/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://evan.im:6969/announce
 
