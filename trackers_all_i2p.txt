@@ -22,3 +22,5 @@ udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
 
+http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p/announce
+
