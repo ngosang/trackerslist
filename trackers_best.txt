@@ -8,33 +8,33 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://vito-tracker.space:6969/announce
+http://tracker.renfei.net:8080/announce
 
-udp://vito-tracker.duckdns.org:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
+
+udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.theoks.net:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.startwork.cv:1337/announce
 
-udp://tracker.004430.xyz:1337/announce
+udp://tracker.qu.ax:6969/announce
 
-udp://torrents.tmtime.dev:6969/announce
+udp://tracker.plx.im:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tracker.nyaa.vc:6969/announce
 
-udp://open.demonoid.ch:6969/announce
+udp://tracker.iperson.xyz:6969/announce
 
-udp://explodie.org:6969/announce
+udp://tracker.gmi.gd:6969/announce
 
-https://tracker.zhuqiy.com:443/announce
+udp://tracker.fnix.net:6969/announce
 
-https://tracker.yemekyedim.com:443/announce
+udp://tracker.flatuslifir.is:6969/announce
 
-https://tracker.pmman.tech:443/announce
+udp://tracker.ducks.party:1984/announce
 
-https://tracker.nekomi.cn:443/announce
-
-https://tracker.gcrenwp.top:443/announce
+udp://tracker.bluefrog.pw:2710/announce
 
