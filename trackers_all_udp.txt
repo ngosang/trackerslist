@@ -98,3 +98,5 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://admin.52ywp.com:6969/announce
 
+udp://peerfect.org:6969/announce
+
