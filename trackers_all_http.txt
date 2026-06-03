@@ -1,6 +1,6 @@
 http://tracker.opentrackr.org:1337/announce
 
-http://1337.torclub.org:6969/announce
+http://1337.torclub.org:2710/announce
 
 http://tracker.renfei.net:8080/announce
 
