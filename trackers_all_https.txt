@@ -10,8 +10,6 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.gcrenwp.top:443/announce
 
-https://tracker.bt4g.com:443/announce
-
 https://tracker.7471.top:443/announce
 
 https://tr.zukizuki.org:443/announce
@@ -23,6 +21,8 @@ https://torrents.tmtime.dev:443/announce
 https://shahidrazi.online:443/announce
 
 https://pybittrack.retiolus.net:443/announce
+
+https://tracker.bt4g.com:443/announce
 
 https://t.213891.xyz:443/announce
 
