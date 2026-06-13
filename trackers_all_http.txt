@@ -12,8 +12,6 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
-http://tracker.23794.top:6969/announce
-
 http://tr.kxmp.cf:80/announce
 
 http://t.overflow.biz:6969/announce
@@ -21,6 +19,8 @@ http://t.overflow.biz:6969/announce
 http://bvarf.tracker.sh:2086/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+http://1337.abcvg.info:80/announce
 
 http://004430.xyz:80/announce
 
@@ -30,6 +30,8 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.privateseedbox.xyz:2710/announce
+
 http://tracker.dler.org:6969/announce
 
 http://tracker.dler.com:6969/announce
@@ -38,7 +40,7 @@ http://tracker.bt4g.com:2095/announce
 
 http://tr.nyacat.pw:80/announce
 
-http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+http://tr.highstar.shop:80/announce
 
-http://1337.abcvg.info:80/announce
+http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
