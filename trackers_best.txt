@@ -8,33 +8,33 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://wepzone.net:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
+
+udp://tracker2.dler.org:80/announce
+
+udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.t-1.org:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.peerfect.org:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.opentorrent.top:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.flatuslifir.is:6969/announce
+
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
-
-udp://tracker.004430.xyz:1337/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://torrents.tmtime.dev:6969/announce
-
-udp://torrentclub.online:54123/announce
-
-udp://t.overflow.biz:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
