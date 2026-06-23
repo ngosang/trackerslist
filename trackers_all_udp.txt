@@ -1,5 +1,3 @@
-udp://zer0day.ch:1337/announce
-
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
@@ -8,23 +6,25 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.wildkat.net:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.peerfect.org:6969/announce
-
 udp://tracker.opentorrent.top:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
+udp://tracker.filemail.com:6969/announce
+
 udp://tracker.ducks.party:1984/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -38,6 +38,8 @@ udp://tracker.004430.xyz:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://torrents.tmtime.dev:6969/announce
 
 udp://torrentclub.online:54123/announce
@@ -50,15 +52,11 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://rekcart.duckdns.org:15480/announce
 
-udp://open.ftorrent.com:443/announce
-
 udp://open.demonoid.ch:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://leet-tracker.moe:1337/announce
-
-udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://explodie.org:6969/announce
 
@@ -72,23 +70,25 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.therarbg.to:6969/announce
-
-udp://tracker.theoks.net:6969/announce
+udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
+udp://tracker.peerfect.org:6969/announce
+
 udp://tracker.hismz.cn:6969/announce
 
-udp://tracker.fnix.net:6969/announce
-
-udp://tracker.dler.org:6969/announce
+udp://tracker.flatuslifir.is:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
+udp://tr.btube3.com:2010/announce
+
+udp://open.ftorrent.com:443/announce
 
 udp://martin-gebhardt.eu:25/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://concen.org:6969/announce
 
