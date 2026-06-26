@@ -22,9 +22,9 @@ https://torrents.tmtime.dev:443/announce
 
 https://shahidrazi.online:443/announce
 
+https://open.ftorrent.com:443/announce
+
 https://t.213891.xyz:443/announce
 
 https://pybittrack.retiolus.net:443/announce
-
-https://open.ftorrent.com:443/announce
 
