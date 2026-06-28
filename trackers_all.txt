@@ -2,25 +2,23 @@ udp://zer0day.ch:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.opentrackr.org:1337/announce
+
 http://tracker.opentrackr.org:1337/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
 udp://tracker.wildkat.net:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.opentorrent.top:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.hismz.cn:6969/announce
 
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.dler.org:6969/announce
-
-udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
@@ -58,15 +56,15 @@ udp://evan.im:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://tracker.yemekyedim.com:443/announce
+udp://admin.52ywp.com:6969/announce
 
-https://tracker.pmman.tech:443/announce
+https://tracker.zhuqiy.com:443/announce
+
+https://tracker.yemekyedim.com:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
 https://tracker.leechshield.link:443/announce
-
-https://tracker.gcrenwp.top:443/announce
 
 https://tracker.bt4g.com:443/announce
 
@@ -88,6 +86,10 @@ http://www.genesis-sp.org:2710/announce
 
 http://tracker810.xyz:11450/announce
 
+http://tracker2.dler.org:80/announce
+
+http://tracker.zhuqiy.com:80/announce
+
 http://tracker.xiaoduola.xyz:6969/announce
 
 http://tracker.waaa.moe:6969/announce
@@ -106,19 +108,13 @@ http://tracker.privateseedbox.xyz:2710/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.lintk.me:2710/announce
-
-http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
-http://tracker.dler.org:6969/announce
-
-http://tracker.dler.com:6969/announce
-
 http://tracker.dhitechnical.com:6969/announce
+
+http://tracker.cubonegro.org:80/announce
 
 http://tracker.corpscorp.online:80/announce
 
@@ -132,6 +128,8 @@ http://tracker.bittor.pw:1337/announce
 
 http://tr.nyacat.pw:80/announce
 
+http://tr.kxmp.cf:80/announce
+
 http://tr.highstar.shop:80/announce
 
 http://torrent.hificode.in:6969/announce
@@ -139,8 +137,6 @@ http://torrent.hificode.in:6969/announce
 http://t.overflow.biz:6969/announce
 
 http://shubt.net:2710/announce
-
-http://share.hkg-fansub.info:80/announce.php
 
 http://seeders-paradise.org:80/announce
 
@@ -180,11 +176,15 @@ udp://tracker.playground.ru:6969/announce
 
 udp://tracker.peerfect.org:6969/announce
 
-udp://tracker.hismz.cn:6969/announce
+udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
+
+udp://tracker.corpscorp.online:80/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tr.btube3.com:2010/announce
 
@@ -196,13 +196,9 @@ udp://leet-tracker.moe:1337/announce
 
 udp://concen.org:6969/announce
 
-udp://admin.52ywp.com:6969/announce
-
-https://tracker.zhuqiy.com:443/announce
-
 https://t.213891.xyz:443/announce
 
-http://tracker2.dler.org:80/announce
+http://tracker.dler.org:6969/announce
 
-http://tracker.zhuqiy.com:80/announce
+http://tracker.dler.com:6969/announce
 
