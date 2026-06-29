@@ -105,8 +105,8 @@ http://tracker.torrenty.org:6969/announce # registered torrents
 http://www.mvgroup.org:2710/announce # registered torrents
 udp://tracker.tntvillage.scambioetico.org:2710/announce # registered torrents
 http://www.tribalmixes.com/announce.php # registered torrents
-http://all4nothin.net/announce.php # registered torrents
-http://www.all4nothin.net/announce.php # registered torrents
+http://all4nothin.net/announce.php # detected by antivirus software
+http://www.all4nothin.net/announce.php # detected by antivirus software
 http://www.xwt-classics.net/announce.php # registered torrents
 http://big-boss-tracker.net/announce.php # registered torrents
 http://www.thevault.bz:2810/announce # registered torrents
