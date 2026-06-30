@@ -2,6 +2,8 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+https://tracker.pmman.tech:443/announce
+
 https://tracker.nekomi.cn:443/announce
 
 https://tracker.leechshield.link:443/announce
@@ -18,11 +20,11 @@ https://torrents.tmtime.dev:443/announce
 
 https://shahidrazi.online:443/announce
 
-https://open.ftorrent.com:443/announce
-
 https://tracker.bt4g.com:443/announce
 
 https://t.213891.xyz:443/announce
 
 https://pybittrack.retiolus.net:443/announce
+
+https://open.ftorrent.com:443/announce
 
