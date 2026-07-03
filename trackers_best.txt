@@ -1,6 +1,8 @@
+udp://zer0day.ch:1337/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -10,17 +12,7 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.plx.im:6969/announce
-
-udp://tracker.opentorrent.top:6969/announce
-
-udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.ducks.party:1984/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -28,7 +20,11 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
 
+udp://tracker.004430.xyz:1337/announce
+
 udp://tracker-udp.gbitt.info:80/announce
+
+udp://torrents.tmtime.dev:6969/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -36,5 +32,9 @@ udp://t.overflow.biz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://rekcart.duckdns.org:15480/announce
+udp://open.demonoid.ch:6969/announce
+
+udp://ns575949.ip-51-222-82.net:6969/announce
+
+udp://leet-tracker.moe:1337/announce
 
