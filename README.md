@@ -57,3 +57,4 @@ ngosang [@] hotmail [.es]
 ### Third-party online tools
 * [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
 * [magnets](https://madeby.lynx.pink/magnets/) to add these trackers to your magnet links
+* [Torrent Trackers List](https://www.torrenttrackerslist.com) — paste the trackers from your .torrent/magnet and get live up/down + round-trip latency per tracker. Uses `trackers_all.txt` from this repo as upstream truth (credited on-site).
