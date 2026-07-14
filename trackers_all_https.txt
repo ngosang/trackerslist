@@ -18,8 +18,6 @@ https://tr.zukizuki.org:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://shahidrazi.online:443/announce
-
 https://open.ftorrent.com:443/announce
 
 https://t.213891.xyz:443/announce
