@@ -16,9 +16,15 @@ https://tr.nyacat.pw:443/announce
 
 https://shahidrazi.online:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://orgtgju.org:443/announce
 
+https://open.ftorrent.com:443/announce
+
 https://ht.therarbg.to:443/announce
+
+https://edgev.duckdns.org:443/announce
 
 https://banananetwork.qzz.io:443/announce
 
@@ -27,8 +33,4 @@ https://021912.xyz:443/announce
 https://004430.xyz:443/announce
 
 https://t.213891.xyz:443/announce
-
-https://pybittrack.retiolus.net:443/announce
-
-https://open.ftorrent.com:443/announce
 
