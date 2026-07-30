@@ -1,6 +1,12 @@
+udp://zer0day.ch:1337/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://tracker.opentrackr.org:1337/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
@@ -16,9 +22,9 @@ udp://tracker.peerfect.org:6969/announce
 
 udp://tracker.opentrackr.com:6969/announce
 
-udp://tracker.opentorrent.top:6969/announce
-
 udp://tracker.ilibr.org:6969/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
@@ -34,9 +40,13 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://torrentclub.online:54123/announce
 
 udp://torrentclub.online:1984/announce
+
+udp://t.overflow.biz:6969/announce
 
 udp://seedpeer.net:6969/announce
 
@@ -56,9 +66,13 @@ udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://explodie.org:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://admin.52ywp.com:6969/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
@@ -66,11 +80,9 @@ udp://tracker.plx.im:6969/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.nyaa.vc:6969/announce
-
 udp://tracker.nexusstream.eu:6969/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
@@ -78,17 +90,11 @@ udp://tracker.ddunlimited.net:6969/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
-udp://tr.btube3.com:2010/announce
-
-udp://t.overflow.biz:6969/announce
-
 udp://open.ftorrent.com:443/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://anime-tracker.aruku.kro.kr:8081/announce
+udp://edgev.duckdns.org:6969/announce
 
-udp://admin.52ywp.com:6969/announce
+udp://anime-tracker.aruku.kro.kr:8081/announce
 
