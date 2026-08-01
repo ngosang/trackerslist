@@ -32,7 +32,7 @@ http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.dmcomic.org:2710/announce
 
-http://tracker.dler.com:6969/announce
+http://tracker.dler.org:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
@@ -66,9 +66,9 @@ http://retracker.spark-rostov.ru:80/announce
 
 http://open.trackerlist.xyz:80/announce
 
-http://jvavav.com:80/announce
+http://lucke.fenesisu.moe:6969/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+http://jvavav.com:80/announce
 
 http://home.yxgz.club:6969/announce
 
@@ -94,7 +94,7 @@ http://tracker2.dler.org:80/announce
 
 http://tracker.nexusstream.eu:6969/announce
 
-http://tracker.dler.org:6969/announce
+http://tracker.dler.com:6969/announce
 
-http://lucke.fenesisu.moe:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
