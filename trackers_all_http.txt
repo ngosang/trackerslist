@@ -46,11 +46,11 @@ http://tracker.bt-hash.com:80/announce
 
 http://tracker.bittor.pw:1337/announce
 
+http://tracker.23794.top:6969/announce
+
 http://tr.nyacat.pw:80/announce
 
 http://tr.kxmp.cf:80/announce
-
-http://tr.highstar.shop:80/announce
 
 http://torrent.hificode.in:6969/announce
 
