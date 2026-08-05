@@ -4,6 +4,8 @@ https://tracker.bt4g.com:443/announce
 
 https://tr.zukizuki.org:443/announce
 
+https://ht.therarbg.to:443/announce
+
 https://edgev.duckdns.org:443/announce
 
 https://tracker.zhuqiy.com:443/announce
