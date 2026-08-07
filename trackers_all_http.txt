@@ -12,8 +12,6 @@ http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
-http://tracker.xiaoduola.xyz:6969/announce
-
 http://tracker.waaa.moe:6969/announce
 
 http://tracker.sbsub.com:2710/announce
@@ -33,6 +31,8 @@ http://tracker.lintk.me:2710/announce
 http://tracker.ipv6tracker.org:80/announce
 
 http://tracker.dmcomic.org:2710/announce
+
+http://tracker.dler.org:6969/announce
 
 http://tracker.dler.com:6969/announce
 
@@ -64,6 +64,8 @@ http://seeders-paradise.org:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
+http://open.trackerlist.xyz:80/announce
+
 http://lucke.fenesisu.moe:6969/announce
 
 http://jvavav.com:80/announce
@@ -91,6 +93,4 @@ http://0123456789nonexistent.com:80/announce
 http://004430.xyz:80/announce
 
 http://tracker.nexusstream.eu:6969/announce
-
-http://tracker.dler.org:6969/announce
 
