@@ -220,3 +220,18 @@ https://t.213891.xyz:443/announce
 
 http://tracker.nexusstream.eu:6969/announce
 
+udp://run-2.publictracker.xyz:6969/announcee
+
+udp://9.rarbg.to:2730/announcee
+
+udp://9.rarbg.to:2740/announcee
+
+udp://9.rarbg.to:2720/announcee
+
+udp://9.rarbg.to:2710/announcee
+
+udp://9.rarbg.me:2740/announcee
+
+udp://9.rarbg.me:2770/announcee
+
+udp://9.rarbg.me:2710/announcee
