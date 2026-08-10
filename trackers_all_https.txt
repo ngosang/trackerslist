@@ -1,3 +1,5 @@
+https://tracker.zhuqiy.com:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.nekomi.cn:443/announce
@@ -16,15 +18,13 @@ https://tr.zukizuki.org:443/announce
 
 https://tr.nyacat.pw:443/announce
 
+https://pybittrack.retiolus.net:443/announce
+
 https://open.ftorrent.com:443/announce
 
 https://ht.therarbg.to:443/announce
 
 https://004430.xyz:443/announce
 
-https://tracker.zhuqiy.com:443/announce
-
 https://t.213891.xyz:443/announce
-
-https://pybittrack.retiolus.net:443/announce
 
