@@ -1,5 +1,7 @@
 https://tracker.zhuqiy.com:443/announce
 
+https://tracker.yemekyedim.com:443/announce
+
 https://tracker.pmman.tech:443/announce
 
 https://tracker.nekomi.cn:443/announce
