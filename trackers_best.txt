@@ -1,8 +1,8 @@
-udp://open.demonii.com:1337/announce
-
 udp://zer0day.ch:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
+
+udp://open.demonii.com:1337/announce
 
 http://tracker.opentrackr.org:1337/announce
 
@@ -16,15 +16,11 @@ udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
 
 udp://torrentclub.online:54123/announce
 
@@ -37,4 +33,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 udp://open.stealth.si:80/announce
 
 udp://mail.segso.net:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://explodie.org:6969/announce
 
