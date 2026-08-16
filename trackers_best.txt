@@ -1,24 +1,16 @@
-udp://open.demonii.com:1337/announce
-
 udp://zer0day.ch:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.opentrackr.org:1337/announce
+
+udp://open.demonii.com:1337/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.peerfect.org:6969/announce
-
-udp://tracker.opentrackr.com:6969/announce
-
-udp://tracker.ilibr.org:6969/announce
-
-udp://tracker.farted.net:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -37,4 +29,12 @@ udp://torrentclub.online:54123/announce
 udp://torrentclub.online:1984/announce
 
 udp://t.overflow.biz:6969/announce
+
+udp://seedpeer.net:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://open.stealth.si:80/announce
+
+udp://martin-gebhardt.eu:25/announce
 
