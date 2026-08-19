@@ -8,8 +8,6 @@ https://tr.zukizuki.org:443/announce
 
 https://ht.therarbg.to:443/announce
 
-https://bdremux.club:443/announce
-
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker.nekomi.cn:443/announce
