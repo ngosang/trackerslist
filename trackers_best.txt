@@ -12,9 +12,9 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.filemail.com:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -26,7 +26,7 @@ udp://torrentclub.online:1984/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://leet-tracker.moe:1337/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://explodie.org:6969/announce
 
@@ -34,7 +34,7 @@ udp://exodus.desync.com:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
-https://tracker.yemekyedim.com:443/announce
+https://tracker.zhuqiy.com:443/announce
 
-https://tracker.pmman.tech:443/announce
+https://tracker.yemekyedim.com:443/announce
 
