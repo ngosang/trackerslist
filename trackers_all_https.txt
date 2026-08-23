@@ -10,8 +10,6 @@ https://tr.zukizuki.org:443/announce
 
 https://ht.therarbg.to:443/announce
 
-https://edgev.duckdns.org:443/announce
-
 https://004430.xyz:443/announce
 
 https://tracker.leechshield.link:443/announce
