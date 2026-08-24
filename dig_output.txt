@@ -1,0 +1,3746 @@
+
+; <<>> DiG 9.20.24 <<>> udp://zer0day.ch:1337/announce
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 55392
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://zer0day.ch:1337/announce.	IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 124 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 134
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37857
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.publictracker.xyz:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14647
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.publictracker.xyz:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 116 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 149
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7530
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 152 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.opentrackr.org:1337/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 48005
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.opentrackr.org:1337/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 146
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 53996
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.opentrackr.org:1337/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40056
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.opentrackr.org:1337/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 148 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 147
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22996
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:11 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://open.demonii.com:1337/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 10070
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://open.demonii.com:1337/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86371	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15227
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://open.stealth.si:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11188
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://open.stealth.si:80/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 164 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 137
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49470
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker2.dler.org:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37078
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker2.dler.org:80/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 136 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 139
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37962
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+
+;; Query time: 108 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.torrent.eu.org:451/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 16090
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.torrent.eu.org:451/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 116 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 145
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30973
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:12 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.qu.ax:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14143
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.qu.ax:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 228 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:13 +0330 2026
+;; MSG SIZE  rcvd: 137
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36537
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:13 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.dler.org:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 34831
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.dler.org:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 116 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:13 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21781
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 116 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:13 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.auctor.tv:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 52323
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.auctor.tv:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:13 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23309
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+
+;; Query time: 144 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:13 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker-udp.gbitt.info:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17881
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker-udp.gbitt.info:80/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:13 +0330 2026
+;; MSG SIZE  rcvd: 144
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51214
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://torrentclub.online:54123/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 311
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://torrentclub.online:54123/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 152 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 143
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33860
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://torrentclub.online:1984/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 3224
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://torrentclub.online:1984/announce.	IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 168 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 142
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42408
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://t.overflow.biz:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23182
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://t.overflow.biz:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 88 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 138
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9608
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 104 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://retracker01-msk-virt.corbina.net:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 38302
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://retracker01-msk-virt.corbina.net:80/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:14 +0330 2026
+;; MSG SIZE  rcvd: 154
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58873
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+
+;; Query time: 244 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:15 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://ipv4announce.sktorrent.eu:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 57857
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://ipv4announce.sktorrent.eu:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:15 +0330 2026
+;; MSG SIZE  rcvd: 149
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24542
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:15 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://explodie.org:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14707
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://explodie.org:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:15 +0330 2026
+;; MSG SIZE  rcvd: 136
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20758
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 164 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:15 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://exodus.desync.com:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 60079
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://exodus.desync.com:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:15 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64374
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+
+;; Query time: 132 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:15 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 65050
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 160
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18928
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://tracker.zhuqiy.com:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23241
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://tracker.zhuqiy.com:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 143
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58238
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+
+;; Query time: 112 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://tracker.pmman.tech:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1889
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://tracker.pmman.tech:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 143
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13676
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://tracker.nekomi.cn:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 685
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://tracker.nekomi.cn:443/announce.	IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 188 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 142
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42992
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:16 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://tracker.bt4g.com:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 23401
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://tracker.bt4g.com:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23576
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://tr.zukizuki.org:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 54028
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://tr.zukizuki.org:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 132 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30989
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://ht.therarbg.to:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 30828
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://ht.therarbg.to:443/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 139
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61676
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 124 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://004430.xyz:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 64747
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://004430.xyz:443/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 135
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 56307
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:17 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker2.dler.org:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17027
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker2.dler.org:80/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:18 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43548
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:18 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.zhuqiy.dgj055.icu:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 52746
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.zhuqiy.dgj055.icu:80/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86396	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 168 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:18 +0330 2026
+;; MSG SIZE  rcvd: 148
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13326
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:18 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.zhuqiy.com:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 41970
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.zhuqiy.com:80/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 116 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:18 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22335
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 180 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:18 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.qu.ax:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 30058
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.qu.ax:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 316 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:19 +0330 2026
+;; MSG SIZE  rcvd: 138
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14326
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:19 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.privateseedbox.xyz:2710/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7685
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.privateseedbox.xyz:2710/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:19 +0330 2026
+;; MSG SIZE  rcvd: 151
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47496
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+
+;; Query time: 156 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:19 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.mywaifu.best:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 52599
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.mywaifu.best:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:19 +0330 2026
+;; MSG SIZE  rcvd: 145
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24246
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 144 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:19 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.dler.org:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 12136
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.dler.org:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86337	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:19 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62803
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+
+;; Query time: 192 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.dhitechnical.com:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40593
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.dhitechnical.com:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 149
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28430
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.bt4g.com:2095/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 45659
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.bt4g.com:2095/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5186
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 88 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://t.overflow.biz:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 42444
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://t.overflow.biz:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86396	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 104 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 139
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33491
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://ipv4announce.sktorrent.eu:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 56534
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://ipv4announce.sktorrent.eu:6969/announce.	IN A
+
+;; AUTHORITY SECTION:
+.			86396	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 150
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60860
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:20 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 58636
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 168 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:21 +0330 2026
+;; MSG SIZE  rcvd: 161
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63250
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 108 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:21 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://004430.xyz:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 4216
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://004430.xyz:80/announce.	IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 136 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:21 +0330 2026
+;; MSG SIZE  rcvd: 133
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36163
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:21 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://yuptracker-eu.gaijinent.com:27022/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 32088
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://yuptracker-eu.gaijinent.com:27022/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86391	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 132 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:21 +0330 2026
+;; MSG SIZE  rcvd: 152
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20762
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+
+;; Query time: 140 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:21 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.wildkat.net:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11504
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.wildkat.net:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:21 +0330 2026
+;; MSG SIZE  rcvd: 143
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46919
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 164 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.tryhackx.org:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 13765
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.tryhackx.org:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 144
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28498
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 108 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.teambelgium.net:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36117
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.teambelgium.net:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 136 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 147
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15741
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+
+;; Query time: 112 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.plx.im:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 42937
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.plx.im:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 108 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 138
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62209
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.playground.ru:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 10264
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.playground.ru:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:22 +0330 2026
+;; MSG SIZE  rcvd: 145
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2463
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:23 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.peerfect.org:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 15827
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.peerfect.org:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 124 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:23 +0330 2026
+;; MSG SIZE  rcvd: 144
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23876
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 148 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:23 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.opentrackr.com:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11514
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.opentrackr.com:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:23 +0330 2026
+;; MSG SIZE  rcvd: 146
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17369
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:23 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.nexusstream.eu:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 41916
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.nexusstream.eu:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 212 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:23 +0330 2026
+;; MSG SIZE  rcvd: 146
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3737
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+
+;; Query time: 252 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.ilibr.org:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 43475
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.ilibr.org:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 104 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7504
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.farted.net:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 4601
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.farted.net:6969/announce.	IN A
+
+;; AUTHORITY SECTION:
+.			85811	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 142
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63740
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+
+;; Query time: 212 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.ducks.party:1984/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 25814
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.ducks.party:1984/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 143
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54719
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.ddunlimited.net:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 63478
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.ddunlimited.net:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:24 +0330 2026
+;; MSG SIZE  rcvd: 147
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51012
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+
+;; Query time: 112 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:25 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.corpscorp.online:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7640
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.corpscorp.online:80/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 108 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:25 +0330 2026
+;; MSG SIZE  rcvd: 146
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15119
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 132 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:25 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.bittor.pw:1337/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 38349
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.bittor.pw:1337/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 220 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:25 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17030
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 112 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:25 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.aruku.ovh:8081/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 30804
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.aruku.ovh:8081/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:25 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61605
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:25 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tracker.0x7c0.com:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 41706
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tracker.0x7c0.com:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86393	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 116 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:26 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19388
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+
+;; Query time: 148 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:26 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://tr4ck3r.duckdns.org:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 28913
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://tr4ck3r.duckdns.org:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86393	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:26 +0330 2026
+;; MSG SIZE  rcvd: 143
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19171
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+
+;; Query time: 140 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:26 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://seedpeer.net:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 50316
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://seedpeer.net:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 136 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:26 +0330 2026
+;; MSG SIZE  rcvd: 136
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 951
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:26 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://rekcart.duckdns.org:15480/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 36439
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://rekcart.duckdns.org:15480/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:26 +0330 2026
+;; MSG SIZE  rcvd: 144
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5356
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:27 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://open.ftorrent.com:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 60473
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://open.ftorrent.com:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 104 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:27 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48659
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+
+;; Query time: 216 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:27 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://open.demonoid.ch:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 63221
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://open.demonoid.ch:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:27 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26444
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:27 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://ns575949.ip-51-222-82.net:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37357
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://ns575949.ip-51-222-82.net:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 152 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:27 +0330 2026
+;; MSG SIZE  rcvd: 149
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10750
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:27 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://martin-gebhardt.eu:25/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 21130
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://martin-gebhardt.eu:25/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 196 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:28 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24385
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:28 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://mail.segso.net:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 35782
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://mail.segso.net:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:28 +0330 2026
+;; MSG SIZE  rcvd: 138
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 17834
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:28 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://leet-tracker.moe:1337/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 20116
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://leet-tracker.moe:1337/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 204 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:28 +0330 2026
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57150
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+
+;; Query time: 112 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:28 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://evan.im:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 38647
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://evan.im:6969/announce.	IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:28 +0330 2026
+;; MSG SIZE  rcvd: 131
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54191
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 104 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> udp://admin.52ywp.com:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 25417
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;udp://admin.52ywp.com:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 139
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13716
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+
+;; Query time: 184 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://tracker.leechshield.link:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 33147
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://tracker.leechshield.link:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 112 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 149
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3511
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://tracker.7471.top:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 2157
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://tracker.7471.top:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 136 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45550
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://t.213891.xyz:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 13010
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://t.213891.xyz:443/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:29 +0330 2026
+;; MSG SIZE  rcvd: 137
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 58859
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+
+;; Query time: 128 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:30 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://pybittrack.retiolus.net:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11710
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://pybittrack.retiolus.net:443/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:30 +0330 2026
+;; MSG SIZE  rcvd: 148
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29097
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 220 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:30 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> https://open.ftorrent.com:443/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44306
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;https://open.ftorrent.com:443/announce.	IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:30 +0330 2026
+;; MSG SIZE  rcvd: 142
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31801
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+
+;; Query time: 168 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:30 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.waaa.moe:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 7396
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.waaa.moe:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:30 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26208
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+
+;; Query time: 104 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:30 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.nexusstream.eu:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 22811
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.nexusstream.eu:6969/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86397	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:31 +0330 2026
+;; MSG SIZE  rcvd: 147
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35742
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+
+;; Query time: 116 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:31 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://tracker.dler.com:6969/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37837
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://tracker.dler.com:6969/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86399	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:31 +0330 2026
+;; MSG SIZE  rcvd: 141
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29148
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:31 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 37127
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce. IN A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 96 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:31 +0330 2026
+;; MSG SIZE  rcvd: 176
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3595
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:31 +0330 2026
+;; MSG SIZE  rcvd: 239
+
+; <<>> DiG 9.20.24 <<>> http://1337.abcvg.info:80/announce
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 6450
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;http://1337.abcvg.info:80/announce. IN	A
+
+;; AUTHORITY SECTION:
+.			86400	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026082400 1800 900 604800 86400
+
+;; Query time: 292 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:31 +0330 2026
+;; MSG SIZE  rcvd: 138
+
+; <<>> DiG 9.20.24 <<>>
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 40150
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 13, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;.				IN	NS
+
+;; ANSWER SECTION:
+.			87203	IN	NS	i.root-servers.net.
+.			87203	IN	NS	l.root-servers.net.
+.			87203	IN	NS	k.root-servers.net.
+.			87203	IN	NS	j.root-servers.net.
+.			87203	IN	NS	b.root-servers.net.
+.			87203	IN	NS	h.root-servers.net.
+.			87203	IN	NS	d.root-servers.net.
+.			87203	IN	NS	g.root-servers.net.
+.			87203	IN	NS	f.root-servers.net.
+.			87203	IN	NS	c.root-servers.net.
+.			87203	IN	NS	e.root-servers.net.
+.			87203	IN	NS	m.root-servers.net.
+.			87203	IN	NS	a.root-servers.net.
+
+;; Query time: 156 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Aug 24 20:52:32 +0330 2026
+;; MSG SIZE  rcvd: 239
+
