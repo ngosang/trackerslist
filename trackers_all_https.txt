@@ -14,7 +14,11 @@ https://004430.xyz:443/announce
 
 https://tracker.leechshield.link:443/announce
 
+https://tracker.gcrenwp.top:443/announce
+
 https://tracker.7471.top:443/announce
+
+https://tr.nyacat.pw:443/announce
 
 https://t.213891.xyz:443/announce
 
