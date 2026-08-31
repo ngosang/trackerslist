@@ -20,7 +20,7 @@ udp://95.217.80.22:6969/announce
 
 udp://135.125.198.235:1984/announce
 
-udp://34.66.57.33:80/announce
+udp://211.75.205.187:6969/announce
 
 udp://34.66.57.33:1337/announce
 
@@ -32,9 +32,9 @@ udp://152.53.194.103:54123/announce
 
 udp://152.53.194.103:1984/announce
 
-udp://152.243.213.247:6969/announce
-
 udp://180.131.145.175:6969/announce
 
-udp://185.121.168.96:6969/announce
+udp://149.106.106.25:443/announce
+
+udp://51.222.82.36:6969/announce
 

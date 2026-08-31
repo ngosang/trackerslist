@@ -24,7 +24,7 @@ udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -42,13 +42,15 @@ udp://t.overflow.biz:6969/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://open.demonoid.ch:6969/announce
+udp://open.ftorrent.com:443/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://mail.segso.net:6969/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
@@ -62,6 +64,8 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
+udp://tracker.plx.im:6969/announce
+
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
@@ -70,15 +74,11 @@ udp://tracker.nexusstream.eu:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.flatuslifir.is:6969/announce
-
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.farted.net:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.ddunlimited.net:6969/announce
+
+udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
@@ -86,11 +86,9 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://open.ftorrent.com:443/announce
+udp://open.demonoid.ch:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
 udp://leet-tracker.moe:1337/announce
-
-udp://explodie.org:6969/announce
 
