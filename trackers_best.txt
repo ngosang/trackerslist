@@ -12,7 +12,7 @@ udp://open.stealth.si:80/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.wildkat.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
@@ -22,9 +22,9 @@ udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
-udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.ducks.party:1984/announce
 
 udp://tracker.bittor.pw:1337/announce
 
