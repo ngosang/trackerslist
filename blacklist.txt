@@ -15,6 +15,8 @@ https://academic-p2p.appspot.com/announce # malfunction
 https://tracker.jdx3.org:443/announce # malfunction
 http://data-bg.net:80/announce.php # malfunction
 udp://extracker.dahrkael.net:6969/announce # malfunction
+https://tracker.cubonegro.org:443/announce # malfunction redirect
+http://tracker.cubonegro.org:80/announce # malfunction redirect
 http://bt.okmp3.ru:2710/announce # fake seeds
 https://torrent.tracker.durukanbal.com:443/announce # fake seeds
 udp://tracker.breizh.pm:6969/announce # requested by sysadmin
@@ -166,6 +168,47 @@ http://bt.edwardk.info:6767/announce # registered torrents
 http://ch3oh.ru:6969/announce # registered torrents
 http://tracker.xn--djrq4gl4hvoi.top:80/announce # blocked by IDNA ban
 http://tracker.enitin.xyz:80/announce # redirects to https://tracker.enitin.xyz/announce
+http://tracker.zhuqiy.com:80/announce # redirects to https://tracker.zhuqiy.com/announce
+udp://tracker.publictracker.xyz:6969/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://tracker.therarbg.to:6969/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://zer0day.ch:1337/announce # duplicate of udp://tracker.opentrackr.org:1337/announce
+udp://tracker.auctor.tv:6969/announce # duplicate of udp://tracker.qu.ax:6969/announce
+udp://open.demonoid.ch:6969/announce # duplicate of udp://open.demonii.com:1337/announce
+http://0123456789nonexistent.com:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://0d.kebhana.mx:443/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://bt.poletracker.org:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://bt1.xxxxbt.cc:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://buny.uk:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://home.yxgz.club:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://jvavav.com:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://open.trackerlist.xyz:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://retracker.spark-rostov.ru:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://seeders-paradise.org:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://share.hkg-fansub.info:80/announce.php # duplicate of http://tracker.bittor.pw:1337/announce
+http://shubt.net:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://torrent.hificode.in:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.bt-hash.com:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.bz:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.corpscorp.online:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.dmcomic.org:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.ipv6tracker.org:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.lintk.me:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.moxing.party:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.sbsub.com:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.vanitycore.co:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.xiaoduola.xyz:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker810.xyz:11450/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://www.genesis-sp.org:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://www.torrentsnipe.info:2701/announce # duplicate of http://tracker.bittor.pw:1337/announce
+https://jvavav.com:443/announce # duplicate of http://tracker.bittor.pw:1337/announce
+udp://discord.heihachi.pw:6969/announce # duplicate of udp://tracker.bittor.pw:1337/announce
+udp://glotorrents.pw:6969/announce # duplicate of udp://tracker.bittor.pw:1337/announce
+udp://hificode.in:6969/announce # duplicate of udp://tracker.bittor.pw:1337/announce
+udp://isk.richardsw.club:6969/announce # duplicate of udp://tracker.bittor.pw:1337/announce
+udp://jvavav.com:6969/announce # duplicate of udp://tracker.bittor.pw:1337/announce
+udp://leet-tracker.moe:1337/announce # duplicate of udp://tracker.bittor.pw:1337/announce
+udp://ns-1.x-fins.com:6969/announce # duplicate of udp://tracker.bittor.pw:1337/announce
+udp://open.free-tracker.ga:6969/announce # duplicate of udp://tracker.bittor.pw:1337/announce
 udp://tracker.zupix.online:1333/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://tracker.zupix.online:1337/announce # duplicate of udp://tracker.zupix.online:6969/announce
 udp://zupix.online:6969/announce # duplicate of udp://tracker.zupix.online:6969/announce
