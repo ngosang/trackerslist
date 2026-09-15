@@ -188,6 +188,7 @@ http://share.hkg-fansub.info:80/announce.php # duplicate of http://tracker.bitto
 http://shubt.net:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
 http://torrent.hificode.in:6969/announce # duplicate of http://tracker.bittor.pw:1337/announce
 http://tracker.bt-hash.com:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
+http://tracker.privateseedbox.xyz:2710/announce # duplicate of udp://tracker.ducks.party:1984/announce
 http://tracker.bz:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
 http://tracker.corpscorp.online:80/announce # duplicate of http://tracker.bittor.pw:1337/announce
 http://tracker.dmcomic.org:2710/announce # duplicate of http://tracker.bittor.pw:1337/announce
