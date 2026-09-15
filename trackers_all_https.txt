@@ -1,16 +1,14 @@
 https://tracker.nekomi.cn:443/announce
 
-https://004430.xyz:443/announce
-
-https://tracker.pmman.tech:443/announce
+https://tracker.bt4g.com:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
-https://tracker.bt4g.com:443/announce
-
-https://tr.nyacat.pw:443/announce
+https://tracker.pmman.tech:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://004430.xyz:443/announce
 
 https://open.ftorrent.com:443/announce
 
@@ -18,7 +16,7 @@ https://tracker.foreverpirates.co:443/announce
 
 https://tracker.onetracker.net:443/announce
 
-https://tracker.bug38.com:443/announce
+https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
 
