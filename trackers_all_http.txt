@@ -2,13 +2,13 @@ http://tracker.opentrackr.org:1337/announce
 
 http://tracker.qu.ax:6969/announce
 
+http://tracker.dler.com:6969/announce
+
 http://tracker.dler.org:6969/announce
 
 http://tracker2.dler.org:80/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.dler.com:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -24,13 +24,7 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tr.nyacat.pw:80/announce
-
-http://004430.xyz:80/announce
-
-http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
