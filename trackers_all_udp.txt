@@ -2,47 +2,41 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.tryhackx.org:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
 udp://explodie.org:6969/announce
 
-udp://retracker01-msk-virt.corbina.net:80/announce
+udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://tracker.gmi.gd:6969/announce
+udp://tracker.plx.im:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
-udp://tracker.ducks.party:1984/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tracker.0x7c0.com:6969/announce
+udp://tracker.ducks.party:1984/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.flatuslifir.is:6969/announce
+udp://tracker.dler.org:6969/announce
+
+udp://tracker.farted.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://tracker.farted.net:6969/announce
 
 udp://tracker.peerfect.org:6969/announce
 
@@ -64,11 +58,13 @@ udp://tracker.filemail.com:6969/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
 
+udp://seedpeer.net:6969/announce
+
 udp://open.ftorrent.com:443/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://seedpeer.net:6969/announce
+udp://tracker.opentorrent.top:6969/announce
 
 udp://rekcart.duckdns.org:15480/announce
 
@@ -76,25 +72,21 @@ udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.aruku.ovh:8081/announce
 
-udp://tracker.004430.xyz:1337/announce
-
 udp://torrent.tracker.durukanbal.com:6969/announce
 
 udp://admin.52ywp.com:6969/announce
+
+udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.k.vu:6969/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
-udp://tr3.ysagin.top:2715/announce
+udp://tracker.004430.xyz:1337/announce
 
 udp://anime-tracker.aruku.kro.kr:8081/announce
 
 udp://tracker.torrents.observer:80/announce
-
-udp://tracker.nyaa.net:6969/announce
-
-udp://tracker.govt.hu:6969/announce
 
 udp://kolanopentracker.airdns.org:3392/announce
 
