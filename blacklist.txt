@@ -19,6 +19,7 @@ https://tracker.cubonegro.org:443/announce # malfunction redirect
 http://tracker.cubonegro.org:80/announce # malfunction redirect
 http://bt.okmp3.ru:2710/announce # fake seeds
 https://torrent.tracker.durukanbal.com:443/announce # fake seeds
+udp://torrent.tracker.durukanbal.com:6969/announce # fake seeds
 udp://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker.breizh.pm:6969/announce # requested by sysadmin
 http://tracker2.postman.i2p/announce.php # registered torrents
