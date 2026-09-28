@@ -10,23 +10,21 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://t.overflow.biz:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-http://tracker.waaa.moe:6969/announce
+http://004430.xyz:80/announce
+
+http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
+http://tracker.waaa.moe:6969/announce
+
 http://tracker.dhitechnical.com:6969/announce
 
-http://tracker.bittor.pw:1337/announce
-
 http://tr.nyacat.pw:80/announce
-
-http://004430.xyz:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
 
