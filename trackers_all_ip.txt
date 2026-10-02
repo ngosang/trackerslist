@@ -8,33 +8,35 @@ udp://89.234.156.205:451/announce
 
 udp://185.121.168.96:1337/announce
 
-udp://43.250.54.126:6969/announce
+udp://208.83.20.20:6969/announce
 
 http://43.250.54.126:6969/announce
+
+udp://43.250.54.126:6969/announce
+
+udp://23.157.120.14:6969/announce
 
 udp://34.66.57.33:80/announce
 
 udp://34.66.57.33:1337/announce
 
-udp://23.157.120.14:6969/announce
-
-udp://209.141.59.25:6969/announce
-
 udp://109.201.134.183:80/announce
 
-udp://83.102.180.21:80/announce
-
 udp://45.137.199.107:6969/announce
-
-http://211.75.205.188:6969/announce
-
-udp://211.75.205.188:6969/announce
 
 udp://211.75.210.221:80/announce
 
 http://211.75.210.221:80/announce
 
+http://211.75.205.187:6969/announce
+
+http://211.75.210.221:6969/announce
+
+udp://211.75.205.187:6969/announce
+
 udp://135.125.198.235:1984/announce
+
+udp://83.102.180.21:80/announce
 
 udp://65.109.28.17:6969/announce
 
@@ -48,7 +50,7 @@ udp://152.249.214.196:6969/announce
 
 http://152.249.214.196:6969/announce
 
-http://107.189.2.131:1337/announce
+udp://23.94.174.203:1337/announce
 
 udp://94.23.207.177:6969/announce
 
@@ -58,41 +60,41 @@ udp://74.119.149.136:6969/announce
 
 udp://164.152.110.70:6969/announce
 
-udp://192.3.130.53:1337/announce
-
 udp://192.99.100.68:6969/announce
 
-udp://180.131.145.175:6969/announce
+udp://185.216.179.62:25/announce
+
+udp://107.189.2.131:1337/announce
 
 http://185.126.65.92:6969/announce
 
-udp://149.106.106.25:443/announce
+http://138.186.10.167:1337/announce
 
-udp://185.216.179.62:25/announce
+udp://78.72.229.46:6969/announce
+
+udp://5.255.124.190:6969/announce
+
+udp://149.106.106.25:443/announce
 
 http://216.144.239.90:6969/announce
 
 http://140.235.237.23:6969/announce
 
-http://138.186.10.167:1337/announce
-
-udp://91.177.126.188:6969/announce
-
-udp://5.255.124.190:6969/announce
+http://107.189.2.131:1337/announce
 
 udp://15.235.207.99:8081/announce
 
 udp://60.172.236.18:6969/announce
 
+udp://31.59.141.120:6969/announce
+
 udp://221.153.216.56:8081/announce
 
 udp://178.239.19.29:80/announce
 
-udp://31.59.141.120:6969/announce
-
 udp://47.76.201.250:6969/announce
 
-udp://38.180.157.12:2715/announce
+udp://74.81.245.60:2010/announce
 
 udp://160.30.240.158:1337/announce
 
