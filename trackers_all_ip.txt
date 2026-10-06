@@ -8,31 +8,31 @@ udp://91.216.110.53:451/announce
 
 udp://185.121.168.96:1337/announce
 
-udp://208.83.20.20:6969/announce
-
 udp://43.250.54.126:6969/announce
 
 http://43.250.54.126:6969/announce
 
-udp://34.66.57.33:80/announce
+udp://34.66.57.33:1337/announce
 
 udp://45.137.199.107:6969/announce
 
-udp://34.66.57.33:1337/announce
+udp://34.66.57.33:80/announce
 
 udp://23.157.120.14:6969/announce
 
 udp://109.201.134.183:80/announce
 
-udp://209.141.59.25:6969/announce
-
 udp://135.125.198.235:1984/announce
 
-http://211.75.205.188:80/announce
+udp://209.141.59.25:6969/announce
+
+udp://211.75.205.188:6969/announce
 
 udp://211.75.205.188:80/announce
 
-udp://211.75.205.187:6969/announce
+http://211.75.205.188:80/announce
+
+http://211.75.205.188:6969/announce
 
 http://211.75.205.187:6969/announce
 
@@ -64,45 +64,53 @@ udp://23.94.174.203:1337/announce
 
 udp://74.119.149.136:6969/announce
 
-udp://164.152.110.70:6969/announce
-
 udp://192.99.100.68:6969/announce
-
-udp://51.222.82.36:6969/announce
 
 udp://185.216.179.62:25/announce
 
-http://185.126.65.92:6969/announce
-
 http://34.66.57.33:1337/announce
+
+udp://164.152.110.70:6969/announce
+
+udp://149.106.106.25:443/announce
+
+udp://51.222.82.36:6969/announce
+
+http://185.126.65.92:6969/announce
 
 http://138.186.10.167:1337/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://149.106.106.25:443/announce
+udp://180.131.145.175:6969/announce
 
 http://216.144.239.90:6969/announce
 
 http://140.235.237.23:6969/announce
 
-udp://45.38.170.167:6969/announce
+udp://5.255.124.190:6969/announce
 
 udp://60.172.236.18:6969/announce
 
 udp://31.59.141.120:6969/announce
 
+udp://45.38.170.167:6969/announce
+
 udp://47.76.201.250:6969/announce
 
 udp://15.235.207.99:8081/announce
 
-udp://221.153.216.56:8081/announce
+udp://178.239.19.29:80/announce
 
 udp://160.30.240.158:1337/announce
+
+http://123.245.62.74:6969/announce
 
 udp://52.211.139.85:27022/announce
 
 udp://212.42.38.197:6969/announce
 
 udp://193.187.90.12:6969/announce
+
+udp://159.146.99.45:6969/announce
 

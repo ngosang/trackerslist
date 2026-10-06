@@ -18,11 +18,9 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://004430.xyz:80/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 http://tracker.bittor.pw:1337/announce
 
-http://tr.nyacat.pw:80/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://open.tracker.cl:1337/announce
 
@@ -30,9 +28,11 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
-http://tracker.23794.top:6969/announce
+http://tr.nyacat.pw:80/announce
 
 http://tracker.zhuqiy.dgj055.icu:80/announce
+
+http://tracker.23794.top:6969/announce
 
 http://1337.abcvg.info:80/announce
 
