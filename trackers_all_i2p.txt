@@ -26,8 +26,6 @@ http://tracker.nyaa2p.i2p:80/announce
 
 http://yet-another-public-tracker.i2p/announce
 
-udp://freetracker.i2p:1337/announce
-
 udp://opentracker.simp.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
