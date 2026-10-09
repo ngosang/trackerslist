@@ -18,9 +18,11 @@ http://ipv4announce.sktorrent.eu:6969/announce
 
 http://004430.xyz:80/announce
 
-http://tracker.waaa.moe:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
+
+http://tracker.bittor.pw:1337/announce
+
+http://tracker.waaa.moe:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
