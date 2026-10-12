@@ -1,6 +1,6 @@
-https://tracker.pmman.tech:443/announce
-
 https://ht.therarbg.to:443/announce
+
+https://tracker.pmman.tech:443/announce
 
 https://tracker.nekomi.cn:443/announce
 
