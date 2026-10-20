@@ -6,29 +6,33 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://open.demonii.com:1337/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://tracker.bittor.pw:1337/announce
+
+udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.nyaa.vc:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker2.dler.org:80/announce
 
 udp://tracker.dler.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -39,8 +43,6 @@ udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 
 udp://mail.segso.net:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
@@ -68,15 +70,11 @@ udp://open.ftorrent.com:443/announce
 
 udp://admin.52ywp.com:6969/announce
 
-udp://tracker.aruku.ovh:8081/announce
-
 udp://tracker.torrents.observer:80/announce
 
 udp://tracker.nyaa.net:6969/announce
 
 udp://tracker.k.vu:6969/announce
-
-udp://tracker.fnix.net:6969/announce
 
 udp://tracker.cn.nyaa.net:6969/announce
 
@@ -88,9 +86,9 @@ udp://edgev.duckdns.org:6969/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
+udp://whybother.torrentonline.cc:42069/announce
+
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.ddunlimited.net:6969/announce
-
-udp://archive.torrentonline.cc:42069/announce
 
