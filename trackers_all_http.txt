@@ -24,6 +24,8 @@ http://tracker.waaa.moe:6969/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
+http://tracker.bittor.pw:1337/announce
+
 http://tr.nyacat.pw:80/announce
 
 http://open.tracker.cl:1337/announce
