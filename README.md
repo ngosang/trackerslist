@@ -1,6 +1,6 @@
 # ngosang/trackerslist
 
-[![Last update](https://img.shields.io/badge/Last%20update-2026/10/27-green.svg)](#)
+[![Last update](https://img.shields.io/badge/Last%20update-2026/10/28-green.svg)](#)
 [![Public trackers](https://img.shields.io/badge/Public%20trackers-79-blue.svg)](#)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ngosang/trackerslist)
 
@@ -9,7 +9,7 @@
 Updated list of public BitTorrent trackers.
 
 ### Lists
-*These lists are automatically updated every day. Last update 2026/10/27:*
+*These lists are automatically updated every day. Last update 2026/10/28:*
 
 * trackers_best (20 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best.txt)
 * trackers_all (79 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all.txt)
@@ -22,7 +22,7 @@ Updated list of public BitTorrent trackers.
 
 Are you having DNS problems? These lists contain the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_best_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_best_ip.txt)
-* trackers_all_ip (59 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
+* trackers_all_ip (55 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_ip.txt)
 * trackers_all_yggdrasil_ip (4 trackers) => [link](https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_yggdrasil_ip.txt) / [mirror](https://ngosang.github.io/trackerslist/trackers_all_yggdrasil_ip.txt) / [mirror 2](https://cdn.jsdelivr.net/gh/ngosang/trackerslist@master/trackers_all_yggdrasil_ip.txt)
 
 ### Notes
