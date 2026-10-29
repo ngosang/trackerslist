@@ -10,9 +10,9 @@ https://tracker.7471.top:443/announce
 
 https://tr.nyacat.pw:443/announce
 
-https://tracker.zhuqiy.com:443/announce
-
 https://open.ftorrent.com:443/announce
+
+https://tracker.zhuqiy.com:443/announce
 
 https://tracker.foreverpirates.co:443/announce
 
