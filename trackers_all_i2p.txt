@@ -1,32 +1,26 @@
-http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p/announce
+http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p:80/announce
 
 http://freetracker.i2p:7331/announce
 
-http://nyaaplus.i2p:80/announce
+http://kyu.i2p:80/a
 
 http://opentracker.dg2.i2p:80/a
-
-http://opentracker.eeptorrent.i2p:80/a
 
 http://opentracker.fattydove.i2p:80/a
 
 http://opentracker.r4sas.i2p:80/a
 
-http://opentracker.simp.i2p:80/a
-
 http://opentracker.skank.i2p:80/a
 
-http://qimlze77z7w32lx2ntnwkuqslrzlsqy7774v3urueuarafyqik5a.b32.i2p:80/a
+http://tracker.insulaocculta.i2p:80/a
 
-http://sigmatracker.i2p:80/a
+http://trackergjmjgh6jfqjf5db6wagbgmfh3gp2msej7z4tpdjo5cuya.b32.i2p:80/announce
 
-http://tracker.insulaocculta.i2p/a
+http://yet-another-public-tracker.i2p:80/announce
 
-http://tracker.nyaa2p.i2p:80/announce
-
-http://yet-another-public-tracker.i2p/announce
-
-udp://opentracker.simp.i2p:6969/a
+udp://opentracker.dg2.i2p:6969/a
 
 udp://opentracker.skank.i2p:6969/a
+
+udp://tracker.insulaocculta.i2p:6969/a
 
